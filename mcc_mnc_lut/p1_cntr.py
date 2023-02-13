@@ -38,25 +38,32 @@ P1_CNTR = \
                               'tel': { 'code': '93',
                                        'domestic': [ 'before 15 August 2021, less than 1 per 100 for fixed-line '
                                                      'teledensity',
-                                                     '59 per 100 for mobile-cellular',
+                                                     '58 per 100 for mobile-cellular',
                                                      'an increasing number of Afghans utilize mobile-cellular phone '
                                                      'networks',
                                                      2021],
-                                       'general': [ 'before 15 August 2021, Afghanistan had successfully rebuilt '
-                                                    'infrastructure to create a functional telecom sector that covered '
-                                                    'nearly all of the population',
-                                                    'due to mountainous geography, Afghanistan relies on its mobile '
-                                                    'network',
-                                                    'mobile broadband penetration growing, but is still low compared '
-                                                    'to other countries in Asia',
-                                                    'operator launched LTE in Kabul',
-                                                    'World Bank and other donors support development of a nationwide '
-                                                    'fiber backbone',
-                                                    'terrestrial cable connectivity to five neighboring countries',
-                                                    'work on the &lsquo',
-                                                    "Wakhan Corridor Fiber Optic Survey Project' to connect to China "
-                                                    'is nearing completion',
-                                                    'major importer of broadcasting equipment from UAE',
+                                       'general': [ 'the return of the Taliban to power in August 2021 following the '
+                                                    'American-led withdrawal of security forces has thrown the telecom '
+                                                    'sector into disarray',
+                                                    "Afghanistan was near the bottom of the world's rankings in terms "
+                                                    'of its telecom market maturity, but it had been making some '
+                                                    'positive progress toward establishing widespread coverage over '
+                                                    'the prior decade under civilian administration',
+                                                    'after the first Taliban regime was toppled in 2001, considerable '
+                                                    'foreign investment along with open competition in the telecom '
+                                                    'sector resulted in the transformation of the mobile market',
+                                                    'the first mobile network was set up in 2002, and by 2020 coverage '
+                                                    'had reached 90%',
+                                                    'mobile penetration rates, too, had climbed from zero to almost '
+                                                    '100% by the time a new insurgency kicked off in 2019 that was '
+                                                    'closely followed by the start of the Covid-19 pandemic',
+                                                    'both events caused a drop in subscriber numbers and in revenue '
+                                                    'for the mobile operators',
+                                                    'it was additional costs involved with repairing and replacing '
+                                                    'network infrastructure destroyed by the Taliban in the build up '
+                                                    "to their takeover that put a strain on the operators' finances",
+                                                    'with increased levels of risk and uncertainty now associated with '
+                                                    'running a telecom company in the embattled state',
                                                     2021],
                                        'intl': [ "multiple VSAT's provide international and domestic voice and data "
                                                  'connectivity',
@@ -65,7 +72,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -118,23 +125,26 @@ P1_CNTR = \
                                        'shqiperia',
                                        'the republic of albania'],
                           'tel': { 'code': '355',
-                                   'domestic': [ 'fixed-line approximately 8 per 100, teledensity continues to decline '
+                                   'domestic': [ 'fixed-line approximately 7 per 100, teledensity continues to decline '
                                                  'due to heavy use of mobile-cellular telephone services',
                                                  'mobile-cellular telephone use is widespread and generally effective, '
-                                                 '91 per 100 for mobile-cellular',
-                                                 2020],
-                                   'general': [ "Albania's small telecom market has improved through signatory status "
-                                                'of EU accession plan',
-                                                'EU financial aid will build infrastructure and enhance cooperation',
-                                                'operator committed &euro',
-                                                '100 million to upgrade fixed-line infrastructure, supporting '
-                                                'broadband services nationally',
-                                                'consistent with the region, fixed-line telephony use and penetration '
-                                                'is declining as subscribers prefer mobile solutions',
-                                                'mobile sector is supported through LTE networks',
-                                                'operators have invested in 5G, including the intention to create a '
-                                                'corridor with Kosovo',
-                                                'importer of broadcasting equipment from EU neighbors',
+                                                 '92 per 100 for mobile-cellular',
+                                                 2021],
+                                   'general': [ "Albania's small telecom market has experienced some significant "
+                                                'changes in recent years',
+                                                'upgrades were made to the fixed-line infrastructure to support '
+                                                'broadband services',
+                                                'fixed-line telephony use and penetration in Albania is declining '
+                                                'steadily as subscribers migrate to mobile solutions',
+                                                'the mobile sector is well provided with LTE networks, while operators '
+                                                'have invested in 5G',
+                                                'some of these efforts have been made in conjunction with neighboring '
+                                                'Kosovo, with the intention of a seamless 5G corridor along the '
+                                                'highway connecting the two countries',
+                                                'the country has long sought accession to the European Union (EU) '
+                                                'which has benefited its telecoms sector through closer scrutiny of '
+                                                'its regulatory regime and through the injection of funding to help '
+                                                'modernize infrastructure',
                                                 2021],
                                    'intl': [ 'submarine cables for the Adria 1 and Italy-Albania provide connectivity '
                                              'to Italy, Croatia, and Greece',
@@ -147,7 +157,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -155,7 +165,7 @@ P1_CNTR = \
                                              'from home is still evident, and the spike in this area has seen growth '
                                              'opportunities for development of new tools and increased services',
                                              0],
-                                   'subs': {'bb': 508937, 'fix': 223469, 'internet': 2043251, 'mob': 2618880},
+                                   'subs': {'bb': 508937, 'fix': 197690, 'internet': 2043251, 'mob': 2635466},
                                    'tld': '.al',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.al'}},
                'mcc': ['276'],
@@ -190,11 +200,11 @@ P1_CNTR = \
                                        "the people's democratic republic of algeria"],
                           'tel': { 'code': '213',
                                    'domestic': [ 'a limited network of fixed-lines with a teledensity of slightly less '
-                                                 'than 11 telephones per 100 persons has been offset by the rapid '
+                                                 'than 12 telephones per 100 persons has been offset by the rapid '
                                                  'increase in mobile-cellular subscribership',
-                                                 'mobile-cellular teledensity was approximately 104 telephones per 100 '
+                                                 'mobile-cellular teledensity was approximately 106 telephones per 100 '
                                                  'persons in 2020',
-                                                 2020],
+                                                 2021],
                                    'general': [ 'Algeria has a steadily developing telecom infrastructure with growth '
                                                 'encouraged by supportive regulatory measures and by government '
                                                 'policies aimed at delivering serviceable internet connections across '
@@ -202,20 +212,14 @@ P1_CNTR = \
                                                 'mobile broadband is largely based on 3G and LTE, and the data rates '
                                                 'are also low in global terms',
                                                 'LTE is available in all provinces, investment is required from the '
-                                                'MNOs to improve the quality of service',
+                                                'mobile network operators (MNOs) to improve the quality of service',
                                                 'the state has previously been hesitant to commit to 5G, instead '
                                                 'encouraging the MNOs to undertake upgrades to LTE infrastructure '
                                                 'before investing in commercial 5G services',
                                                 'in March 2022, the state is in the process of freeing up the '
                                                 'requisite spectrum to enable the MNOs to launch 5G services sometime '
                                                 'this year',
-                                                'fixed internet speeds remain slow, and the country ranks poorly in '
-                                                'international tables',
-                                                'the government has pressed Alg&eacute',
-                                                'rie T&eacute',
-                                                'l&eacute',
-                                                'com in early 2021 to increase the minimum rate available from 4Mb/s '
-                                                'to 10Mb/s.',
+                                                'fixed internet speeds remain slow',
                                                 2022],
                                    'intl': [ 'ALPAL-2 is a submarine telecommunications cable system in the '
                                              'Mediterranean Sea linking Algeria and the Spanish Balearic island of '
@@ -234,7 +238,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -242,7 +246,7 @@ P1_CNTR = \
                                              'from home is still evident, and the spike in this area has seen growth '
                                              'opportunities for development of new tools and increased services',
                                              0],
-                                   'subs': {'bb': 3790459, 'fix': 4784306, 'internet': 27626157, 'mob': 45555673},
+                                   'subs': {'bb': 3790459, 'fix': 5097095, 'internet': 27626157, 'mob': 47028685},
                                    'tld': '.dz',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.dz'}},
                'mcc': ['603'],
@@ -269,15 +273,24 @@ P1_CNTR = \
                                               'territory of american samoa',
                                               'the territory of american samoa'],
                                  'tel': { 'code': '1684',
-                                          'domestic': [ 'nearly 18 per 100 fixed-line teledensity, domestic satellite '
-                                                        'system with 1 Comsat earth station',
-                                                        2018],
-                                          'general': [ 'good telex, telegraph, facsimile, and cellular telephone '
-                                                       'services',
-                                                       'one of the most complete and modern telecommunications systems '
-                                                       'in the South Pacific Islands',
-                                                       'all inhabited islands have telephone connectivity',
-                                                       0],
+                                          'domestic': ['nearly 22 per 100 fixed-line teledensity', 2020],
+                                          'general': [ 'American Samoa Telecommunications Authority, ASTCA, supplies '
+                                                       'telecommunication services to the residents of the American '
+                                                       'Samoan islands, a territory of the United States, which are '
+                                                       'found in a remote area of the Pacific Ocean',
+                                                       'the primary system between the islands consists of fiber-optic '
+                                                       'cables and satellite connections',
+                                                       'over Independence Day weekend 2021, the undersea fiber-optic '
+                                                       "cable linking the Tutuila and Manu'a Islands failed, "
+                                                       "completely stranding the Manu'a Islands from all "
+                                                       'telecommunication services',
+                                                       'telecommunication services were restored to the people of '
+                                                       "Manu'a islands through microwave link between Tutuila to the "
+                                                       "Manu'a Islands",
+                                                       'the link is now providing a steady 1Gbps backhaul most of the '
+                                                       "time of the year with 600Mbps at four 9's availability, over "
+                                                       'this extremely long distance',
+                                                       2022],
                                           'intl': [ 'landing points for the ASH, Southern Cross NEXT and Hawaiki '
                                                     'providing connectivity to New Zealand, Australia, American Samoa, '
                                                     'Hawaii, California, and SAS connecting American Samoa with Samoa',
@@ -287,7 +300,7 @@ P1_CNTR = \
                                                     'production and supply chains globally',
                                                     'since 2020, some aspects of the telecom sector have experienced a '
                                                     'downturn, particularly in mobile device production',
-                                                    'progress towards 5G implementation has resumed, as well as '
+                                                    'progress toward 5G implementation has resumed, as well as '
                                                     'upgrades to infrastructure',
                                                     'consumer spending on telecom services has increased due to the '
                                                     'surge in demand for capacity and bandwidth',
@@ -321,11 +334,11 @@ P1_CNTR = \
                                        "principat d'andorra",
                                        'the principality of andorra'],
                           'tel': { 'code': '376',
-                                   'domestic': ['about 51 per 100 fixed-line, 114 per 100 mobile-cellular', 2019],
-                                   'general': [ 'modern automatic telephone system',
-                                                'broadband Internet and LTE mobile lines for both consumer and '
-                                                'enterprise customers available',
-                                                2019],
+                                   'domestic': ['about 52 per 100 fixed-line, 122 per 100 mobile-cellular', 2020],
+                                   'general': [ 'Andorra has a modern telecommunications system with microwave radio '
+                                                'relay connections between the exchanges and land line circuits to '
+                                                'France and Spain',
+                                                2020],
                                    'intl': [ 'landline circuits to France and Spain',
                                              'modern system with microwave radio relay connections between exchanges',
                                              2019],
@@ -333,7 +346,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -368,35 +381,23 @@ P1_CNTR = \
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/angola'},
                          'nameset': ['angola', 'republic of angola', 'republica de angola', 'the republic of angola'],
                          'tel': { 'code': '244',
-                                  'domestic': [ 'only about one fixed-line per 100 persons',
-                                                'mobile-cellular teledensity about 45 telephones per 100 persons',
-                                                2020],
+                                  'domestic': [ 'less than one fixed-line per 100 persons',
+                                                'mobile-cellular teledensity about 44 telephones per 100 persons',
+                                                2021],
                                   'general': [ "Angola's telecom sector in recent years has benefited from political "
                                                'stability, which has encouraged foreign investment in the sector',
                                                'the government and regulator have also set in train mechanisms to open '
-                                               'up the telecom sector to new competitors, with Africell having secured '
-                                               "a universal license and in so doing becoming the country's fourth MNO",
-                                               'following an extensive investment program, the company launched mobile '
-                                               'services in April 2022',
+                                               'up the telecom sector to new competitors, mobile services were '
+                                               'launched in April 2022',
                                                'the MNOs were slow to develop LTE services, instead relying on their '
                                                'GSM and 3G network capabilities',
-                                               'Angola Telecom did not launch LTE services until mid-2018',
                                                'there has been slow progress in LTE network development, with only a '
                                                'small proportion of the country covered by network infrastructure',
-                                               'some progress has been made with 5G',
                                                'the Ministry of Telecommunications in early 2021 set up a 5G hub to '
-                                               'assess 5G user cases, while Unitel and the new MNO Africell since '
-                                               'mid-2021 have contracted vendors to provide 5G-ready transmission '
-                                               'networks',
-                                               'the regulator in November 2021 granted licenses to Africell, Movicel, '
-                                               'and Unitel to enable them to offer 5G services',
-                                               'the government has continued to develop telecom infrastructure to help '
-                                               "diversify the country's economy and lessen its dependence on offshore "
-                                               'crude oil production',
-                                               'by extending and upgrading telecom networks the government expects '
-                                               'businesses to become more efficient and for e-commerce to become a '
-                                               'more prominent feature of economic growth',
-                                               'networks will facilitate rural access to education and health care.',
+                                               'assess 5G user cases',
+                                               'the regulator in November 2021 granted licenses to various companies '
+                                               'offering 5G services, with spectrum in the 3.3-3.7GHz range having '
+                                               'been set aside for such services',
                                                2022],
                                   'intl': [ 'landing points for the SAT-3/WASC, WACS, ACE and SACS fiber-optic '
                                             'submarine cable that provides connectivity to other countries in west '
@@ -407,7 +408,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -415,7 +416,7 @@ P1_CNTR = \
                                             'home is still evident, and the spike in this area has seen growth '
                                             'opportunities for development of new tools and increased services',
                                             0],
-                                  'subs': {'bb': 230610, 'fix': 119164, 'internet': 11831857, 'mob': 14645050},
+                                  'subs': {'bb': 230610, 'fix': 119826, 'internet': 11831857, 'mob': 15327864},
                                   'tld': '.ao',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.ao'}},
               'mcc': ['631'],
@@ -443,30 +444,24 @@ P1_CNTR = \
                                     'domestic': [ 'fixed-line teledensity is about 42 per 100 persons',
                                                   'mobile-cellular teledensity is roughly 182 per 100 persons',
                                                   2018],
-                                    'general': [ 'the telecom sector has seen a decline in subscriber numbers '
-                                                 '(particularly for prepaid mobile services the mainstay of short term '
-                                                 'visitors) and revenue',
+                                    'general': [ 'in the telecom sector, with declines seen in subscriber numbers '
+                                                 '(particularly for prepaid mobile services &mdash',
+                                                 'the mainstay of short-term visitors) and revenue',
                                                  'fixed and mobile broadband services are two areas that have '
-                                                 'benefited from the crisis as employees and students have resorted to '
-                                                 'working from home',
-                                                 "one major casualty may be the region's second largest telco "
-                                                 'operator, Digicel',
-                                                 'the company filed for bankruptcy in the US in April 2020',
-                                                 'it continues to operate in all of its Caribbean markets as it seeks '
-                                                 'to refinance billions of dollars of debt',
-                                                 'the other major telco, regional incumbent Cable & Wireless '
-                                                 'Communications (CWC), is experiencing similar drops in subscriber '
-                                                 'numbers and revenue',
-                                                 'CWC is expanding and enhancing its fixed and mobile networks in many '
-                                                 'of the countries it serves around the Caribbean, despite many '
-                                                 'locations being small islands with very small populations',
-                                                 'one area of the telecom market that is not prepared for growth is 5G '
-                                                 'mobile',
+                                                 'benefited from the crisis to a small extent as employees and '
+                                                 'students have resorted to working from home, but their contribution '
+                                                 'to the sector has been insufficient to offset steep falls in other '
+                                                 'areas of the market',
+                                                 'one area of the telecom market that does not yet appear poised for '
+                                                 'growth is 5G mobile',
                                                  'governments, regulators, and even the mobile network operators have '
-                                                 'shown that they have not been investing in 5G opportunities at the '
-                                                 'present time',
+                                                 'shown that they have little appetite for investing in 5G '
+                                                 'opportunities at the present time',
                                                  'network expansion and enhancements remain concentrated around '
-                                                 'improving LTE coverage.',
+                                                 'improving LTE coverage',
+                                                 'until the economies and markets stabilize, and overseas visitors '
+                                                 'return there is unlikely to be much momentum towards implementing 5G '
+                                                 'capabilities anywhere in the region',
                                                  2021],
                                     'intl': [ 'landing points for the SSCS, ECFS, GCN and Southern Caribbean Fiber '
                                               'with submarine cable links to Caribbean islands and to the US',
@@ -476,7 +471,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -507,7 +502,15 @@ P1_CNTR = \
                              'tel': { 'domestic': [ 'commercial cellular networks operating in a small number of '
                                                     'locations',
                                                     2019],
-                                      'general': ['local systems at some research stations', 2019],
+                                      'general': [ 'scientists with the United States Antarctic Program at McMurdo '
+                                                   'Station have now got their hands on a Starlink terminal of their '
+                                                   'own, where it is said to be improving connectivity as they carry '
+                                                   'out their research',
+                                                   'this was made possible through laser links between the SpaceX '
+                                                   'satellites in orbit that eliminate the need for ground stations at '
+                                                   'the poles, and makes Antarctica the seventh and final continent to '
+                                                   'receive Starlink internet coverage',
+                                                   2022],
                                       'intl': [ 'country code - none allocated',
                                                 'via satellite (including mobile Inmarsat and Iridium systems) to and '
                                                 'from all research stations, ships, aircraft, and most field parties',
@@ -537,34 +540,22 @@ P1_CNTR = \
                                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/antigua-and-barbuda'},
                                       'nameset': ['antigua and barbuda'],
                                       'tel': { 'code': '1268',
-                                               'domestic': [ 'fixed-line teledensity roughly 25 per 100 persons',
-                                                             'mobile-cellular teledensity is about 193 per 100 persons',
-                                                             2019],
+                                               'domestic': [ 'fixed-line teledensity roughly 28 per 100 persons',
+                                                             'mobile-cellular teledensity is about 188 per 100 persons',
+                                                             2020],
                                                'general': [ 'the telecom sector has seen a decline in subscriber '
                                                             'numbers (particularly for prepaid mobile services the '
                                                             'mainstay of short term visitors) and revenue',
                                                             'fixed and mobile broadband services are two areas that '
                                                             'have benefited from the crisis as employees and students '
                                                             'have resorted to working from home',
-                                                            "one major casualty may be the region's second largest "
-                                                            'telco operator, Digicel',
-                                                            'the company filed for bankruptcy in the US in April 2020',
-                                                            'it continues to operate in all of its Caribbean markets '
-                                                            'as it seeks to refinance billions of dollars of debt',
-                                                            'the other major telco, regional incumbent Cable & '
-                                                            'Wireless Communications (CWC), is experiencing similar '
-                                                            'drops in subscriber numbers and revenue',
-                                                            'CWC is expanding and enhancing its fixed and mobile '
-                                                            'networks in many of the countries it serves around the '
-                                                            'Caribbean, despite many locations being small islands '
-                                                            'with very small populations',
                                                             'one area of the telecom market that is not prepared for '
                                                             'growth is 5G mobile',
                                                             'governments, regulators, and even the mobile network '
                                                             'operators have shown that they have not been investing in '
                                                             '5G opportunities at the present time',
                                                             'network expansion and enhancements remain concentrated '
-                                                            'around improving LTE coverage.',
+                                                            'around improving LTE coverage',
                                                             2021],
                                                'intl': [ 'landing points for the ECFS and Southern Caribbean Fiber '
                                                          'submarine cable systems with links to other islands in the '
@@ -595,7 +586,7 @@ P1_CNTR = \
                                      'coast': 4989,
                                      'coord': ['34 00 S, 64 00 W'],
                                      'popul': 46245668,
-                                     'ports': { 'container': 'Buenos Aires (1,485,328) (2019)',
+                                     'ports': { 'container': 'Buenos Aires (1,446,452) (2021)',
                                                 'seaport': 'Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, '
                                                            'Ushuaia'},
                                      'region': 'South America',
@@ -606,34 +597,35 @@ P1_CNTR = \
                                          'republica argentina',
                                          'the argentine republic'],
                             'tel': { 'code': '54',
-                                     'domestic': [ 'roughly 16 per 100 fixed-line and 121 per 100 mobile-cellular',
+                                     'domestic': [ 'roughly 15 per 100 fixed-line and 130 per 100 mobile-cellular',
                                                    'microwave radio relay, fiber-optic cable, and a domestic satellite '
                                                    'system with 40 earth stations serve the trunk network',
-                                                   2020],
-                                     'general': [ "Argentina's ongoing hyperinflation continues to distort the telecom "
-                                                  "market's performance, which shows strong growth in revenue but only "
-                                                  'modest gains in subscriber numbers each year',
-                                                  'fixed-line teledensity continues on its slow, gradual decline year '
-                                                  'upon year, the fixed broadband segment has increased levels only '
-                                                  'slightly higher than the fixed-line teledensity',
+                                                   2021],
+                                     'general': [ "Argentina's ongoing problem with hyperinflation continues to "
+                                                  "distort the telecom market's performance, which shows strong growth "
+                                                  'in revenue but only modest gains in subscriber numbers each year',
+                                                  'the fixed broadband segment has penetration levels only slightly '
+                                                  'higher than the fixed-line teledensity',
                                                   "nearly a quarter of the country's broadband connections are via "
-                                                  "DSL, although fiber is increasing it's share of that market as "
-                                                  'networks expand across most of the main cities',
+                                                  'DSL, although fiber is starting claim an increasing share of that '
+                                                  'market as networks expand across most of the main cities',
                                                   'mobile broadband continues to be the preferred platform for '
-                                                  'internet access, supported by high mobile levels and nationwide LTE '
-                                                  'coverage',
-                                                  'the first 5G service was launched in February 2021 using re-farmed '
+                                                  'internet access, supported by high mobile penetration levels and '
+                                                  'nationwide LTE coverage',
+                                                  'the first 5G service was launched in February 2021 using refarmed '
                                                   'LTE frequencies',
-                                                  'the various fixed, mobile, and cable operators are expanding and '
-                                                  'enhancing their services, the government is also making an active '
+                                                  'the anticipated 5G spectrum auctions should drive even stronger '
+                                                  'uptake in mobile broadband services',
+                                                  'while the various fixed, mobile, and cable operators push to expand '
+                                                  'and enhance their services, the government is also making an active '
                                                   'contribution towards boosting broadband connectivity around the '
                                                   'country',
                                                   'its national connectivity plan &lsquo',
                                                   "Plan Conectar', launched in September 2020, provides funding for a "
                                                   'range of programs to increase coverage',
-                                                  'in August 2021, the telecom regulator announced the release of a '
-                                                  'further ARS671.6 million in funding to help operators accelerate '
-                                                  'the rollout of their broadband infrastructure and services.',
+                                                  'in August 2021, the telecom regulator announced the release funding '
+                                                  'to help operators accelerate the rollout of their broadband '
+                                                  'infrastructure and services',
                                                   2021],
                                      'intl': [ 'landing points for the UNISUR, Bicentenario, Atlantis-2, SAm-1, and '
                                                'SAC, Tannat, Malbec and ARBR submarine cable systems that provide '
@@ -644,7 +636,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -652,7 +644,7 @@ P1_CNTR = \
                                                'from home is still evident, and the spike in this area has seen growth '
                                                'opportunities for development of new tools and increased services',
                                                0],
-                                     'subs': {'bb': 9571562, 'fix': 7356165, 'internet': 39024016, 'mob': 54763900},
+                                     'subs': {'bb': 9571562, 'fix': 6903068, 'internet': 39853610, 'mob': 59065827},
                                      'tld': '.ar',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.ar'}},
                  'mcc': ['722'],
@@ -689,22 +681,18 @@ P1_CNTR = \
                                        'republic of armenia',
                                        'the republic of armenia'],
                           'tel': { 'code': '374',
-                                   'domestic': [ 'roughly 14 per 100 fixed-line and 118 per 100 mobile-cellular',
+                                   'domestic': [ 'roughly 15 per 100 fixed-line and 129 per 100 mobile-cellular',
                                                  'reliable fixed-line and mobile-cellular services are available '
                                                  'across Yerevan and in major cities and towns',
                                                  'mobile-cellular coverage available in most rural areas',
-                                                 2020],
-                                   'general': [ 'the telecom sector was still able to post modest gains at least in '
-                                                'the mobile and broadband segments',
-                                                'the fixed-line penetration continues to slide downwards, only '
-                                                'buttressed by the rollout of fiber networks which have encouraged the '
-                                                'take up of bundled services',
-                                                'the fixed broadband market remains undeveloped, being somewhat '
-                                                'hamstrung by the lack of underlying infrastructure outside the main '
-                                                'cities',
-                                                'the one bright spot for the sector is mobile broadband, which is '
-                                                'expected reach 130% subscriptions rate by 2026, at a CAGR of more '
-                                                'than 8.6%, this is subject to the country managing to avoid conflict.',
+                                                 2021],
+                                   'general': [ "Armenia's telecom sector was able to post in the mobile and broadband "
+                                                'segments',
+                                                'its fixed-line penetration continues to slide downwards, with the '
+                                                'rollout of fiber networks which have encouraged the increase in '
+                                                'bundled services',
+                                                'the fixed broadband market remains undeveloped due to the lack of '
+                                                'underlying infrastructure outside the main cities',
                                                 2021],
                                    'intl': [ 'Yerevan is connected to the Caucasus Cable System fiber-optic cable '
                                              'through Georgia and Iran to Europe',
@@ -718,7 +706,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -726,7 +714,7 @@ P1_CNTR = \
                                              'from home is still evident, and the spike in this area has seen growth '
                                              'opportunities for development of new tools and increased services',
                                              0],
-                                   'subs': {'bb': 430407, 'fix': 427539, 'internet': 2288566, 'mob': 3488797},
+                                   'subs': {'bb': 430407, 'fix': 418122, 'internet': 2288566, 'mob': 3599278},
                                    'tld': '.am',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.am'}},
                'mcc': ['283'],
@@ -752,33 +740,22 @@ P1_CNTR = \
                                      'land aruba',
                                      'land aruba (dutch); pais aruba (papiamento)'],
                         'tel': { 'code': '297',
-                                 'domestic': [ 'ongoing changes in regulations and competition improving teledensity',
-                                               'approximately 34 per 100 fixed-line and 135 per 100 mobile-cellular',
-                                               2018],
+                                 'domestic': [ '33 per 100 fixed-line telephone subscriptions and 132 per 100 '
+                                               'mobile-cellular',
+                                               2020],
                                  'general': [ 'the telecom sector has seen a decline in subscriber numbers '
                                               '(particularly for prepaid mobile services the mainstay of short term '
                                               'visitors) and revenue',
                                               'fixed and mobile broadband services are two areas that have benefited '
                                               'from the crisis as employees and students have resorted to working from '
                                               'home',
-                                              "one major casualty may be the region's second largest telco operator, "
-                                              'Digicel',
-                                              'the company filed for bankruptcy in the US in April 2020',
-                                              'it continues to operate in all of its Caribbean markets as it seeks to '
-                                              'refinance billions of dollars of debt',
-                                              'the other major telco, regional incumbent Cable & Wireless '
-                                              'Communications (CWC), is experiencing similar drops in subscriber '
-                                              'numbers and revenue',
-                                              'CWC is expanding and enhancing its fixed and mobile networks in many of '
-                                              'the countries it serves around the Caribbean, despite many locations '
-                                              'being small islands with very small populations',
                                               'one area of the telecom market that is not prepared for growth is 5G '
                                               'mobile',
                                               'governments, regulators, and even the mobile network operators have '
                                               'shown that they have not been investing in 5G opportunities at the '
                                               'present time',
                                               'network expansion and enhancements remain concentrated around improving '
-                                              'LTE coverage.',
+                                              'LTE coverage',
                                               2021],
                                  'intl': [ 'landing points for the PAN-AM, PCCS, Deep Blue Cable, and Alonso de Ojeda '
                                            'submarine telecommunications cable system that extends from Trinidad and '
@@ -792,7 +769,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -828,21 +805,21 @@ P1_CNTR = \
                                      'coast': 25760,
                                      'coord': ['27 00 S, 133 00 E'],
                                      'popul': 26141369,
-                                     'ports': { 'container': 'Melbourne (2,967,315), Sydney (2,572,714) (2019)',
-                                                'seaport': '<em>Indian Ocean:</em> Adelaide, Darwin, Fremantle, '
-                                                           'Geelong, Melbourne<em>Pacific Ocean:</em> Brisbane, '
-                                                           'Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, '
-                                                           'Sydney'},
+                                     'ports': { 'container': 'Melbourne (2,909,288), Sydney (2,761,648) (2021)',
+                                                'seaport': 'Indian Ocean: Adelaide, Darwin, Fremantle, Geelong, '
+                                                           'Melbourne; Pacific Ocean: Brisbane, Cairns, Gladstone, '
+                                                           'Hobart, Newcastle, Port Port Kembla, Sydney'},
                                      'region': 'Oceania',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AU',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/australia'},
                             'nameset': ['australia', 'commonwealth of australia', 'the commonwealth of australia'],
                             'tel': { 'code': '61',
-                                     'domestic': [ 'roughly 24 per 100 fixed-line and 108 per 100 mobile-cellular',
+                                     'domestic': [ '18 per 100 fixed-line telephone subscriptions and 105 per 100 '
+                                                   'mobile-cellular',
                                                    'more subscribers to mobile services than there are people',
                                                    '90% of all mobile device sales are now smartphones, growth in '
                                                    'mobile traffic brisk',
-                                                   2020],
+                                                   2021],
                                      'general': [ 'the Australian telecom market since 2020 has been impacted by the '
                                                   'pandemic, which forced many people to school and work from home and '
                                                   'thus adopt fixed-line broadband services',
@@ -850,10 +827,6 @@ P1_CNTR = \
                                                   'a result',
                                                   'in the fixed sector, there is an ongoing migration from '
                                                   'copper-based platforms to fiber',
-                                                  'NBN Co increased the number of premises migrated from hybrid '
-                                                  'fiber/copper infrastructure to FttP',
-                                                  'by the end of 2023 NBN Co is expected to deliver a 1Gb/s service '
-                                                  'across 75% of its fixed-line network',
                                                   'the extension of fixed wireless access will mean that up to 120,000 '
                                                   'premises currently dependent on satellite broadband will be able to '
                                                   'access 5G-based fixed services',
@@ -861,20 +834,9 @@ P1_CNTR = \
                                                   'years',
                                                   'in the Australian fixed broadband market, there is a dynamic shift '
                                                   'among customers to fiber networks',
-                                                  'this infrastructure is being built out by NBN Co (also known as '
-                                                  'nbn), the company responsible for deploying the national broadband '
-                                                  'network, which is based on a multi-technology mix including VDSL, '
-                                                  'fibre, HFC, fixed wireless, and satellite',
-                                                  'the DSL sector is steadily shrinking as customers are migrated to '
-                                                  'the NBN, while subscribers on HFC infrastructure will continue to '
-                                                  "be provided by existing cable within the NBN's multi-technology "
-                                                  'mix, with a steady migration to full fiber connectivity',
-                                                  'the mobile market is dominated by the three MNOs Telstra, Optus, '
-                                                  'and TPG Telecom',
-                                                  'these offer LTE services on a wholesale basis, thus encouraging '
-                                                  'growth in the LTE sector, while also deploying services based on 5G',
-                                                  'Optus and (since mid-2022) Telstra provide 5G access to their '
-                                                  'MVNOs.',
+                                                  'the DSL sector is steadily shrinking while subscribers on HFC '
+                                                  'infrastructure will continue to be provided by existing cable, with '
+                                                  'a steady migration to full fiber connectivity',
                                                   2022],
                                      'intl': [ 'landing points for more than 20 submarine cables including: the '
                                                'SeaMeWe-3 optical telecommunications submarine cable with links to '
@@ -893,7 +855,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -901,7 +863,7 @@ P1_CNTR = \
                                                'from home is still evident, and the spike in this area has seen growth '
                                                'opportunities for development of new tools and increased services',
                                                0],
-                                     'subs': {'bb': 9099619, 'fix': 6200000, 'internet': 23123940, 'mob': 27453000},
+                                     'subs': {'bb': 9099619, 'fix': 4600000, 'internet': 23123940, 'mob': 27090000},
                                      'tld': '.au',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.au'}},
                  'mcc': ['505'],
@@ -995,32 +957,24 @@ P1_CNTR = \
                                        'the republic of austria'],
                           'tel': { 'code': '43',
                                    'domestic': [ 'developed and efficient',
-                                                 '42 per 100 fixed-line for households, 174 per 100 for companies',
-                                                 'roughly 119 per 100 mobile-cellular',
-                                                 'broadband: 138 per 100 on smartphones',
-                                                 'roughly 29 per 100 fixed broadband and 107 per 100 mobile broadband',
-                                                 2020],
-                                   'general': [ 'mature telecom market, dominated by Telekom Austria, Magenta Telekom '
-                                                '(formed from the merger of T-Mobile Austria and the cableco UPC '
-                                                'Austria), and 3 Austria',
-                                                'the mobile market benefits from a growing number of MVNOs',
+                                                 '43 per 100 fixed telephone subscriptions',
+                                                 '122 per 100 mobile-cellular subscriptions',
+                                                 2021],
+                                   'general': [ 'mature telecom market',
+                                                'the mobile market benefits from a growing number of Mobile Virtual '
+                                                'Network Operators',
                                                 'the telcos as well as the government and regulator have been focused '
                                                 'on delivering improved telecom infrastructure',
                                                 'the government has a program to provide a national gigabit service by '
                                                 '2030, delivered by private enterprise though with some state funding',
-                                                'this is based on fibrer networks supported by 5G, with the MNOs able '
-                                                'to expand the reach of their 5G services following auctions held in '
-                                                'March 2019 and September 2020',
+                                                'this is based on fiber networks supported by 5G, with the Mobile '
+                                                'Network Operators able to expand the reach of their 5G services '
+                                                'following auctions held in March 2019 and September 2020',
                                                 'the fixed-line broadband market is still dominated by the DSL sector, '
                                                 'while the cable broadband sector has held a steady share of '
                                                 'connections in recent years',
                                                 'the fiber sector was slow to develop, and although fiber remains low '
                                                 'there are plans to build out the network infrastructure',
-                                                "by February 2021, A1 Telekom's fibre network reached more than 2.3 "
-                                                'million premises',
-                                                'Magenta Telekom continues to invest in DOCSIS3.1 technology, and by '
-                                                'mid-2021 about a third of premises (some 1.4 million) nationally '
-                                                "could access the company's gigabit service.",
                                                 2021],
                                    'intl': [ 'earth stations available in the Astra, Intelsat, Eutelsat satellite '
                                              'systems',
@@ -1029,7 +983,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -1037,7 +991,7 @@ P1_CNTR = \
                                              'from home is still evident, and the spike in this area has seen growth '
                                              'opportunities for development of new tools and increased services',
                                              0],
-                                   'subs': {'bb': 2606000, 'fix': 3786725, 'internet': 7846840, 'mob': 10717445},
+                                   'subs': {'bb': 2606000, 'fix': 3808709, 'internet': 7846840, 'mob': 10882217},
                                    'tld': '.at',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.at'}},
                'mcc': ['232'],
@@ -1099,48 +1053,45 @@ P1_CNTR = \
                                           'republic of azerbaijan',
                                           'the republic of azerbaijan'],
                              'tel': { 'code': '994',
-                                      'domestic': [ 'teledensity of some 16 fixed-lines per 100 persons',
-                                                    'mobile-cellular teledensity of 102 telephones per 100 persons',
-                                                    'satellite service connects Baku to a modern switch in its exclave '
-                                                    'of Naxcivan (Nakhchivan)',
-                                                    2020],
+                                      'domestic': [ '16 fixed-lines subsciptions per 100 persons',
+                                                    'mobile-cellular subscriptions of 105 telephones per 100 persons',
+                                                    2021],
                                       'general': [ 'in spite of the telecom sector being one of the major contributors '
                                                    "to Azerbaijan's non-oil GDP, overall development, growth, and "
                                                    'investment in the sector has been held back by years of political '
                                                    'and civil unrest coupled with endemic corruption',
-                                                   'mobile subscription rates reached 100% as far back as 2011, but '
-                                                   'have largely stagnated since then',
-                                                   'the MNOs are slowly extending the reach of their LTE networks '
-                                                   'around the country, and this increased coverage (along with access '
-                                                   'to faster data-based services) is expected to produce a moderate '
-                                                   'resurgence for both mobile and mobile broadband over the next few '
-                                                   'years as customers migrate from 3G to 4G',
-                                                   '5G services are still some ways off, as the demand for high-speed '
-                                                   'data and fast broadband can easily be met by existing capacity on '
-                                                   'LTE networks',
+                                                   'mobile penetration rates reached 100% as far back as 2011 but have '
+                                                   'largely stagnated since then',
+                                                   'the Mobile Network Operators (MNOs) are slowly extending the reach '
+                                                   'of their LTE networks around the country, and this increased '
+                                                   'coverage (along with access to faster data-based services) is '
+                                                   'expected to produce a moderate resurgence for both mobile and '
+                                                   'mobile broadband over the next few years as customers migrate from '
+                                                   '3G to 4G. 5G services are still some ways off, as the demand for '
+                                                   'high-speed data and fast broadband can easily be met by existing '
+                                                   'capacity on LTE networks',
                                                    'fixed-line teledensity continues to drop down each year as '
                                                    'customers consolidate their telecommunications services around the '
                                                    'mobile platform',
-                                                   'the rate of decline is comparatively slow to other countries, '
+                                                   'the rate of decline is comparatively slower than other countries, '
                                                    'since Azerbaijan has a relatively high proportion of (87%) of '
                                                    'fixed-line broadband customers still on DSL',
-                                                   'fibre (12% of fixed broadband connections) is gradually being '
-                                                   'rolled out in urban areas, and this makes up the bulk of the '
-                                                   '(limited) growth being seen in the overall fixed broadband market. '
+                                                   'fiber is gradually being rolled out in urban areas, and this makes '
+                                                   'up the bulk of the growth being seen in the overall fixed '
+                                                   'broadband market',
                                                    "DSL's predominance, however, will serve to keep Azerbaijan's "
-                                                   'average access speeds in the sub-10Mbps range for the future.',
-                                                   2022],
-                                      'intl': [ 'the TAE fiber-optic link transits Azerbaijan providing international '
-                                                'connectivity to neighboring countries',
-                                                'the old Soviet system of cable and microwave is still serviceable',
-                                                'satellite earth stations - 2',
-                                                2019],
+                                                   'average access speeds in the sub-10Mbps range for the foreseeable '
+                                                   'future',
+                                                   2020],
+                                      'intl': [ "Azerbaijan's largest mobile network operator ( ) launched trial 5G "
+                                                'mobile services in Baku on 27 December 2022',
+                                                2023],
                                       'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -1148,7 +1099,7 @@ P1_CNTR = \
                                                 'growth opportunities for development of new tools and increased '
                                                 'services',
                                                 0],
-                                      'subs': {'bb': 1995474, 'fix': 1652688, 'internet': 8745304, 'mob': 10344300},
+                                      'subs': {'bb': 1995474, 'fix': 1644300, 'internet': 8745304, 'mob': 10817071},
                                       'tld': '.az',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.az'}},
                   'mcc': ['400'],
@@ -1175,40 +1126,30 @@ P1_CNTR = \
                                        'mamlakat al bahrayn',
                                        'the kingdom of bahrain'],
                           'tel': { 'code': '973',
-                                   'domestic': [ 'approximately 16 per 100 fixed-line and 103 per 100 mobile-cellular',
+                                   'domestic': [ 'approximately 18 per 100 fixed-line and 131 per 100 mobile-cellular',
                                                  'modern fiber-optic integrated services',
                                                  'digital network with rapidly expanding mobile-cellular telephones',
-                                                 2020],
+                                                 2021],
                                    'general': [ 'Bahrain continues to develop its telecoms sector in a bid to develop '
                                                 'its long-term Economic Vision 2030 strategy',
                                                 'this is a multi-faceted strategy aimed at developing a digital '
                                                 'transformation across numerous sectors, including e-government, '
                                                 'e-health, e-commerce, and e-banking',
-                                                'the major telcos including Batelco, STC Bahrain, and Zain Bahrain '
-                                                'have been supported by the government and regulator to develop '
-                                                'services and network infrastructure to facilitate implementing the '
-                                                'strategy',
                                                 '5G services have become widely available since they were launched in '
                                                 '2020',
-                                                'the national broadband network operator BNET was also financially '
-                                                'separated from Batelco in mid-2021, in a bid to improve its '
-                                                'responsibilities as a neutral wholesale access provider',
                                                 "Bahrain's telecom sector by the Fourth National Telecommunications "
                                                 'Plan (initiated in 2016) which focuses on fiber optic infrastructure '
-                                                'deployment and establishing affordable prices for high-speed access.',
+                                                'deployment and establishing affordable prices for high-speed access',
                                                 2022],
-                                   'intl': [ 'landing points for the FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG '
-                                             'submarine cable network that provides links to Asia, the Middle East, '
-                                             'and Africa',
-                                             'tropospheric scatter to Qatar and UAE',
-                                             'microwave radio relay to Saudi Arabia',
-                                             'satellite earth station - 1',
-                                             2019],
+                                   'intl': [ "Bahrain's Telecommunications Regulatory Authority ( ) has made part of "
+                                             'the C-band spectrum available for 5G private networks, in line with the '
+                                             'goals outlined in its Workplan for the 2022-23 period',
+                                             2023],
                                    'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -1216,11 +1157,11 @@ P1_CNTR = \
                                              'from home is still evident, and the spike in this area has seen growth '
                                              'opportunities for development of new tools and increased services',
                                              0],
-                                   'subs': {'bb': 148928, 'fix': 274106, 'internet': 170158, 'mob': 1748672},
+                                   'subs': {'bb': 148928, 'fix': 266741, 'internet': 170158, 'mob': 1923443},
                                    'tld': '.bh',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.bh'}},
                'mcc': ['426'],
-               'mccmnc': ['42601', '42602', '42603', '42604', '42605'],
+               'mccmnc': ['42601', '42602', '42603', '42604', '42605', '42606', '42607'],
                'msisdn': ['973'],
                'name': 'Bahrain',
                'url': 'https://en.wikipedia.org/wiki/Bahrain'},
@@ -1233,7 +1174,7 @@ P1_CNTR = \
                                       'coast': 580,
                                       'coord': ['24 00 N, 90 00 E'],
                                       'popul': 165650475,
-                                      'ports': { 'container': 'Chattogram (Chittagong) (3,088,187) (2019)',
+                                      'ports': { 'container': 'Chattogram (Chittagong) (3,214,548) (2021)',
                                                  'seaport': 'Chattogram (Chittagong)'},
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BD',
@@ -1245,11 +1186,10 @@ P1_CNTR = \
                              'tel': { 'code': '880',
                                       'domestic': [ 'fixed-line teledensity remains less than 1 per 100 persons',
                                                     'mobile-cellular telephone subscribership has been increasing '
-                                                    'rapidly and now exceeds 103 telephones per 100 persons',
+                                                    'rapidly and now exceeds 107 per 100 persons',
                                                     'mobile subscriber growth is anticipated over the next five years '
                                                     'to 2023',
-                                                    'strong local competition',
-                                                    2020],
+                                                    2021],
                                       'general': [ "Bangladesh's economic resurgence over the last decade took a "
                                                    'battering in 2020 and 2021 as a result of the Covid-19 pandemic',
                                                    "the country had been on track to move off the United Nation's "
@@ -1279,8 +1219,8 @@ P1_CNTR = \
                                                    'enhance and expand LTE services',
                                                    'a 5G spectrum auction had been anticipated for 2020, but low '
                                                    'interest from the MNOs in going down that path when there are '
-                                                   'still so many areas waiting for LTE access means that 5G rollouts '
-                                                   'will likely be deferred until 2023.',
+                                                   'still so many areas waiting for LTE access means that 5G will '
+                                                   'likely be deferred until 2023',
                                                    2021],
                                       'intl': [ 'landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine '
                                                 'cable system that provides links to Europe, the Middle East, and Asia',
@@ -1292,8 +1232,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -1301,7 +1241,7 @@ P1_CNTR = \
                                                 'growth opportunities for development of new tools and increased '
                                                 'services',
                                                 0],
-                                      'subs': {'bb': 10052819, 'fix': 1390048, 'internet': 41172346, 'mob': 176279465},
+                                      'subs': {'bb': 10052819, 'fix': 587476, 'internet': 41172346, 'mob': 181021227},
                                       'tld': '.bd',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.bd'}},
                   'mcc': ['470'],
@@ -1327,32 +1267,21 @@ P1_CNTR = \
                            'nameset': ['barbados'],
                            'tel': { 'code': '1246',
                                     'domestic': [ 'fixed-line teledensity of roughly 45 per 100 persons',
-                                                  'mobile-cellular telephone density about 115 per 100 persons',
-                                                  2019],
+                                                  'mobile-cellular telephone density about 103 per 100 persons',
+                                                  2020],
                                     'general': [ 'the telecom sector has seen a decline in subscriber numbers '
                                                  '(particularly for prepaid mobile services the mainstay of short term '
                                                  'visitors) and revenue',
                                                  'fixed and mobile broadband services are two areas that have '
                                                  'benefited from the crisis as employees and students have resorted to '
                                                  'working from home',
-                                                 "one major casualty may be the region's second largest telco "
-                                                 'operator, Digicel',
-                                                 'the company filed for bankruptcy in the US in April 2020',
-                                                 'it continues to operate in all of its Caribbean markets as it seeks '
-                                                 'to refinance billions of dollars of debt',
-                                                 'the other major telco, regional incumbent Cable & Wireless '
-                                                 'Communications (CWC), is experiencing similar drops in subscriber '
-                                                 'numbers and revenue',
-                                                 'CWC is expanding and enhancing its fixed and mobile networks in many '
-                                                 'of the countries it serves around the Caribbean, despite many '
-                                                 'locations being small islands with very small populations',
                                                  'one area of the telecom market that is not prepared for growth is 5G '
                                                  'mobile',
                                                  'governments, regulators, and even the mobile network operators have '
                                                  'shown that they have not been investing in 5G opportunities at the '
                                                  'present time',
                                                  'network expansion and enhancements remain concentrated around '
-                                                 'improving LTE coverage.',
+                                                 'improving LTE coverage',
                                                  2021],
                                     'intl': [ 'landing points for the ECFS and Southern Caribbean Fiber submarine '
                                               'cable with links to 15 other islands in the eastern Caribbean extending '
@@ -1397,16 +1326,16 @@ P1_CNTR = \
                                                  'mobile-cellular teledensity now roughly 124 telephones per 100 '
                                                  'persons',
                                                  2020],
-                                   'general': [ 'the government of Belarus has successfully promoted the migration to '
+                                   'general': [ 'the Government of Belarus has successfully promoted the migration to '
                                                 'an all-IP platform as part of a wider effort towards a digital '
                                                 'transformation for the economy',
                                                 'the state-supported infrastructure operator beCloud has built an '
-                                                'extensive fiber network which reaches all but the smallest '
+                                                'extensive fiber network, which reaches all but the smallest '
                                                 'settlements in the country',
-                                                'Belarus has the second highest fiber subscription rate in Europe, '
+                                                'Belarus has the second-highest fiber subscription rate in Europe, '
                                                 'behind only Iceland',
                                                 'LTE coverage is almost universal, while considerable progress has '
-                                                'also been made in developing 5G services.',
+                                                'also been made in developing 5G services',
                                                 2021],
                                    'intl': [ 'Belarus is landlocked and therefore a member of the Trans-European Line '
                                              '(TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the '
@@ -1422,7 +1351,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -1451,7 +1380,7 @@ P1_CNTR = \
                                    'coast': 66,
                                    'coord': ['50 50 N, 4 00 E'],
                                    'popul': 11847338,
-                                   'ports': { 'container': 'Antwerp (11,860,204) (2019)',
+                                   'ports': { 'container': 'Antwerp (12,020,000) (2021)',
                                               'seaport': 'Oostende, Zeebrugge'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BE',
@@ -1464,14 +1393,12 @@ P1_CNTR = \
                                        '(german)',
                                        'the kingdom of belgium'],
                           'tel': { 'code': '32',
-                                   'domestic': [ 'about 31 per 100 fixed-line and 99 per 100 mobile-cellular',
+                                   'domestic': [ 'about 28 per 100 fixed-line and 101 per 100 mobile-cellular',
                                                  'nationwide mobile-cellular telephone system',
                                                  'extensive cable network',
                                                  'limited microwave radio relay network',
-                                                 2020],
-                                   'general': [ "Belgium's mobile market is served by the three network operators "
-                                                'Proximus, Orange Belgium and BASE, and by a good number of MVNOs',
-                                                'mobile networks have been upgraded to support growing mobile data use '
+                                                 2021],
+                                   'general': [ 'mobile networks have been upgraded to support growing mobile data use '
                                                 'among subscribers, with near-comprehensive LTE coverage',
                                                 'operators have also trialed 5G in preparation for launching services',
                                                 'the auction of 5G-suitable spectrum has been delayed to the beginning '
@@ -1480,28 +1407,22 @@ P1_CNTR = \
                                                 'there is effective competition in Belgium between the DSL and cable '
                                                 'platforms, while in recent years government support has also '
                                                 'encouraged investment in fiber networks',
-                                                'Telenet, supported by its parent Liberty Global, has extended the '
-                                                'reach of services based on the DOCSIS3.1 standard, while Proximus '
-                                                'also has extensive fibre/VDSL and FttP deployments and is currently '
-                                                'investing in &euro',
-                                                "3 billion 'Fibre for Belgium' program through to 2027",
                                                 'in a bid to encourage investment in under served areas, the regulator '
                                                 'in 2018 amended the conditions by which market players grant '
                                                 'wholesale access to copper and fiber infrastructure',
                                                 'in May 2019 it opened a further consultation on cost models for '
-                                                "access to the networks of cablecos and those of Proximus's fibre "
-                                                'infrastructure.',
+                                                'access to the networks of cablecos and fiber infrastructure',
                                                 2021],
                                    'intl': [ 'landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, '
                                              'submarine cables that provide links to Europe, the Middle East, '
-                                             'Australia and Asia',
+                                             'Australia, and Asia',
                                              'satellite earth stations - 7 (Intelsat - 3)',
                                              2019],
                                    'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -1509,7 +1430,7 @@ P1_CNTR = \
                                              'from home is still evident, and the spike in this area has seen growth '
                                              'opportunities for development of new tools and increased services',
                                              0],
-                                   'subs': {'bb': 4734210, 'fix': 3634639, 'internet': 10620701, 'mob': 11529728},
+                                   'subs': {'bb': 4734210, 'fix': 3293420, 'internet': 10620701, 'mob': 11740118},
                                    'tld': '.be',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.be'}},
                'mcc': ['206'],
@@ -1529,6 +1450,7 @@ P1_CNTR = \
                            '20616',
                            '20620',
                            '20622',
+                           '20623',
                            '20625',
                            '20628',
                            '20629',
@@ -1536,6 +1458,7 @@ P1_CNTR = \
                            '20633',
                            '20634',
                            '20640',
+                           '20648',
                            '20650',
                            '20671',
                            '20672',
@@ -1561,28 +1484,19 @@ P1_CNTR = \
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/belize'},
                          'nameset': ['belize'],
                          'tel': { 'code': '501',
-                                  'domestic': [ 'roughly 5 per 100 fixed-line and mobile-cellular teledensity of 65 '
+                                  'domestic': [ 'roughly 5 per 100 fixed-line and mobile-cellular teledensity of 66 '
                                                 'per 100 persons',
                                                 'mobile sector accounting for over 90% of all phone subscriptions',
-                                                2019],
-                                  'general': [ "Belize's fixed-line teledensity and mobile subscriptions remain lower "
+                                                2020],
+                                  'general': [ "Belize's fixed-line teledensity and mobile penetration remain lower "
                                                'than average for the region, a legacy of insufficient market '
-                                               'competition and low investment in telecoms services, exacerbated by '
-                                               'lax managerial standards within the incumbent telco Digi',
-                                               'Digi has undertaken significant investment in infrastructure, '
-                                               'launching an LTE-A service at the end of 2016 and in mid-2017 '
-                                               'completing a submarine cable to Ambergris Caye, enabling it to launch '
-                                               'an FttP service in San Pedro',
-                                               'loans secured since 2017 enabled the company to migrate its '
-                                               'infrastructure from legacy copper to fiber',
-                                               'BTL invested BZ$93 million dollars to provide high speed broadband to '
-                                               '80% of residences across Belize',
-                                               'the telecom market was liberalized in 2003 yet Digi continues to hold '
-                                               'a monopoly in fixed-line services, and it remains the dominant '
-                                               'provider of mobile and broadband services',
-                                               'the government has undertaken some measures to improve competition, '
-                                               'notably by obliging Digi in mid-2013 to open its networks to VoIP '
-                                               'services.',
+                                               'competition and under investment in telecoms services',
+                                               'a significant investment in infrastructure, launching an LTE-A service '
+                                               'at the end of 2016 and in mid-2017 completing a submarine cable to '
+                                               'Ambergris Caye, enabling it to launch an FttP service in San Pedro',
+                                               'the nfrastructure has been updated from the legacy copper to fiber',
+                                               'investments have been made to provide high speed broadband to 80% of '
+                                               'residences across Belize.',
                                                2021],
                                   'intl': [ 'landing points for the ARCOS and SEUL fiber-optic telecommunications '
                                             'submarine cable that provides links to South and Central America, parts '
@@ -1593,7 +1507,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -1639,23 +1553,18 @@ P1_CNTR = \
                                               'services, and there is negligible revenue derived from these sectors',
                                               'mobile networks account for almost all internet connections, and also '
                                               'carry most voice traffic',
-                                              'there is promise for considerable change in the mobile sector, which '
-                                              'has been a duopoly between Moov and MTN since the closure of services '
-                                              'from Glo Mobile and Libercom in 2018',
+                                              'there is promise for considerable change in the mobile sector',
                                               'slow progress is being made in developing competition in the mobile '
                                               'sector',
-                                              'the national infrastructure provider SBIN has been licensed to provide '
-                                              'mobile services, and in mid-2021 Sonatel Group was awarded a five-year '
-                                              'contract to oversee progress',
-                                              'in May 2021 the government sought foreign companies unaffiliated with '
-                                              'MTN Group or Maroc Telecom to bid for a fourth mobile license',
+                                              'in May 2021 the government sought foreign companies to bid for a fourth '
+                                              'mobile license',
                                               'improved international internet connectivity has contributed to a '
                                               'reduction in end-user pricing, and provided the potential to transform '
                                               "many areas of the country's economy, bringing a greater proportion of "
                                               'the population into the orbit of internet commerce and connectivity',
                                               'a 2,000km fiber project started in 2016 was finally completed in '
                                               'mid-2021, prompting the government to secure a loan to build additional '
-                                              "fiber infrastructure connecting four of the country's 12 departments.",
+                                              "fiber infrastructure connecting four of the country's 12 departments",
                                               2022],
                                  'intl': [ 'landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that '
                                            'provides connectivity to Europe, and most West African countries',
@@ -1665,7 +1574,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -1696,34 +1605,23 @@ P1_CNTR = \
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bermuda'},
                           'nameset': ['bermuda'],
                           'tel': { 'code': '1441',
-                                   'domestic': [ 'the system has a high fixed-line teledensity nearing 35 per 100, '
-                                                 'coupled with a mobile-cellular teledensity of roughly 103 per 100 '
+                                   'domestic': [ 'the system has a high fixed-line teledensity nearing 40 per 100, '
+                                                 'coupled with a mobile-cellular teledensity of roughly 109 per 100 '
                                                  'persons',
-                                                 2019],
+                                                 2020],
                                    'general': [ 'the telecom sector has seen a decline in subscriber numbers '
                                                 '(particularly for prepaid mobile services the mainstay of short term '
                                                 'visitors) and revenue',
                                                 'fixed and mobile broadband services are two areas that have benefited '
                                                 'from the crisis as employees and students have resorted to working '
                                                 'from home',
-                                                "one major casualty may be the region's second largest telco operator, "
-                                                'Digicel',
-                                                'the company filed for bankruptcy in the US in April 2020',
-                                                'it continues to operate in all of its Caribbean markets as it seeks '
-                                                'to refinance billions of dollars of debt',
-                                                'the other major telco, regional incumbent Cable & Wireless '
-                                                'Communications (CWC), is experiencing similar drops in subscriber '
-                                                'numbers and revenue',
-                                                'CWC is expanding and enhancing its fixed and mobile networks in many '
-                                                'of the countries it serves around the Caribbean, despite many '
-                                                'locations being small islands with very small populations',
                                                 'one area of the telecom market that is not prepared for growth is 5G '
                                                 'mobile',
                                                 'governments, regulators, and even the mobile network operators have '
                                                 'shown that they have not been investing in 5G opportunities at the '
                                                 'present time',
                                                 'network expansion and enhancements remain concentrated around '
-                                                'improving LTE coverage.',
+                                                'improving LTE coverage',
                                                 2021],
                                    'intl': [ 'landing points for the GlobeNet, Gemini Bermuda, CBUS, and the CB-1 '
                                              'submarine cables to the Caribbean, South America and the US',
@@ -1733,7 +1631,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -1763,7 +1661,7 @@ P1_CNTR = \
   'Bhutan': { 'cc2': 'BT',
               'dep': None,
               'infos': { 'codes': {'cc3': 'BTN', 'ccn': '064', 'genc': 'BTN', 'stan': 'BTN'},
-                         'geo': { 'airports': 2,
+                         'geo': { 'airports': 3,
                                   'bound': {'bord': {'China': 477, 'India': 659}, 'len': 1136},
                                   'capital': {'coord': '27 28 N, 89 38 E', 'name': 'Thimphu', 'time_diff': 'UTC+6'},
                                   'coord': ['27 30 N, 90 30 E'],
@@ -1788,18 +1686,12 @@ P1_CNTR = \
                                                'transformation due to the opening of its borders, liberalization of '
                                                'its telecom sector, and the active support from the government towards '
                                                'increased competition in the mobile, broadband, and ISP segments',
-                                               'a lack of investment in fixed-line infrastructure over the years by '
-                                               'the national (state-owned) telco Bhutan Telecom means that fixed-line '
-                                               'telephony and fixed broadband subscripotions will forever stay low '
-                                               '(estimated to be 3.0% and 0.4%, respectively, in 2021)',
                                                'the relatively widespread availability of the mobile platform has '
                                                'caused an explosion in mobile broadband subscriber numbers, growing '
                                                'from zero to over 100% penetration in just ten years (between 2010 and '
                                                '2019).',
                                                'the onset of the Covid-19 crisis in 2020 caused the subscription rates '
-                                               'to drop back a little &ndash',
-                                               'even though Bhutan has successfully managed to keep its case numbers '
-                                               'and mortality very low',
+                                               'to drop back a little',
                                                'growth is projected to return in 2022 (along with the broader mobile '
                                                'market) as the overall economy recovers',
                                                'the government opens up more to foreign investment, trade, and tourism',
@@ -1815,7 +1707,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -1874,11 +1766,6 @@ P1_CNTR = \
                                                 "long-distance carrier for each call by dialing the carrier's prefix",
                                                 'several operators have also adopted fixed-wireless technologies, and '
                                                 'some rent fiber-optic capacity',
-                                                'state-owned Empresa Nacional de Telecomunicaciones (Entel) is the '
-                                                "country's incumbent long-distance operator, also offering local "
-                                                'telephony, DSL, and pay TV services',
-                                                "its subsidiary Entel Movil is Bolivia's largest mobile network "
-                                                'provider',
                                                 'the fixed broadband services remain expensive, though the cost of '
                                                 'bandwidth is only a fraction of what it was only a few years ago',
                                                 'services are still unavailable in many rural and remote areas, and '
@@ -1886,34 +1773,26 @@ P1_CNTR = \
                                                 'being a landlocked country, Bolivia had no direct access to submarine '
                                                 'cable networks, and relies on satellite services or terrestrial links '
                                                 'across neighboring countries',
-                                                'in September 2020 Entel inaugurated a new cable running via Peru, '
-                                                'which has increased capacity and contributed to a dramatic fall in '
-                                                'end-user prices',
+                                                'in September 2020 a new cable running via Peru, has increased '
+                                                'capacity and contributed to a dramatic fall in end-user prices',
                                                 'fixed broadband services are fast migrating from DSL to fiber, while '
                                                 'there are also cable broadband services available in some major '
                                                 'cities',
-                                                'in 2007 Entel has focused on providing telecom services in rural '
-                                                'areas under a project known as &lsquo',
+                                                'in 2007 the focus was on providing telecom services in rural areas '
+                                                'under a project known as &lsquo',
                                                 "Territory with Total Coverage'",
                                                 'this project aims to increase telecom coverage through mobile rather '
                                                 'than through fixed networks',
-                                                '<br />Bolivia has almost twenty times as many mobile phone '
-                                                'subscribers as fixed line connections, and the trend towards '
-                                                'fixed-mobile substitution continues',
-                                                'besides Entel, two other companies offer mobile telephony: Tigo, '
-                                                'wholly owned by Luxembourg-based Millicom International, and '
-                                                'NuevaTel, trading as Viva and controlled by Trilogy International',
-                                                "a proposed deal to merge Millicom's business units in the region with "
-                                                'those of Liberty Latin America was called off in February 2019',
-                                                'all three mobile companies offer 3G and LTE services',
+                                                'Bolivia has almost twenty times as many mobile phone subscribers as '
+                                                'fixed line connections, and the trend towards fixed-mobile '
+                                                'substitution continues',
+                                                'all the mobile companies offer 3G and LTE services',
                                                 'due to the poor quality, high cost, and poor reach of DSL, mobile '
                                                 'networks have become the principal platform for voice services and '
                                                 'data access',
-                                                'Tigo launched the first LTE services in mid-2014, followed by Viva in '
-                                                'mid-2015',
-                                                "by early 2021 both companies' networks reached more than 95% of the "
+                                                "by early 2021 companies' networks reached more than 95% of the "
                                                 'population',
-                                                'about 92% of all internet accesses are via smartphones.',
+                                                'about 92% of all internet accesses are via smartphones',
                                                 2021],
                                    'intl': [ 'Bolivia has no direct access to submarine cable networks and must '
                                              'therefore connect to the rest of the world either via satellite or '
@@ -1924,7 +1803,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -2001,20 +1880,12 @@ P1_CNTR = \
                                                                'across the Union',
                                                                'further roaming agreements were made in 2019 with '
                                                                'other western Balkan countries',
-                                                               'the largest operator BH Telecom is the dominant '
-                                                               'provider, while Telekom Srpske operates in Republika '
-                                                               'Srpska and HT Mostar is active in Herzegovina',
-                                                               'these three incumbent operators control 99% of the '
-                                                               'market',
-                                                               'all three are subject to specific obligations designed '
-                                                               'to improve competition',
                                                                'the fixed-line broadband network is comparatively '
                                                                'underdeveloped, with the result that investments made '
-                                                               'in mobile upgrades by BH Telecom and Telekom Srpske '
-                                                               'are facilitating broadband connectivity in the country '
-                                                               'to a greater extent than is common elsewhere in Europe',
-                                                               'internet services are available through the incumbents '
-                                                               'and a number of alternative operators',
+                                                               'in mobile upgrades to facilitate broadband '
+                                                               'connectivity in the country to a greater extent than '
+                                                               'is common elsewhere in Europe',
+                                                               'internet services are available',
                                                                'DSL and cable are the main platforms for fixed-line '
                                                                'connectivity, while fiber broadband as yet has only a '
                                                                'small market presence',
@@ -2036,7 +1907,7 @@ P1_CNTR = \
                                                                'trials of 5G technology have been undertaken, though '
                                                                'there are no plans to launch services commercially in '
                                                                'the short term, given that the MNOs can continue to '
-                                                               'exploit the capacity of their existing LTE networks.',
+                                                               'exploit the capacity of their existing LTE networks',
                                                                2021],
                                                   'intl': ['no satellite earth stations', 0],
                                                   'note': [ 'the COVID-19 pandemic continues to have a significant '
@@ -2044,8 +1915,8 @@ P1_CNTR = \
                                                             'since 2020, some aspects of the telecom sector have '
                                                             'experienced a downturn, particularly in mobile device '
                                                             'production',
-                                                            'progress towards 5G implementation has resumed, as well '
-                                                            'as upgrades to infrastructure',
+                                                            'progress toward 5G implementation has resumed, as well as '
+                                                            'upgrades to infrastructure',
                                                             'consumer spending on telecom services has increased due '
                                                             'to the surge in demand for capacity and bandwidth',
                                                             'the crucial nature of telecom services as a tool for work '
@@ -2083,7 +1954,7 @@ P1_CNTR = \
                            'tel': { 'code': '267',
                                     'domestic': [ 'fixed-line teledensity has declined in recent years and now stands '
                                                   'at roughly 6 telephones per 100 persons',
-                                                  'mobile-cellular teledensity is roughly 162 telephones per 100 '
+                                                  'mobile-cellular teledensity is roughly 163 telephones per 100 '
                                                   'persons',
                                                   2020],
                                     'general': [ "effective regulatory reform has made Botswana's telecom market one "
@@ -2091,20 +1962,10 @@ P1_CNTR = \
                                                  'there is a service-neutral licensing regime adapted to the '
                                                  'convergence of technologies and services, and several operators now '
                                                  'compete in all telecom sectors',
-                                                 'Botswana has one of the highest mobile subscription rates in Africa, '
-                                                 'though with this growth in the number of subscribers has slowed '
-                                                 'sharply in recent years',
-                                                 'the popular use of multiple SIM cards from different operators '
-                                                 'convinced that regulator that there was no need introduce mobile '
-                                                 'number portability, and although the government pursued the idea for '
-                                                 'some years, it accepted in April 2021 that it would not be '
-                                                 'implemented after all',
+                                                 'Botswana has one of the highest mobile penetration rates in Africa',
                                                  'in a bid to generate new revenue streams and secure market share, '
-                                                 'the three MNOs &ndash',
-                                                 "Mascom Wireless (an affiliate of South Africa's MTN), Orange "
-                                                 'Botswana (backed by Orange Group) and BTC &ndash',
-                                                 'have entered the underdeveloped broadband sector by adopting of 3G, '
-                                                 'LTE, and WiMAX technologies',
+                                                 'the three mobile network operators have entered the underdeveloped '
+                                                 'broadband sector by adopting of 3G, LTE, and WiMAX technologies',
                                                  'in the fixed-line broadband market they compete with a large number '
                                                  'of ISPs, some of which have rolled out their own wireless access '
                                                  'infrastructure',
@@ -2114,9 +1975,6 @@ P1_CNTR = \
                                                  'the landing of additional cables in the region in recent years has '
                                                  'improved the competitive situation in this sector, while prices for '
                                                  'connectivity have fallen dramatically',
-                                                 'Paratus Teleco in mid-2021 completed the first stage of a private '
-                                                 "network covering the entire country, and linking to the company's "
-                                                 'international cables',
                                                  2022],
                                     'intl': [ 'international calls are made via satellite, using international direct '
                                               'dialing',
@@ -2129,7 +1987,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -2180,8 +2038,8 @@ P1_CNTR = \
                                   'coast': 7491,
                                   'coord': ['10 00 S, 55 00 W'],
                                   'popul': 217240060,
-                                  'ports': { 'container': 'Itajai (1,223,262), Paranagua (865,110), Santos (4,165,248) '
-                                                          '(2019)',
+                                  'ports': { 'container': 'Itajai (1,610,092), Paranagua (1,044,157), Santos '
+                                                          '(4,442,876) (2021)',
                                              'seaport': 'Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, '
                                                         'Sao Sebastiao, Tubarao'},
                                   'region': 'South America',
@@ -2218,8 +2076,6 @@ P1_CNTR = \
                                                'the fixed line broadband market has seen rapid growth for a number of '
                                                'years, with a growing focus on fiber broadband',
                                                'in 2019 the number of fiber accesses overtook DSL connections',
-                                               'Vivo has the largest share of the fiber market, followed by Oi and '
-                                               'Claro',
                                                'the country is a key landing point for a number of important submarine '
                                                'cables connecting to the US, Central and South America, the Caribbean, '
                                                'Europe, and Africa',
@@ -2227,7 +2083,7 @@ P1_CNTR = \
                                                '2022, which will increase bandwidth and push down broadband prices for '
                                                'end-users',
                                                'investments have also been made into terrestrial fiber cables between '
-                                               'Brazil, Argentina, and Chile.',
+                                               'Brazil, Argentina, and Chile',
                                                2021],
                                   'intl': [ 'landing points for a number of submarine cables, including Malbec, ARBR, '
                                             'Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, '
@@ -2245,7 +2101,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -2278,6 +2134,7 @@ P1_CNTR = \
                           '72423',
                           '72424',
                           '72428',
+                          '72429',
                           '72430',
                           '72431',
                           '72432',
@@ -2345,7 +2202,7 @@ P1_CNTR = \
                                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/british-virgin-islands'},
                                          'nameset': ['british virgin islands', 'the virgin islands', 'virgin islands'],
                                          'tel': { 'code': '1284',
-                                                  'domestic': [ 'fixed-line connections exceed 24 per 100 persons and '
+                                                  'domestic': [ 'fixed-line connections exceed 23 per 100 persons and '
                                                                 'mobile cellular subscribership is roughly 116 per 100 '
                                                                 'persons',
                                                                 2020],
@@ -2388,8 +2245,8 @@ P1_CNTR = \
                                                             'since 2020, some aspects of the telecom sector have '
                                                             'experienced a downturn, particularly in mobile device '
                                                             'production',
-                                                            'progress towards 5G implementation has resumed, as well '
-                                                            'as upgrades to infrastructure',
+                                                            'progress toward 5G implementation has resumed, as well as '
+                                                            'upgrades to infrastructure',
                                                             'consumer spending on telecom services has increased due '
                                                             'to the surge in demand for capacity and bandwidth',
                                                             'the crucial nature of telecom services as a tool for work '
@@ -2430,11 +2287,8 @@ P1_CNTR = \
                                   'domestic': [ 'every service available',
                                                 'nearly 24 per 100 fixed-line, 120 per 100 mobile-cellular',
                                                 2020],
-                                  'general': [ 'Brunei Darussalam seemed poised to start its economic recovery from '
-                                               'the double blow it received to its GDP in 2020 from the Covid-19 '
-                                               'crisis and a global slump in oil prices',
-                                               "Brunei's mobile market experienced a sharp a sharp drop-off in "
-                                               'subscriber numbers in 2020',
+                                  'general': [ "Brunei's mobile market experienced drop-off in subscriber numbers in "
+                                               '2020',
                                                'in 2022 there was a concerted effort to build out the fixed-line '
                                                'infrastructure while progressing towards introducing 5G mobile '
                                                'services',
@@ -2452,11 +2306,8 @@ P1_CNTR = \
                                                'for growth',
                                                'mobile and mobile broadband, on the other hand, are still suffering '
                                                'from the market contractions first felt in 2020',
-                                               'rates for both segments were already extremely high so the decline may '
-                                               'simply be a reflection of those users with services that were purely '
-                                               'discretionary',
                                                "Brunei's 2G GSM network is shut down, with the spectrum to be "
-                                               'reallocated to 3G, 4G, and potentially 5G use.',
+                                               'reallocated to 3G, 4G, and potentially 5G use',
                                                2021],
                                   'intl': [ 'landing points for the SEA-ME-WE-3, SJC, AAG, Lubuan-Brunei Submarine '
                                             'Cable via optical telecommunications submarine cables that provides links '
@@ -2468,7 +2319,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -2507,7 +2358,7 @@ P1_CNTR = \
                                         'republika bulgaria',
                                         'the republic of bulgaria'],
                            'tel': { 'code': '359',
-                                    'domestic': [ 'fixed-line over 12 per 100 persons, mobile-cellular teledensity, '
+                                    'domestic': [ 'fixed-line over 13 per 100 persons, mobile-cellular teledensity, '
                                                   'fostered by multiple service providers, is over 114 telephones per '
                                                   '100 persons',
                                                   2020],
@@ -2520,27 +2371,15 @@ P1_CNTR = \
                                                  'migrating from fixed-line voice telephony to mobile and VoIP '
                                                  'alternatives, while the volume of SMS and MMS traffic has been '
                                                  'affected by the growing use of alternative OTT messaging services',
-                                                 'the mature mobile market has effective competition between A1 '
-                                                 'Bulgaria, Yettel (branded as Telenor Bulgaria before March 2022, the '
-                                                 "Telenor Group's local unit that had been sold to the PPF Group in "
-                                                 'August 2018), and the incumbent telco Vivacom',
-                                                 'competition intensified following the implementation of a '
-                                                 'streamlined mobile number portability process',
-                                                 'customer preference for bundled services has put pressure on pricing '
-                                                 'and encouraged operators to offer generous voice and data packages',
-                                                 'Vivacom was sold to United Group in April 2020, following European '
-                                                 'Commission approval',
-                                                 'the company is investing in network upgrades and its development of '
-                                                 'services based on 5G have stimulated other market players to invest '
-                                                 'in their own service provision',
-                                                 'A1 Bulgaria and Vivacom both launched commercial 5G services in '
-                                                 '2020, and by the end of 2022 about 70% of the population is expected '
-                                                 'to be covered by 5G',
+                                                 'investing in network upgrades and its development of services based '
+                                                 'on 5G have stimulated other market players to invest in their own '
+                                                 'service provision',
+                                                 'by the end of 2022 about 70% of the population is expected to be '
+                                                 'covered by 5G',
                                                  'the broadband market in Bulgaria enjoys excellent cross-platform '
                                                  'competition',
                                                  'the share of the market held by DSL has fallen steadily as a result '
-                                                 'of customers being migrated to fiber networks, particularly those '
-                                                 'operated by the incumbent telco Vivacom',
+                                                 'of customers being migrated to fiber networks',
                                                  'by early 2021 about 65% of fixed-line broadband subscribers were on '
                                                  'fiber infrastructure',
                                                  "Bulgaria joins the U.S. State Department's Clean Network initiative "
@@ -2557,7 +2396,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -2610,10 +2449,6 @@ P1_CNTR = \
                                                      'this will link the capital city to an addition 145 '
                                                      'municipalities, and provide additional connectivity to '
                                                      'terrestrial cables in neighboring countries',
-                                                     'this new infrastructure is also making it possible for the '
-                                                     'government to trial tele medicine, and so address the very poor '
-                                                     'availability of medical services in almost all parts of the '
-                                                     'country',
                                                      'the activities of the militants in side areas of the country '
                                                      'jeopardize overall security, and render it difficult for the '
                                                      'telcos to safeguard their networks and equipment',
@@ -2624,7 +2459,7 @@ P1_CNTR = \
                                                   'production and supply chains globally',
                                                   'since 2020, some aspects of the telecom sector have experienced a '
                                                   'downturn, particularly in mobile device production',
-                                                  'progress towards 5G implementation has resumed, as well as upgrades '
+                                                  'progress toward 5G implementation has resumed, as well as upgrades '
                                                   'to infrastructure',
                                                   'consumer spending on telecom services has increased due to the '
                                                   'surge in demand for capacity and bandwidth',
@@ -2653,9 +2488,8 @@ P1_CNTR = \
                                                 'name': 'Gitega (political capital), Bujumbura (commercial capital); '
                                                         'note - in January 2019, the Burundian parliament voted to '
                                                         'make Gitega the political capital of the country while '
-                                                        'Bujumbura would remain its economic capital; all branches of '
-                                                        'the government are expected to have moved from Bujumbura to '
-                                                        'Gitega by 2022',
+                                                        'Bujumbura would remain its economic capital; as of 2022, the '
+                                                        "government's move to Gitega remains incomplete",
                                                 'time_diff': 'UTC+2'},
                                    'coord': ['3 30 S, 30 00 E'],
                                    'popul': 12696478,
@@ -2704,11 +2538,10 @@ P1_CNTR = \
                                                 'the number of mobile subscribers increased 7% in the third quarter of '
                                                 '2021, quarter-on-quarter',
                                                 'similar growth is expected for the next two years at least, which '
-                                                'will help bring the mobile level closer to the average for the '
-                                                'region.',
+                                                'will help bring the mobile level closer to the average for the region',
                                                 2022],
                                    'intl': [ 'satellite earth station - 1 Intelsat (Indian Ocean)',
-                                             'the government, supported by the Word Bank, has backed a joint venture '
+                                             'the government, supported by the World Bank, has backed a joint venture '
                                              'with a number of prominent telecoms to build a national fiber backbone '
                                              'network, offering onward connectivity to submarine cable infrastructure '
                                              'landings in Kenya and Tanzania',
@@ -2717,7 +2550,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -2805,7 +2638,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -2852,31 +2685,17 @@ P1_CNTR = \
                                                   2020],
                                     'general': [ 'Cameroon was for many years one of the few countries in Africa with '
                                                  'only two competing mobile operators',
-                                                 'after some delays, Viettel Cameroon launched a third network and has '
-                                                 'since grown its subscriber base rapidly',
-                                                 'Camtel became the fourth mobile operator in early 2020 after '
-                                                 'securing three licenses, however it suspended the launch of services '
-                                                 'in early 2021',
-                                                 'despite this, by the end of the year a launch under the Blue brand '
-                                                 'was imminent',
                                                  'the investment programs among operators over the next few years will '
                                                  'considerably boost mobile broadband services in rural areas of the '
                                                  'country, many of which are under served by fixed-line infrastructure',
-                                                 'the ICT sector in Cameroon is making steady progress, enabling the '
-                                                 'country to make better use of the digital economy',
-                                                 'about 95% of all electronic transactions are carried through the '
-                                                 'm-money services operated by MTN Cameroon and Orange Cameroon',
                                                  'the government has also been supportive, having launched its &lsquo',
                                                  "Cameroon Digital 2020' program, aimed at improving connectivity "
-                                                 'nationally. A large number of small ICT projects form part of the '
-                                                 'overall program',
+                                                 'nationally',
                                                  'improved submarine and terrestrial cable connectivity has '
                                                  'substantially increased international bandwidth, in turn leading to '
                                                  'reductions in access prices for consumers',
                                                  'other projects such as Acceleration of the Digital Transformation of '
-                                                 'Cameroon are aimed at developing the digital economy, and '
-                                                 'accelerating the use of ICT in areas such as government services, '
-                                                 'agriculture, and commerce.',
+                                                 'Cameroon are aimed at developing the digital economy',
                                                  2022],
                                     'intl': [ 'landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and WACS '
                                               'fiber-optic submarine cable that provides connectivity to Europe, South '
@@ -2887,7 +2706,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -2912,7 +2731,7 @@ P1_CNTR = \
                                   'coast': 202080,
                                   'coord': ['60 00 N, 95 00 W'],
                                   'popul': 38232593,
-                                  'ports': { 'container': 'Montreal (1,745,244), Vancouver (3,398,860) (2019)',
+                                  'ports': { 'container': 'Montreal (1,585,465), Vancouver (3,678,952) (2021)',
                                              'seaport': 'Halifax, Saint John (New Brunswick), Vancouver'},
                                   'region': 'North America',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CA',
@@ -2930,34 +2749,19 @@ P1_CNTR = \
                                                'services, while there has also been further investment in 5G',
                                                'investment programs have also been supported by regulatory efforts to '
                                                'ensure that operators have spectrum available to develop 5G services',
-                                               'spectrum in the 600MGz and 3.5GHz ranges has already been auctioned, '
-                                               'while other auctions are planned through to 2024',
-                                               'in the 3.5GHz range the regulator set aside 50MHz for new entrants to '
-                                               'encourage competition in the wireless segment',
                                                'an investment in fixed-line infrastructure, focused on FttP and, among '
-                                               'cable broadband providers, upgrades to the DOCSIS3.1 standard',
-                                               'the DSL segment is losing market share as customers are migrated to '
-                                               'fiber',
-                                               'Telus expected to have completely decommissioned its copper network by '
-                                               'the end of 2022',
+                                               'cable broadband providers',
                                                'government policy has encouraged the extension of broadband to rural '
                                                'and regional areas, with the result that services are almost '
                                                'universally available and the emphasis now is on improving service '
                                                'speeds to enable the entire population to benefit from the digital '
                                                'economy and society',
                                                'cable broadband is the principal access platform, followed by DSL',
-                                               'the main cablecos are upgrading their networks to the DOCSIS3.1 '
-                                               'standard, which can deliver data at 1Gb/s and above',
-                                               'fiber deployments are also gaining momentum, with a growing number of '
-                                               'Gigabit towns now connected',
-                                               'the mobile rate remains comparatively low by international standards, '
-                                               'and so the market offers further room for growth',
+                                               'the mobile rate remains comparatively low by international standards',
                                                'Canadians have provided for LTE and LTE-A infrastructure',
                                                'despite topographical challenges and the remoteness of many areas, the '
-                                               'major players effectively offer 99% population coverage with LTE. In '
-                                               'the 5G segment, Telus and Bell Wireless were early triallists, '
-                                               'followed by Shaw Communications in May 2018',
-                                               'operators now provide up to 70% population coverage with 5G.',
+                                               'major players effectively offer 99% population coverage with LTE',
+                                               'operators now provide up to 70% population coverage with 5G',
                                                2022],
                                   'intl': [ 'landing points for the Nunavut Undersea Fiber Optic Network System, '
                                             'Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 '
@@ -2970,7 +2774,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -2986,9 +2790,12 @@ P1_CNTR = \
                           '302130',
                           '302131',
                           '302150',
+                          '302151',
+                          '302152',
                           '302220',
                           '302221',
                           '302222',
+                          '302230',
                           '302250',
                           '302270',
                           '302290',
@@ -3049,6 +2856,7 @@ P1_CNTR = \
                           '302781',
                           '302790',
                           '302820',
+                          '302848',
                           '302860',
                           '302880',
                           '302910',
@@ -3092,7 +2900,6 @@ P1_CNTR = \
                                                    'regulator awards commercial 4G licenses and starts 5G pilot',
                                                    'govt. extends USD 25 million for submarine fiber-optic cable '
                                                    'project linking Africa to Portugal and Brazil',
-                                                   'major service provider is Cabo Verde Telecom (CVT)',
                                                    2020],
                                       'intl': [ 'landing points for the Atlantis-2, EllaLink, Cabo Verde Telecom '
                                                 'Domestic Submarine Cable Phase 1, 2, 3 and WACS fiber-optic '
@@ -3105,8 +2912,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -3141,33 +2948,21 @@ P1_CNTR = \
                                  'tel': { 'code': '1345',
                                           'domestic': [ 'introduction of competition in the mobile-cellular market in '
                                                         '2004 boosted subscriptions',
-                                                        'nearly 55 per 100 fixed-line and 153 per 100 mobile-cellular',
-                                                        2019],
+                                                        'nearly 55 per 100 fixed-line and 152 per 100 mobile-cellular',
+                                                        2020],
                                           'general': [ 'the telecom sector has seen a decline in subscriber numbers '
                                                        '(particularly for prepaid mobile services the mainstay of '
                                                        'short term visitors) and revenue',
                                                        'fixed and mobile broadband services are two areas that have '
                                                        'benefited from the crisis as employees and students have '
                                                        'resorted to working from home',
-                                                       "one major casualty may be the region's second largest telco "
-                                                       'operator, Digicel',
-                                                       'the company filed for bankruptcy in the US in April 2020',
-                                                       'it continues to operate in all of its Caribbean markets as it '
-                                                       'seeks to refinance billions of dollars of debt',
-                                                       'the other major telco, regional incumbent Cable & Wireless '
-                                                       'Communications (CWC), is experiencing similar drops in '
-                                                       'subscriber numbers and revenue',
-                                                       'CWC is expanding and enhancing its fixed and mobile networks '
-                                                       'in many of the countries it serves around the Caribbean, '
-                                                       'despite many locations being small islands with very small '
-                                                       'populations',
                                                        'one area of the telecom market that is not prepared for growth '
                                                        'is 5G mobile',
                                                        'governments, regulators, and even the mobile network operators '
                                                        'have shown that they have not been investing in 5G '
                                                        'opportunities at the present time',
                                                        'network expansion and enhancements remain concentrated around '
-                                                       'improving LTE coverage.',
+                                                       'improving LTE coverage',
                                                        2021],
                                           'intl': [ 'landing points for the Maya-1, Deep Blue Cable, and the '
                                                     'Cayman-Jamaica Fiber System submarine cables that provide links '
@@ -3178,7 +2973,7 @@ P1_CNTR = \
                                                     'production and supply chains globally',
                                                     'since 2020, some aspects of the telecom sector have experienced a '
                                                     'downturn, particularly in mobile device production',
-                                                    'progress towards 5G implementation has resumed, as well as '
+                                                    'progress toward 5G implementation has resumed, as well as '
                                                     'upgrades to infrastructure',
                                                     'consumer spending on telecom services has increased due to the '
                                                     'surge in demand for capacity and bandwidth',
@@ -3220,20 +3015,37 @@ P1_CNTR = \
                                                     'domestic': [ 'very limited telephone service with less than 1 '
                                                                   'fixed-line connection per 100 persons',
                                                                   'with the presence of multiple providers '
-                                                                  'mobile-cellular service has reached nearly 34 per '
+                                                                  'mobile-cellular service has reached nearly 38 per '
                                                                   '100 mobile-cellular subscribers',
                                                                   'cellular usage is increasing from a low base',
                                                                   'most fixed-line and mobile-cellular telephone '
                                                                   'services are concentrated in Bangui',
-                                                                  2019],
-                                                    'general': [ 'network consists principally of microwave radio '
-                                                                 'relay and at low-capacity',
-                                                                 'ongoing conflict has obstructed telecommunication '
-                                                                 'and media development, although there are ISP '
-                                                                 '(Internet service providers) and mobile phone '
-                                                                 'carriers, radio is the most-popular communications '
-                                                                 'medium',
-                                                                 2018],
+                                                                  2020],
+                                                    'general': [ 'given the poor fixed-line infrastructure in most '
+                                                                 'countries across Africa, voice and data services '
+                                                                 'across the region are greatly dependent on mobile '
+                                                                 'networks',
+                                                                 'in the majority of markets, including those with '
+                                                                 'better developed fixed infrastructure such as South '
+                                                                 'Africa, Nigeria, and Kenya, up to 98% of all voice '
+                                                                 'and data connections are via mobile networks',
+                                                                 'during the last two to three years, national '
+                                                                 'governments and telecom regulators have striven to '
+                                                                 'improve fixed infrastructure with the wider aim of '
+                                                                 'developing economic growth based on digital services '
+                                                                 'and connectivity',
+                                                                 'this work is principally focused on delivering '
+                                                                 'fiber-based connectivity',
+                                                                 'since the amount of copper infrastructure (DSL or '
+                                                                 'HFC) used for broadband is so negligible, '
+                                                                 'governments and private firms, including telcos are '
+                                                                 'investing in fiber rather than in older technologies',
+                                                                 'while supporting broadband to premises, health '
+                                                                 'centers, and government buildings, the new fiber '
+                                                                 'infrastructure is mainly being deployed to provide '
+                                                                 'mobile platforms and to support the rapid growth in '
+                                                                 'data traffic',
+                                                                 2022],
                                                     'intl': [ 'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                               0],
                                                     'note': [ 'the COVID-19 pandemic continues to have a significant '
@@ -3241,7 +3053,7 @@ P1_CNTR = \
                                                               'since 2020, some aspects of the telecom sector have '
                                                               'experienced a downturn, particularly in mobile device '
                                                               'production',
-                                                              'progress towards 5G implementation has resumed, as well '
+                                                              'progress toward 5G implementation has resumed, as well '
                                                               'as upgrades to infrastructure',
                                                               'consumer spending on telecom services has increased due '
                                                               'to the surge in demand for capacity and bandwidth',
@@ -3291,28 +3103,19 @@ P1_CNTR = \
                                              'fixed, mobile and internet is well below African averages',
                                              "Chad's telecom market offers some potential for investors to develop "
                                              'services given the low starting base',
-                                             'the two main operators Moov Africa Chad and Airtel Chad have invested in '
-                                             'infrastructure and have become the main providers of voice and data '
-                                             'services',
-                                             'the mobile sector has developed steadily under the auspices of these two '
-                                             'operators',
-                                             'the national telco and fixed-line operator Sotel Tchad operates the '
-                                             "country's third mobile network, as Salam Mobile, though it is mainly "
-                                             'focused on voice services since it depends on GPRS and EDGE technologies '
-                                             '(which can provide only basic mobile data services)',
                                              "the country's first 3G/LTE mobile license was awarded in April 2014",
                                              'Chad finally gained access to international fiber bandwidth in 2012 its '
                                              'national backbone infrastructure remains underdeveloped',
                                              'the World Bank-funded Central African Backbone (CAB) project takes in '
                                              'Chad, while the country is also party to a Trans-Saharan Backbone '
-                                             'project which will link a fiber cable to Nigeria and Algeria.',
+                                             'project which will link a fiber cable to Nigeria and Algeria',
                                              2022],
                                 'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
                                 'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -3340,7 +3143,7 @@ P1_CNTR = \
                                  'coast': 6435,
                                  'coord': ['30 00 S, 71 00 W'],
                                  'popul': 18430408,
-                                 'ports': { 'container': 'San Antonio (1,709,635), Valparaiso (898,715) (2019)',
+                                 'ports': { 'container': 'San Antonio (1,840,458), Valparaiso (793,118) (2021)',
                                             'seaport': 'Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San '
                                                        'Vicente, Valparaiso'},
                                  'region': 'South America',
@@ -3356,7 +3159,6 @@ P1_CNTR = \
                                  'general': [ 'the market for fixed and mobile telephony is highly competitive and '
                                               'rapidly evolving',
                                               'the mobile rate is among the highest in South America',
-                                              'Movistar and Entel remain the market leaders, followed by Claro and WOM',
                                               'LTE infrastructure is extensive and 5G spectrum auctions which took '
                                               'place in February 2021 are expected to prompt the deployment of 5G '
                                               'networks by the end of the year, following extensive trials held by the '
@@ -3369,24 +3171,15 @@ P1_CNTR = \
                                               'country and will further increase fixed-line broadband',
                                               'there is a strong focus on fiber broadband, with the number of fiber '
                                               'subscribers having increased 61.7% in 2020, year-on-year',
-                                              'Movistar dominates the fiber broadband market, with a 49.7% market '
-                                              'share at the end of 2020',
                                               'technological improvements have allowed operators to provide a variety '
                                               'of services via their networks, giving rise to a number of bundled '
                                               'packages at competitive prices, including access to video on demand '
                                               'services which in turn is increasing fixed-line broadband',
-                                              'the leading fixed broadband operators are Telef&oacute',
-                                              'nica Chile, trading as Movistar, VTR Globalcom (VTR), the GTD Group, '
-                                              'Entel, Claro, and WOM',
                                               'traditional fixed-line teledensity continues to fall as consumers '
                                               'switch to mobile networks and to fixed broadband for voice and data '
                                               'connectivity',
-                                              'Humboldt submarine cable project to link Chile with New Zealand and '
-                                              'Australia',
                                               'more than 8,300 schools receive free broadband as part of the &lsquo',
                                               "Connectivity for Education 2030' project",
-                                              'regulator completes multi-band 5G spectrum auction, agrees to SpaceX '
-                                              'providing its Starlink satellite broadband service',
                                               2021],
                                  'intl': [ 'landing points for the Pan-Am, Prat, SAm-1, American Movil-Telxius West '
                                            'Coast Cable, FOS Quellon-Chacabuco, Fibra Optical Austral, SAC and Curie '
@@ -3398,7 +3191,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -3465,11 +3258,12 @@ P1_CNTR = \
                                  'coast': 14500,
                                  'coord': ['35 00 N, 105 00 E'],
                                  'popul': 1410539758,
-                                 'ports': { 'container': 'Dalian (8,760,000), Guangzhou (23,236,200), Ningbo '
-                                                         '(27,530,000), Qingdao (21,010,000), Shanghai (43,303,000), '
-                                                         'Shenzhen (25,770,000), Tianjin (17,264,000) (2019)',
+                                 'ports': { 'container': 'Dalian (3,672,000), Guangzhou (24,180,000), Ningbo '
+                                                         '(31,070,000), Qingdao (23,710,000), Shanghai (47,030,300), '
+                                                         'Shenzhen (28,767,600), Tianjin (20,269,400), Xiamen '
+                                                         '(12,045,700) (2021)',
                                             'seaport': 'Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, '
-                                                       'Tianjin'},
+                                                       'Tianjin, Xiamen'},
                                  'region': 'Asia',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CN',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/china'},
@@ -3513,7 +3307,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -3559,11 +3353,19 @@ P1_CNTR = \
                                    'nameset': [ 'christmas island',
                                                 'territory of christmas island',
                                                 'the territory of christmas island'],
-                                   'tel': { 'domestic': [ 'local area code - 08',
-                                                          'GSM mobile-cellular telephone service is provided by '
-                                                          'Telstra as part of the Australian network',
-                                                          0],
-                                            'general': ['service provided by the Australian network', 0],
+                                   'tel': { 'domestic': [ 'improvements to Christmas Island include an upgrade to the '
+                                                          'macro cell base stations and deploy a new macro cell base '
+                                                          'station at the airport',
+                                                          2022],
+                                            'general': [ 'internet access on Christmas Island is provided by satellite',
+                                                         'improvements through the Regional Connectivity Program to '
+                                                         'the macro and small cell mobile sites will provide new and '
+                                                         'improved mobile, voice and data connectivity for residents '
+                                                         'and visitors',
+                                                         'the upgrade will also support local businesses and community '
+                                                         'facilities, enabling increased residential access to '
+                                                         'essential services such as telehealth and education',
+                                                         2022],
                                             'intl': [ 'international code - 61 8',
                                                       'ASC submarine cable to Singapore and Australia',
                                                       'satellite earth station - 1 (Intelsat provides telephone and '
@@ -3749,7 +3551,7 @@ P1_CNTR = \
                                     'coast': 3208,
                                     'coord': ['4 00 N, 72 00 W'],
                                     'popul': 49059221,
-                                    'ports': { 'container': 'Buenaventura (1,121,267), Cartagena (2,995,031) (2019)',
+                                    'ports': { 'container': 'Buenaventura (1,082,746), Cartagena (3,343,810) (2021)',
                                                'seaport': 'Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, '
                                                           'TurboPacific Ocean - Buenaventura'},
                                     'region': 'South America',
@@ -3771,39 +3573,26 @@ P1_CNTR = \
                                                   2021],
                                     'general': [ 'the telecom sector had a solid year thanks to positive performances '
                                                  'in the fixed-line broadband, mobile broadband, and mobile voice and '
-                                                 'data market',
-                                                 'fixed-line remained stable by the end of 2020, though began to '
-                                                 'increase into 2021 as a result of the particular demands on '
-                                                 'households resulting from government measures associated with '
-                                                 'addressing the pandemic',
-                                                 'at less than 15% it is well below the Latin American average',
-                                                 'the mobile market, by contrast, reached a penetration rate of 136% '
-                                                 '(an increase of over three percentage points on 2019) and managed to '
-                                                 'keep the same upward growth trajectory that it has sustained over '
-                                                 'the last ten years',
+                                                 'data markets',
+                                                 'the fixed-line penetration remained stable by the end of 2020, '
+                                                 'though began to increase into 2021 as a result of the particular '
+                                                 'demands on households resulting from government measures associated '
+                                                 'with addressing the pandemic',
+                                                 'the mobile market reached a penetration rate of 136% (an increase of '
+                                                 'over three percentage points on 2019) and managed to keep the same '
+                                                 'upward growth trajectory that it has sustained over the last ten '
+                                                 'years',
                                                  'the fixed-line broadband market also expanded, with the number of '
                                                  'subscribers increasing 11.4%, and with revenue increasing 9.9% '
                                                  'thanks to increased data usage as many customers were forced to work '
                                                  'or study from home during the year',
                                                  'the mobile broadband market was the standout performer in 2020, with '
-                                                 'a 13% increase in the number of subscribers year-on-year, albeit the '
-                                                 'subscription rate is relatively low compared to other Latin American '
+                                                 'a 13% increase in the number of subscribers year-on-year, the '
+                                                 'penetration rate is relatively low compared to other Latin American '
                                                  'countries',
-                                                 'the surge in mobile broadband traffic &mdash',
-                                                 'a 51% increase over the previous year &mdash',
-                                                 'which was again a reflection of the strict lock downs that '
-                                                 'Colombians had to endure for much of 2020',
-                                                 'market leader Claro continued to expand its dominance of the mobile '
-                                                 'broadband market, increasing its share over the last decade by 10% '
-                                                 'to reach 54% at the start of 2021',
-                                                 'Tigo has seen its share halved over the same period of time, yet its '
-                                                 'subscriber base has still managed to grow on the back of a strong '
-                                                 "overall market. Tigo also suffered the most from Colombia's imposed "
-                                                 'lock downs in 2020, severely impacting its retail sales (a 20% '
-                                                 'decline in revenue) with nearly half of its stores being forced to '
-                                                 'close',
-                                                 'Movistar and Claro awarded spectrum in the 3.5GHz band for 5G trials',
-                                                 2021],
+                                                 'most significant of all was the surge in mobile broadband traffic a '
+                                                 '51% increase over the previous year',
+                                                 2022],
                                     'intl': [ 'landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, PCCS, '
                                               'Deep Blue Cable, Globe Net, PAN-AM, SAm-1 submarine cable systems '
                                               'providing links to the US, parts of the Caribbean, and Central and '
@@ -3815,7 +3604,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -3833,11 +3622,13 @@ P1_CNTR = \
                             '732004',
                             '732020',
                             '732099',
+                            '732100',
                             '732101',
                             '732102',
                             '732103',
                             '732111',
                             '732123',
+                            '732124',
                             '732130',
                             '732142',
                             '732154',
@@ -3850,6 +3641,7 @@ P1_CNTR = \
                             '732220',
                             '732230',
                             '732240',
+                            '732250',
                             '732360',
                             '732666'],
                 'msisdn': ['57'],
@@ -3870,19 +3662,19 @@ P1_CNTR = \
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/comoros'},
                           'nameset': [ 'comoros',
                                        'komori',
-                                       'komori (comorian)/ les comores (french)/ juzur al qamar (arabic)',
+                                       'komori (comorian)/les comores (french)/juzur al qamar (arabic)',
                                        'the union of the comoros',
                                        'udzima wa komori',
-                                       'udzima wa komori (comorian)/ union des comores (french)/ al ittihad al qumuri '
+                                       'udzima wa komori (comorian)/union des comores (french)/al ittihad al qumuri '
                                        '(arabic)',
                                        'union of the comoros'],
                           'tel': { 'code': '269',
                                    'domestic': [ 'fixed-line connections less than 1 per 100 persons',
-                                                 'mobile-cellular usage about 54 per 100 persons',
+                                                 'mobile-cellular usage about 90 per 100 persons',
                                                  '2 companies provide domestic and international mobile service and '
                                                  'wireless data',
                                                  2020],
-                                   'general': [ 'Qatar launched a special program for the construction of a wireless '
+                                   'general': [ 'Comoros launched a special program for the construction of a wireless '
                                                 'network to inter connect the 3 islands of the archipelago',
                                                 "telephone service limited to the islands' few towns",
                                                 2020],
@@ -3895,7 +3687,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -3952,7 +3744,7 @@ P1_CNTR = \
                                                   'production and supply chains globally',
                                                   'since 2020, some aspects of the telecom sector have experienced a '
                                                   'downturn, particularly in mobile device production',
-                                                  'progress towards 5G implementation has resumed, as well as upgrades '
+                                                  'progress toward 5G implementation has resumed, as well as upgrades '
                                                   'to infrastructure',
                                                   'consumer spending on telecom services has increased due to the '
                                                   'surge in demand for capacity and bandwidth',
@@ -3978,7 +3770,8 @@ P1_CNTR = \
                                       'coast': 1290,
                                       'coord': ['10 00 N, 84 00 W'],
                                       'popul': 5204411,
-                                      'ports': {'seaport': 'Atlantic Ocean (Caribbean) - Puerto Limon'},
+                                      'ports': { 'container': 'Puerto Limon (1,319,372)',
+                                                 'seaport': 'Atlantic Ocean (Caribbean) - Puerto Limon'},
                                       'region': 'Central America and the Caribbean',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CR',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/costa-rica'},
@@ -3992,18 +3785,7 @@ P1_CNTR = \
                                                     'and coaxial cable link rural areas',
                                                     'Internet service is available',
                                                     2020],
-                                      'general': [ 'in Aug 2021 Liberty Latin America (LLA) completed its acquisition '
-                                                   'of Telef&oacute',
-                                                   'nica Costa Rica (Movistar) &mdash',
-                                                   "Costa Rica's second-largest mobile network operator &mdash",
-                                                   'for around $505 million',
-                                                   'the deal followed on the heels of the failure of Millicom to buy '
-                                                   'Movistar earlier in the year, at a higher price',
-                                                   "LLA's local unit Cabletica will be able to combine its fixed "
-                                                   "telecom services with Movistar's mobile offerings",
-                                                   'a rebranding exercise is anticipated in 2022, with the Movistar '
-                                                   'brand likely to be phased out',
-                                                   "the fixed broadband market is one of the few parts of Costa Rica's "
+                                      'general': [ "the fixed broadband market is one of the few parts of Costa Rica's "
                                                    'telecom sector to experience solid growth in recent years, both in '
                                                    'size and revenue',
                                                    "the country's fiber network expanded by 56% in 2020, reaching "
@@ -4012,14 +3794,14 @@ P1_CNTR = \
                                                    '30%, year-on-year',
                                                    'other areas of the market have proven relatively lack luster, with '
                                                    'slow or even negative growth',
-                                                   'ome of this can be attributed to the economic and social impacts '
+                                                   'some of this can be attributed to the economic and social impacts '
                                                    'of the pandemic, but the fixed-line and mobile sectors have both '
                                                    'been struggling to produce decent results since well before the '
                                                    'start of the crisis',
                                                    'the rollout of 5G network infrastructure in Costa Rica is unlikely '
                                                    'to occur to any scale before 2023, but this may be one of the few '
                                                    'remaining areas of opportunity open to investors outside of '
-                                                   'fixed-line internet and pay TV services.',
+                                                   'fixed-line internet and pay TV services',
                                                    2021],
                                       'intl': [ 'landing points for the ARCOS-1, MAYA-1, and the PAC submarine cables '
                                                 'that provide links to South and Central America, parts of the '
@@ -4031,8 +3813,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -4076,14 +3858,7 @@ P1_CNTR = \
                                                  'persons',
                                                  'mobile-cellular telephone subscriptions are about 107 per 100',
                                                  2020],
-                                   'general': [ "Croatia's telecom market is dominated by the incumbent telco Hrvatski "
-                                                'Telekom and the local units of United Group and Telekom Austria, '
-                                                'there is effective competition from a number of smaller operators',
-                                                'the regulator has helped promote competition via measures encouraging '
-                                                'network access, as well as regional licensing',
-                                                'this has been seen most recently with two 5G licenses having been '
-                                                'reserved for regional rather than national operations',
-                                                'the mobile market is served by three MNOs, supplemented by a number '
+                                   'general': [ 'the mobile market is served by three MNOs, supplemented by a number '
                                                 'of MVNOs',
                                                 'the network operators have focused on improving ARPU by encouraging '
                                                 'prepaid subscribers to migrate to postpaid plans, and on developing '
@@ -4110,7 +3885,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -4122,7 +3897,7 @@ P1_CNTR = \
                                    'tld': '.hr',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.hr'}},
                'mcc': ['219'],
-               'mccmnc': ['21901', '21902', '21904', '21910', '21912', '21920'],
+               'mccmnc': ['21901', '21902', '21903', '21904', '21910', '21912', '21920', '21922', '21930'],
                'msisdn': ['385'],
                'name': 'Croatia',
                'url': 'https://en.wikipedia.org/wiki/Croatia'},
@@ -4167,7 +3942,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -4204,12 +3979,12 @@ P1_CNTR = \
                                        'land curacao',
                                        'land curacao (dutch)/ pais korsou (papiamento)',
                                        'the country of curaçao'],
-                          'tel': { 'domestic': [ 'roughly 33 per 100 users for fixed-line and 113 per 100 users for '
+                          'tel': { 'domestic': [ 'roughly 33 per 100 users for fixed-line and 111 per 100 users for '
                                                  'cellular-mobile, majority of the islanders have Internet',
                                                  'market revenue has been affected in recent quarters as a result of '
                                                  'competition and regulatory measures on termination rates and roaming '
                                                  'tariffs',
-                                                 2019],
+                                                 2020],
                                    'general': [ 'fully automatic modern telecommunications system',
                                                 'telecom sector across the Caribbean region continues to be one of the '
                                                 'growth areas',
@@ -4224,7 +3999,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -4279,41 +4054,28 @@ P1_CNTR = \
                                       'republic of cyprus',
                                       'the republic of cyprus'],
                          'tel': { 'code': '357',
-                                  'domestic': [ 'fixed-line about 35 per 100 and about 139 per 100 for mobile-cellular '
+                                  'domestic': [ 'fixed-line about 35 per 100 and about 140 per 100 for mobile-cellular '
                                                 'teledensity',
                                                 'open-wire, fiber-optic cable, and microwave radio relay',
                                                 2020],
-                                  'general': [ 'Cyprus has suffered from the effects of the pandemic, which '
-                                               'essentially closed down the tourism sector during 2020 and into 2021',
-                                               'the incumbent telco Cyta reported strong revenue growth in 2020, '
-                                               'largely due to greater use of broadband and mobile services, though '
-                                               'investment fell as a result of pandemic-related delays in completing '
-                                               'planned projects',
-                                               'the mobile market is served by four mobile network operators, '
-                                               'including Cablenet which initially offered services as an MVNO before '
-                                               'becoming an MNO in its own right',
-                                               'Cyta has offered mobile services under the Cytamobile-Vodafone brand '
-                                               'since 2004 following a partner agreement with Vodafone Group, while '
-                                               'Epic was acquired by Monaco Telecom in mid-2018',
-                                               'in mid-2021 Monaco agreed to sell its entire passive infrastructure in '
-                                               'Cyprus',
+                                  'general': [ 'Cyprus suffered from the effects of the pandemic in 2020 and 2021, '
+                                               'when the tourism sector was essentially closed',
+                                               "during 2022, there have been adverse effects caused by Russia's "
+                                               'invasion of Ukraine, which has resulted in a dramatic drop in the '
+                                               'number of Russian tourists entering the country',
+                                               'the mobile market is served by four mobile network operators',
                                                'the number of mobile subscribers fell in 2020, largely the result of '
                                                'subscribers scaling back on multiple SIM cards as an economic measure',
                                                'the broadband market continues to develop steadily, providing the '
-                                               'country with one of the highest broadband subscription rates in the '
+                                               'country with one of the highest broadband penetration rates in the '
                                                'region',
                                                'DSL remains the dominant access platform, accounting for about '
                                                'two-thirds of fixed broadband connections',
-                                               'Cablenet is engaged in investment projects which will see its network '
-                                               'pass about 80% of premises, compared to 50% as of early 2021',
-                                               'fiber infrastructure in Cyprus is minimal, in common with other '
-                                               'markets in the region there are efforts underway (supported by the '
+                                               'although fiber infrastructure in Cyprus is minimal (supported by the '
                                                'government and regulator) to extend an FttP service to about 200,000 '
                                                'premises',
-                                               'the number of DSL subscribers is set to fall steadily in coming years '
-                                               'as customers are migrated to the fiber platform',
-                                               'regulator concludes multi-spectrum auction for 5G, issues licenses',
-                                               'Epic signs vendor agreement with Huawei to develop 5G',
+                                               'as a result, the number of DSL subscribers is set to fall steadily in '
+                                               'coming years as customers are migrated to the fiber platform',
                                                2021],
                                   'intl': [ '(area administered by Turkish Cypriots uses the country code of Turkey - '
                                             '90)',
@@ -4332,7 +4094,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -4375,30 +4137,13 @@ P1_CNTR = \
                                                         'and mobile telephone usage of about 121 per 100 inhabitants',
                                                         2020],
                                           'general': [ 'the telecom market has attracted investment from among the key '
-                                                       'regional telcos, including Deutsche Telekom, Telef&oacute',
-                                                       'nica, and Vodafone, as also investors such as PPF Group',
-                                                       'O2 Czech Republic remains the dominant telco in all segments, '
-                                                       'though there is effective competition, particularly in the '
-                                                       'mobile sector',
+                                                       'regional telcos',
                                                        'telcos in the Czech Republic have become multi-service '
                                                        'providers, offering a full range of fixed and mobile services',
-                                                       'O2 CR has struggled to improve revenue growth in recent years, '
-                                                       'and in response it has transitioned itself to face market '
-                                                       'challenges',
-                                                       'among the changes was its reorganization into separate '
-                                                       'business divisions and the spinning off of CETIN as a separate '
-                                                       'unit to manage the fixed and mobile networks while also '
-                                                       'operating as a national wholesale network provider',
-                                                       "CETIN's owner, PPF Group, in early 2021 considered an IPO for "
-                                                       'CETIN',
-                                                       'the mobile sector is concentrated among the three MNOs, '
-                                                       'despite the regulator having made efforts to facilitate the '
-                                                       'entry of a new market player by providing spectrum at the '
-                                                       'multi-band auction held in November 2020',
                                                        'the auction has enabled the licensees to expand the reach of '
                                                        'their 5G networks',
                                                        'this process has also been assisted by them closing down 3G '
-                                                       'networks and refarming spectrum for 5G and LTE use.',
+                                                       'networks and reforming spectrum for 5G and LTE use',
                                                        2021],
                                           'intl': [ 'satellite earth stations - 6 (2 Intersputnik - Atlantic and '
                                                     'Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 '
@@ -4408,7 +4153,7 @@ P1_CNTR = \
                                                     'production and supply chains globally',
                                                     'since 2020, some aspects of the telecom sector have experienced a '
                                                     'downturn, particularly in mobile device production',
-                                                    'progress towards 5G implementation has resumed, as well as '
+                                                    'progress toward 5G implementation has resumed, as well as '
                                                     'upgrades to infrastructure',
                                                     'consumer spending on telecom services has increased due to the '
                                                     'surge in demand for capacity and bandwidth',
@@ -4430,6 +4175,7 @@ P1_CNTR = \
                                   '23007',
                                   '23008',
                                   '23009',
+                                  '23011',
                                   '23098',
                                   '23099'],
                       'msisdn': ['420'],
@@ -4469,18 +4215,17 @@ P1_CNTR = \
                                                             'domestic': [ 'inadequate fixed-line infrastructure with '
                                                                           'fixed-line connections less than 1 per 100 '
                                                                           'persons',
-                                                                          'mobile-cellular subscriptions over 45 per '
+                                                                          'mobile-cellular subscriptions over 46 per '
                                                                           '100 persons',
-                                                                          2019],
+                                                                          2020],
                                                             'general': [ 'the telecom system remains one of the least '
                                                                          'developed in the region',
                                                                          'the government can only loosely regulate the '
-                                                                         'sector, and since the national telco SCPT '
-                                                                         'has little capital to invest, much of the '
-                                                                         'investment made in infrastructure is derived '
-                                                                         'from donor countries or from the efforts of '
-                                                                         'foreign (particularly Chinese) companies and '
-                                                                         'banks',
+                                                                         'sector',
+                                                                         'the investment made in infrastructure is '
+                                                                         'derived from donor countries or from the '
+                                                                         'efforts of foreign (particularly Chinese) '
+                                                                         'companies and banks',
                                                                          'efforts have been made to improve the '
                                                                          'regulation of the telecom sector',
                                                                          'the limited fixed-line infrastructure has '
@@ -4492,18 +4237,15 @@ P1_CNTR = \
                                                                          'infrastructure',
                                                                          'the country was finally connected to '
                                                                          'international bandwidth through the WACS '
-                                                                         'submarine cable in 2013, while SCPT '
-                                                                         'continues to roll out a fiber national '
-                                                                         'backbone network with support from China',
+                                                                         'submarine cable in 2013',
                                                                          'breakages in the WACS cable have exposed the '
                                                                          'vulnerability of international bandwidth, '
                                                                          'which is still limited',
-                                                                         'Liquid Intelligence Technologies has built a '
-                                                                         'landing station for the Equiano submarine '
-                                                                         'cable, and has also completed a 5,000km '
-                                                                         'cable running through the DRC to link to '
-                                                                         'cable systems landing in countries facing '
-                                                                         'the Atlantic and Indian Oceans',
+                                                                         'the Equiano submarine cable, and has also '
+                                                                         'completed a 5,000km cable running through '
+                                                                         'the DRC to link to cable systems landing in '
+                                                                         'countries facing the Atlantic and Indian '
+                                                                         'Oceans',
                                                                          'the first commercial LTE networks were '
                                                                          'launched in May 2018 soon after LTE licenses '
                                                                          'were issued',
@@ -4511,9 +4253,8 @@ P1_CNTR = \
                                                                          'data services, capitalizing on the growth of '
                                                                          'smartphones usage',
                                                                          'there has been some progress with updating '
-                                                                         'technologies, with Vodacom DRC having '
-                                                                         'upgraded much of its GSM network to 3G by '
-                                                                         'late 2021.',
+                                                                         'technologies, most of the GSM network has '
+                                                                         'been upgraded to 3G by 2021',
                                                                          2022],
                                                             'intl': [ 'ACE and WACS submarine cables to West and South '
                                                                       'Africa and Europe',
@@ -4526,7 +4267,7 @@ P1_CNTR = \
                                                                       'since 2020, some aspects of the telecom sector '
                                                                       'have experienced a downturn, particularly in '
                                                                       'mobile device production',
-                                                                      'progress towards 5G implementation has resumed, '
+                                                                      'progress toward 5G implementation has resumed, '
                                                                       'as well as upgrades to infrastructure',
                                                                       'consumer spending on telecom services has '
                                                                       'increased due to the surge in demand for '
@@ -4566,27 +4307,28 @@ P1_CNTR = \
                                        'kongeriget danmark',
                                        'the kingdom of denmark'],
                           'tel': { 'code': '45',
-                                   'domestic': [ 'fixed-line roughly 16 per 100 and about 123 per 100 for '
+                                   'domestic': [ 'fixed-line roughly 12 per 100 and about 124 per 100 for '
                                                  'mobile-cellular subscriptions',
-                                                 2020],
+                                                 2021],
                                    'general': [ 'Denmark has one of the highest broadband subscription rates globally, '
-                                                'with a near universal availability of super fast connections',
+                                                'with a near universal availability of super-fast connections',
                                                 'extensive cable and DSL infrastructure has been supported by a '
                                                 'progressive regulatory regime which has encouraged operator access to '
                                                 'both copper and fiber networks',
                                                 'fiber networks have a fast-growing footprint, while a number of '
-                                                "community and metropolitan schemes have supplemented TDC's own "
+                                                'community and metropolitan schemes have supplemented their own '
                                                 'commitments to build out fiber nationally',
                                                 'a number of wholesale fiber schemes have also added to the wider '
                                                 'availability of fiber broadband',
-                                                'the reach of LTE infrastructure is comprehensive, while the MNOs by '
-                                                'mid-2021 have also provided about 90% population coverage with 5G',
+                                                'the reach of LTE infrastructure is comprehensive, while the Mobile '
+                                                'Network Operators by mid-2021 had also provided about 90% population '
+                                                'coverage with 5G',
                                                 'services based on 5G were initially launched using trial 3.5GHz '
                                                 'licenses',
                                                 'the multi-spectrum auction held in April 2021 has enabled them to '
                                                 'improve the resilience and capacity of 5G',
-                                                'all MNOs are engaged in closing down their 3G networks and re '
-                                                'purposing spectrum for LTE and 5G use',
+                                                'all MNOs are engaged in closing down their 3G networks and '
+                                                'repurposing spectrum for LTE and 5G use',
                                                 2021],
                                    'intl': [ 'landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, '
                                              'TAT-14m Denmark-Norway-5 & 6, Skagenfiber West & East, GC1, GC2, GC3, '
@@ -4595,7 +4337,8 @@ P1_CNTR = \
                                              'Ronne-Rodvig, Denmark-Sweden 15 & 16 & 17 & 18, IP-Only Denmark-Sweden, '
                                              'Scandinavian South, Scandinavian Ring North, Danica North, 34 series of '
                                              'fiber-optic submarine cables link Denmark with Canada, Faroe Islands, '
-                                             'Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US and UK',
+                                             'Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US, and '
+                                             'UK',
                                              'satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 '
                                              'Inmarsat (Blaavand-Atlantic-East))',
                                              'note - the Nordic countries (Denmark, Finland, Iceland, Norway, and '
@@ -4606,7 +4349,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -4614,7 +4357,7 @@ P1_CNTR = \
                                              'from home is still evident, and the spike in this area has seen growth '
                                              'opportunities for development of new tools and increased services',
                                              0],
-                                   'subs': {'bb': 2590282, 'fix': 734436, 'internet': 5656462, 'mob': 7252675},
+                                   'subs': {'bb': 2590282, 'fix': 706604, 'internet': 5656462, 'mob': 7287875},
                                    'tld': '.dk',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.dk'}},
                'mcc': ['238'],
@@ -4684,27 +4427,18 @@ P1_CNTR = \
                                     'general': [ 'Djibouti remains one of the last bastions where the national telco '
                                                  'has a monopoly on all telecom services, including fixed lines, '
                                                  'mobile, internet, and broadband',
-                                                 'the lack of competition to Djibouti Telecom for such services has '
-                                                 'meant that the market has not lived up to its potential',
                                                  'despite the country benefiting from its location as a hub for '
-                                                 'international submarine cables, and with Djibouti Telecom being a '
-                                                 'partner in at least eight of them, prices for telecom services '
-                                                 'remain relatively high, and out of reach for a number of customers, '
+                                                 'international submarine cables, prices for telecom services remain '
+                                                 'relatively high, and out of reach for a number of customers, '
                                                  'weighing on market advancement',
-                                                 'the government has long harbored plans to privatize Djibouti '
-                                                 'Telecom, though thus far such plans have been delayed repeatedly',
-                                                 'it has been encouraged by the experience of neighboring Ethiopia, '
-                                                 'which recently licensed the Global Partnership for Ethiopia '
-                                                 'consortium (controlled by Safaricom) and so broke the monopoly held '
-                                                 'by Ethio Telecom',
                                                  'the Djibouti government is aiming to sell a minority stake in the '
                                                  'incumbent telco (retaining some control of decisions) while securing '
                                                  'the financial backing and the management acumen of a foreign '
                                                  'operator',
                                                  "this is part of a larger plan to modernize the country's economy "
                                                  'more generally',
-                                                 'the state expects to conduct of a sale of up to 40% of the company '
-                                                 'to an international investor by end-2022.',
+                                                 'the state expects to conduct a sale of up to 40% of the company to '
+                                                 'an international investor by the end 2022',
                                                  2022],
                                     'intl': [ 'landing points for the SEA-ME-WE-3 & 5, EASSy, Aden-Djibouti, Africa-1, '
                                               'DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOM '
@@ -4716,7 +4450,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -4751,32 +4485,21 @@ P1_CNTR = \
                                                   'active operators providing about 4 fixed-line connections per 100 '
                                                   'persons',
                                                   'subscribership among the three mobile-cellular providers is about '
-                                                  '105 per 100 persons',
-                                                  2019],
+                                                  '106 per 100 persons',
+                                                  2020],
                                     'general': [ 'the telecom sector has seen a decline in subscriber numbers '
                                                  '(particularly for prepaid mobile services the mainstay of short term '
                                                  'visitors) and revenue',
                                                  'fixed and mobile broadband services are two areas that have '
                                                  'benefited from the crisis as employees and students have resorted to '
                                                  'working from home',
-                                                 "one major casualty may be the region's second largest telco "
-                                                 'operator, Digicel',
-                                                 'the company filed for bankruptcy in the US in April 2020',
-                                                 'it continues to operate in all of its Caribbean markets as it seeks '
-                                                 'to refinance billions of dollars of debt',
-                                                 'the other major telco, regional incumbent Cable & Wireless '
-                                                 'Communications (CWC), is experiencing similar drops in subscriber '
-                                                 'numbers and revenue',
-                                                 'CWC is expanding and enhancing its fixed and mobile networks in many '
-                                                 'of the countries it serves around the Caribbean, despite many '
-                                                 'locations being small islands with very small populations',
                                                  'one area of the telecom market that is not prepared for growth is 5G '
                                                  'mobile',
                                                  'governments, regulators, and even the mobile network operators have '
                                                  'shown that they have not been investing in 5G opportunities at the '
                                                  'present time',
                                                  'network expansion and enhancements remain concentrated around '
-                                                 'improving LTE coverage.',
+                                                 'improving LTE coverage',
                                                  2021],
                                     'intl': [ 'landing points for the ECFS and the Southern Caribbean Fiber submarine '
                                               'cables providing connectivity to other islands in the eastern Caribbean '
@@ -4789,7 +4512,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -4816,7 +4539,8 @@ P1_CNTR = \
                                               'coast': 1288,
                                               'coord': ['19 00 N, 70 40 W'],
                                               'popul': 10694700,
-                                              'ports': {'seaport': 'Puerto Haina, Puerto Plata, Santo Domingo'},
+                                              'ports': { 'container': 'Caucedo (1,265,459); Haina (495,243)',
+                                                         'seaport': 'Puerto Haina, Puerto Plata, Santo Domingo'},
                                               'region': 'Central America and the Caribbean',
                                               'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DO',
                                               'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/dominican-republic'},
@@ -4851,7 +4575,7 @@ P1_CNTR = \
                                                            'performance',
                                                            'the limited coverage of fixed-line broadband networks '
                                                            'makes mobile the first, if not only, choice for most '
-                                                           'people in the country.',
+                                                           'people in the country',
                                                            2021],
                                               'intl': [ '1-829',
                                                         '1-849',
@@ -4866,7 +4590,7 @@ P1_CNTR = \
                                                         'since 2020, some aspects of the telecom sector have '
                                                         'experienced a downturn, particularly in mobile device '
                                                         'production',
-                                                        'progress towards 5G implementation has resumed, as well as '
+                                                        'progress toward 5G implementation has resumed, as well as '
                                                         'upgrades to infrastructure',
                                                         'consumer spending on telecom services has increased due to '
                                                         'the surge in demand for capacity and bandwidth',
@@ -4922,21 +4646,11 @@ P1_CNTR = \
                                                    'fixed-line and fixed broadband penetration in Timor-Leste remains '
                                                    'extremely low, mainly due to the limited fixed-line infrastructure '
                                                    'and the proliferation of mobile connectivity',
-                                                   'in an effort to boost e-government services, in 2018 the '
-                                                   'government contracted Timor Telecom to build a national '
-                                                   'terrestrial fiber network',
-                                                   'the project, completed in 2019, has helped boost fixed broadband '
-                                                   'subscriber growth and will continue to do so over the next few '
-                                                   'years',
+                                                   'in an effort to boost e-government services',
                                                    'the number of subscribers through to 2026 is expected to develop '
                                                    'steadily, though from a low base',
                                                    'by August 2020, Timor-Leste had three telecom service providers '
                                                    'who jointly achieved a 98% network coverage nationally',
-                                                   'all three major mobile operators - Timor Telecom, Telkomcel and '
-                                                   'Telemor - launched LTE services during 2019',
-                                                   'Timor-Leste has seen a rapid increase in mobile broadband '
-                                                   'penetration over the last few years, driven by a rising proportion '
-                                                   'of mobile subscribers having smartphones',
                                                    'the mobile broadband market is still at an early stage of '
                                                    'development, strong growth is predicted over the next five years',
                                                    'at the end of 2020, the government issued new policy guidelines to '
@@ -4945,7 +4659,7 @@ P1_CNTR = \
                                                    'allocation of spectrum in the 1800MHz, 2300MHz and 2600MHz bands',
                                                    'in November 2020, the government approved the deployment of a '
                                                    'submarine fiber link connecting the south of the country to '
-                                                   'Australia via the North Western Cable System (NWCS).',
+                                                   'Australia via the North Western Cable System (NWCS)',
                                                    2021],
                                       'intl': [ 'international service is available',
                                                 'partnership with Australia telecom companies for potential deployment '
@@ -4956,8 +4670,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -4982,7 +4696,7 @@ P1_CNTR = \
                                    'coast': 2237,
                                    'coord': ['2 00 S, 77 30 W'],
                                    'popul': 17289554,
-                                   'ports': { 'container': 'Guayaquil (1,680,751) (2019)',
+                                   'ports': { 'container': 'Guayaquil (2,163,151) (2021)',
                                               'seaport': 'Esmeraldas, Manta, Puerto Bolivar'},
                                    'region': 'South America',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EC',
@@ -4994,21 +4708,38 @@ P1_CNTR = \
                           'tel': { 'code': '593',
                                    'domestic': [ 'according to 2021 statistics from the Ministry of Telecommunications '
                                                  'and Information Society, 50 percent of Ecuadorian homes do not have '
-                                                 "access to fixed internet. Ecuador's telecoms regulator, ARCOTEL is "
-                                                 'currently evaluating and reorganizing the 3.5GHz, 2.5 GHz, 700 MHz '
-                                                 'and AWS spectrum for future government tenders. 2G/3G technologies '
-                                                 'have a 91.11 percent of penetration and 4G technologies has 60.74 '
-                                                 'percent (2021).',
+                                                 'access to fixed internet',
+                                                 "Ecuador's telecoms regulator is currently evaluating and "
+                                                 'reorganizing the 3.5GHz, 2.5 GHz, 700 MHz and AWS spectrum for '
+                                                 'future government tenders',
+                                                 '2G/3G technologies have a 91.11 percent of penetration and 4G '
+                                                 'technologies has 60.74 percent (2021)',
+                                                 'fixed-line teledensity is about 12 per 100 persons',
+                                                 'mobile-cellular service with a subscribership of nearly 88 per 100 '
+                                                 'persons',
                                                  2021],
-                                   'general': [ "Ecuador's remote and mountainous geography lends challenges to "
-                                                'tele-density',
-                                                'government-owned provider to improve fixed-line and LTE '
-                                                'infrastructure, with emphasis on fiber expansion from urban to rural '
-                                                'areas and installation of a 5G network',
-                                                'small telecom market dominated by the non-competitive mobile sector',
-                                                'inadequate fixed-line infrastructure and slowed fixed-line broadband '
-                                                'services (2020).',
-                                                2020],
+                                   'general': [ 'Ecuador has a small telecom market dominated by the mobile sector',
+                                                'the evolution of the market has been influenced by the poor '
+                                                'fixed-line infrastructure, which has stymied the development of '
+                                                'fixed-line broadband services',
+                                                'to some extent poor infrastructure has been the result of '
+                                                'topographical challenges which have rendered the cost of deploying '
+                                                'networks to remote and mountainous areas prohibitive',
+                                                'although Ecuador has several fixed-line operators and a large number '
+                                                'of ISPs, the state-owned incumbent leads the fixed-line market, and '
+                                                'thus also the fixed broadband market',
+                                                'thus far the MVNO sector has been slow to develop, partly because the '
+                                                'incumbent operators also have their low-cost brands and thus there is '
+                                                'little business case for new market entrants',
+                                                'the government is keen to advance and improve teledensity',
+                                                'from 2022, additional revenue will be earmarked for programs aimed at '
+                                                'expanding the reach of internet and mobile services in rural areas of '
+                                                'the country',
+                                                'Ecuador lacks a national 5G roadmap',
+                                                'the mobile operators have conducted several 5G pilots, but no '
+                                                'progress has been made on allocation spectrum for 5G, or on '
+                                                'developing strategies to encourage investment in the sector',
+                                                2022],
                                    'intl': [ 'landing points for the SPSC (Mistral Submarine Cable), Panamerican Cable '
                                              'System (PAN-AM), Pacific Caribbean Cable System (PCCS), America '
                                              'Movil-Telxius West Coast Cable and SAm-1 submarine (SAm-1) cables that '
@@ -5020,7 +4751,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -5046,7 +4777,7 @@ P1_CNTR = \
                                  'coast': 2450,
                                  'coord': ['27 00 N, 30 00 E'],
                                  'popul': 107770524,
-                                 'ports': { 'container': 'Port Said (East) (3,816,084) (2019)',
+                                 'ports': { 'container': 'Port Said (East) (4,764,583) (2021)',
                                             'seaport': 'Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port '
                                                        'Said'},
                                  'region': 'Africa',
@@ -5059,7 +4790,7 @@ P1_CNTR = \
                                      'the arab republic of egypt'],
                         'tel': { 'code': '20',
                                  'domestic': ['fixed-line roughly 10 per 100, mobile-cellular 93 per 100', 2020],
-                                 'general': [ "Egypt's large telecom market is supported by a population of about 103 "
+                                 'general': [ "Egypt's large telecom market is supported by a population of about 108 "
                                               'million and benefits from effective competition in most sectors',
                                               'a liberal regulatory regime allows for unified licenses which permit '
                                               'operators to offer fixed-line as well as mobile services',
@@ -5071,7 +4802,7 @@ P1_CNTR = \
                                               'the New Administrative Capital being built is only one of more than a '
                                               'dozen smart city projects, which together are stimulating investment in '
                                               '5G and fiber broadband, as well as the adoption of IoT and AI solutions',
-                                              'the country endeavor to be a significant ICT hub in the North Africa '
+                                              'the country endeavors to be a significant ICT hub in the North Africa '
                                               'and Middle East regions',
                                               "Egypt's mature mobile market has one of the highest subscription rates "
                                               'in Africa',
@@ -5091,7 +4822,7 @@ P1_CNTR = \
                                               'Path system, connecting a number of landlocked countries in Africa with '
                                               'Italy, France, and Portugal',
                                               "the system will partly use the company's existing terrestrial and sub "
-                                              'sea cable networks.',
+                                              'sea cable networks',
                                               2022],
                                  'intl': [ 'landing points for Aletar, Africa-1, FEA, Hawk, IMEWE, and the SEA-ME-WE-3 '
                                            '& 4 submarine cable networks linking to Asia, Africa, the Middle East, and '
@@ -5106,7 +4837,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -5143,9 +4874,9 @@ P1_CNTR = \
                                            'the republic of el salvador'],
                               'tel': { 'code': '503',
                                        'domestic': [ 'fixed-line services, roughly 14 per 100, has slowed in the face '
-                                                     'of mobile-cellular competition now at 161 subscribers per 100 '
+                                                     'of mobile-cellular competition now at 153 subscribers per 100 '
                                                      'inhabitants',
-                                                     2019],
+                                                     2020],
                                        'general': [ 'El Salvador is the smallest country in central America '
                                                     'geographically, it has the fourth largest economy in the region',
                                                     "the country's telecom sector has been restricted by poor "
@@ -5171,22 +4902,10 @@ P1_CNTR = \
                                                     "El Salvador's telecom legislation is one of the more liberal in "
                                                     'Latin America, encouraging competition in most areas and '
                                                     'permitting foreign investment',
-                                                    'there are no regulations which promote wholesale broadband, and '
-                                                    'thus in the DSL market leader Claro retains a virtual monopoly',
+                                                    'there are no regulations which promote wholesale broadband',
                                                     'the only effective cross-platform competition in the broadband '
                                                     'market comes from the few cable operators',
-                                                    'there has been some market consolidation in recent years, '
-                                                    'including Telem&oacute',
-                                                    "vil's acquisition of the regional cable TV provider Caribena "
-                                                    'Cable',
-                                                    'in May 2019, the competition authority began assessing the sale '
-                                                    'of Telef&oacute',
-                                                    'nica El Salvador to Am&eacute',
-                                                    'rica M&oacute',
-                                                    'vil, which operates in the country under the Claro brand',
-                                                    'Telef&oacute',
-                                                    'nica sold the unit in October 2021, though at a considerably '
-                                                    'reduced price.',
+                                                    'there has been some market consolidation in recent years',
                                                     2021],
                                        'intl': [ 'satellite earth station - 1 Intelsat (Atlantic Ocean)',
                                                  'connected to Central American Microwave System',
@@ -5195,7 +4914,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -5218,10 +4937,11 @@ P1_CNTR = \
                                     'geo': { 'airports': 7,
                                              'bound': {'bord': {'Cameroon': 183, 'Gabon': 345}, 'len': 528},
                                              'capital': { 'coord': '3 45 N, 8 47 E',
-                                                          'name': 'Malabo; note - a new capital of Ciudad de la Paz '
-                                                                  '(formerly referred to as Oyala) is being built on '
-                                                                  'the mainland near Djibloho; Malabo is on the island '
-                                                                  'of Bioko',
+                                                          'name': 'Malabo; note - Malabo is on the island of Bioko; in '
+                                                                  '2017, some governmental offices began to move to a '
+                                                                  'new capital of Ciudad de la Paz (formerly referred '
+                                                                  'to as Oyala) on the mainland near Djibloho, but a '
+                                                                  'lack of funds has halted progress on construction',
                                                           'time_diff': 'UTC+1'},
                                              'coast': 296,
                                              'coord': ['2 00 N, 10 00 E'],
@@ -5240,17 +4960,9 @@ P1_CNTR = \
                                                  'the republic of equatorial guinea'],
                                     'tel': { 'code': '240',
                                              'domestic': [ 'fixed-line density is less than 1 per 100 persons and '
-                                                           'mobile-cellular subscribership is roughly 45 per 100',
-                                                           2019],
-                                             'general': [ "Equatorial Guinea's climate for operator competition "
-                                                          'boosted mobile subscribership',
-                                                          'broadband services are limited and expensive',
-                                                          'submarine cable supported broadband and reliability of '
-                                                          'infrastructure',
-                                                          'government backbone network will connect administrative '
-                                                          'centers',
-                                                          'regional roaming agreement in process',
-                                                          2018],
+                                                           'mobile-cellular subscribership is roughly 46 per 100',
+                                                           2020],
+                                             'general': [2022],
                                              'intl': [ 'landing points for the ACE, Ceiba-1, and Ceiba-2 submarine '
                                                        'cables providing communication from Bata and Malabo, '
                                                        'Equatorial Guinea to numerous Western African and European '
@@ -5262,7 +4974,7 @@ P1_CNTR = \
                                                        'since 2020, some aspects of the telecom sector have '
                                                        'experienced a downturn, particularly in mobile device '
                                                        'production',
-                                                       'progress towards 5G implementation has resumed, as well as '
+                                                       'progress toward 5G implementation has resumed, as well as '
                                                        'upgrades to infrastructure',
                                                        'consumer spending on telecom services has increased due to the '
                                                        'surge in demand for capacity and bandwidth',
@@ -5295,38 +5007,36 @@ P1_CNTR = \
                           'nameset': ['eritrea', 'ertra', 'hagere ertra', 'state of eritrea', 'the state of eritrea'],
                           'tel': { 'code': '291',
                                    'domestic': [ 'fixed-line subscribership is less than 2 per 100 persons and '
-                                                 'mobile-cellular is just over 20 per 100',
-                                                 2019],
+                                                 'mobile-cellular is just over 51 per 100',
+                                                 2020],
                                    'general': [ "Eritrea's telecom sector operates under a state-owned monopoly for "
                                                 'fixed and mobile services',
-                                                'the country has the least developed telecommunications market in '
-                                                'Africa',
-                                                'mobile subscriptions stands at only about 20%, while fixed-line '
+                                                'as a result of such restrictions on competition, the country has the '
+                                                'least developed telecommunications market in Africa',
+                                                'mobile penetration stands at only about 20%, while fixed-line '
                                                 'internet use barely registers',
                                                 'this is exacerbated by the very low use of computers, with only about '
                                                 '4% of households having a computer, and most of these being in the '
                                                 'capital, Asmara',
-                                                'the provision of internet services is open to competition, about 2% '
-                                                'of households have access to the internet',
-                                                'the national telco, the Eritrean Telecommunication Services '
-                                                'Corporation (EriTel), continues to roll out a 3G network which '
-                                                'provides basic internet access to the majority or Eritreans',
-                                                'considerable investment in telecom infrastructure is still required '
-                                                'to improve the quality of services',
-                                                'the government has embarked on a work program aimed at extending '
-                                                'services to remote areas, improving the quality of services, and '
-                                                'ensuring that more telecoms infrastructure is supported by solar '
-                                                'power to compensate for the poor state of the electricity network',
+                                                'the 3G network continues to rollout which provides basic internet '
+                                                'access to the majority or Eritreans',
+                                                'investment in telecom infrastructure is still required to improve the '
+                                                'quality of services',
+                                                'the government has embarked on a work program to do exactly that, '
+                                                'specifically aimed at extending services to remote areas, improving '
+                                                'the quality of services, and ensuring that more telecoms '
+                                                'infrastructure is supported by solar power to compensate for the poor '
+                                                'state of the electricity network',
                                                 'additional foreign investment in telecom infrastructure, as well as '
                                                 'introduction of more competition, would help transform what remains a '
-                                                'virtually untapped market.',
-                                                2021],
+                                                'virtually untapped market',
+                                                2022],
                                    'intl': [2019],
                                    'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -5374,15 +5084,12 @@ P1_CNTR = \
                                                  2020],
                                    'general': [ 'the competitive telecom market continues to progress with a range of '
                                                 'regulatory measures which have enabled alternative operators to chip '
-                                                'away at the fixed-line market share of the incumbent telco Telia '
-                                                'Estonia',
+                                                'away at the fixed-line market share',
                                                 'fixed-line infrastructure upgrades have been focused on fiber, and '
                                                 'the legacy DSL network has gradually been replaced',
-                                                'the MNOs Telia, Elisa and Tele2 have comprehensive LTE infrastructure '
-                                                'in place',
                                                 'limited commercial 5G deployments have been made though an expansion '
                                                 'of service availability awaits the delayed auction of spectrum in the '
-                                                '3.5GHz band, which is expected to be held later in 2021.',
+                                                '3.5GHz band, which is expected to be held later in 2021',
                                                 2021],
                                    'intl': [ 'landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC '
                                              'and EESF-2 fiber-optic submarine cables to other Estonia points, '
@@ -5393,7 +5100,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -5457,24 +5164,18 @@ P1_CNTR = \
                                     'domestic': [ 'Eswatini has 2 mobile-cellular providers',
                                                   'communication infrastructure has a geographic coverage of about 90% '
                                                   'and a rising subscriber base',
-                                                  'fixed-line stands at nearly 4 per 100 and mobile-cellular '
-                                                  'teledensity roughly 94 telephones per 100 persons',
+                                                  'fixed-line stands at nearly 3 per 100 and mobile-cellular '
+                                                  'teledensity roughly 107 telephones per 100 persons',
                                                   'telephone system consists of carrier-equipped, open-wire lines and '
                                                   'low-capacity, microwave radio relay',
-                                                  2019],
-                                    'general': [ 'Eswatini (or eSwatini) was one of the last countries in the world to '
-                                                 'open up its telecom market to competition',
+                                                  2020],
+                                    'general': [ 'Eswatini was one of the last countries in the world to open up its '
+                                                 'telecom market to competition',
                                                  'until 2011 the state-owned Eswatini Posts and Telecommunications '
                                                  'also acted as the industry regulator and had a stake in the '
-                                                 "country's sole mobile network, in an uneasy partnership with MTN "
-                                                 'Eswatini',
+                                                 "country's sole mobile network",
                                                  'a new independent regulatory authority was established in late 2013 '
                                                  'and has since embarked on significant changes to the sector',
-                                                 'Eswatini Telecom was provided with a unified license in early 2016, '
-                                                 'while MTN Eswatini secured spectrum in the 1800MHz band to provide '
-                                                 'LTE services',
-                                                 'Eswatini Mobile has launched GSM, 3G and LTE services, supported by '
-                                                 'a network sharing agreement with MTN Eswatini',
                                                  'mobile market subscriptions have been affected by the common use '
                                                  'among subscribers when they use SIM cards from different networks in '
                                                  'order to access cheaper on-net calls',
@@ -5493,15 +5194,15 @@ P1_CNTR = \
                                                  'prices have fallen recently in line with greater bandwidth '
                                                  'availability resulting from several new submarine cable systems '
                                                  'which have reached the region in recent years',
-                                                 'in addition, Paratus in September 2020 completed a terrestrial cable '
-                                                 'linking Mozambique with Eswatini and South Africa.',
+                                                 'in September 2020 a terrestrial cable linked Mozambique with '
+                                                 'Eswatini and South Africa',
                                                  2022],
                                     'intl': ['satellite earth station - 1 Intelsat (Atlantic Ocean)', 0],
                                     'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -5543,35 +5244,19 @@ P1_CNTR = \
                                         'the federal democratic republic of ethiopia'],
                            'tel': { 'code': '251',
                                     'domestic': [ 'fixed-line subscriptions at about 1 per 100 while mobile-cellular '
-                                                  'stands at a little over 37 per 100',
+                                                  'stands at a little over 39 per 100',
                                                   'the number of mobile telephones is increasing steadily',
-                                                  2019],
-                                    'general': [ "the slow process to open up Ethiopia's telecom market was completed "
-                                                 'with the licensing of the Safaricom-led Global Partnership for '
-                                                 'Ethiopia consortium',
-                                                 'the country had been one of the last in Africa to allow its national '
-                                                 'telco a monopoly on all telecom services including fixed, mobile, '
-                                                 'internet and data communications',
+                                                  2020],
+                                    'general': [ 'has been one of the last in Africa to allow its national telco a '
+                                                 'monopoly on all telecom services including fixed, mobile, internet '
+                                                 'and data communications',
                                                  'this has stifled innovation, restricted network expansion, and '
                                                  'limited the scope of services on offer',
-                                                 'the consortium was in some respects a proxy for the wider influence '
-                                                 "over Ethiopia's telecom sector between the interests of the US and "
-                                                 'China',
-                                                 'only one of the two licenses on offer was secured, with uncertainty '
-                                                 'as to the timetable for issuing the second license',
-                                                 'the government in mid-2021 began the process of selling a 45% stake '
-                                                 'in the incumbent telco Ethio Telecom',
                                                  'the World Bank in early 2021 provided a $200 million loan to help '
                                                  "develop the country's digital transformation, while the government "
                                                  'has embarked on its 2020-2030 program as well as its Digital '
                                                  'Ethiopia 2025 strategy, both aimed at making better use of digital '
                                                  'technologies to promote socioeconomic development',
-                                                 "the country's mobile platform has mostly been provided by ZTE and "
-                                                 'Huawei, which have offered vendor financing',
-                                                 'Ethio Telecom has placed the expansion of LTE services as a '
-                                                 'cornerstone of its investment program to 2022',
-                                                 'the new licensee has been barred from contracting Chinese vendors, '
-                                                 'thus opening the door to western vendors.',
                                                  2021],
                                     'intl': [ 'open-wire to Sudan and Djibouti',
                                               'microwave radio relay to Kenya and Djibouti',
@@ -5583,7 +5268,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -5621,10 +5306,24 @@ P1_CNTR = \
                                             'domestic': [ 'fixed-line subscriptions approximately 65 per 100, 163 per '
                                                           '100 for mobile-cellular',
                                                           2019],
-                                            'general': [ 'government-operated radiotelephone and private VHF/CB '
-                                                         'radiotelephone networks provide effective service to almost '
-                                                         'all points on both islands',
-                                                         0],
+                                            'general': [ 'the replacement of the rural internet and phone system was '
+                                                         'delayed due to COVID',
+                                                         'upgrades started at the end of 2019, this included the '
+                                                         'replacement of all Multi Service Access Nodes (MSANs), the '
+                                                         'technology used to connect larger settlements',
+                                                         'in early 2020 a new system to replace the WiMAX system (the '
+                                                         'technology used to connect smaller settlements and '
+                                                         'households) had been delayed as well due to COVID-19',
+                                                         'once the equipment is received it will be installed in the '
+                                                         'largest base stations on East Falklands: Malo, Bombilla, and '
+                                                         'Mt Pleasant peak<br /><br /><br />&ldquo',
+                                                         'We also have MSAN equipment and radio links due to arrive '
+                                                         'towards the end of this month, and these and will be '
+                                                         'installed at Chartres, New Island, Sea Lion Island, Onion '
+                                                         'Range, Sand Bay, and Mare Harbour enabling us to migrate '
+                                                         'additional customers from the existing WiMAX network and '
+                                                         'also releasing equipment for spares.&rdquo',
+                                                         2020],
                                             'intl': [ 'satellite earth station - 1 Intelsat (Atlantic Ocean) with '
                                                       'links through London to other countries',
                                                       2015],
@@ -5658,11 +5357,16 @@ P1_CNTR = \
                                                        'both NMT (analog) and GSM (digital) mobile telephone systems '
                                                        'are installed',
                                                        2020],
-                                         'general': [ 'good international and domestic communications',
-                                                      'telecommunications network of high standards with excellent '
-                                                      'coverage throughout most parts of the country and at '
-                                                      'competitive prices',
-                                                      2020],
+                                         'general': [ 'the Faroe Islands have a highly developed communication '
+                                                      'network, which covers the whole country',
+                                                      'from telecommunication and mobile phones to the internet and '
+                                                      'media, the Faroe Islands are at the forefront of modern '
+                                                      'communications technology',
+                                                      'working within the special geographic circumstances of the '
+                                                      'Faroe Islands',
+                                                      'companies have become world experts in providing digital '
+                                                      'communication solutions to remote and sparsely populated areas',
+                                                      2022],
                                          'intl': [ 'landing points for the SHEFA-2, FARICE-1, and CANTAT-3 fiber-optic '
                                                    'submarine cables from the Faroe Islands, to Denmark, Germany, UK '
                                                    'and Iceland',
@@ -5672,8 +5376,8 @@ P1_CNTR = \
                                                    'production and supply chains globally',
                                                    'since 2020, some aspects of the telecom sector have experienced a '
                                                    'downturn, particularly in mobile device production',
-                                                   'progress towards 5G implementation has resumed, as well as '
-                                                   'upgrades to infrastructure',
+                                                   'progress toward 5G implementation has resumed, as well as upgrades '
+                                                   'to infrastructure',
                                                    'consumer spending on telecom services has increased due to the '
                                                    'surge in demand for capacity and bandwidth',
                                                    'the crucial nature of telecom services as a tool for work and '
@@ -5715,8 +5419,8 @@ P1_CNTR = \
                                                                         'mobile-cellular service available on the '
                                                                         'major islands',
                                                                         'fixed line teledensity roughly 6 per 100 and '
-                                                                        'mobile-cellular nearly 21 per 100',
-                                                                        2019],
+                                                                        'mobile-cellular nearly 19 per 100',
+                                                                        2020],
                                                           'general': [ 'adequate system, the demand for mobile '
                                                                        'broadband is increasing due to mobile services '
                                                                        'being the primary and most wide-spread source '
@@ -5734,8 +5438,8 @@ P1_CNTR = \
                                                                     'since 2020, some aspects of the telecom sector '
                                                                     'have experienced a downturn, particularly in '
                                                                     'mobile device production',
-                                                                    'progress towards 5G implementation has resumed, '
-                                                                    'as well as upgrades to infrastructure',
+                                                                    'progress toward 5G implementation has resumed, as '
+                                                                    'well as upgrades to infrastructure',
                                                                     'consumer spending on telecom services has '
                                                                     'increased due to the surge in demand for capacity '
                                                                     'and bandwidth',
@@ -5778,9 +5482,9 @@ P1_CNTR = \
                                     'republic of fiji (english)/ matanitu ko viti (fijian)',
                                     'the republic of fiji'],
                        'tel': { 'code': '679',
-                                'domestic': [ 'fixed-line nearly 9 per 100 persons and mobile-cellular teledensity '
-                                              'roughly 118 per 100 persons',
-                                              2019],
+                                'domestic': [ 'fixed-line nearly 5 per 100 persons and mobile-cellular teledensity '
+                                              'roughly 111 per 100 persons',
+                                              2020],
                                 'general': [ 'Fiji is the leading market to watch in terms of both LTE and 5G '
                                              'development in the region',
                                              'the market boasts relatively sophisticated, advanced digital '
@@ -5788,17 +5492,13 @@ P1_CNTR = \
                                              'having the highest mobile and internet subscriptions in the Pacific '
                                              'Islands region',
                                              'LTE, LTE-A, and fiber technologies have received the most investment by '
-                                             'the Fijian mobile operators, which include Digicel Fiji, Vodafone Fiji, '
-                                             'and Telecom Fiji. Notably, LTE now accounts for the largest share of '
+                                             'the Fijian mobile operators, LTE now accounts for the largest share of '
                                              'connections in the mobile segment',
                                              'concentrating on the more highly populated areas, the operators are '
                                              'preparing for the next growth area of high-speed data',
                                              'they also have 5G in mind, and are preparing their networks to be '
                                              '5G-ready, anticipating an easier migration to the technology based on '
                                              'the relatively high LTE subscription rate',
-                                             'the sale of Digicel to Telstra also passed a major hurdle when the '
-                                             'Fijian Competition and Consumer Commission approved the transaction in '
-                                             'March 2022',
                                              'Fiji presents a challenging geographic environment for infrastructure '
                                              'development due to its population being spread across more than 100 '
                                              'islands',
@@ -5814,7 +5514,7 @@ P1_CNTR = \
                                              'connects Fiji, and Tonga blocking the latter off from internet services',
                                              'cable theft and damage of critical communications infrastructure has '
                                              'also become a concern in Fiji, prompting authorities to establish a '
-                                             'joint task force to tackle the issue.',
+                                             'joint task force to tackle the issue',
                                              2022],
                                 'intl': [ 'landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and '
                                           'Tui-Samoa submarine cable links to US, NZ, Australia and Pacific islands of '
@@ -5826,7 +5526,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -5886,9 +5586,7 @@ P1_CNTR = \
                                                 'nationally and to prepare for 5G services',
                                                 'Spectrum in the 2.5GHz band was auctioned in mid-2020 and has since '
                                                 'enabled the MNOs to widen their 5G footprint considerably',
-                                                'the incumbent telco Telia remains the dominant player in the DSL '
-                                                'sector, but there is an ongoing shift away from DSL to fiber and '
-                                                'mobile networks.',
+                                                'there is an ongoing shift away from DSL to fiber and mobile networks',
                                                 2021],
                                    'intl': [ 'landing points for Botnia, BCS North-1 & 2, SFL, SFS-4, C-Lion1, Eastern '
                                              'Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 & 3 submarine cables '
@@ -5904,7 +5602,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -6004,10 +5702,10 @@ P1_CNTR = \
                                              ('Mayotte', '12 50 S, 45 10 E'),
                                              ('Reunion', '21 06 S, 55 36 E')],
                                   'popul': 68305148,
-                                  'ports': { 'container': 'Le Havre (2,822,910) (2019)',
+                                  'ports': { 'container': 'Le Havre (3,018,550) (2021)',
                                              'ferry': 'Calais, Cherbourg, Le Havre',
-                                             'seaport': '<em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le Havre, '
-                                                        'Nantes<em>Mediterranean Sea:</em> Marseille'},
+                                             'seaport': 'Atlantic Ocean: Brest, Calais, Dunkerque, Le Havre, Nantes; '
+                                                        'Mediterranean Sea: Marseille'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FR',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/france'},
@@ -6017,25 +5715,10 @@ P1_CNTR = \
                                                 'mobile-cellular subscriptions',
                                                 2020],
                                   'general': [ "France's telecom market is one of the largest in Europe",
-                                               'telecom revenue, at about &euro',
-                                               '30 billion annually, has declined in recent years and came under '
-                                               'particular pressure during 2020 when a sequence of local and national '
-                                               'lock downs, as well as restrictions on international travel, resulted '
-                                               'in a sharp drop in revenue from roaming and device sales',
-                                               'this was partly offset by growth in data traffic and the migration of '
-                                               'subscribers to faster fixed-line broadband packages, mostly based on '
-                                               'fiber',
-                                               "the incumbent telco Orange Group is one of the world's major players, "
-                                               'with interests in markets across Europe, the Middle East and Africa',
-                                               'the company has embarked on a new multi-year Engage 2025 plan which is '
-                                               'focused on growth in the developing markets, and on the greater use of '
-                                               'artificial intelligence and data',
-                                               'the mobile phone market, worth about &euro',
-                                               '13 billion annually, is dominated by Orange, SFR Group (owned by '
-                                               'Altice Group), Bouygues Telecom, and Free Mobile (Iliad)',
-                                               'there are many MVNOs in the market, though their share of subscribers '
-                                               'fell at the end of 2020 when one of the largest of them was acquired '
-                                               'by its host network operator',
+                                               'there is a multi-year Engage 2025 plan which is focused on growth in '
+                                               'the developing markets, and on the greater use of artificial '
+                                               'intelligence and data',
+                                               'there are many MVNOs in the market',
                                                'LTE networks provide near universal coverage, and carry about 95% of '
                                                'mobile data traffic',
                                                'operators have launched 5G services, and these have been supported by '
@@ -6045,7 +5728,7 @@ P1_CNTR = \
                                                'growth in the fiber sector has been stimulated by households securing '
                                                'faster data packages during the pandemic',
                                                'the number of DSL lines has fallen sharply as customers migrate to '
-                                               'fiber infrastructure.',
+                                               'fiber infrastructure',
                                                2021],
                                   'intl': [ 'landing points for Circe South, TAT-14, INGRID, FLAG Atlantic-1, Apollo, '
                                             'HUGO, IFC-1, ACE, SeaMeWe-3 & 4, Dunant, Africa-1, AAE-1, Atlas Offshore, '
@@ -6062,7 +5745,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -6134,8 +5817,8 @@ P1_CNTR = \
                           '20838',
                           '20839',
                           '208500',
-                          '208501',
                           '208502',
+                          '208504',
                           '208700',
                           '208701',
                           '208702',
@@ -6208,21 +5891,14 @@ P1_CNTR = \
                                                 "pays d'outre-mer de la polynesie francaise",
                                                 'polynesie francaise'],
                                    'tel': { 'code': '689',
-                                            'domestic': [ 'fixed-line subscriptions nearly 22 per 100 persons and '
-                                                          'mobile-cellular density is roughly 104 per 100 persons',
-                                                          2019],
+                                            'domestic': [ 'fixed-line subscriptions nearly 33 per 100 persons and '
+                                                          'mobile-cellular density is roughly 119 per 100 persons',
+                                                          2020],
                                             'general': [ 'French Polynesia has one of the most advanced telecoms '
                                                          'infrastructures in the Pacific Islands region',
                                                          'the remoteness of the country with its scattering of 130 '
                                                          'islands and atolls has made connectivity vital for its '
                                                          'inhabitants',
-                                                         'Office des Postes et T&eacute',
-                                                         'l&eacute',
-                                                         'communications is the primary provider of domestic telecom '
-                                                         'services, mobile telephony, and internet services, while its '
-                                                         'subsidiary, Tahiti Nui Telecommunications, provides '
-                                                         'international voice services and manages the submarine cable '
-                                                         'infrastructure',
                                                          'the first submarine cable was deployed in 2010 and since '
                                                          'then additional cables have been connected to the islands, '
                                                          "vastly improving French Polynesia's international "
@@ -6231,11 +5907,6 @@ P1_CNTR = \
                                                          'will connect more remote islands by the end of 2022',
                                                          'French Polynesia is also a hub for satellite communications '
                                                          'in the region',
-                                                         'it hosts one of the up link systems of the Galileo satellite '
-                                                         'network, the Kacific-1 satellite and the Intelsat satellite '
-                                                         'network, for example',
-                                                         'with improved international connectivity, fixed broadband '
-                                                         'subscriptions have become the highest in the region',
                                                          'a considerable number of consumers access FttP-based '
                                                          'services',
                                                          'with the first data center in French Polynesia on the cards, '
@@ -6249,7 +5920,7 @@ P1_CNTR = \
                                                          'by 2025, LTE is expected to account for more than half of '
                                                          'all connections',
                                                          'it is also estimated that 77% of mobile subscribers will '
-                                                         'have smart phones by 2025.',
+                                                         'have smart phones by 2025',
                                                          2022],
                                             'intl': [ 'landing points for the NATITUA, Manatua, and Honotua submarine '
                                                       'cables to other French Polynesian Islands, Cook Islands, Niue, '
@@ -6260,7 +5931,7 @@ P1_CNTR = \
                                                       'production and supply chains globally',
                                                       'since 2020, some aspects of the telecom sector have experienced '
                                                       'a downturn, particularly in mobile device production',
-                                                      'progress towards 5G implementation has resumed, as well as '
+                                                      'progress toward 5G implementation has resumed, as well as '
                                                       'upgrades to infrastructure',
                                                       'consumer spending on telecom services has increased due to the '
                                                       'surge in demand for capacity and bandwidth',
@@ -6340,30 +6011,14 @@ P1_CNTR = \
                                  'general': [ 'the telecom market was liberalized in 1999 when the government awarded '
                                               'three mobile telephony licenses and two ISP licenses and established an '
                                               'independent regulatory authority',
-                                              'Moov Gabon (known as Gabon Telecom before a rebranding exercise in '
-                                              'January 2021), was privatized in 2007 when Maroc Telecom bought a 51% '
-                                              'stake in the network',
-                                              'in June 2016 Maroc Telecom merged its two business in Gabon, thereby '
-                                              'reducing the number of mobile networks from four to three',
-                                              'the 2009 entry of USAN (operated by Bintel Group under the brand name '
-                                              'Azur) into a competitive market with high subscriptions triggered a '
-                                              'price war that saw falling revenue and profits, forcing the networks to '
-                                              'streamline their businesses and to look for new income streams',
-                                              'following more than a year of delays, a license to offer 3G mobile '
-                                              'broadband services was awarded in late 2011',
-                                              'Azur failed and ceased trading in late 2017, encumbered by debts and '
-                                              'fined by the regulator for failing to observe its quality of service '
-                                              'obligations',
                                               "in contrast with the mobile market, Gabon's fixed-line and internet "
                                               'sectors have remained underdeveloped due to a lack of competition and '
                                               'high prices',
                                               'the country has sufficient international bandwidth on the '
-                                              'SAT-3/WASC/SAFE submarine cable but this facility is monopolized by '
-                                              'Moov Gabon',
+                                              'SAT-3/WASC/SAFE submarine cable',
                                               'the arrival of the ACE submarine cable, combined with progressing work '
                                               'on the CAB cable, has increased back haul capacity supporting mobile '
-                                              "data traffic, and broke Moov Gabon's monopoly on international internet "
-                                              'traffic.',
+                                              'data traffic',
                                               2022],
                                  'intl': [ 'landing points for the SAT-3/WASC, ACE and Libreville-Port Gentil Cable '
                                            'fiber-optic submarine cable that provides connectivity to Europe and West '
@@ -6374,7 +6029,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -6430,8 +6085,7 @@ P1_CNTR = \
                                                 'this resulted in a relatively high number of networks competing in '
                                                 'the under-developed fixed-line segment as well as in the emerging '
                                                 'mobile market',
-                                                'both segments remain dominated by just a few companies, with SilkNet '
-                                                "and MagtiCom holding the lion's share.",
+                                                'both segments remain dominated by just a few companies',
                                                 2022],
                                    'intl': [ 'landing points for the Georgia-Russia, Diamond Link Global, and Caucasus '
                                              'Cable System fiber-optic submarine cable that provides connectivity to '
@@ -6444,7 +6098,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -6452,7 +6106,7 @@ P1_CNTR = \
                                              'from home is still evident, and the spike in this area has seen growth '
                                              'opportunities for development of new tools and increased services',
                                              0],
-                                   'subs': {'bb': 972162, 'fix': 387698, 'internet': 3628500, 'mob': 5100101},
+                                   'subs': {'bb': 986809, 'fix': 337923, 'internet': 3628500, 'mob': 5163558},
                                    'tld': '.ge',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.ge'}},
                'mcc': ['282'],
@@ -6470,6 +6124,7 @@ P1_CNTR = \
                            '28212',
                            '28213',
                            '28214',
+                           '28215',
                            '28222',
                            '28967',
                            '28988'],
@@ -6494,9 +6149,9 @@ P1_CNTR = \
                                    'coast': 2389,
                                    'coord': ['51 00 N, 9 00 E'],
                                    'popul': 84316622,
-                                   'ports': { 'container': 'Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)',
-                                              'seaport': '<em>Baltic Sea:</em> Kiel, Rostock<em>North Sea:</em> '
-                                                         'Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven'},
+                                   'ports': { 'container': 'Bremen/Bremerhaven (5,018,900), Hamburg (8,715,000) (2021)',
+                                              'seaport': 'Baltic Sea: Kiel, Rostock; North Sea: Bremerhaven, '
+                                                         'Brunsbuttel, Emden, Hamburg, Wilhelmshaven'},
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DE',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/germany'},
@@ -6515,23 +6170,13 @@ P1_CNTR = \
                                                  'mobile-cellular',
                                                  2020],
                                    'general': [ "with one of Europe's largest telecom markets, Germany hosts a number "
-                                                'of significant networks which offer effective competition in the '
+                                                'of significant operators which offer effective competition in the '
                                                 'mobile and broadband sectors',
-                                                'Telekom Deutschland remains the dominant provider in the fixed-line '
-                                                'segment, though there is increasing competition from networks '
-                                                'including freenet, Vodafone Germany, and Telef&oacute',
-                                                'nica Germany, each of which is making use of regulatory measures '
-                                                'aimed at facilitating wholesale network access to provide fiber-based '
-                                                'broadband services',
                                                 'the German mobile market is driven by mobile data, with the number of '
                                                 'mobile broadband subscribers having increased rapidly in recent years',
-                                                'with LTE now universally available, progress has recently been made '
-                                                'in building out 5G networks',
-                                                "Telekom's 5G service provided about 80% population coverage by March "
-                                                '2021',
-                                                'this was expected to be increased to 90% coverage by the end of the '
-                                                'year',
-                                                2021],
+                                                'with LTE now effectively universally available, considerable progress '
+                                                'has recently been made in building out 5G networks',
+                                                2022],
                                    'intl': [ 'landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, '
                                              'C-Lion1, GC1, GlobalConnect-KPN, and Germany-Denmark 2 & 3 - submarine '
                                              'cables to Europe, Africa, the Middle East, Asia, Southeast Asia and '
@@ -6543,7 +6188,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -6579,6 +6224,7 @@ P1_CNTR = \
                            '26222',
                            '26223',
                            '26224',
+                           '26225',
                            '26233',
                            '26241',
                            '26242',
@@ -6615,10 +6261,10 @@ P1_CNTR = \
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ghana'},
                         'nameset': ['ghana', 'republic of ghana', 'the republic of ghana'],
                         'tel': { 'code': '233',
-                                 'domestic': [ 'fixed-line data about 1 per 200 subscriptions',
+                                 'domestic': [ 'fixed-line data less than 1 per 100 subscriptions',
                                                'competition among multiple mobile-cellular providers has spurred '
                                                'growth with a voice subscribership of more than 130 per 100 persons',
-                                               2022],
+                                               2020],
                                  'general': [ 'challenged by unreliable electricity and shortage of skilled labor, '
                                               'Ghana seeks to extend telecom services nationally',
                                               'investment in fiber infrastructure and off-grid solutions provide data '
@@ -6628,10 +6274,9 @@ P1_CNTR = \
                                               'moderately competitive Internet market, most through mobile networks',
                                               'international submarine cables, and terrestrial cables have improved '
                                               'Internet capacity',
-                                              'LTE services are widely available, only MTN Ghana has thus far signaled '
-                                              'a willingness to invest in 5G',
+                                              'LTE services are widely available',
                                               'the relatively high cost of 5G-compatible devices also inhibits most '
-                                              'subscribers from migrating from 3G and LTE platforms.',
+                                              'subscribers from migrating from 3G and LTE platforms',
                                               2022],
                                  'intl': [ 'landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 '
                                            'fiber-optic submarine cables that provide connectivity to South and West '
@@ -6645,7 +6290,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -6693,9 +6338,9 @@ P1_CNTR = \
                             'nameset': ['gibraltar'],
                             'tel': { 'code': '350',
                                      'domestic': [ 'automatic exchange facilities',
-                                                   'over 50 per 100 fixed-line and 120 per 100 mobile-cellular',
-                                                   2019],
-                                     'general': [ "Gibraltar's population is urban based, served by a digital "
+                                                   'over 51 per 100 fixed-line and 105 per 100 mobile-cellular',
+                                                   2020],
+                                     'general': [ "Gibraltar's population is urban-based, served by a digital "
                                                   'telephone exchange supported by a fiber optic and copper '
                                                   'infrastructure',
                                                   'near universal mobile and Internet use',
@@ -6710,7 +6355,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -6741,7 +6386,7 @@ P1_CNTR = \
                                   'coast': 13676,
                                   'coord': ['39 00 N, 22 00 E'],
                                   'popul': 10533871,
-                                  'ports': { 'container': 'Piraeus (5,648,000) (2019)',
+                                  'ports': { 'container': 'Piraeus (5,311,810) (2021)',
                                              'seaport': 'Aspropyrgos, Pachi, Piraeus, Thessaloniki'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GR',
@@ -6761,10 +6406,6 @@ P1_CNTR = \
                                   'general': [ "Greece's telecom market is susceptible to the country's volatile "
                                                'economy, and as a result revenue among the key networks has been '
                                                'variable',
-                                               'the incumbent telco OTE, supported by the organizational and financial '
-                                               'clout of its parent Deutsche Telekom, reported a 16.6% fall in revenue '
-                                               'for 2020, and the economic fallout of the pandemic continued to reduce '
-                                               'revenue into 2021',
                                                'broadband subscriptions in Greece are developing steadily despite the '
                                                'difficult economic conditions',
                                                'the main networks are concentrating investment on fiber-based next '
@@ -6773,16 +6414,15 @@ P1_CNTR = \
                                                'their work is also supported by government ultra-fast broadband '
                                                'projects, largely funded by the EC and aimed at delivering a service '
                                                'of at least 100Mb/s to under served areas',
-                                               "Greece's well-developed mobile market is dominated by the three MNOs "
-                                               'Wind Hellas, Vodafone Greece, and Cosmote',
+                                               "Greece's well-developed mobile market is dominated by the three MNOs",
                                                'Networks continue to invest in LTE infrastructure and technologies to '
                                                'provide networks capable of meeting customer demand for data services',
                                                'after extensive trials of 5G, the MNOs were able to launch commercial '
                                                'services in early 2021 following the December 2020 allocation of '
                                                'frequencies in a range of bands',
-                                               'the rapid rollout of 5G encouraged Cosmote to close down its 3G '
-                                               'network (a process expected to be completed by the end of 2021) and '
-                                               'reallocate for LTE and 5G.',
+                                               'the rapid rollout of 5G encouraged the shut down of the 3G network (a '
+                                               'process expected to be completed by the end of 2021) and reallocate '
+                                               'for LTE and 5G.',
                                                2022],
                                   'intl': [ 'landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, '
                                             'MedNautilus Submarine System, Aphrodite 2, AAE-1 and Silphium optical '
@@ -6796,7 +6436,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -6843,9 +6483,9 @@ P1_CNTR = \
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/greenland'},
                             'nameset': ['greenland', 'kalaallit nunaat'],
                             'tel': { 'code': '299',
-                                     'domestic': [ 'nearly 13 per 100 for fixed-line subscriptions and 109 per 100 for '
+                                     'domestic': [ 'nearly 11 per 100 for fixed-line subscriptions and 116 per 100 for '
                                                    'mobile-cellular',
-                                                   2019],
+                                                   2020],
                                      'general': [ 'adequate domestic and international service provided by satellite, '
                                                   'cables, and microwave radio relay',
                                                   'the fundamental telecommunications infrastructure consists of a '
@@ -6855,7 +6495,10 @@ P1_CNTR = \
                                                   'telecommunications',
                                                   'a marine cable connects south and west Greenland to the rest of the '
                                                   'world, extending from Nuuk and Qaqortoq to Canada and Iceland',
-                                                  2018],
+                                                  'a contract has been awarded to build a 5G network in Greenland, '
+                                                  'initially covering three towns, with 10 towns, including '
+                                                  "Greenland's capital Nuuk to follow",
+                                                  2022],
                                      'intl': [ 'landing points for Greenland Connect, Greenland Connect North, Nunavut '
                                                'Undersea Fiber System submarine cables to Greenland, Iceland, and '
                                                'Canada',
@@ -6866,7 +6509,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -6899,33 +6542,20 @@ P1_CNTR = \
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/grenada'},
                           'nameset': ['grenada'],
                           'tel': { 'code': '1473',
-                                   'domestic': [ 'interisland VHF and UHF radiotelephone links',
-                                                 '29 per 100 for fixed-line and 102 per 100 for mobile-cellular',
-                                                 2019],
+                                   'domestic': ['14 per 100 for fixed-line and 108 per 100 for mobile-cellular', 2020],
                                    'general': [ 'the telecom sector has seen a decline in subscriber numbers '
                                                 '(particularly for prepaid mobile services the mainstay of short term '
                                                 'visitors) and revenue',
                                                 'fixed and mobile broadband services are two areas that have benefited '
                                                 'from the crisis as employees and students have resorted to working '
                                                 'from home',
-                                                "one major casualty may be the region's second largest telco operator, "
-                                                'Digicel',
-                                                'the company filed for bankruptcy in the US in April 2020',
-                                                'it continues to operate in all of its Caribbean markets as it seeks '
-                                                'to refinance billions of dollars of debt',
-                                                'the other major telco, regional incumbent Cable & Wireless '
-                                                'Communications (CWC), is experiencing similar drops in subscriber '
-                                                'numbers and revenue',
-                                                'CWC is expanding and enhancing its fixed and mobile networks in many '
-                                                'of the countries it serves around the Caribbean, despite many '
-                                                'locations being small islands with very small populations',
                                                 'one area of the telecom market that is not prepared for growth is 5G '
                                                 'mobile',
                                                 'governments, regulators, and even the mobile network operators have '
                                                 'shown that they have not been investing in 5G opportunities at the '
                                                 'present time',
                                                 'network expansion and enhancements remain concentrated around '
-                                                'improving LTE coverage.',
+                                                'improving LTE coverage',
                                                 2021],
                                    'intl': [ 'landing points for the ECFS, Southern Caribbean Fiber and CARCIP '
                                              'submarine cables with links to 13 Caribbean islands extending from the '
@@ -6938,7 +6568,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -6982,11 +6612,9 @@ P1_CNTR = \
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guam'},
                        'nameset': ['guahan', 'guam', 'territory of guam', 'the territory of guam'],
                        'tel': { 'code': '1671',
-                                'domestic': [ 'three major companies provide both fixed-line and mobile services, as '
-                                              'well as access to the Internet',
-                                              'fixed-line subscriptions in 2018 were 42 per 100 and 62 per 100 '
-                                              'mobile-cellular subscriptions in 2004',
-                                              2019],
+                                'domestic': [ 'fixed-line subscriptions 41 per 100 and 62 per 100 mobile-cellular '
+                                              'subscriptions in 2004',
+                                              2020],
                                 'general': [ "Guam's telecommunications companies provide important services that "
                                              'allow other businesses on island to operate',
                                              'Guam plays a larger, and growing role, in global telecommunications '
@@ -6994,12 +6622,10 @@ P1_CNTR = \
                                              'benefit island residents and the local economy',
                                              'in the Asia-Pacific region the demand for 4G, 5G, and broadband access '
                                              'is rapidly increasing',
-                                             'Echo and Bifrost will support further growth for hundreds of millions of '
-                                             'people and millions of businesses',
                                              'the 11 submarine cables that currently land on Guam, connecting the U.S. '
                                              'to the Asia-Pacific region, are some of the more than 400 cables that '
                                              'are the backbone of global telecommunications, providing nearly all of '
-                                             "the world's internet and phone service.",
+                                             "the world's internet and phone service",
                                              2021],
                                 'intl': [ 'major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, '
                                           'SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam Cable '
@@ -7011,7 +6637,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -7087,17 +6713,6 @@ P1_CNTR = \
                                                   'two new submarine cables are due for completion by 2022',
                                                   'improved international connectivity should drive further uptake of '
                                                   'both fixed and mobile broadband services',
-                                                  'key players including Millicom (operating as Tigo Guatemala) and '
-                                                  'Am&eacute',
-                                                  'rica M&oacute',
-                                                  'vil are regional and global powerhouses which can tap into '
-                                                  'expertise and financial resources to bolster their Guatemalan '
-                                                  'businesses',
-                                                  'the acquisition of Telef&oacute',
-                                                  "nica's Guatemala business by Am&eacute",
-                                                  'rica M&oacute',
-                                                  'vil in 2019 created a strong competitor to Millicom, which '
-                                                  'dominates the mobile sector',
                                                   'intense competition among the networks has helped to improve '
                                                   'services and lower prices for end-users',
                                                   'given the commercial impetus of networks, insufficient government '
@@ -7106,16 +6721,10 @@ P1_CNTR = \
                                                   'the country benefits from one of the most open regulatory '
                                                   'frameworks, with all telecom sectors having been open to '
                                                   'competition since 1996',
-                                                  'Am&eacute',
-                                                  'rica M&oacute',
-                                                  'vil controls about 85.1% of the fixed-lines market through its '
-                                                  'subsidiaries Claro and Movistar',
-                                                  'mobile telephony is the most developed telecom market sector in '
-                                                  'Guatemala, accounting for 90% of connections in the country',
                                                   'mobile subscriptions are on par with the regional average, though '
                                                   'the slower growth in the mobile subscriber base suggests a level of '
                                                   'market saturation, with the emphasis among networks being on '
-                                                  'generating revenue via mobile data services.',
+                                                  'generating revenue via mobile data services',
                                                   2021],
                                      'intl': [ 'landing points for the ARCOS, AMX-1, American Movil-Texius West Coast '
                                                'Cable and the SAm-1 fiber-optic submarine cable system that, together, '
@@ -7128,7 +6737,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -7161,11 +6770,13 @@ P1_CNTR = \
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guernsey'},
                            'nameset': ['bailiwick of guernsey', 'guernsey', 'the bailiwick of guernsey'],
                            'tel': { 'code': '44',
-                                    'domestic': ['fixed-line 54 per 100 and mobile-cellular 114 per 100 persons', 2020],
-                                    'general': [ 'high performance global connections with quality service',
-                                                 'connections to major cities around the world to rival and attract '
-                                                 'future investment and future needs of islanders and businesses',
-                                                 2018],
+                                    'domestic': ['fixed-line 47 per 100 and mobile-cellular 112 per 100 persons', 2021],
+                                    'general': [ 'fixed network broadband services are those delivered over physical '
+                                                 'copper connections, fiber connections and fixed wireless '
+                                                 'communications links (e.g. WiMax)',
+                                                 'they do not include services delivered over 2G, 3G and 4G mobile '
+                                                 'networks',
+                                                 2021],
                                     'intl': [ 'landing points for Guernsey-Jersey, HUGO, INGRID, Channel Islands -9 '
                                               'Liberty and UK-Channel Islands-7 submarine cable to UK and France',
                                               2019],
@@ -7173,7 +6784,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -7214,22 +6825,11 @@ P1_CNTR = \
                                       'republique de guinee',
                                       'the republic of guinea'],
                          'tel': { 'code': '224',
-                                  'domestic': [ 'there is national coverage and Conakry is reasonably well-served',
-                                                'coverage elsewhere remains inadequate but is improving',
-                                                'fixed-line teledensity is less than 1 per 100 persons',
-                                                'mobile-cellular subscribership is just over 100 per 100 persons',
-                                                2019],
-                                  'general': [ "Guinea's telecom market is dominated by MTN and Orange",
-                                               'after the entry of these regional players, the number of mobile '
-                                               'subscribers grew strongly while revenue also increased steadily',
-                                               'the debt-stricken incumbent fixed-line network Sotelgui provided a '
-                                               'mobile service until it was closed down in late 2012, following a long '
-                                               'period of mismanagement',
-                                               'the company itself was declared bankrupt in 2013, and stopped '
-                                               'operating',
-                                               'the government since 2019 has sought to secure partners and investors '
-                                               'to help launch a replacement operator, Guinea Telecom, but with no '
-                                               'success',
+                                  'domestic': [ 'fixed-line teledensity is less than 1 per 100 persons',
+                                                'mobile-cellular subscribership is just over 105 per 100 persons',
+                                                2020],
+                                  'general': [ 'the number of mobile subscribers grew strongly while revenue also '
+                                               'increased steadily',
                                                'fixed broadband services are still very limited and expensive, though '
                                                'there have been some positive developments in recent years',
                                                'the landing of the first international submarine cable in 2012, and '
@@ -7240,7 +6840,7 @@ P1_CNTR = \
                                                'administrative centers across the country',
                                                'almost all internet connections are made via mobile networks',
                                                'GSM services account for a dwindling proportion of connections, in '
-                                               'line with the greater reach of services based on 3G and LTE.',
+                                               'line with the greater reach of services based on 3G and LTE',
                                                2022],
                                   'intl': [ 'ACE submarine cable connecting Guinea with 20 landing points in Western '
                                             'and South Africa and Europe',
@@ -7250,7 +6850,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -7306,8 +6906,8 @@ P1_CNTR = \
                                                    'production and supply chains globally',
                                                    'since 2020, some aspects of the telecom sector have experienced a '
                                                    'downturn, particularly in mobile device production',
-                                                   'progress towards 5G implementation has resumed, as well as '
-                                                   'upgrades to infrastructure',
+                                                   'progress toward 5G implementation has resumed, as well as upgrades '
+                                                   'to infrastructure',
                                                    'consumer spending on telecom services has increased due to the '
                                                    'surge in demand for capacity and bandwidth',
                                                    'the crucial nature of telecom services as a tool for work and '
@@ -7341,31 +6941,21 @@ P1_CNTR = \
                                       'guyana',
                                       'the co-operative republic of guyana'],
                          'tel': { 'code': '592',
-                                  'domestic': [ 'fixed-line teledensity is about 18 per 100 persons',
-                                                'mobile-cellular teledensity about 83 per 100 persons',
-                                                2019],
-                                  'general': [ 'After many years of delays and legal challenges, the 2016 '
+                                  'domestic': [ 'fixed-line teledensity is about 16 per 100 persons',
+                                                'mobile-cellular teledensity about 83 per 109 persons',
+                                                2020],
+                                  'general': [ 'after many years of delays and legal challenges, the 2016 '
                                                'Telecommunications Act was brought into force in October 2020 by the '
                                                "newly elected government of the People's Party Progressive (PPP)",
-                                               'the end of the 31-year monopoly held by the fixed-line incumbent '
-                                               'Guyana Telephone and Telegraph (GTT) occurred just two months after '
-                                               'the PPP took power from the APNU+AFC coalition, which had signed a '
-                                               "non-binding agreement with GTT in 2019 to liberalise Guyana's telecoms "
-                                               'market but failed to take any concrete action to make it happen',
                                                'the Telecommunications Act sets out a framework for enabling '
                                                'competition across all segments of the telecommunications sector in '
                                                'Guyana',
-                                               'the mobile market has been open to competition since 2001, but only '
-                                               'one operator, Digicel Guyana, has successfully launched competing GSM '
-                                               'and 3G services',
-                                               'while Digicel quickly built a small lead in the mobile market, it '
-                                               'remains a duopoly, and subscription levels are well below those of '
-                                               'other countries in the region',
+                                               'the mobile market has been open to competition since 2001',
                                                'the Telecommunications Act presents the country with the potential to '
                                                'benefit from a more level playing field that may attract new players, '
                                                "but nevertheless Guyana's relatively small size and low GDP may "
                                                'restrict it from reaching its full potential for some more years to '
-                                               'come.',
+                                               'come',
                                                2021],
                                   'intl': [ 'landing point for the SG-SCS submarine cable to Suriname, and the '
                                             'Caribbean',
@@ -7375,7 +6965,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -7414,11 +7004,8 @@ P1_CNTR = \
                                      'the republic of haiti'],
                         'tel': { 'code': '509',
                                  'domestic': [ 'fixed-line is less than 1 per 100',
-                                               'mobile-cellular telephone services have expanded greatly in the last '
-                                               'decade due to low-cost GSM (Global Systems for Mobile) phones and '
-                                               'pay-as-you-go plans',
-                                               'mobile-cellular teledensity is nearly 61 per 100 persons',
-                                               2019],
+                                               'mobile-cellular teledensity is nearly 64 per 100 persons',
+                                               2020],
                                  'general': [ 'Haiti is in desperate need of maintaining effective communication '
                                               'services to enable it to keep going through the countless natural '
                                               "disasters, the country's telecoms sector is really only surviving on "
@@ -7436,7 +7023,7 @@ P1_CNTR = \
                                               'telecoms sector recover &ndash',
                                               'the World Bank has released a further $120 million to go on top of the '
                                               '$60 million grant provided after the last major 7.2 earthquake in '
-                                              'August 2021.',
+                                              'August 2021',
                                               2022],
                                  'intl': [ 'landing points for the BDSNi and Fibralink submarine cables to 14 points '
                                            'in the Bahamas and Dominican Republic',
@@ -7446,7 +7033,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -7512,7 +7099,7 @@ P1_CNTR = \
                                                   'of slightly over 5 per 100',
                                                   'mobile-cellular subscribership is roughly 70 per 100 persons',
                                                   2020],
-                                    'general': ['<p style="background: white', 'margin: 0in 0in 6.4pt 0in', '">', 2021],
+                                    'general': ['<p style="background: white', 'margin: 0in 0in 6.4pt 0in', '">', 2022],
                                     'intl': [ 'landing points for both the ARCOS and the MAYA-1 fiber-optic submarine '
                                               'cable systems that together provide connectivity to South and Central '
                                               'America, parts of the Caribbean, and the US',
@@ -7523,7 +7110,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -7547,7 +7134,7 @@ P1_CNTR = \
                                      'coast': 733,
                                      'coord': ['22 15 N, 114 10 E'],
                                      'popul': 7276588,
-                                     'ports': {'container': 'Hong Kong (18,361,000) (2019)', 'seaport': 'Hong Kong'},
+                                     'ports': {'container': 'Hong Kong (17,798,000) (2021)', 'seaport': 'Hong Kong'},
                                      'region': 'Southeast Asia',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HK',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/hong-kong'},
@@ -7568,26 +7155,14 @@ P1_CNTR = \
                                                   'top of world rankings for the industry',
                                                   'it has kept its #1 spot in the Asian region in terms of the '
                                                   'maturity of its telecom market &ndash',
-                                                  'a reflection of the high subscription rates across mobile, mobile '
+                                                  'a reflection of the high penetration rates across mobile, mobile '
                                                   'broadband, and fixed broadband',
-                                                  'fixed-line teledensity in Hong Kong is impressive at over 50%, '
+                                                  'even fixed-line teledensity in Hong Kong is impressive at over 50%, '
                                                   'although it too has started a gradual decline in keeping with most '
                                                   'other telecom markets around the world, as consumers slowly '
                                                   'transition over to the mobile platform for all of their '
                                                   'communication needs',
-                                                  'concerns over national security prompted the US Departments of '
-                                                  'Justice, Homeland Security, and Defense to prevent the branch line '
-                                                  'of the newly completed Pacific Light Cable Network (PLCN) linking '
-                                                  'Los Angeles with Taiwan from being lit',
-                                                  'and ongoing issues with the deployment of Huawei technology inside '
-                                                  'the core infrastructure of telecom networks (something that has '
-                                                  'been done extensively in Hong Kong, including in its 5G networks) '
-                                                  'means that the territory &ndash',
-                                                  'along with its telecom sector &ndash',
-                                                  'may become increasingly isolated from the rest of the world',
-                                                  'Hong Kong is likely to drop back from its position as a regional '
-                                                  'and global leader in the telecom market.',
-                                                  2021],
+                                                  2022],
                                      'intl': [ 'landing points for the AAE-1, AAG, APCN-2, APG, ASE, FEA, FNAL, RNAL, '
                                                'H2HE, SeaMeWe-3, SJC and TGN-IA submarine cables that provide '
                                                'connections to Asia, US, Australia, the Middle East, and Europe',
@@ -7599,7 +7174,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -7681,33 +7256,22 @@ P1_CNTR = \
                                                 'networks to provide a 1Gb/s service',
                                                 'services based on 5G have been supported by the January 2021 '
                                                 'multi-spectrum auction for spectrum in the 900MHz and 1800MHz bands',
-                                                "Digi Mobile failed to secure spectrum, which prompted the operator's "
-                                                'parent company to sell the unit to 4iG',
                                                 'the number of fixed-lines continues to fall as subscribers migrate to '
                                                 'the mobile platform for voice and data services',
-                                                'operators have bundled packages to boost revenue and retain '
+                                                'operators have looked to bundled packages to boost revenue and retain '
                                                 'subscribers',
-                                                'this strategy encouraged Vodafone Group to acquire UPC Hungary in '
-                                                'mid-2019',
                                                 'the broadband market has effective infrastructure-based competition, '
                                                 'with an extensive cable network competing against DSL services and a '
-                                                'vibrant and rapidly expanding fiber sector.',
+                                                'vibrant and rapidly expanding fiber sector',
                                                 'the regulator has also introduced a number of measures aimed at '
                                                 'promoting market competition, which is pushing the drive for higher '
                                                 'speed platforms and encouraging operators to invest in technology '
                                                 'upgrades',
-                                                'Hungary now has the highest fixed broadband penetration rate in '
-                                                'Eastern Europe',
-                                                'by the beginning of 2021, the incumbent telco Maygar Telekom provided '
-                                                'a 1Gb/s service to about 2.5 million premises across the country',
-                                                'the number of superfast broadband connections (above 30Mb/s) '
+                                                'as a result, Hungary now has the highest fixed broadband penetration '
+                                                'rate in Eastern Europe',
+                                                'the number of super fast broadband connections (above 30Mb/s) '
                                                 'accounted for 78% of all fixed broadband connections',
-                                                'Maygar Telekom is at the forefront of 5G developments, supported by '
-                                                'the government, universities, other telcos and vendors forming the '
-                                                'Hungarian 5G Coalition',
-                                                'by March 2021, Vodafone Hungary managed about 300 5G base stations in '
-                                                'Budapest and its surrounds, as well as in a number of other cities.',
-                                                2021],
+                                                2022],
                                    'intl': [ 'Hungary has fiber-optic cable connections with all neighboring countries',
                                              'the international switch is in Budapest',
                                              'satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean '
@@ -7718,7 +7282,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -7726,7 +7290,7 @@ P1_CNTR = \
                                              'from home is still evident, and the spike in this area has seen growth '
                                              'opportunities for development of new tools and increased services',
                                              0],
-                                   'subs': {'bb': 3265308, 'fix': 2970347, 'internet': 8588776, 'mob': 10332660},
+                                   'subs': {'bb': 3382136, 'fix': 2955979, 'internet': 8588776, 'mob': 10248653},
                                    'tld': '.hu',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.hu'}},
                'mcc': ['216'],
@@ -7747,17 +7311,14 @@ P1_CNTR = \
                                    'region': 'Arctic Region',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IS',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/iceland'},
-                          'nameset': ['iceland', 'island', 'lydveldid island', 'republic of iceland'],
+                          'nameset': ['iceland', 'island'],
                           'tel': { 'code': '354',
-                                   'domestic': [ 'liberalization of the telecommunications sector beginning in the '
-                                                 'late 1990s has led to increased competition especially in the mobile '
-                                                 'services segment of the market',
-                                                 'roughly 31 per 100 for fixed line and nearing 124 per 100 for '
+                                   'domestic': [ '31 per 100 for fixed line and nearing 123 per 100 for '
                                                  'mobile-cellular subscriptions',
                                                  2020],
                                    'general': [ 'Iceland has one of the smallest yet most progressive telecom markets '
                                                 'in Europe',
-                                                'the country in 2020 became the top in Europe for fiber subscriptions',
+                                                'the country in 2020 became the top in Europe for fiber penetration',
                                                 'it aims to provide a fixed broadband service of at least 100Mb/s to '
                                                 '99.9% of the population by the end of 2021, an ambitious target by '
                                                 'international standards and one which it is likely to achieve given '
@@ -7765,27 +7326,15 @@ P1_CNTR = \
                                                 'fiber networks',
                                                 'there is effective competition in the mobile and broadband markets, '
                                                 'with a number of players having emerged to challenge the dominance of '
-                                                'the two leading operators S&iacute',
-                                                'minn and S&yacute',
-                                                'n, which have interests across the telecom sectors',
-                                                'S&yacute',
-                                                'n was formerly Vodafone Iceland before being rebranded to reflect the '
-                                                "company's move into broadband and broadcasting following its December "
-                                                '2017 acquisition of most of the telecoms and media interests of 365 '
-                                                'Media',
-                                                'Nova has become the leading player in the mobile market and has '
-                                                'quickly expanded its presence in the fixed-line segment, particularly '
-                                                'in fiber',
+                                                'the two leading operators which have interests across the telecom '
+                                                'sectors',
                                                 'the telecom market has shown some resilience in recent years '
                                                 'following the significant economic downturn a decade ago, supported '
                                                 'by continuing investment in mobile and fixed-line broadband '
                                                 "infrastructure by operators and well as by the government's "
                                                 'Telecommunications Fund which is supporting Next Generation Access '
                                                 'networks, particularly in rural areas',
-                                                'S&iacute',
-                                                'minn contracts Ericsson to build its 5G RAN, aiming for national 5G '
-                                                'coverage by end-2022',
-                                                2021],
+                                                2022],
                                    'intl': [ 'landing points for the CANTAT-3, FARICE-1, Greenland Connect and DANICE '
                                              'submarine cable system that provides connectivity to Canada, the Faroe '
                                              'Islands, Greenland, UK, Denmark, and Germany',
@@ -7798,7 +7347,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -7843,7 +7392,7 @@ P1_CNTR = \
                                  'coast': 7000,
                                  'coord': ['20 00 N, 77 00 E'],
                                  'popul': 1389637446,
-                                 'ports': { 'container': 'Jawaharal Nehru Port (5,100,891), Mundra (4,732,699) (2019)',
+                                 'ports': { 'container': 'Jawaharal Nehru Port (5,630,000), Mundra (6,660,000) (2021)',
                                             'seaport': 'Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), '
                                                        'Mumbai (Bombay), Sikka, Vishakhapatnam'},
                                  'region': 'Asia',
@@ -7858,29 +7407,38 @@ P1_CNTR = \
                         'tel': { 'code': '91',
                                  'domestic': [ 'fixed-line subscriptions stands at roughly 1 per 100 and '
                                                'mobile-cellular at nearly 84 per 100',
-                                               'mobile cellular service introduced in 1994 and organized nationwide '
-                                               'into four metropolitan areas and 19 telecom circles, each with '
-                                               'multiple private service providers and one or more state-owned service '
-                                               'providers',
-                                               'in recent years significant trunk capacity added in the form of '
-                                               "fiber-optic cable and one of the world's largest domestic satellite "
-                                               'systems, the Indian National Satellite system (INSAT), with 6 '
-                                               'satellites supporting 33,000 (very small aperture terminals) VSAT',
-                                               2022],
-                                 'general': [ 'supported by deregulation, India is one of the fastest-growing telecom '
-                                              'markets in the world',
-                                              'implementation of 4G/LTE',
-                                              'fixed-line/broadband underdeveloped',
-                                              'government investment in national infrastructure',
-                                              'project aims to connect 600,000 villages to broadband networks',
-                                              'expansive foreign investment',
-                                              'imports of integrated circuits and broadcast equipment from China',
-                                              'steps taken towards a 5G auction and tests',
-                                              'submarine cable linking mainland to the Andaman and Nicobar Islands',
-                                              'smart cities mission to promote 100 model cities in providing core '
-                                              'infrastructure, sustainable environment, and quality of life through '
-                                              'economic growth and competition, including focus on social, economic, '
-                                              'and institutional pillars',
+                                               2020],
+                                 'general': [ "India's telecommunications sector has struggled for growth over the "
+                                              'last five years',
+                                              "the sector's lackluster performance has been in spite of concerted "
+                                              'efforts by the government to bolster the underlying infrastructure in a '
+                                              'bid to achieve universal coverage',
+                                              "instead, the country's relatively liberal regulatory environment has "
+                                              'encouraged fierce competition and price wars among the operators',
+                                              'State-owned as well as private operators have been forced to seek '
+                                              'redress from the government in order to avoid bankruptcy',
+                                              'one particular area of contention has been the billions owed by the '
+                                              'operators to the government in the form of Adjusted Gross Revenue (AGR) '
+                                              'dues &ndash',
+                                              'usage and licensing fees charged by the Department of '
+                                              'Telecommunications (DoT) &ndash',
+                                              'that have been the subject of long-standing court battles over what '
+                                              'should be counted as revenue',
+                                              'the government won that battle in the Supreme Court in 2019, but the '
+                                              'financial impairment of that decision has pushed a number of telcos to '
+                                              'the brink',
+                                              'add the impact of the Covid-19 crisis in 2020 and 2021 to the mix, and '
+                                              "the government had to come to the industry's rescue by introducing a "
+                                              'major reform package in September 2021',
+                                              'along with changes to the definition of AGR with regard to non-telecom '
+                                              'revenue, the package includes a four-year moratorium on AGR dues and '
+                                              'spectrum instalments',
+                                              'the government has also deferred the spectrum auctions for 5G until '
+                                              'later in 2022',
+                                              'mobile spectrum in India is already in short supply in terms of '
+                                              'providing the necessary capacity to reach universal coverage, but the '
+                                              'cash-strapped MNOs may not yet be in a sufficiently strong financial '
+                                              'position for which to make the 5G spectrum auction viable',
                                               2022],
                                  'intl': [ 'a number of major international submarine cable systems, including '
                                            'SEA-ME-WE-3 & 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, SEACOM/ '
@@ -7895,7 +7453,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -8245,8 +7803,8 @@ P1_CNTR = \
                                      'coast': 54716,
                                      'coord': ['5 00 S, 120 00 E'],
                                      'popul': 277329163,
-                                     'ports': { 'container': 'Tanjung Perak (3,900,000), Tanjung Priok (7,600,000) '
-                                                             '(2019)',
+                                     'ports': { 'container': 'Tanjung Perak (3,901,215), Tanjung Priok (6,849,227) '
+                                                             '(2021)',
                                                 'seaport': 'Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, '
                                                            'Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok'},
                                      'region': 'Southeast Asia',
@@ -8257,11 +7815,8 @@ P1_CNTR = \
                                          'republik indonesia',
                                          'the republic of indonesia'],
                             'tel': { 'code': '62',
-                                     'domestic': [ 'fixed-line subscribership roughly 3 per 100 and mobile-cellular '
+                                     'domestic': [ 'fixed-line subscribership roughly 4 per 100 and mobile-cellular '
                                                    '130 per 100 persons',
-                                                   'coverage provided by existing network has been expanded by use of '
-                                                   'over 200,000 telephone kiosks many located in remote areas',
-                                                   'mobile-cellular subscribership growing rapidly',
                                                    2020],
                                      'general': [ 'Indonesia faces more than the usual number of obstacles in terms of '
                                                   'enabling widespread access to quality telecommunications services '
@@ -8273,10 +7828,7 @@ P1_CNTR = \
                                                   'expand and upgrade their networks across the country',
                                                   "Indonesia's 18,000 islands (many of which, however, are sparsely "
                                                   'populated) makes the deployment of fixed-line infrastructure on a '
-                                                  'broad scale largely impractica',
-                                                  'the relatively low subscription rate of 4.6% is also a by-product '
-                                                  'of years of under-investment by the previously state-owned '
-                                                  'incumbent Telkom',
+                                                  'broad scale difficult',
                                                   'there has been renewed activity in fiber optic cable, but the '
                                                   'bundling of fixed-line telephony with TV and internet services will '
                                                   "see the country's teledensity stabilize",
@@ -8284,17 +7836,12 @@ P1_CNTR = \
                                                   'to exceed 150% by 2026',
                                                   'with 4G LTE universally available, the major mobile companies have '
                                                   'been busy launching 5G services in selected areas',
-                                                  'Telkomsel was the first to go live in Jakarta in May 2021, followed '
-                                                  "by Indosat Ooredoo's launch in the city of Solo a month later",
                                                   'the rollout of 5G will be hampered by the lack of availability of '
                                                   'suitable frequencies',
-                                                  'Telkomsel, for example, was forced to launch using limited '
-                                                  'frequencies in the 2.3-2.4GHz band, which is only supported by a '
-                                                  'small number of handsets',
                                                   'the 4G had to be reallocated from broadcasting services, and '
                                                   'indications are that the same process is going to have to be '
                                                   'followed in order to allow the expansion of 5G into its core '
-                                                  'frequency bands (3.3 to 4.2GHz).',
+                                                  'frequency bands (3.3 to 4.2GHz)',
                                                   2022],
                                      'intl': [ 'landing points for the SEA-ME-WE-3 & 5, DAMAI, JASUKA, BDM, '
                                                'Dumai-Melaka Cable System, IGG, JIBA, Link 1, 3, 4, & 5, PGASCOM, '
@@ -8311,7 +7858,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -8370,10 +7917,6 @@ P1_CNTR = \
                        'tel': { 'code': '98',
                                 'domestic': [ 'approximately 35 per 100 for fixed-line and 152 per 100 for '
                                               'mobile-cellular subscriptions',
-                                              "investment by Iran's state-owned telecom company has greatly improved "
-                                              'and expanded both the fixed-line and mobile cellular networks',
-                                              'a huge percentage of the cell phones in the market have been smuggled '
-                                              'into the country',
                                               2020],
                                 'general': [ "Iran's telecom infrastructure has suffered from sanctions in recent "
                                              'years, which prevented the import of equipment and devices and '
@@ -8383,23 +7926,17 @@ P1_CNTR = \
                                              'companies have invested in broadening the reach of their LTE networks, '
                                              'which has increased network capacity and improved the quality of mobile '
                                              'broadband services',
-                                             'the country is also looking to 5G, with services having been launched by '
-                                             'MCI and MTN Irancell in early 2021',
+                                             'the country is also looking to 5G',
                                              'the sector is still limited by low frequency bands',
                                              'the government is addressing this with plans to reallocate the 3.5GHz '
                                              'band for 5G use',
-                                             "Iran is keen to grow its Iran's digital economy and the National "
-                                             "Internet Network (NIN) is pivotal to Iran's fixed broadband "
-                                             'infrastructure plans and overall Smart City progress',
-                                             'from a broad perspective, Iran offers significant opportunities for '
-                                             'growth in the telecoms sector',
+                                             'Iran is keen to grow its digital economy',
+                                             'Iran offers significant opportunities for growth in the telecoms sector',
                                              'the country has one of the largest populations in the Middle East, and '
                                              'there is a high proportion of youthful, tech savvy users having '
                                              'considerable demand for both fixed and mobile telecom services',
                                              'companies are offering national roaming to improve services in rural '
                                              'areas',
-                                             'TCI is allowing infrastructure sharing of its fiber network with '
-                                             'competitors',
                                              2022],
                                 'intl': [ 'landing points for Kuwait-Iran, GBICS & MENA, FALCON, OMRAN/3PEG Cable '
                                           'System, POI and UAE-Iran submarine fiber-optic cable to the Middle East, '
@@ -8414,7 +7951,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -8485,10 +8022,7 @@ P1_CNTR = \
                                     'republic of iraq',
                                     'the republic of iraq'],
                        'tel': { 'code': '964',
-                                'domestic': [ '3G services offered by three major mobile operators',
-                                              '4G offered by one operator in Iraqi',
-                                              'conflict has destroyed infrastructure in areas',
-                                              'about 10 per 100 for fixed-line and 92 per 100 for mobile-cellular '
+                                'domestic': [ 'about 7 per 100 for fixed-line and 93 per 100 for mobile-cellular '
                                               'subscriptions',
                                               2020],
                                 'general': [ 'Iraq continues to face a number of political and economic challenges, '
@@ -8498,13 +8032,9 @@ P1_CNTR = \
                                              'the government extended the licenses held by the MNOs for an additional '
                                              'three years to compensate for the chaos and destruction caused between '
                                              '2014 and 2017 when Islamic State held sway in many areas of the country',
-                                             'the three major MNOs are Zain Iraq, Asiacell, and Korek Telecom, which '
-                                             'together control over 90% of the mobile market',
                                              'the companies have struggled to develop LTE services',
-                                             'with LTE services being very low, there is little chance for 5G to be '
-                                             'available in the short term',
                                              'most services are still based on GSM and 3G, except in the Kurdish '
-                                             'region where LTE is more widely available.',
+                                             'region where LTE is more widely available',
                                              2022],
                                 'intl': [ 'landing points for FALCON, and GBICS/MENA submarine cables providing '
                                           'connections to the Middle East, Africa and India',
@@ -8517,7 +8047,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -8574,6 +8104,10 @@ P1_CNTR = \
                               'nameset': ['isle of man', 'the isle of man'],
                               'tel': { 'code': '44',
                                        'domestic': ['landline, telefax, mobile cellular telephone system', 0],
+                                       'general': [ 'the Isle of Man has an extensive communications infrastructure '
+                                                    'consisting of telephone cables, submarine cables, and an array of '
+                                                    'television and mobile phone transmitters and towers',
+                                                    2022],
                                        'intl': [ 'fiber-optic cable, microwave radio relay, satellite earth station, '
                                                  'submarine cable',
                                                  0],
@@ -8581,7 +8115,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -8631,7 +8165,7 @@ P1_CNTR = \
                                                 'all systems are digital',
                                                 'competition among both fixed-line and mobile cellular providers '
                                                 'results in good coverage countrywide',
-                                                'fixed-line nearly 36 per 100 and nearly 132 per 100 for '
+                                                'fixed-line nearly 39 per 100 and nearly 142 per 100 for '
                                                 'mobile-cellular subscriptions',
                                                 2020],
                                   'general': [ "Israel's developed economy largely revolves around high technology "
@@ -8644,13 +8178,12 @@ P1_CNTR = \
                                                'sector',
                                                'household broadband subscriptions is high, with a focus on '
                                                'fiber-network deployment',
-                                               'Bezeq offers FttP services with data rates of up to 2.5Gb/s',
                                                'LTE services are almost universally available, while the August 2020 '
                                                'multi-frequency bands also enabled the MNOs to provide services based '
                                                'on 5G',
                                                '5G will be supported by moves to close down GSM and 3G networks in '
                                                'stages through to the end of 2025, with the physical assets and '
-                                               'frequencies to be repurposed for LTE and 5G use.',
+                                               'frequencies to be repurposed for LTE and 5G use',
                                                2022],
                                   'intl': [ 'landing points for the MedNautilus Submarine System, Tameres North, Jonah '
                                             'and Lev Submarine System, submarine cables that provide links to Europe, '
@@ -8662,7 +8195,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -8723,7 +8256,7 @@ P1_CNTR = \
                                  'coast': 7600,
                                  'coord': ['42 50 N, 12 50 E'],
                                  'popul': 61095551,
-                                 'ports': { 'container': 'Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)',
+                                 'ports': { 'container': 'Genoa (2,557,847), Gioia Tauro (3,146,553) (2021)',
                                             'seaport': 'Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice'},
                                  'region': 'Europe',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IT',
@@ -8740,30 +8273,18 @@ P1_CNTR = \
                                                2020],
                                  'general': [ "Italy's large telecom market has one of the most progressive fiber "
                                               'sectors in Europe, with regulatory measures encouraging network sharing',
-                                              'the incumbent telco continues to invest in fiber, despite its recent '
-                                              'financial difficulties, while the Open Fiber wholesale provider now has '
-                                              'a number of retail contracts which have greatly broadened competition '
-                                              'in the sector',
-                                              "plans to merge Open Fiber with TIM's fixed infrastructure are ongoing",
                                               'regulatory measures have also been introduced to facilitate access to '
-                                              'NGNs, and a number of deals have been brokered which enable the main '
-                                              'telcos to provide bundled services to large numbers of the population',
+                                              'next generation networks (NGNs), and a number of deals have been '
+                                              'brokered which enable the main telcoms to provide bundled services to '
+                                              'large numbers of the population',
                                               "Italy's vibrant mobile market has one of the highest subscription rates "
                                               'in Europe, though the number of subscribers has fallen in recent years '
                                               'as customers respond to attractive off-net pricing which has reduced '
                                               'the financial benefit of having SIM cards from different providers',
-                                              'the market underwent considerable changes following the merger of Wind '
-                                              'and 3 Italia (becoming Wind Tre), which resulted in a new entrant in '
-                                              'the form of Iliad',
-                                              'in mid-2019 Fastweb was recognized as an MNO in its own right, having '
-                                              'been an MVNO for some 11 years',
-                                              'the company has secured frequencies in the 3.5GHz and 26GHz bands and '
-                                              'has a ten-year deal with Wind Tre providing it with national roaming as '
-                                              'well as a partner with which to develop a 5G network',
                                               'network companies were among the first in Europe to trial services '
                                               'based on 5G',
                                               'the high cost also encouraged the regulator in early 2021 to consider '
-                                              'extending the licenses by an additional six years.',
+                                              'extending the licenses by an additional six years',
                                               2021],
                                  'intl': [ 'landing points for Italy-Monaco, Italy-Libya, Italy-Malta, Italy-Greece-1, '
                                            'Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 & 4 & 5, Trapani-Kelibia, '
@@ -8778,7 +8299,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -8865,28 +8386,18 @@ P1_CNTR = \
                                                     'a competitive telecom sector focused on the provision of '
                                                     'converged services, thus allowing operators to offer fixed-line '
                                                     'and mobile services under a universal services license regime',
-                                                    'there are two fixed network operators, the market is dominated by '
-                                                    "Orange Group's local unit, Orange C&ocirc",
-                                                    "te d'Ivoire",
-                                                    'the mobile market is more competitive, with Orange C&ocirc',
-                                                    "te d'Ivoire operating alongside MTN C&ocirc",
-                                                    "te d'Ivoire and Moov",
-                                                    'over the years a number of alternative operators have either '
-                                                    'folded, had their licenses evoked, or failed to launch services',
                                                     'the fixed internet and broadband sectors remain underdeveloped',
                                                     'this is a legacy of poor international connectivity, which '
                                                     'resulted in high wholesale prices, limited bandwidth, and a lack '
                                                     'of access for alternative operators to international '
                                                     'infrastructure',
                                                     'these limitations were addressed following the landing of a '
-                                                    'second cable in November 2011, and the end to the access monopoly '
-                                                    'held by Orange C&ocirc',
-                                                    "te d'Ivoire",
+                                                    'second cable in November 2011',
                                                     'Orange Group has also launched its 20,000km Djoliba cable system, '
                                                     'reaching across eight countries in the region, while the 2Africa '
                                                     'submarine cable is being developed by a consortium of companies',
                                                     'with a landing station providing connectivity to C&ocirc',
-                                                    "te d'Ivoire, the system is expected to be completed in late 2023.",
+                                                    "te d'Ivoire, the system is expected to be completed in late 2023",
                                                     2022],
                                        'intl': [ 'landing point for the SAT-3/WASC, ACE, MainOne, and WACS fiber-optic '
                                                  'submarine cable that provides connectivity to Europe and South and '
@@ -8898,7 +8409,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -8924,7 +8435,7 @@ P1_CNTR = \
                                    'coast': 1022,
                                    'coord': ['18 15 N, 77 30 W'],
                                    'popul': 2818596,
-                                   'ports': { 'container': 'Kingston (1,647,609) (2019)',
+                                   'ports': { 'container': 'Kingston (2,004,302) (2021)',
                                               'seaport': 'Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port '
                                                          'Antonio, Port Esquivel, Port Kaiser, Rocky Point'},
                                    'region': 'Central America and the Caribbean',
@@ -8939,27 +8450,6 @@ P1_CNTR = \
                                                 'mobile sector, which accounts for the vast majority of internet '
                                                 'connections and voice lines',
                                                 'it also accounts for just over half of telecom sector revenue',
-                                                "the merger between Digicel and Claro's Jamaican business in 2012 "
-                                                "strengthened Digicel's position in the market, but in recent quarters "
-                                                "Digicel Group's financial difficulties have caused it considerable "
-                                                'problems',
-                                                'the Group has considered selling off its units in the Pacific region, '
-                                                'while it has renegotiated a number of bonds to reduce its debt to '
-                                                'about $5.8 billion',
-                                                'assets have been placed under the management of a newly created '
-                                                'holding company',
-                                                'both Digicel and its only rival, Flow (supported by its new owner '
-                                                'Liberty Global), have extended their LTE networks across the island, '
-                                                'particularly during the pandemic in response to a sharp increase in '
-                                                'data traffic',
-                                                'the 700MHz licensee Symbiote Investments, trading as Caricel Jamaica, '
-                                                'had its license revoked at the end of 2018 due to breaches of the '
-                                                'terms of the Telecommunications Act. The UK-based Privy Council in '
-                                                "August 2020 refused Caricel's application for permission to appeal "
-                                                'the revocation of its telecom licenses',
-                                                'to fill the gap in the market, a new operator, Rock Mobile, was '
-                                                'licensed in May 2021, with obligations to provide 95% population '
-                                                'coverage within two years',
                                                 'in December 2020, the government announced the rollout of a national '
                                                 'broadband network costing up to $237 million',
                                                 'the funding will be spent on improving connectivity in under served '
@@ -8970,10 +8460,7 @@ P1_CNTR = \
                                                 'donation of 650km of fiber cabling from local cable TV providers and '
                                                 'the two main toll road operators',
                                                 'to encourage the use of digital channels as the country deals with '
-                                                'the Covid-19 pandemic, companies such as Scotiabank have given their '
-                                                'customers zero-rated data access to mobile banking applications, '
-                                                'while Digicel Jamaica has subsidized data plans and zero-rated data '
-                                                'access to some educational platforms and websites.',
+                                                'the Covid-19 pandemic',
                                                 2021],
                                    'intl': [ 'and 1-658',
                                              'landing points for the ALBA-1, CFX-1, Fibralink, East-West, and '
@@ -8985,7 +8472,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -9010,8 +8497,8 @@ P1_CNTR = \
                                  'coast': 29751,
                                  'coord': ['36 00 N, 138 00 E'],
                                  'popul': 124214766,
-                                 'ports': { 'container': 'Kobe (2,871,642), Nagoya (2,844,004), Osaka (2,456,028), '
-                                                         'Tokyo (4,510,000), Yokohama (2,990,000) (2019)',
+                                 'ports': { 'container': 'Kobe (2,823,774), Nagoya (2,725,597), Osaka (2,425,638), '
+                                                         'Tokyo (4,325,956), Yokohama (2,861,197) (2021)',
                                             'seaport': 'Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, '
                                                        'Tomakomai, Yokohama'},
                                  'region': 'Asia',
@@ -9036,20 +8523,15 @@ P1_CNTR = \
                                               'platform also evident',
                                               'fiber will continue to increase its share of the fixed broadband '
                                               'market, largely at the expense of DSL',
-                                              'the mobile market is dominated by three MNOs (NTT DoCoMo, KDDI, and '
-                                              'SoftBank Mobile), while Rakuten Mobile also has a presence',
-                                              'the company is building out its network, and while it is focused of '
-                                              'providing 5G services in the major metro areas it relies on roaming '
-                                              'agreements to offer services elsewhere',
-                                              'mobile broadband subscriber growth is expected to be relatively low '
-                                              'over the next five years, partly due to the high existing subscriptions '
-                                              'though growth has been stimulated by measures which have encouraged '
-                                              'people to school and work from home',
+                                              'the mobile market is dominated by three MNOs, mobile broadband '
+                                              'subscriber growth is expected to be relatively low over the next five '
+                                              'years, partly due to the high existing subscriptions though growth has '
+                                              'been stimulated by measures which have encouraged people to school and '
+                                              'work from home',
                                               'there has also been a boost in accessing entertainment via mobile '
                                               'devices since 2020',
-                                              'NTT DoCoMo becomes wholly owned by NTT Corp, plans to provide 55% '
-                                              'population coverage with 5G by March 2022 and nationwide 5G coverage by '
-                                              '2023',
+                                              'plans to provide 55% population coverage with 5G by March 2022 and '
+                                              'nationwide 5G coverage by 2023',
                                               2021],
                                  'intl': [ 'numerous submarine cables with landing points for HSCS, JIH, RJCN, APCN-2, '
                                            'JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia Loop/REACH North '
@@ -9065,7 +8547,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -9227,9 +8709,14 @@ P1_CNTR = \
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/jersey'},
                          'nameset': ['bailiwick of jersey', 'jersey', 'the bailiwick of jersey'],
                          'tel': { 'code': '44',
-                                  'domestic': [ 'fixed-line 45 per 100 and mobile-cellular 115 per 100 subscriptions',
-                                                2020],
-                                  'general': ['good system with broadband access', 2018],
+                                  'domestic': [ 'fixed-line 47 per 100 and mobile-cellular 120 per 100 subscriptions',
+                                                2021],
+                                  'general': [ 'the telecommunication services comprise of Internet, telephone, '
+                                               'broadcasting and postal services, which allow islanders to contact '
+                                               'people and receive information',
+                                               'Internet connectivity to the rest of the world is provided by undersea '
+                                               'cables linked to Guernsey, the UK and France',
+                                               2021],
                                   'intl': [ 'landing points for the INGRID, UK-Channel Islands-8, and '
                                             'Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, and '
                                             'France',
@@ -9238,7 +8725,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -9278,7 +8765,7 @@ P1_CNTR = \
                                       'jordan',
                                       'the hashemite kingdom of jordan'],
                          'tel': { 'code': '962',
-                                  'domestic': [ '1995 a telecommunications law opened all non-fixed-line services to '
+                                  'domestic': [ 'a 1995 telecommunications law opened all non-fixed-line services to '
                                                 'private competition',
                                                 'in 2005, the monopoly over fixed-line services terminated and the '
                                                 'entire telecommunications sector was opened to competition',
@@ -9299,8 +8786,6 @@ P1_CNTR = \
                                                'these developments have been supported by the highly developed mobile '
                                                'sector, led by three major regional players which have '
                                                'near-comprehensive LTE network coverage',
-                                               'Orange Jordan has also focused on building up its FttP infrastructure, '
-                                               'with the network covering about 618,000 premises by mid-2021.',
                                                2022],
                                   'intl': [ 'landing point for the FEA and Taba-Aqaba submarine cable networks '
                                             'providing connectivity to Europe, the Middle East, Southeast Asia and '
@@ -9312,7 +8797,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -9352,9 +8837,9 @@ P1_CNTR = \
                                           'the republic of kazakhstan'],
                              'tel': { 'code': '7',
                                       'domestic': [ 'intercity by landline and microwave radio relay',
-                                                    'number of fixed-line connections is approximately 17 per 100 '
+                                                    'number of fixed-line connections is approximately 16 per 100 '
                                                     'persons',
-                                                    'mobile-cellular subscriber base 134 per 100 persons',
+                                                    'mobile-cellular subscriber base 129 per 100 persons',
                                                     2020],
                                       'general': [ 'Kazakhstan has one of the most developed telecommunications '
                                                    'sectors in the Central Asian region',
@@ -9378,11 +8863,11 @@ P1_CNTR = \
                                                    'and mobile broadband services as the Covid-19 crisis took hold',
                                                    "with the exception of fixed-line voice services, Kazakhstan's "
                                                    'telecom market is expected to return to moderate growth from 2022 '
-                                                   'onwards',
+                                                   'onward',
                                                    'the extensive deployment of LTE networks across the country (along '
                                                    'with the prospect of 5G services being added to the mix in 2023) '
                                                    'points towards an even greater uptake of lucrative mobile '
-                                                   'broadband services, in particular.',
+                                                   'broadband services, in particular',
                                                    2021],
                                       'intl': [ 'international traffic with other former Soviet republics and China '
                                                 'carried by landline and microwave radio relay and with other '
@@ -9393,8 +8878,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -9407,7 +8892,7 @@ P1_CNTR = \
                                       'url_tld': 'https://en.wikipedia.org/wiki/.kz'}},
                   'mcc': ['401'],
                   'mccmnc': ['40101', '40102', '40107', '40108', '40177'],
-                  'msisdn': ['7', '76', '77'],
+                  'msisdn': ['7', '76', '77', '997'],
                   'name': 'Kazakhstan',
                   'url': 'https://en.wikipedia.org/wiki/Kazakhstan'},
   'Kenya': { 'cc2': 'KE',
@@ -9443,18 +8928,8 @@ P1_CNTR = \
                                               'wake of increased competition, improved international connectivity, and '
                                               'rapid developments in the mobile market',
                                               'the country is directly connected to a number of submarine cables, and '
-                                              "with Mombasa as a landing point for LIT's newly completed East and West "
-                                              'Africa terrestrial network, the country serves as a key junction for '
-                                              'onward connectivity to the Arabian states and the Far East',
-                                              'the additional internet capacity has meant that the cost of internet '
-                                              'access has fallen dramatically in recent years, allowing services to be '
-                                              'affordable to a far greater proportion of the population',
-                                              'the incumbent fixed-line telco Telkom Kenya has struggled to make '
-                                              'headway in this market, prompting reorganization in 2018 which included '
-                                              'a sale and leaseback arrangement with its mobile tower portfolio',
-                                              'a further restructuring exercise in late 2020 was aimed at '
-                                              'repositioning the company for the digital age, and to improve its '
-                                              'ability to compete in the market',
+                                              'with Mombasa through a terrestrial network, the country serves as a key '
+                                              'junction for onward connectivity to the Arabian states and the Far East',
                                               'numerous competitors are rolling out national and metropolitan backbone '
                                               'networks and wireless access networks to deliver services to population '
                                               'centers across the country',
@@ -9464,7 +8939,7 @@ P1_CNTR = \
                                               'much of the progress in the broadband segment is due to the '
                                               "government's revised national broadband strategy, which has been "
                                               'updated with goals through to 2030, and which are largely dependent on '
-                                              'mobile broadband platforms based on LTE and 5G.',
+                                              'mobile broadband platforms based on LTE and 5G',
                                               2022],
                                  'intl': [ 'landing point for the EASSy, TEAMS, LION2, DARE1, PEACE Cable, and SEACOM '
                                            'fiber-optic submarine cable systems covering East, North and South Africa, '
@@ -9476,7 +8951,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -9500,7 +8975,8 @@ P1_CNTR = \
                          '63910',
                          '63911',
                          '63912',
-                         '63913'],
+                         '63913',
+                         '63914'],
              'msisdn': ['254'],
              'name': 'Kenya',
              'url': 'https://en.wikipedia.org/wiki/Kenya'},
@@ -9541,7 +9017,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -9591,29 +9067,20 @@ P1_CNTR = \
                                                'poor telecom infrastructure has meant that fixed-line communication '
                                                'remains low by European standards',
                                                'unlike most markets, the fixed-line broadband sector is dominated by '
-                                               'new players, in particular the cable operator IPKO, a subsidiary of '
-                                               'Telekom Slovenia',
-                                               'broadband companies in Kosovo are developing slowly',
+                                               'new players',
                                                'there is effective competition between the main cable and DSL '
                                                'operators, though as yet there is little progress with the expansion '
-                                               'of fiber networks: investment by the incumbent PTK, trading as Telecom '
-                                               'Kosovo, in building an upgraded fiber-based NGN has been insufficient '
-                                               "thus far, exacerbated by the company's financial difficulties",
-                                               'these difficulties encouraged the government in mid-2019 to prepare '
-                                               'the sale of a majority stake in the company',
+                                               'of fiber networks',
                                                'the mobile sector accounts for most telecom lines for voice services, '
                                                'as well as the greater part of telecom revenue',
                                                'two MNOs dominate the sector',
-                                               'Telenor Serbia and VIP Mobile stopped offering unlicensed mobile voice '
-                                               'and data services in mid-2017 across border regions as part of a deal '
-                                               'by which Kosovo secured its own dialing code.',
                                                2022],
                                   'intl': [0],
                                   'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -9669,7 +9136,7 @@ P1_CNTR = \
                                                'opportunity',
                                                'improvements to the fixed broadband infrastructure will help develop '
                                                'sectors such as e-commerce, along with smart infrastructure '
-                                               'developments, and tech start-ups.',
+                                               'developments, and tech start-ups',
                                                2022],
                                   'intl': [ 'landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON '
                                             'submarine cables linking Africa, the Middle East, and Asia',
@@ -9681,7 +9148,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -9716,24 +9183,11 @@ P1_CNTR = \
                              'tel': { 'code': '996',
                                       'domestic': [ 'fixed-line penetration at nearly 5 per 100 persons remains low '
                                                     'and concentrated in urban areas',
-                                                    'mobile-cellular subscribership up to over 134 per 100 persons',
-                                                    2019],
+                                                    'mobile-cellular subscribership up to over 130 per 100 persons',
+                                                    2020],
                                       'general': [ "the country's telecom sector (specifically the mobile segment) has "
-                                                   'likewise been able to prosper',
-                                                   'ongoing political tension, increasing repression of the media and '
-                                                   'information, and continuing problems with corporate governance may '
-                                                   "be putting a strain on further growth by reducing the country's "
-                                                   'appeal to much-needed foreign investors',
-                                                   'Kyrgyzstan has been reasonably successful in its attempts to '
-                                                   'liberalize its economy and open up its telecom market to '
-                                                   'competition',
-                                                   'the privatization of state-owned entities particularly the '
-                                                   'fixed-line incumbent provider Kyrgyztelecom and the mobile '
-                                                   'operator Alfa Telecom has been less well received, with government '
-                                                   'ownership continuing despite repeated attempts to offload its '
-                                                   'stakes in those companies',
-                                                   "they simply haven't been able to generate enough interest from the "
-                                                   'private sector',
+                                                   'been able to prosper',
+                                                   'Kyrgyzstan has opened up its telecom market to competition',
                                                    'the mobile market has achieved high levels of penetration (140% in '
                                                    '2021) along with a fairly competitive operating environment with '
                                                    'four major players',
@@ -9742,7 +9196,7 @@ P1_CNTR = \
                                                    'Covid-19 crisis',
                                                    'slow-to-moderate growth is expected for both segments in coming '
                                                    'years, supported by the anticipated rollout of 5G services '
-                                                   'starting from late 2022.',
+                                                   'starting from late 2022',
                                                    2022],
                                       'intl': [ 'connections with other CIS (Commonwealth of Independent States, 9 '
                                                 'members post-Soviet Republics in EU) countries by landline or '
@@ -9754,8 +9208,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -9796,10 +9250,10 @@ P1_CNTR = \
                                     'sathalanalat paxathipatai paxaxon lao',
                                     "the lao people's democratic republic"],
                        'tel': { 'code': '856',
-                                'domestic': [ 'fixed-line nearly 21 per 100 and 61 per 100 for mobile-cellular '
+                                'domestic': [ 'fixed-line nearly 20 per 100 and 56 per 100 for mobile-cellular '
                                               'subscriptions',
-                                              2019],
-                                'general': [ 'Laos joined the World Trade Organisation (WTO) in 2013',
+                                              2020],
+                                'general': [ 'Laos joined the World Trade Organization (WTO) in 2013',
                                              'one of the conditions of admittance was to establish an independent '
                                              'regulator for its telecom sector within two years',
                                              'the government had committed to do so by February 2015 as part of the '
@@ -9830,7 +9284,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -9866,28 +9320,21 @@ P1_CNTR = \
                                       'republic of latvia',
                                       'the republic of latvia'],
                          'tel': { 'code': '371',
-                                  'domestic': [ 'fixed-line roughly 11 per 100 and mobile-cellular nearly 109 per 100 '
+                                  'domestic': [ 'fixed-line roughly 10 per 100 and mobile-cellular nearly 115 per 100 '
                                                 'subscriptions',
-                                                2020],
+                                                2021],
                                   'general': [ 'the telecom market continues to benefit from investment and from '
                                                'regulatory measures aimed at developing 5G and fiber based '
                                                'infrastructure',
                                                'there is effective competition in the mobile market, with extensive '
                                                'services based on LTE-A technologies to boost data speeds',
-                                               'operators such as Bit&eacute',
-                                               'Latvia and Tele2 Latvia have also begun transitioning their networks '
-                                               'to support services and applications based on 5G, though with the '
-                                               'existing capacity of LTE infrastructure a large scale 5G deployment is '
-                                               'not expected until 2023',
-                                               'to facilitate this progress, the regulator in March 2021 approved an '
-                                               'application from Tele2 Latvia and Bit&eacute',
-                                               'to share almost half of their spectrum assets',
+                                               'a large scale 5G deployment is not expected until 2023',
                                                'in the fixed-line broadband sector, the country is ranked second '
                                                'highest in Europe (after Iceland) for fiber coverage and take-up, '
                                                'closely followed by Lithuania',
                                                'with this infrastructure in place, the country has also developed a '
                                                'sophisticated digital economy, with e-commerce and e-government '
-                                               'services widely available.',
+                                               'services widely available',
                                                2021],
                                   'intl': [ 'the Latvian network is now connected via fiber-optic cable to Estonia, '
                                             'Finland, and Sweden',
@@ -9896,7 +9343,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -9904,7 +9351,7 @@ P1_CNTR = \
                                             'home is still evident, and the spike in this area has seen growth '
                                             'opportunities for development of new tools and increased services',
                                             0],
-                                  'subs': {'bb': 490569, 'fix': 211849, 'internet': 1663739, 'mob': 2051359},
+                                  'subs': {'bb': 490569, 'fix': 191798, 'internet': 1663739, 'mob': 2161725},
                                   'tld': '.lv',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.lv'}},
               'mcc': ['247'],
@@ -9947,7 +9394,7 @@ P1_CNTR = \
                                                 'a caretaker cabinet in September 2021 made way for a new government '
                                                 'though there is little confidence on the ground that sectarian-based '
                                                 'political horse-trading will give way to responsible governing to '
-                                                'improve the lot of the stressed populace.',
+                                                'improve the lot of the stressed populace',
                                                 2022],
                                    'intl': [ 'landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links '
                                              'to Europe, Africa, the Middle East and Asia',
@@ -9958,7 +9405,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -10004,21 +9451,13 @@ P1_CNTR = \
                                                  'communication system',
                                                  2020],
                                    'general': [ "until late 2020, Lesotho's telecom regulator maintained a market "
-                                                'duopoly between the privatized national operator, Econet Telecom '
-                                                'Lesotho (ETL), which is focused on fixed-line services, and Vodacom '
-                                                'Lesotho, which dominates the mobile sector',
-                                                'competition between the two was insufficient to promote effective '
-                                                'price reductions for consumers, while the regulator had no mechanisms '
-                                                'in place to monitor the telcos to ensure quality of service and fair '
-                                                'pricing for consumers',
+                                                'duopoly which is focused on fixed-line services',
+                                                'competition was insufficient to promote effective price reductions '
+                                                'for consumers, while the regulator had no mechanisms in place to '
+                                                'monitor the telcos to ensure quality of service and fair pricing for '
+                                                'consumers',
                                                 "the small size of the country's population provided little incentive "
                                                 'for new players to enter the market',
-                                                'legal wrangling between the regulator and the telcos are ongoing',
-                                                'both telcos were fined in late 2020, though Vodacom has the more '
-                                                'troubled relationship with the regulator',
-                                                'this culminated in the regulator having attempted to revoke Vodacom '
-                                                "Lesotho's operating license, a process which was temporarily "
-                                                'suspended by the Supreme Court after the company appealed',
                                                 'a positive outcome for consumers was the deployment in early 2021 of '
                                                 'a service to monitor traffic and billing',
                                                 'this ended the practice whereby the regulator was dependent on telcos '
@@ -10028,12 +9467,7 @@ P1_CNTR = \
                                                 'unregistered SIMs',
                                                 "in May 2022, it instructed the country's MNOs to begin registering "
                                                 'SIM cards on their networks from the following month',
-                                                'Vodacom was the first operator to introduce mobile broadband services '
-                                                'in the country, supplemented with a WiMAX network',
-                                                'this was followed by fixed-wireless 5G trials in early 2019 based on '
-                                                'a trial 3.5GHz license. Vodacom Lesotho was among the first network '
-                                                'operators in the region to conduct such trials',
-                                                'the crucial nature of telecom services.',
+                                                'fixed-wireless 5G trials began in early 2019',
                                                 2022],
                                    'intl': [ 'Internet accessibility has improved with several submarine fiber optic '
                                              "cables that land on African east and west coasts, but the country's land "
@@ -10044,7 +9478,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -10078,19 +9512,13 @@ P1_CNTR = \
                           'tel': { 'code': '231',
                                    'domestic': [ 'fixed-line less than 1 per 100',
                                                  'mobile-cellular subscription base growing and teledensity approached '
-                                                 '57 per 100 persons',
-                                                 2019],
+                                                 '33 per 100 persons',
+                                                 2020],
                                    'general': [ 'Liberia has a telecom market which is mainly based on mobile networks',
                                                 'this is due to the civil war which destroyed much of the fixed-line '
                                                 'infrastructure',
-                                                'the fixed-line incumbent telco&ndash',
-                                                'rebranded as LTC Mobile in January 2022&ndash',
-                                                'has struggled with mismanagement and government neglect',
-                                                'its revenue is inadequate to allow it to invest in network '
-                                                'infrastructure, and it has failed to make inroads in the market',
                                                 "to facilitate LTC Mobile's market entry, the government in January "
                                                 '2022 set in train amendments to telecom legislation',
-                                                'LTC Mobile soon afterwards launched LTE services',
                                                 'internet services are available from a number of wireless ISPs as '
                                                 'well as the mobile operators',
                                                 'the high cost and limited bandwidth of connections means that '
@@ -10098,7 +9526,7 @@ P1_CNTR = \
                                                 'additional bandwidth is available from an international submarine '
                                                 'cable but considerable investment is still needed in domestic '
                                                 'fixed-line infrastructure before end-users can make full use of the '
-                                                'cable.',
+                                                'cable',
                                                 2022],
                                    'intl': [ 'landing point for the ACE submarine cable linking 20 West African '
                                              'countries and Europe',
@@ -10108,7 +9536,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -10147,10 +9575,10 @@ P1_CNTR = \
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/libya'},
                         'nameset': ['dawiat libiya', 'libiya', 'libya', 'state of libya', 'the state of libya'],
                         'tel': { 'code': '218',
-                                 'domestic': [ 'nearly 24 per 100 fixed-line and over 91 per 100 mobile-cellular '
+                                 'domestic': [ 'nearly 23 per 100 fixed-line and over 43 per 100 mobile-cellular '
                                                'subscriptions',
                                                'service generally adequate',
-                                               2019],
+                                               2020],
                                  'general': [ 'political and security instability in Libya has disrupted its telecom '
                                               'sector',
                                               'much of its infrastructure remains superior to that in most other '
@@ -10159,8 +9587,6 @@ P1_CNTR = \
                                               'investment in fiber backbone and upgrades to international cables',
                                               'limited LTE and 5G service',
                                               'some satellite broadband',
-                                              'Chinese companies have heavily invested in Libyan infrastructure and '
-                                              'now dominate the telecommunications sector',
                                               'in 2021 Libya signed deals and projects with US firms to upgrade '
                                               'portions of its infrastructure, increasing the diversity of its '
                                               'telecommunications networks',
@@ -10176,7 +9602,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -10221,8 +9647,8 @@ P1_CNTR = \
                                                    'production and supply chains globally',
                                                    'since 2020, some aspects of the telecom sector have experienced a '
                                                    'downturn, particularly in mobile device production',
-                                                   'progress towards 5G implementation has resumed, as well as '
-                                                   'upgrades to infrastructure',
+                                                   'progress toward 5G implementation has resumed, as well as upgrades '
+                                                   'to infrastructure',
                                                    'consumer spending on telecom services has increased due to the '
                                                    'surge in demand for capacity and bandwidth',
                                                    'the crucial nature of telecom services as a tool for work and '
@@ -10268,35 +9694,29 @@ P1_CNTR = \
                                          'republic of lithuania',
                                          'the republic of lithuania'],
                             'tel': { 'code': '370',
-                                     'domestic': [ 'nearly 12 per 100 for fixed-line subscriptions',
-                                                   'rapid expansion of mobile-cellular services has resulted in a '
-                                                   'steady decline in the number of fixed-line connections',
-                                                   'mobile-cellular teledensity stands at about 174 per 100 persons',
-                                                   2020],
+                                     'domestic': [ 'nearly 10 per 100 for fixed-line subscriptions',
+                                                   'expansion of mobile-cellular services has resulted in a steady '
+                                                   'decline in the number of fixed-line connections',
+                                                   'mobile-cellular teledensity stands at about 134 per 100 persons',
+                                                   2021],
                                      'general': [ "Lithuania's small telecoms market is among the more advanced in "
                                                   'Europe, particularly given the universal access to LTE '
                                                   'infrastructure and the extensive fiber footprint',
-                                                  'a number of alternative operators offer services although the '
-                                                  'incumbent Telia Lithuania remains the dominant player in the '
-                                                  'fixed-line and broadband sectors',
-                                                  "in line with the country's Digital Agenda, the focus among telcos "
-                                                  'has been to invest in fiber, with an emphasis on delivering '
-                                                  'gigabyte data speeds',
-                                                  'SIM card penetration is relatively high for the region and most '
-                                                  'subscribers are higher ARPU postpaid subscribers',
-                                                  'network operators continue to market mobile broadband services, '
-                                                  'made possible from investments in LTE technologies',
-                                                  'LTE services are available nationally, and although there have been '
-                                                  'some initial trials of 5G commercial services are not expected to '
-                                                  'be launched until mid to late 2021',
-                                                  'the regulator has consulted on the release of spectrum for 5G in a '
-                                                  'range of bands, and the auction is tentatively scheduled for the '
-                                                  'first quarter of 2021',
-                                                  'according to regulator data, the total revenue of the electronic '
-                                                  'communications sector in the third quarter of 2020 was the highest '
-                                                  'it has been since the fourth quarter of 2010',
-                                                  'revenue growth in the mobile sector was driven mainly mobile '
-                                                  'internet services.',
+                                                  'investment has been focused on fiber broadband and mobile network '
+                                                  'upgrades',
+                                                  'fiber is now by far the dominant fixed broadband platform, with the '
+                                                  'number of DSL and cable connections in steady decline',
+                                                  'SIM card penetration is relatively high for the region, with a '
+                                                  'growing proportion of subscribers being on higher-Average Revenue '
+                                                  'Per User (ARPU) contract plans',
+                                                  'while LTE services are available nationally, operators have made '
+                                                  'steady investments in 5G',
+                                                  'the regulator has helped the network operators to develop 5G by '
+                                                  'allowing them to repurpose spectrum in the 2.1GHz and 2.4GHz bands',
+                                                  'the regulator is expected to complete the auction of spectrum in '
+                                                  'the 700MHz and 3.4GHz bands later in 2022',
+                                                  'service obligations on the licenses include the provision of '
+                                                  'services to the five main cities by the end of 2023',
                                                   2021],
                                      'intl': [ 'landing points for the BCS East, BCS East-West Interlink and NordBalt '
                                                'connecting Lithuania to Sweden, and Latvia',
@@ -10307,7 +9727,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -10315,7 +9735,7 @@ P1_CNTR = \
                                                'from home is still evident, and the spike in this area has seen growth '
                                                'opportunities for development of new tools and increased services',
                                                0],
-                                     'subs': {'bb': 796814, 'fix': 322108, 'internet': 2603900, 'mob': 3671995},
+                                     'subs': {'bb': 796814, 'fix': 290711, 'internet': 2603900, 'mob': 3726653},
                                      'tld': '.lt',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.lt'}},
                  'mcc': ['246'],
@@ -10332,7 +9752,8 @@ P1_CNTR = \
                              '24612',
                              '24613',
                              '24614',
-                             '24615'],
+                             '24615',
+                             '24616'],
                  'msisdn': ['370'],
                  'name': 'Lithuania',
                  'url': 'https://en.wikipedia.org/wiki/Lithuania'},
@@ -10359,36 +9780,23 @@ P1_CNTR = \
                                                     'mobile-cellular phones virtually saturated with about 142 per 100 '
                                                     'mobile-cellular',
                                                     2020],
-                                      'general': [ 'Luxembourg has a small telecom sector dominated by state-owned '
-                                                   'POST Luxembourg',
+                                      'general': [ 'Luxembourg has a small telecom sector',
                                                    'there remains some pressure from regulatory measures, though no '
                                                    'further reductions to fixed and mobile interconnection tariffs '
                                                    'have been imposed through to 2024',
-                                                   'POST Luxembourg is extending the footprint of its 1Gb/s service in '
-                                                   'line with a government program to make Luxembourg the first fully '
-                                                   'fiber country in Europe',
-                                                   'by early 2021 about 72% of premises could access such a service',
-                                                   'investment in infrastructure is geared towards fulfilling these '
-                                                   'ambitions',
-                                                   'the level of investment as a proportion of revenue has fallen in '
-                                                   'recent years, largely as a response to the completion of major '
-                                                   'projects, there was an increase in investment in 2020, partly due '
-                                                   'to the spectrum auction held during the year, as also to the '
-                                                   'continuing shift by POST Luxembourg to an all-IP platform and the '
-                                                   'rollout of fiber infrastructure',
                                                    'high mobile penetration has slowed subscriber growth in the mobile '
                                                    'market since 2005, though a recent law requiring SIM card '
                                                    'registration has not had an adverse effect on the number of mobile '
                                                    'subscribers despite network operators deactivating unregistered '
-                                                   'cards.',
+                                                   'cards',
                                                    2021],
                                       'intl': [0],
                                       'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -10432,9 +9840,9 @@ P1_CNTR = \
                                      'macau special administrative region',
                                      'the macao special administrative region of china'],
                         'tel': { 'code': '853',
-                                 'domestic': [ 'fixed-line nearly 20 per 100 and mobile-cellular roughly 329 per 100 '
+                                 'domestic': [ 'fixed-line nearly 17 per 100 and mobile-cellular roughly 430 per 100 '
                                                'persons',
-                                               2019],
+                                               2020],
                                  'general': [ "Macau's economy and GDP have been on a roller coaster ride since the "
                                               'start of the Covid-19 pandemic in 2020',
                                               'the Special Administrative Region (SAR) of China is heavily dependent '
@@ -10471,7 +9879,7 @@ P1_CNTR = \
                                               'tied to the base mobile offering in Macau',
                                               'with total mobile broadband data traffic going up, not down, between '
                                               '2019 and 2021, that again points to the strength of the contract '
-                                              "segment helping to drive future growth in Macau's telecom sector.",
+                                              "segment helping to drive future growth in Macau's telecom sector",
                                               2022],
                                  'intl': [ 'landing point for the SEA-ME-WE-3 submarine cable network that provides '
                                            'links to Asia, Africa, Australia, the Middle East, and Europe',
@@ -10482,7 +9890,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -10521,11 +9929,10 @@ P1_CNTR = \
                                           'the republic of madagascar'],
                              'tel': { 'code': '261',
                                       'domestic': [ 'less than 1 per 100 for fixed-line and mobile-cellular '
-                                                    'teledensity about 34 per 100 persons',
-                                                    2019],
-                                      'general': [ 'Telecom services in Madagascar have benefited from intensifying '
-                                                   'competition between the main operators, including Orange '
-                                                   'Madagascar, Airtel, and the incumbent telco Telma',
+                                                    'teledensity about 57 per 100 persons',
+                                                    2020],
+                                      'general': [ 'telecom services in Madagascar have benefited from intensifying '
+                                                   'competition between the main operators',
                                                    "there have been positive developments with the country's link to "
                                                    'international submarine cables, particularly the METISS cable '
                                                    'connecting to South Africa and Mauritius',
@@ -10535,8 +9942,6 @@ P1_CNTR = \
                                                    'the UAE, Saudi Arabia, and France',
                                                    'a national fiber backbone has been implemented connecting the '
                                                    'major cities',
-                                                   'Telma has progressively expanded the network to reach smaller '
-                                                   'towns',
                                                    'in addition, the government has progressed with its five-year plan '
                                                    'to develop a digital platform running to 2024',
                                                    'various schemes within the program have been managed by a unit '
@@ -10546,7 +9951,7 @@ P1_CNTR = \
                                                    'potential',
                                                    'much progress was made in 2020, stimulated by the particular '
                                                    'conditions related to the pandemic, which encouraged greater use '
-                                                   'of voice and data services.',
+                                                   'of voice and data services',
                                                    2022],
                                       'intl': [ 'landing points for the EASSy, METISS, and LION fiber-optic submarine '
                                                 'cable systems connecting to numerous Indian Ocean Islands, South '
@@ -10558,8 +9963,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -10619,7 +10024,7 @@ P1_CNTR = \
                                                'bandwidth has held back growth and kept broadband access prices among '
                                                'the highest in the region',
                                                'these limitations are being addressed, with the second phase of the '
-                                               'national fiber backbone having started in mid-2021.',
+                                               'national fiber backbone having started in mid-2021',
                                                2022],
                                   'intl': [ 'satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean)',
                                             2019],
@@ -10627,7 +10032,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -10656,8 +10061,8 @@ P1_CNTR = \
                                     'coast': 4675,
                                     'coord': ['2 30 N, 112 30 E'],
                                     'popul': 33871431,
-                                    'ports': { 'container': 'Port Kelang (Port Klang) (13,580,717), Tanjung Pelepas '
-                                                            '(9,100,000) (2019)',
+                                    'ports': { 'container': 'Port Kelang (Port Klang) (13,724,460), Tanjung Pelepas '
+                                                            '(11,200,000) (2021)',
                                                'seaport': 'Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang '
                                                           '(Port Klang), Tanjung Pelepas'},
                                     'region': 'Southeast Asia',
@@ -10669,19 +10074,15 @@ P1_CNTR = \
                                                   'roughly 135 per 100 persons',
                                                   'domestic satellite system with 2 earth stations',
                                                   2020],
-                                    'general': [ 'As part of a diverse range of initiatives designed to move the '
+                                    'general': [ 'as part of a diverse range of initiatives designed to move the '
                                                  'country from developing to developed status by 2025, Malaysia has '
                                                  'enabled and encouraged open competition in its telecommunications '
                                                  'market',
                                                  'the result is very high penetration levels in both the mobile (147%) '
                                                  'and mobile broadband (127%) segments, and near-universal coverage of '
                                                  '4G LTE networks',
-                                                 'the incumbent landline operator Telekom Malaysia retains an almost '
-                                                 'monopolistic hold on the fixed-line market as well as a significant '
-                                                 'lead in fixed broadband',
                                                  'steady growth is occurring as more fiber optic cable networks are '
-                                                 "being deployed around the country on top of Telekom Malaysia's "
-                                                 'national backbone',
+                                                 'being deployed around the country',
                                                  'consumers are the main beneficiaries of the highly competitive '
                                                  'market',
                                                  'they enjoy widespread access to high-speed mobile services as well '
@@ -10696,32 +10097,21 @@ P1_CNTR = \
                                                  'the mobile market, in particular, has become overcrowded and the '
                                                  'government is keen to see further rationalization and consolidation '
                                                  'with the operators',
-                                                 "two of the country's four MNOs &ndash",
-                                                 'Digi and Celcom &ndash',
-                                                 'announced plans in November 2021 to merge their Malaysian operations',
                                                  'while customers will no doubt continue to enjoy high quality '
-                                                 'services at competitive rates, the new entity (to be called Celcom '
-                                                 'Digi) will be hopeful of squeezing better margins through improved '
-                                                 'economies of scale',
+                                                 'services at competitive rates, the new entity will be hopeful of '
+                                                 'squeezing better margins through improved economies of scale',
                                                  "the government's next move is to encourage the private mobile "
-                                                 "operators to sign up to the country's wholesale 5G network being "
-                                                 'built by Ericsson for the government-owned and operated Digital '
-                                                 'Nasional Berhad (DNB)',
-                                                 'this special-purpose vehicle company was established by the Ministry '
-                                                 "of Finance to undertake the development and deployment of Malaysia's "
-                                                 '5G infrastructure across the country',
+                                                 "operators to sign up to the country's wholesale 5G network",
+                                                 'this will develop and deploy the 5G infrastructure across the '
+                                                 'country',
                                                  "the government's stated intent was to avoid duplication of networks "
                                                  'and infrastructure, and thus reduce investment costs for the '
                                                  'operators',
-                                                 "but with DNB being Malaysia's single wholesale 5G network provider, "
-                                                 'the MNOs have been reluctant to commit due to having limited '
-                                                 'opportunity to differentiate their 5G services and being somewhat at '
-                                                 "the mercy of the wholesaler's pricing",
                                                  'to date, no MNO has agreed to the deal and are instead demanding the '
                                                  'development of a dual wholesale network model (one that no doubt '
                                                  'offers more flexible terms, at least in the eyes of the MNOs)',
                                                  "Malaysia's 5G rollout has, in effect, come to a standstill while the "
-                                                 'government tries to find a way to restart negotiations.',
+                                                 'government tries to find a way to restart negotiations',
                                                  2022],
                                     'intl': [ 'landing points for BBG, FEA, SAFE, SeaMeWe-3 & 4 & 5, AAE-1, JASUKA, '
                                               'BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine '
@@ -10735,7 +10125,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -10802,12 +10192,9 @@ P1_CNTR = \
                                                  'the economy fared better in 2021, with a return to growth, yet it '
                                                  "may still be a few years before the country's key industries can "
                                                  'return to the same level of prosperity that they previously enjoyed',
-                                                 "the Maldives' telecoms market is experiencing a similar level of "
-                                                 'pain because of the pandemic, due to being overweight in the mobile '
-                                                 'segment',
-                                                 "that is because, historically, the country's high number of tourists "
-                                                 'and expatriate workers has inflated the penetration rate for mobile '
-                                                 'services, making it one of the highest in the world',
+                                                 "the country's high number of tourists and expatriate workers has "
+                                                 'inflated the penetration rate for mobile services, making it one of '
+                                                 'the highest in the world',
                                                  'that rate crashed in 2020 as demand for SIM cards (primarily '
                                                  'prepaid) dried up',
                                                  'however, the number of contract subscribers increased as locals took '
@@ -10818,7 +10205,7 @@ P1_CNTR = \
                                                  'with commercial 5G services already launched and fiber networks '
                                                  'rapidly expanding around the country, the Maldives is primed to '
                                                  'deliver world-class telecommunications services to its domestic and '
-                                                 'international customers.',
+                                                 'international customers',
                                                  2021],
                                     'intl': [ 'landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT '
                                               'Submarine Cable Networks and WARF submarine cables providing '
@@ -10829,7 +10216,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -10879,8 +10266,6 @@ P1_CNTR = \
                                              'local plans for IXP',
                                              'dependent on neighboring countries for international bandwidth and '
                                              'access to submarine cables',
-                                             'there are Chinese investment agreements for infrastructure',
-                                             'importer of broadcasting equipment from China',
                                              2022],
                                 'intl': [ 'satellite communications center and fiber-optic links to neighboring '
                                           'countries',
@@ -10890,7 +10275,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -10915,7 +10300,7 @@ P1_CNTR = \
                                  'coast': 196,
                                  'coord': ['35 50 N, 14 35 E'],
                                  'popul': 464186,
-                                 'ports': { 'container': 'Marsaxlokk (2,722,889) (2019)',
+                                 'ports': { 'container': 'Marsaxlokk (2,967,765) (2021)',
                                             'seaport': 'Marsaxlokk (Malta Freeport), Valletta'},
                                  'region': 'Europe',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MT',
@@ -10937,24 +10322,12 @@ P1_CNTR = \
                                               'of emerging e-commerce opportunities',
                                               'the sector has also been stimulated by regulatory measures designed to '
                                               'reduce consumer prices',
-                                              'Melita having been sold to EQT in late 2019 and Vodafone Malta having '
-                                              'been sold to Monaco Telecom, and rebranded as Epic',
-                                              'the incumbent telco GO is investing in a sub sea cable to connect the '
+                                              'the incumbent telco is investing in a sub sea cable to connect the '
                                               'islands to France and Egypt',
                                               'expected to be ready for service in 2022, the cable will further '
                                               "enhance Malta's internet bandwidth and lead to reduced prices for "
                                               'end-users',
                                               'there has also been some encouragement to increase market competition',
-                                              'this led to the VULA agreement between GO and Epic Malta, by which Epic '
-                                              "was able to enter the fixed broadband market using GO's fibre "
-                                              'infrastructure',
-                                              'in April 2021 Epic began offering FttP services directly, over its own '
-                                              'fiber network',
-                                              'Melita provides a national gigabit service via its fiber and DOCSIS3.1 '
-                                              "networks, while GO's extensive FttP network covered about 150,000 "
-                                              'premises by early 2021',
-                                              'the company is investing &euro',
-                                              '100 million to develop LTE and fiber through to 2023.',
                                               2021],
                                  'intl': [ 'landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable '
                                            'System, Malta Italy Interconnector, Melita-1, and the Italy-Malta '
@@ -10965,7 +10338,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -11010,19 +10383,20 @@ P1_CNTR = \
                                                           'radiotelephone (used mostly for government purposes) and '
                                                           'mini-satellite telephones',
                                                           'fixed-line roughly 4 per 100 persons and mobile-cellular is '
-                                                          'nearly 28 per 100 persons',
-                                                          2019],
-                                            'general': [ 'some telecom infrastructure improvements made in recent '
-                                                         'years',
-                                                         'modern services include fiber optic cable service, cellular, '
-                                                         'Internet, international calling, caller ID, and leased data '
-                                                         'circuits',
-                                                         'the US Government, World Bank, UN and International '
-                                                         'Telecommunication Union (ITU), have aided in improvements '
-                                                         'and monetary aid to the islands telecom',
-                                                         'mobile penetrations is around 30%',
-                                                         'radio communication is especially vital to remote islands',
-                                                         2018],
+                                                          'nearly 27 per 100 persons',
+                                                          2020],
+                                            'general': [ 'the National Telecommunications Act, through Bill No. 66, '
+                                                         'ushered in a new era in telecommunications in the Marshall '
+                                                         'Islands',
+                                                         'this will enable an open, competitive market for '
+                                                         'telecommunications that is regulated by a Telecommunications '
+                                                         'Commissioner',
+                                                         'telecom officials announced that they would be able to offer '
+                                                         'satellite internet services beginning in mid-2023',
+                                                         'the World Bank has been promoting telecommunications reform '
+                                                         'here for a decade and has a multi-million-dollar '
+                                                         'telecommunications reform grant program in progress',
+                                                         2022],
                                             'intl': [ 'satellite earth stations - 2 Intelsat (Pacific Ocean)',
                                                       'US Government satellite communications system on Kwajalein',
                                                       0],
@@ -11030,7 +10404,7 @@ P1_CNTR = \
                                                       'production and supply chains globally',
                                                       'since 2020, some aspects of the telecom sector have experienced '
                                                       'a downturn, particularly in mobile device production',
-                                                      'progress towards 5G implementation has resumed, as well as '
+                                                      'progress toward 5G implementation has resumed, as well as '
                                                       'upgrades to infrastructure',
                                                       'consumer spending on telecom services has increased due to the '
                                                       'surge in demand for capacity and bandwidth',
@@ -11114,15 +10488,11 @@ P1_CNTR = \
                                                    'Algeria, and the connection to the EllaLink submarine cable',
                                                    'the final stage of the national backbone network was completed in '
                                                    'December 2021, which now runs to some 4,000km',
-                                                   'Mauritel maintains a virtual monopoly in the fixed-line sector, '
-                                                   'and there is little stimulus for new market entrants',
                                                    'penetration of fixed telephony and broadband service is very low '
                                                    'and is expected to remain so in coming years, though growth is '
                                                    'anticipated following improvements to backbone infrastructure and '
                                                    'the reduction in access pricing',
-                                                   'most voice and data services are carried over the mobile networks '
-                                                   'maintained by the recently rebranded Moov Mauritel, Mattel, and '
-                                                   'Chinguitel.',
+                                                   'most voice and data services are carried over the mobile networks',
                                                    2022],
                                       'intl': [ 'landing point for the ACE submarine cable for connectivity to 19 West '
                                                 'African countries and 2 European countries',
@@ -11132,8 +10502,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -11169,37 +10539,22 @@ P1_CNTR = \
                                      'domestic': [ 'fixed-line teledensity over 37 per 100 persons and mobile-cellular '
                                                    'services teledensity roughly 150 per 100 persons',
                                                    2020],
-                                     'general': [ 'The telecom sector in Mauritius has long been supported by the '
+                                     'general': [ 'the telecom sector in Mauritius has long been supported by the '
                                                   'varied needs of tourists',
                                                   'this has stimulated the mobile market, leading to a particularly '
                                                   'high penetration rate',
                                                   "the response of the country's telcos to tourist requirements also "
                                                   'contributed to the country being among the first in the region to '
                                                   'provide services based on 3G and WiMAX technologies',
-                                                  'the incumbent telco Mauritius Telecom, part-owned by Orange Group, '
-                                                  'now provides comprehensive LTE and fiber broadband coverage, and in '
-                                                  'late 2021 it launched a gigabit fiber-based broadband service',
+                                                  'the incumbent telco provides comprehensive LTE and fiber broadband '
+                                                  'coverage, and in late 2021 it launched a gigabit fiber-based '
+                                                  'broadband service',
                                                   'the country has seen improved international internet capacity in '
                                                   'recent years, with direct cables linking to India, Madagascar, and '
-                                                  'South Africa, as well as other connections to Rodrigues and '
-                                                  'Reunion. Despite these advantages, some services remain slow',
-                                                  'at the end of 2021, the median mobile data rate available was only '
-                                                  '21Mb/s, ranking the country 84th of 138 monitored',
-                                                  'the median fixed broadband data rate was about 19.8Mb/s, with a '
-                                                  'rank of 117th of 178 countries',
+                                                  'South Africa, as well as other connections to Rodrigues and Reunion',
                                                   'mobile subscribers in Mauritius secured 5G services in mid-2021',
                                                   "this followed the regulator's award of spectrum in two bands to the "
                                                   'MNOs',
-                                                  'the award was made directly, rather than via an auction, since the '
-                                                  'regulator was keen to see services made available as soon as '
-                                                  'possible',
-                                                  "this will help the government's ambition to make telecommunications "
-                                                  'a pillar of economic growth, and to have a fully digital-based '
-                                                  'infrastructure',
-                                                  'such infrastructure will also contribute to a revival of tourism, '
-                                                  'the mainstay of the economy',
-                                                  'although GDP growth returned in 2021, the number of tourist '
-                                                  'arrivals remains a fraction of the pre-pandemic level.',
                                                   2022],
                                      'intl': [ 'landing points for the SAFE, MARS, IOX Cable System, METISS and LION '
                                                'submarine cable system that provides links to Asia, Africa, Southeast '
@@ -11212,7 +10567,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -11251,8 +10606,8 @@ P1_CNTR = \
                                   'coast': 9330,
                                   'coord': ['23 00 N, 102 00 W'],
                                   'popul': 129150971,
-                                  'ports': { 'container': 'Lazaro Cardenas (1,318,732), Manzanillo (3,069,189), '
-                                                          'Veracruz (1,144,156) (2019)',
+                                  'ports': { 'container': 'Lazaro Cardenas (1,686,076), Manzanillo (3,371,400), '
+                                                          'Veracruz (1,165,043) (2021)',
                                              'seaport': 'Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, '
                                                         'Veracruz'},
                                   'region': 'North America',
@@ -11279,12 +10634,7 @@ P1_CNTR = \
                                                'and international investment',
                                                'extensive microwave radio relay network',
                                                'considerable use of fiber-optic cable and coaxial cable',
-                                               '5G development slow in part due to high costs (AT&T announced 5G '
-                                               'rollout in some sections of Mexico City in December 2021 and Telcel '
-                                               'announced a plan to launch 5G network in 18 cities in February 2022)',
-                                               'IXP in Mexico City',
-                                               'exporter of computers and broadcasting equipment to USA and importer '
-                                               'of same from China',
+                                               '5G development slow in part due to high costs',
                                                2021],
                                   'intl': [ 'Columbus-2 fiber-optic submarine cable with access to the US, Virgin '
                                             'Islands, Canary Islands, Spain, and Italy',
@@ -11310,7 +10660,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -11391,25 +10741,18 @@ P1_CNTR = \
                                                 'and as such has set in train a glide path to reducing roaming '
                                                 'charges, effective between 2022 and 2026',
                                                 "the country's broadband strategy through to 2025 has been supported "
-                                                'by the ITU and industry counterparts from Korea',
-                                                'the internet market is developing rapidly, and though the penetration '
-                                                'rate is well below the average for most European countries there are '
-                                                'many opportunities for further development',
+                                                'by the ITU and industry counterparts from South Korea',
+                                                'the internet market is developing rapidly',
                                                 'the market is highly competitive, with 101 active ISPs as of early '
-                                                '2021, though Moldtelecom and Starnet between them account for most '
-                                                'connections',
+                                                '2021',
                                                 'the number of cable broadband subscribers is increasing steadily, '
                                                 'though fiber is now by far the strongest sector',
                                                 'by the end of 2020 fiber accounted for about 72.3% of all fixed '
                                                 'broadband connections',
-                                                'the mobile market has also grown rapidly, and the sector accounts for '
-                                                'the majority of total telecoms revenue',
-                                                'the trio poly of operators is dominated by Orange Moldova, while the '
-                                                'launch of LTE services has opened up a new revenue growth opportunity '
-                                                'centered on mobile broadband',
+                                                'the mobile market has also grown rapidly',
                                                 'the near comprehensive geographical reach of their mobile networks, '
                                                 'market brand recognition and existing customer relationships will '
-                                                'make for steady subscriber growth in coming years.',
+                                                'make for steady subscriber growth in coming years',
                                                 2022],
                                    'intl': [ 'service through Romania and Russia via landline',
                                              'satellite earth stations - at least 3 - Intelsat, Eutelsat, and '
@@ -11419,7 +10762,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -11455,9 +10798,9 @@ P1_CNTR = \
                                   'domestic': [ 'fixed-line a little over 111 per 100 and mobile-cellular teledensity '
                                                 'exceeds 90 per 100 persons',
                                                 2020],
-                                  'general': [ 'modern automatic telephone system',
-                                               "the country's sole fixed-line operator offers a full range of services "
-                                               'to residential and business customers',
+                                  'general': [ "modern automatic telephone system: the country's sole fixed-line "
+                                               'operator offers a full range of services to residential and business '
+                                               'customers',
                                                'competitive mobile telephony market',
                                                '4G LTE widely available',
                                                2020],
@@ -11470,7 +10813,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -11506,8 +10849,7 @@ P1_CNTR = \
                                                   'roughly 133 per 100 persons',
                                                   2020],
                                     'general': [ 'liberalized and competitive telecoms market comprises of a number of '
-                                                 'operators which have steadily eroded the dominance of the incumbent '
-                                                 'telco, Mongolia Telecom, over the years',
+                                                 'operators',
                                                  'fixed-line penetration increased steadily in the years to 2018 as '
                                                  'more people took on fixed-line access for voice calls and to access '
                                                  'copper-based broadband services',
@@ -11525,14 +10867,14 @@ P1_CNTR = \
                                                  'very much being dominated by mobile services, supported by widely '
                                                  'available LTE',
                                                  'this will largely determine and shape the future direction of '
-                                                 "Mongolia's developing digital economy.",
+                                                 "Mongolia's developing digital economy",
                                                  2021],
                                     'intl': ['satellite earth stations - 7', 2016],
                                     'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -11595,15 +10937,15 @@ P1_CNTR = \
                                                    'services will not gain traction until after the multi-spectrum '
                                                    'auction is completed at the end of 2021',
                                                    'spectrum is available in the 694-790MHz and 3400-3800MHz ranges, '
-                                                   'as well as in the 26.5-27.5GHz range.',
+                                                   'as well as in the 26.5-27.5GHz range',
                                                    2021],
                                       'intl': ['2 international switches connect the national system', 0],
                                       'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -11657,8 +10999,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -11685,7 +11027,7 @@ P1_CNTR = \
                                    'coast': 2945,
                                    'coord': ['28 30 N, 10 00 W'],
                                    'popul': 36738229,
-                                   'ports': { 'container': 'Tangier (4,801,713) (2019)',
+                                   'ports': { 'container': 'Tangier (7,173,870) (2021)',
                                               'seaport': 'Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El '
                                                          'Aaiun), Mohammedia, Safi, Tangier'},
                                    'region': 'Africa',
@@ -11721,8 +11063,6 @@ P1_CNTR = \
                                                 'government supported digital education during pandemic',
                                                 'submarine cables and satellite provide connectivity to Asia, Africa, '
                                                 'the Middle East, Europe, and Australia',
-                                                'importer of broadcasting equipment, surveillance equipment, scanning '
-                                                'equipment, and video displays from China',
                                                 2022],
                                    'intl': [ 'landing point for the Atlas Offshore, Estepona-Tetouan, Canalink and '
                                              'SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide '
@@ -11734,7 +11074,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -11781,27 +11121,14 @@ P1_CNTR = \
                                                     'key roads',
                                                     'fixed-line less than 1 per 100 and nearly 49 per 100 '
                                                     'mobile-cellular teledensity',
-                                                    2019],
+                                                    2020],
                                       'general': [ 'one of the first countries in the region to embark upon telecom '
                                                    'reform and to open the sector to competition',
-                                                   'the mobile segment in particular has shown strong growth since the '
-                                                   'launch of services by Vodacom Mozambique to compete against mCel, '
-                                                   'the then mobile subsidiary of the national telco '
-                                                   'Telecomunica&ccedil',
-                                                   '&otilde',
-                                                   'es de Mo&ccedil',
-                                                   'ambique',
-                                                   'additional competition followed in late 2020 with the launch of '
-                                                   'services by Movitel',
-                                                   'following years of poor management and underachievement, TdM and '
-                                                   'mCel were merged in early 2019, creating a new operator Mozambique '
-                                                   'Telecom (Tmcel)',
-                                                   'in the process, the structure of the market changed from having '
-                                                   'four operators (TdM, mCel, Vodafone Mozambique, and Movitel) to '
-                                                   'three (Tmcel, Vodafone Mozambique and Movitel)',
-                                                   'at the same time, a new licensing regime ensured that by mid-2019 '
-                                                   'all three operators had been provided with universal licenses, '
-                                                   'enabling them to offer all types of telephony and data services',
+                                                   'the mobile segment in particular has shown strong growth',
+                                                   'additional competition followed in late 2020',
+                                                   'a new licensing regime ensured that by mid-2019 all operators had '
+                                                   'been provided with universal licenses, enabling them to offer all '
+                                                   'types of telephony and data services',
                                                    'mobile, fixed-line and broadband penetration rates remain far '
                                                    'below the average for the region',
                                                    'in recent years the government has enforced the registration of '
@@ -11818,8 +11145,8 @@ P1_CNTR = \
                                                    'WiMAX, and mobile broadband options available, though fixed '
                                                    'broadband options can be limited to urban areas',
                                                    'improvements can be expected from the ongoing rollout of a '
-                                                   'national fiber backbone networks by Tmcel and of upgrades to '
-                                                   'mobile infrastructure.',
+                                                   'national fiber backbone networks and of upgrades to mobile '
+                                                   'infrastructure',
                                                    2022],
                                       'intl': [ 'landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic '
                                                 'submarine cable systems linking numerous east African countries, the '
@@ -11833,8 +11160,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -11860,9 +11187,10 @@ P1_CNTR = \
                                                         'Laos': 238,
                                                         'Thailand': 2416},
                                               'len': 6522},
-                                   'capital': { 'coord': '19 74 N, 96 12 E',
-                                                'name': 'Nay Pyi Taw (note - Yangon, aka Rangoon, is the former '
-                                                        'capital)',
+                                   'capital': { 'coord': '16 48 N, 96 10 E',
+                                                'name': 'Rangoon (aka Yangon, continues to be recognized as the '
+                                                        'primary Burmese capital by the US Government); Nay Pyi Taw is '
+                                                        'the administrative capital',
                                                 'time_diff': 'UTC+6.5'},
                                    'cmt': 'ISO uses the name Myanmar',
                                    'coast': 1930,
@@ -11884,8 +11212,8 @@ P1_CNTR = \
                                        'union of burma'],
                           'tel': { 'code': '95',
                                    'domestic': [ 'fixed-line is just under 1 per 100, while mobile-cellular is roughly '
-                                                 '90 per 100',
-                                                 2019],
+                                                 '144 per 100',
+                                                 2020],
                                    'general': [ 'Burma, one of the least developed telecom markets in Asia, saw growth '
                                                 'in mobile and broadband services through foreign competition and roll '
                                                 'out of 4G and 5G networks',
@@ -11899,7 +11227,6 @@ P1_CNTR = \
                                                 'benefit from launch of regional satellite',
                                                 'government utilizes intermittent censorship and shut-down of Internet '
                                                 'in political crisis',
-                                                'top importer of broadcasting equipment from China (2021)',
                                                 2020],
                                    'intl': [ 'landing points for the SeaMeWe-3, SeaMeWe-5, AAE-1 and Singapore-Myanmar '
                                              'optical telecommunications submarine cable that provides links to Asia, '
@@ -11910,7 +11237,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -11968,9 +11295,7 @@ P1_CNTR = \
                                                  'roughly 102 per 100 persons',
                                                  2020],
                                    'general': [ "the government's Broadband Policy aims to provide 95% population "
-                                                'coverage by 2024, supported by the efforts of telcos including '
-                                                'Paratus Telecom which continue to invest in their own extensive '
-                                                'network objectives',
+                                                'coverage by 2024',
                                                 'mobile network coverage has increased sharply in recent years',
                                                 'by 2021, 3G infrastructure provided 89% population coverage while LTE '
                                                 'infrastructure provided 79% coverage (compared to only 40% a year '
@@ -11988,8 +11313,7 @@ P1_CNTR = \
                                                 'this market situation improved after operators invested in '
                                                 'diversifying terrestrial access routes to adjacent countries',
                                                 'by the end of 2022 Namibia is expected to be connected by a 1,050km '
-                                                "branch line of Google's Equiano cable running between Portugal and "
-                                                'South Africa.',
+                                                'branch line of cable running between Portugal and South Africa',
                                                 2022],
                                    'intl': [ 'landing points for the ACE and WACS fiber-optic submarine cable linking '
                                              'southern and western African countries to Europe',
@@ -11999,7 +11323,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -12032,21 +11356,20 @@ P1_CNTR = \
                         'nameset': ['nauru', 'republic of nauru', 'the republic of nauru'],
                         'tel': { 'code': '674',
                                  'domestic': [ 'fixed-line 0 per 100 and mobile-cellular subscribership approximately '
-                                               '95 per 100',
-                                               2019],
-                                 'general': [ 'adequate local and international radiotelephone communication provided '
-                                              'via Australian facilities',
-                                              'geography is a challenge for the islands',
-                                              'there is a need to service the tourism sector and the South Pacific '
-                                              'Islands economy',
-                                              'mobile technology is booming',
-                                              2018],
+                                               '92 per 100',
+                                               2020],
+                                 'general': [ 'relies on satellite as the primary Internet service provider and mobile '
+                                              'operator',
+                                              'internet connectivity on the island is very limited and unstable due to '
+                                              'the vulnerability of the network infrastructure to bad weather and '
+                                              'limited network coverage, with several blind spots',
+                                              2022],
                                  'intl': ['satellite earth station - 1 Intelsat (Pacific Ocean)', 0],
                                  'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -12077,15 +11400,9 @@ P1_CNTR = \
                                      'nepal',
                                      'the federal democratic republic of nepal'],
                         'tel': { 'code': '977',
-                                 'domestic': [ '3G coverage is available in 20 major cities (2019)',
-                                               'disparity between high coverage in cities and coverage available in '
-                                               'underdeveloped rural regions',
-                                               'fixed-line less than 3 per 100 persons and mobile-cellular nearly 131 '
+                                 'domestic': [ 'fixed-line less than 2 per 100 persons and mobile-cellular nearly 131 '
                                                'per 100 persons',
-                                               'fair radiotelephone communication service',
-                                               '20% of the market share is fixed (wired) broadband, 2% is fixed '
-                                               '(wireless) broadband, and 78% is mobile broadband',
-                                               2019],
+                                               2020],
                                  'general': [ 'in relation to its telecom sector, Nepal has several topographical and '
                                               'economic constraints which have impeded efforts to expand network '
                                               'infrastructure and improve the quality of service for end-users',
@@ -12098,16 +11415,13 @@ P1_CNTR = \
                                               'supported by the Rural Telecommunications Development Fund, the '
                                               'programs include building out fiber backbone infrastructure and using '
                                               'this to provide broadband to schools and community centers nationally',
-                                              'Telcos have also invested in fiber networks, and competition in the '
+                                              'telcos have also invested in fiber networks, and competition in the '
                                               'market is intensifying',
-                                              'cheap fiber-based services launched by CG Net in mid-2021 prompted '
-                                              'responses from other ISPs to provide faster and more competitively '
-                                              'priced offers',
-                                              "<br />Nepal's mobile market is relatively developed, with a focus on "
-                                              'LTE',
+                                              'cheap fiber-based services launched in mid-2021 prompted responses from '
+                                              'other ISPs to provide faster and more competitively priced offers',
+                                              "Nepal's mobile market is relatively developed, with a focus on LTE",
                                               'in 2021, the regulator considered a range of spectrum bands which could '
-                                              'be used for 5G, while Nepal Telecom was charged with trialing services '
-                                              'in five cities.',
+                                              'be used for 5G',
                                               2021],
                                  'intl': [ 'Nepal, China and Tibet connected across borders with underground and '
                                            'all-dielectric self-supporting (ADSS) fiber-optic cables',
@@ -12119,7 +11433,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -12146,7 +11460,7 @@ P1_CNTR = \
                                        'coast': 451,
                                        'coord': ['52 31 N, 5 46 E'],
                                        'popul': 17400824,
-                                       'ports': { 'container': 'Rotterdam (14,810,804) (2019)',
+                                       'ports': { 'container': 'Rotterdam (15,300,000) (2021)',
                                                   'seaport': 'IJmuiden, Vlissingen'},
                                        'region': 'Europe',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NL',
@@ -12166,30 +11480,24 @@ P1_CNTR = \
                                                      'fixed-line nearly 29 per 100 and mobile-cellular at 125 per 100 '
                                                      'persons',
                                                      2020],
-                                       'general': [ 'Telecom infrastructure in the Netherlands continues to be '
+                                       'general': [ 'telecom infrastructure in the Netherlands continues to be '
                                                     'upgraded as modernization schemes undertaken by telcos make '
                                                     'steady progress',
-                                                    'KPN is replacing its copper access network with fiber, either '
-                                                    'through its own investment program or in conjunction with the '
-                                                    'wholesale fiber access provider Glaspoort, in which it has a '
-                                                    'half-share alongside the pension company APG. KPN expected that '
-                                                    'about 80% of all premises in the country would be covered by its '
-                                                    'FttP service by 2026',
                                                     'other fiber providers have been supported by regulatory measures '
                                                     'which have encouraged municipal governments to intervene with '
                                                     "telcos' fiber builds, facilitating open access networks in a bid "
                                                     'to make rollouts cheaper, and completed sooner',
-                                                    'while the MNOs are also closing down their GSM and 3G networks '
-                                                    'and re purposing their spectrum and physical assets for LTE and '
-                                                    '5G, the regulator has also encouraged GSM/3G roaming in the '
-                                                    'interim, thus safeguarding services such as M2M and other low '
-                                                    'data-use applications while individual MNOs disable their own '
-                                                    'GSM/3G networks. T-Mobile Netherlands has delayed switching off '
-                                                    'GSM until June 2023, given that the network is still used for M2M '
-                                                    'connections and other applications',
+                                                    'while the Mobile Network Operators (MNOs) are also closing down '
+                                                    'their Global System for Mobile Communication (MSM) and 3G '
+                                                    'networks and repurposing their spectrum and physical assets for '
+                                                    'LTE and 5G, the regulator has also encouraged GSM/3G roaming in '
+                                                    'the interim, thus safeguarding services such as machine to '
+                                                    'machine and other low data-use applications while individual MNOs '
+                                                    'disable their own GSM/3G networks',
                                                     'the country has one of the highest fixed broadband penetration '
                                                     'rates in the world, with effective cross-platform competition '
-                                                    'between DSL, HFC, and fiber networks',
+                                                    'between Digital Subscriber Line (DSL), Hybrid Fiber Coazial '
+                                                    '(HFC), and fiber networks',
                                                     'in the third quarter of 2020 the number of cable broadband '
                                                     'connections fell for the first time, while the DSL segment has '
                                                     'long been eclipsed by fiber',
@@ -12198,8 +11506,6 @@ P1_CNTR = \
                                                     '29%',
                                                     'almost 49% of fixed connections provided data above 100Mb/s, '
                                                     'while an additional 43.7% provided data of at least 30Mb/s',
-                                                    'under regulatory measures, the telcos KPN and Vodafone Ziggo are '
-                                                    'obliged to offer wholesale access to competitors.',
                                                     2022],
                                        'intl': [ 'landing points for Farland North, TAT-14, Circe North, Concerto, '
                                                  'Ulysses 2, AC-1, UK-Netherlands 14, and COBRAcable submarine cables '
@@ -12211,7 +11517,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -12292,30 +11598,27 @@ P1_CNTR = \
                                              'territoire des nouvelle-caledonie et dependances',
                                              'territory of new caledonia and dependencies'],
                                 'tel': { 'code': '687',
-                                         'domestic': [ 'fixed-line nearly 29 per 100 and mobile-cellular telephone '
-                                                       'subscribership 96 per 100 persons',
-                                                       2019],
-                                         'general': [ "New Caledonia's telecom sector is dominated by OPT-NC, which "
-                                                      'holds a monopoly and provides fixed and mobile voice services, '
-                                                      'mobile internet, fixed broadband access, and wholesale services '
-                                                      'for other ISPs',
+                                         'domestic': [ 'fixed-line nearly 16 per 100 and mobile-cellular telephone '
+                                                       'subscribership 91 per 100 persons',
+                                                       2020],
+                                         'general': [ "New Caledonia's telecom sector provides fixed and mobile voice "
+                                                      'services, mobile internet, fixed broadband access, and '
+                                                      'wholesale services for other ISPs',
                                                       'the country is well serviced by extensive 3G and LTE networks, '
                                                       'and is considered to have one of the highest smartphone '
-                                                      'adoption rates in the Pacific region. By 2025, smart phone '
-                                                      'penetration is expected to reach 71%',
-                                                      'while DSL is still the dominant fixed broadband technology, '
-                                                      'OPT-NC is also deploying a nationwide FttP network',
-                                                      'in April 2022, OPT-NC stated that it had connected 28,000 fiber '
-                                                      'customers to its network',
+                                                      'adoption rates in the Pacific region',
+                                                      'by 2025, smart phone penetration is expected to reach 71%',
+                                                      'while DSL is still the dominant fixed broadband technology, and '
+                                                      'a nationwide FttP network',
                                                       'the South Pacific region has become a hub for submarine cable '
                                                       'system developments in recent years, with further networks '
                                                       'scheduled to come online later in 2021 and into 2022',
                                                       'these new cables are expected to increase competition in the '
                                                       'region with regards to international capacity',
-                                                      'in 2020, the government owned telco OPT-NC commissioned Alcatel '
+                                                      'in 2020, the government owned telco commissioned Alcatel '
                                                       'Submarine Networks (ASN) to build the Gondwana-2 cable system '
                                                       'to provide additional network capacity and complement the '
-                                                      'Gondwana-1 cable.',
+                                                      'Gondwana-1 cable',
                                                       2022],
                                          'intl': [ 'landing points for the Gondwana-1 and Picot-1 providing '
                                                    'connectivity via submarine cables around New Caledonia and to '
@@ -12326,8 +11629,8 @@ P1_CNTR = \
                                                    'production and supply chains globally',
                                                    'since 2020, some aspects of the telecom sector have experienced a '
                                                    'downturn, particularly in mobile device production',
-                                                   'progress towards 5G implementation has resumed, as well as '
-                                                   'upgrades to infrastructure',
+                                                   'progress toward 5G implementation has resumed, as well as upgrades '
+                                                   'to infrastructure',
                                                    'consumer spending on telecom services has increased due to the '
                                                    'surge in demand for capacity and bandwidth',
                                                    'the crucial nature of telecom services as a tool for work and '
@@ -12361,9 +11664,9 @@ P1_CNTR = \
                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/new-zealand'},
                               'nameset': ['new zealand'],
                               'tel': { 'code': '64',
-                                       'domestic': [ 'fixed-line roughly 37 per 100 and mobile-cellular telephone '
-                                                     'subscribership 136 per 100 persons',
-                                                     2019],
+                                       'domestic': [ 'fixed-line roughly 18 per 100 and mobile-cellular telephone '
+                                                     'subscribership 127 per 100 persons',
+                                                     2020],
                                        'general': [ "the principal growth areas in in New Zealand's telecom market "
                                                     'have been in mobile broadband and fiber',
                                                     'the UFB1 rollout was completed in November 2019 and the UFB2 '
@@ -12391,7 +11694,7 @@ P1_CNTR = \
                                                     'Group and its local subsidiary Orcon having acquired 2degrees '
                                                     'from Trilogy International in December 2021',
                                                     'this deal created a new company, Voyage Digital.',
-                                                    2022],
+                                                    2020],
                                        'intl': [ 'landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, '
                                                  'SCCN and Hawaiki submarine cable system providing links to '
                                                  'Australia, Fiji, American Samoa, Kiribati, Samo, Tokelau, US and '
@@ -12402,7 +11705,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -12445,11 +11748,12 @@ P1_CNTR = \
                                                    2020],
                                      'general': [ "Nicaragua's telecoms market has mirrored the country's poor "
                                                   'economic achievements, with fixed-line teledensity and mobile '
-                                                  'penetration also being the lowest in Central America. The fixed '
-                                                  'line broadband market remains nascent, with population penetration '
-                                                  'below 4%. Most internet users are concentrated in the largest '
-                                                  'cities, given that rural and marginal areas lack access to the most '
-                                                  'basic telecom infrastructure',
+                                                  'penetration also being the lowest in Central America',
+                                                  'the fixed line broadband market remains nascent, with population '
+                                                  'penetration below 4%',
+                                                  'most internet users are concentrated in the largest cities, given '
+                                                  'that rural and marginal areas lack access to the most basic telecom '
+                                                  'infrastructure',
                                                   'internet caf&eacute',
                                                   's provide public access to internet and email services, but these '
                                                   'also tend to be restricted to the larger population centers',
@@ -12458,24 +11762,9 @@ P1_CNTR = \
                                                   'network',
                                                   'there are separate schemes to improve broadband in eastern regions '
                                                   'and provide links to Caribbean submarine cables',
-                                                  'Am&eacute',
-                                                  'rica M&oacute',
-                                                  "vil's Claro has a clear lead in all of Nicaragua's telecom sectors, "
-                                                  'including fixed-line, mobile, broadband, and pay TV',
                                                   'the number of mobile subscribers overtook the number of fixed lines '
                                                   'in early 2002, and the mobile sector now accounts for most lines in '
                                                   'service',
-                                                  'Telef&oacute',
-                                                  'nica sold its operations in Nicaragua to Millicom in 2019',
-                                                  "Millicom's Tigo (previously Telef&oacute",
-                                                  "nica's Movistar) is the only company competing with Claro in the "
-                                                  'fixed-line and mobile market',
-                                                  'in the mobile sector, Tigo holds almost a third of the market, but '
-                                                  'in the fixed-line sector it has only about 10% market share',
-                                                  'other companies operating in the market, including the Russian '
-                                                  'state corporation Rostejnologuii, Yota Mobile and IWB Holding',
-                                                  "in the mobile market China's Xinwei Nicaragua (Xinwei Intelcom) "
-                                                  'launched services in early 2016, operating under the CooTel banner.',
                                                   2021],
                                      'intl': [ 'landing point for the ARCOS fiber-optic submarine cable which provides '
                                                'connectivity to South and Central America, parts of the Caribbean, and '
@@ -12487,7 +11776,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -12499,7 +11788,7 @@ P1_CNTR = \
                                      'tld': '.ni',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.ni'}},
                  'mcc': ['710'],
-                 'mccmnc': ['71021', '71030', '71073'],
+                 'mccmnc': ['71021', '71030', '710300', '71073'],
                  'msisdn': ['505'],
                  'name': 'Nicaragua',
                  'url': 'https://en.wikipedia.org/wiki/Nicaragua'},
@@ -12528,13 +11817,9 @@ P1_CNTR = \
                                      'the niger',
                                      'the republic of the niger'],
                         'tel': { 'code': '227',
-                                 'domestic': [ 'fixed-line less than 1 per 100 persons and mobile-cellular teledensity '
-                                               'at nearly 41 per 100 persons',
-                                               'a rapidly increasing cellular subscribership base',
-                                               'small system of wire, radio telephone communications, and microwave '
-                                               'radio relay links concentrated in southwestern Niger',
-                                               'domestic satellite system with 3 earth stations and 1 planned',
-                                               2019],
+                                 'domestic': [ 'fixed-line less than 1 per 100 persons and mobile-cellular at nearly '
+                                               '59 per 100 persons',
+                                               2020],
                                  'general': [ 'Niger is one of the largest countries in West Africa but also one of '
                                               'the poorest in the world',
                                               'as with many African markets, a lack of fixed telecoms infrastructure '
@@ -12547,22 +11832,6 @@ P1_CNTR = \
                                               'capacity',
                                               'new cables linking the country with Chad and Burkina Faso have extended '
                                               "Niger's connectivity with international cable infrastructure",
-                                              'following years of financial difficulties, the state-owned fixed line '
-                                              'operator, Sonitel, was merged with its wholly owned mobile unit, '
-                                              'SahelCom, in late 2016 to form a new entity, Niger Telecom',
-                                              'the merged company secured a global telecom license in November 2017 '
-                                              'and is aiming to develop greater efficiency through sharing resources '
-                                              'and infrastructure',
-                                              'the economic difficulties in the country in recent years, as well as a '
-                                              'regulatory spat with authorities which saw its offices being shut down, '
-                                              'encouraged Orange Group to sell its local business to its minority '
-                                              'shareholder partner',
-                                              'the unit, once operating as Orange Niger, was rebranded as Zamani '
-                                              'Telecom in December 2020',
-                                              'at the same time, the company secured funds to embark on a large-scale '
-                                              'network upgrade program',
-                                              'Niger also hosts foreign investors Airtel, which leads the market, and '
-                                              'Moov Africa, formerly Maroc Telecom.',
                                               2022],
                                  'intl': [ 'satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian '
                                            'Ocean)',
@@ -12571,7 +11840,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -12612,7 +11881,6 @@ P1_CNTR = \
                                    'general': [ 'one of the larger telecom markets in Africa subject to sporadic '
                                                 'access to electricity and vandalism of infrastructure',
                                                 'most Internet connections are via mobile networks',
-                                                'foreign investment presence, particularly from China',
                                                 'market competition with affordable access',
                                                 'LTE technologies available but GSM is dominant',
                                                 'mobile penetration high due to use of multiple SIM cards and phones',
@@ -12622,10 +11890,9 @@ P1_CNTR = \
                                                 'operators invested in base stations to deplete network congestion',
                                                 'submarine cable break in 2020 slowed speeds and interrupted '
                                                 'connectivity',
-                                                'importer of phones and broadcast equipment from China',
                                                 'Nigeria concluded its first 5G spectrum auction in 2021 and granted '
-                                                'licenses to two firms: MTN Nigeria and Mafab Communications',
-                                                'construction of 5G infrastructure has not yet been completed.',
+                                                'licenses to two firms',
+                                                'construction of 5G infrastructure has not yet been completed',
                                                 2022],
                                    'intl': [ 'landing point for the SAT-3/WASC, NCSCS, MainOne, Glo-1 & 2, ACE, and '
                                              'Equiano fiber-optic submarine cable that provides connectivity to Europe '
@@ -12637,7 +11904,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -12688,12 +11955,15 @@ P1_CNTR = \
                                               'island',
                                               'fixed teledensity at nearly 62 per 100',
                                               2018],
-                                'general': [ 'sole provider service for over 1000 landlines and fixed wireless lines',
-                                             'cellular telephone service operates on AMPS and GSM platforms',
-                                             'difficult geography presents challenges for rural areas',
-                                             'mobile is primary source of Internet access',
-                                             'mobile broadband demand is growing due to mobile services',
-                                             2020],
+                                'general': [ 'in 2020, the Manatua One Polynesia Fiber Cable provided Niue with high '
+                                             'speed Internet access for the first time replacing a 4 megabit satellite '
+                                             'link with gigabit fiber connectivity',
+                                             'the government set out a strategy to upgrade to a new infrastructure '
+                                             'that would be robust enough to operate reliably in a challenging '
+                                             'climate: 40 40&deg',
+                                             'C heat, 40% humidity, salty air, frequent power outages during storms, '
+                                             'and no air conditioning',
+                                             2022],
                                 'intl': [ 'landing point for the Manatua submarine cable linking Niue to several South '
                                           'Pacific Ocean Islands',
                                           'expansion of satellite services',
@@ -12702,7 +11972,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -12738,7 +12008,14 @@ P1_CNTR = \
                                               'the territory of norfolk island'],
                                  'tel': { 'code': '672',
                                           'domestic': ['free local calls', 0],
-                                          'general': ['adequate, 4G mobile telecommunication network', 2020],
+                                          'general': [ 'the current infrastructure consists of fixed line telephone '
+                                                       'utilizing copper twisted pair cable and optic fiber, two '
+                                                       'Satellite Earth Station, GSM Mobile switch with five remote '
+                                                       'base stations and 2 micro cells, central public exchange which '
+                                                       'switches international as well as national calls, ADSL '
+                                                       'Broadband internet connection (Asynchronous Digital Subscriber '
+                                                       'Line), and an ISP (Internet Service Provider)',
+                                                       2020],
                                           'intl': [ 'submarine cable links with Australia and New Zealand',
                                                     'satellite earth station - 1',
                                                     0],
@@ -12746,7 +12023,7 @@ P1_CNTR = \
                                                     'production and supply chains globally',
                                                     'since 2020, some aspects of the telecom sector have experienced a '
                                                     'downturn, particularly in mobile device production',
-                                                    'progress towards 5G implementation has resumed, as well as '
+                                                    'progress toward 5G implementation has resumed, as well as '
                                                     'upgrades to infrastructure',
                                                     'consumer spending on telecom services has increased due to the '
                                                     'surge in demand for capacity and bandwidth',
@@ -12786,25 +12063,15 @@ P1_CNTR = \
                                            'north korea',
                                            "the democratic people's republic of korea"],
                               'tel': { 'code': '850',
-                                       'domestic': [ 'fiber-optic links installed down to the county level',
-                                                     'telephone directories unavailable',
-                                                     'mobile service launched in late 2008 for the Pyongyang area and '
-                                                     'considerable progress in expanding to other parts of the country '
-                                                     'since',
-                                                     'fixed-lines are approximately 5 per 100 and mobile-cellular 15 '
+                                       'domestic': [ 'fixed-lines are approximately 5 per 100 and mobile-cellular 23 '
                                                      'per 100 persons',
-                                                     2019],
+                                                     2020],
                                        'general': [ 'following years of isolationism and economic under-achievement, '
                                                     "North Korea languishes near the bottom of the world's telecom "
                                                     'maturity index alongside Afghanistan and Turkmenistan (who also '
                                                     'happen to be struggling under repressive political regimes)',
                                                     'the obstacles to building a functioning telecom network are so '
                                                     'numerous that a fixed-line segment barely exists',
-                                                    'foreign investors have been permitted to partner with the North '
-                                                    'Korea Post & Telecommunications Corporation (NKPTC) to progress '
-                                                    'mobile voice, text, and broadband services, albeit on a strictly '
-                                                    'limited scale and with tight restrictions over what can be '
-                                                    'accessed',
                                                     'mobile communication is estimated to have eased up slightly to '
                                                     'reach 19% in 2021, yet the high cost of ownership coupled with '
                                                     'strict censorship makes mobile communications the exclusive '
@@ -12823,7 +12090,7 @@ P1_CNTR = \
                                                     "countries' computer systems",
                                                     "North Korea's determination to put itself offside with the rest "
                                                     'of the world in pursuit of its ideology can only lead to tighter '
-                                                    'controls on communications inside and outside of the country.',
+                                                    'controls on communications inside and outside of the country',
                                                     2022],
                                        'intl': [ 'satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - '
                                                  'Indian Ocean region)',
@@ -12833,7 +12100,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -12874,9 +12141,9 @@ P1_CNTR = \
                                                'severna makedonija',
                                                'the republic of north macedonia'],
                                   'tel': { 'code': '389',
-                                           'domestic': [ 'fixed-line roughly 19 per 100 and mobile-cellular 92 per 100 '
+                                           'domestic': [ 'fixed-line roughly 20 per 100 and mobile-cellular 89 per 100 '
                                                          'subscriptions',
-                                                         2019],
+                                                         2020],
                                            'general': [ 'as part of the EU pre-accession process, North Macedonia has '
                                                         'built closer economic ties with the Union which accounts for '
                                                         "77.5% of Macedonia's exports and just over half of its "
@@ -12891,37 +12158,24 @@ P1_CNTR = \
                                                         'set out several provisions to provide for a competitive '
                                                         "telecom market, including wholesale access to the incumbent's "
                                                         'fixed-line network',
-                                                        'although the fixed telephony market has been liberalized, the '
-                                                        'incumbent MakTel continues to dominate the sector',
                                                         'broadband services are widely available, with effective '
                                                         'competition between DSL and cable platforms complemented by '
                                                         'wireless broadband and a developing fiber sector',
                                                         'the number of DSL subscribers has continued to fall in recent '
                                                         'years as customers are migrated to fiber networks',
-                                                        "Macedonia's mobile market is served by only two MNOs, MakTel "
-                                                        'and A1 Macedonia (known as One.Vip before a rebranding '
-                                                        'exercise in September 2019)',
-                                                        'the latter was formed from the merger of the local business '
-                                                        'units of Telekom Slovenije and Telekom Austria',
-                                                        'A1 Macedonia in May 2016 was also merged with its sister '
-                                                        'company Blizoo, and so has been able to provide a full suite '
-                                                        'of converged services',
-                                                        'Mtel, a subsidiary of Telekom Srbija, has also committed to '
-                                                        'launch mobile services by the end of 2022, a move which will '
-                                                        'break the duopoly',
                                                         'the MNOs are increasingly focused on expanding their 5G '
                                                         "networks, seeking stronger coverage across North Macedonia's "
                                                         'high value urban areas',
                                                         'mobile data services are also becoming increasingly important '
                                                         'following investments in LTE network rollouts and in upgrades '
-                                                        'to LTE-A technology.',
+                                                        'to LTE-A technology',
                                                         2022],
                                            'intl': [0],
                                            'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                      'production and supply chains globally',
                                                      'since 2020, some aspects of the telecom sector have experienced '
                                                      'a downturn, particularly in mobile device production',
-                                                     'progress towards 5G implementation has resumed, as well as '
+                                                     'progress toward 5G implementation has resumed, as well as '
                                                      'upgrades to infrastructure',
                                                      'consumer spending on telecom services has increased due to the '
                                                      'surge in demand for capacity and bandwidth',
@@ -12970,8 +12224,8 @@ P1_CNTR = \
                                                                   'international private lines, payphones, phone '
                                                                   'cards, voicemail, and automatic call distribution '
                                                                   'systems',
-                                                                  'fixed-line teledensity roughly 39 per 100 persons',
-                                                                  2019],
+                                                                  'fixed-line teledensity roughly 35 per 100 persons',
+                                                                  2020],
                                                     'general': [ 'digital fiber-optic cables and satellites connect '
                                                                  'the islands to worldwide networks',
                                                                  'demand for broadband growing given that mobile '
@@ -12987,7 +12241,7 @@ P1_CNTR = \
                                                               'since 2020, some aspects of the telecom sector have '
                                                               'experienced a downturn, particularly in mobile device '
                                                               'production',
-                                                              'progress towards 5G implementation has resumed, as well '
+                                                              'progress toward 5G implementation has resumed, as well '
                                                               'as upgrades to infrastructure',
                                                               'consumer spending on telecom services has increased due '
                                                               'to the surge in demand for capacity and bandwidth',
@@ -13040,13 +12294,6 @@ P1_CNTR = \
                                                'mobile penetration rates and a highly developed digital media sector',
                                                "although not a member of the European Union, the country's telecoms "
                                                'sector is synchronized with relevant EC legislation',
-                                               'Telenor is the dominant operator in all sectors, though there is '
-                                               'increasing competition from new entrants',
-                                               'Telia Norway increased its market share by acquiring the operations of '
-                                               'Tele2, Phonero and Get',
-                                               'Norway enjoys near comprehensive LTE coverage, while both Telenor and '
-                                               'Telia are looking to close their 3G and 2G networks (by 2020 and 2025 '
-                                               'respectively), focusing instead on LTE and 5G technologies',
                                                'the mobile broadband sector was bolstered by the auction of spectrum '
                                                'in the 700MHz and 21MHz band in June 2019',
                                                'additional spectrum in the 700MHz is expected to be auctioned for '
@@ -13054,13 +12301,8 @@ P1_CNTR = \
                                                'the broadband penetration rate is among the highest in Europe, while '
                                                'in recent years subscribers have been migrated to faster broadband '
                                                'solutions over fiber networks, VDSL and upgraded cable infrastructure',
-                                               'the leading ISPs Telenor and NextGenTel have also deployed services '
-                                               'based on G.fast technology',
-                                               'the regulator has called on the government to help fund additional '
-                                               "cable infrastructure to reduce the country's dependence on Telenor's "
-                                               'networks',
                                                'in late 2019 the government proposed making broadband of at least '
-                                               '20Mb/s a universal service.',
+                                               '20Mb/s a universal service',
                                                2021],
                                   'intl': [ 'landing points for the Svalbard Undersea Cable System, Polar Circle '
                                             'Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC '
@@ -13076,7 +12318,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -13103,12 +12345,19 @@ P1_CNTR = \
                           '24214',
                           '24215',
                           '24216',
+                          '24217',
                           '24220',
                           '24221',
                           '24222',
                           '24223',
                           '24224',
                           '24225',
+                          '24270',
+                          '24271',
+                          '24272',
+                          '24273',
+                          '24274',
+                          '24275',
                           '24290',
                           '24299'],
               'msisdn': ['47'],
@@ -13124,7 +12373,7 @@ P1_CNTR = \
                                 'coast': 2092,
                                 'coord': ['21 00 N, 57 00 E'],
                                 'popul': 3764348,
-                                'ports': { 'container': 'Salalah (4,109,000) (2019)',
+                                'ports': { 'container': 'Salalah (4,510,000) (2021)',
                                            'seaport': "Mina' Qabus, Salalah, Suhar"},
                                 'region': 'Middle East',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:OM',
@@ -13135,21 +12384,10 @@ P1_CNTR = \
                                               'fixed-line phone service gradually being introduced to remote villages '
                                               'using wireless local loop systems',
                                               2020],
-                                'general': [ "for many years Oman's mobile market was a duopoly between the incumbent "
-                                             'telco Omantel and its challenger Ooredoo Oman',
-                                             'in February 2021, Vodafone Group and Oman Future Telecommunications '
-                                             "consortium secured a license to operate the Sultanate's third network, "
-                                             'with services being under the Vodafone Oman brand',
-                                             'the new operator has been able to extend its reach based on a tower '
-                                             'leasing arrangement signed in 2020 with Oman Tower Company',
-                                             'Oman has a modern mobile sector which comprises substantial coverage of '
+                                'general': [ 'Oman has a modern mobile sector which comprises substantial coverage of '
                                              'both 3G and LTE networks',
-                                             'in February 2021 Omantel launched commercial 5G services, while Ooredoo '
-                                             'Group has a five-year framework agreement with Ericsson to develop its '
-                                             "5G platform across the Group's ten markets, including Oman",
-                                             'the Covid-19 pandemic has caused a spike in mobile data traffic, which '
-                                             'prompted Omantel to upgrade a number of sites from 3G to LTE, as well as '
-                                             'build a number of additional 5G sites',
+                                             'in February 2021 commercial 5G services were launched',
+                                             'the Covid-19 pandemic has caused a spike in mobile data traffic',
                                              "while Oman's fixed broadband infrastructure penetration is considered "
                                              'low, it is being improved with the building of fiber-based networks as '
                                              "part of Oman's Vision 2040 program",
@@ -13160,7 +12398,7 @@ P1_CNTR = \
                                              'potential for a branch line to Djibouti, is making progress and is '
                                              'expected to be completed in December 2021',
                                              'this additional infrastructure will provide considerable additional '
-                                             'bandwidth.',
+                                             'bandwidth',
                                              2021],
                                 'intl': [ 'landing points for GSA, AAE-1, SeaMeWe-5, Tata TGN-Gulf, FALCON, '
                                           'GBICS/MENA, MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, and '
@@ -13172,7 +12410,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -13232,16 +12470,14 @@ P1_CNTR = \
                                                  'data centers in major cities',
                                                  'mobile and broadband doing well and dominate over fixed-broadband '
                                                  'sector',
-                                                 'China-Pakistan Fiber Optic Project became operational in 2020',
-                                                 'importer of broadcasting equipment and computers from China',
                                                  'future growth (in market size as well as revenue) is likely to come '
                                                  'from the wider availability of value-added services on top of the '
                                                  'expansion of 4G LTE and (from 2023) 5G mobile networks',
                                                  'the Universal Service Fund (USF) continues to direct investment '
                                                  'towards the development of mobile broadband (and, to a lesser '
-                                                 'extent, fiber-based networks) in under-served and even unserved '
+                                                 'extent, fiber-based networks) in under-served and even under served '
                                                  'areas of the country, with multiple projects being approved to start '
-                                                 'in 2021 and 2022.',
+                                                 'in 2021 and 2022',
                                                  2021],
                                     'intl': [ 'landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient '
                                               'Express, PEACE Cable, and TW1 submarine cable systems that provide '
@@ -13257,7 +12493,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -13288,9 +12524,9 @@ P1_CNTR = \
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/palau'},
                         'nameset': ['belau', 'beluu er a belau', 'palau', 'republic of palau', 'the republic of palau'],
                         'tel': { 'code': '680',
-                                 'domestic': [ 'fixed-line nearly 41 per 100 and mobile-cellular services roughly 134 '
+                                 'domestic': [ 'fixed-line nearly 44 per 100 and mobile-cellular services roughly 133 '
                                                'per 100 persons',
-                                               2019],
+                                               2020],
                                  'general': [ 'well-developed mobile sector, recently boosted by satellite network '
                                               'capacity upgrades',
                                               '3G services available with satellite',
@@ -13307,7 +12543,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -13332,7 +12568,7 @@ P1_CNTR = \
                                   'coast': 2490,
                                   'coord': ['9 00 N, 80 00 W'],
                                   'popul': 4337768,
-                                  'ports': { 'container': 'Balboa (2,894,654), Colon (4,379,477) (2019)',
+                                  'ports': { 'container': 'Balboa (3,561,432), Colon (4,915,975) (2021)',
                                              'seaport': 'Balboa, Colon, Cristobal'},
                                   'region': 'Central America and the Caribbean',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PA',
@@ -13352,20 +12588,10 @@ P1_CNTR = \
                                                'mobile services and broadband remain the key growth sectors, with '
                                                'mobile connections accounting for 90% of all connections, and over '
                                                'half of telecom sector revenue',
-                                               'the mobile sector has flourished since the arrival of Digicel '
-                                               'Panam&aacute',
-                                               'in 2008 and of Am&eacute',
-                                               'rica M&oacute',
-                                               'vil in 2009, which ended the duopoly long enjoyed by Cable & Wireless '
-                                               'Panam&aacute',
-                                               'and Telef&oacute',
-                                               "nica's Movistar. Millicom International Cellular (trading as Tigo) "
-                                               'acquired Telef&oacute',
-                                               "nica's telecom assets in Panama in 2019",
-                                               'the mobile market has effective competition among these players',
+                                               'the mobile market has effective competition',
                                                'internet services have grown in recent years as consumers responded to '
                                                'government fixed-line projects, improved mobile broadband connectivity '
-                                               'and a plethora of mobile applications.',
+                                               'and mobile applications',
                                                2021],
                                   'intl': [ 'landing points for the PAN-AM, ARCOS, SAC, AURORA, PCCS, PAC, and the '
                                             'MAYA-1 submarine cable systems that together provide links to the US and '
@@ -13377,7 +12603,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -13389,7 +12615,7 @@ P1_CNTR = \
                                   'tld': '.pa',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.pa'}},
               'mcc': ['714'],
-              'mccmnc': ['71401', '71402', '714020', '71403', '71404'],
+              'mccmnc': ['71401', '71402', '714020', '71403', '71404', '71405'],
               'msisdn': ['507'],
               'name': 'Panama',
               'url': 'https://en.wikipedia.org/wiki/Panama'},
@@ -13414,9 +12640,9 @@ P1_CNTR = \
                                                 'the independent state of papua new guinea'],
                                    'tel': { 'code': '675',
                                             'domestic': [ 'access to telephone services is not widely available',
-                                                          'fixed-line nearly 2 per 100 and mobile-cellular nearly 48 '
+                                                          'fixed-line nearly 2 per 100 and mobile-cellular nearly 54 '
                                                           'per 100 persons',
-                                                          2019],
+                                                          2020],
                                             'general': [ 'fixed-line teledensity in Papua New Guinea has seen little '
                                                          'change over the past two decades',
                                                          "progress in the country's telecom sector has come primarily "
@@ -13424,18 +12650,15 @@ P1_CNTR = \
                                                          'considerably in recent years, with population coverage '
                                                          'increasing from less than 3% in 2006 to more than 90% by '
                                                          'early 2021',
-                                                         'Digitec Communications ,operating under the Vodafone PNG '
-                                                         'banner, launched services in April 2022, becoming the '
-                                                         "country's third mobile network operator (MNO), and joining "
-                                                         'Digicel and Bmobile',
-                                                         'the three MNOs operate networks offering services based on '
-                                                         'GSM, 3G, and LTE, depending on location',
+                                                         'the MNOs operate networks offering services based on GSM, '
+                                                         '3G, and LTE, depending on location',
                                                          'GSM is prevalent in many rural and remote areas, while 3G '
-                                                         "and LTE are centred more on urban areas. MNOs' investments "
-                                                         'in 4G are growing, though GSM still represents the bulk of '
-                                                         'all mobile connections owing to the low penetration of '
-                                                         'smartphones and the concentration of high-speed data '
-                                                         'networks predominantly in high value urban areas',
+                                                         'and LTE are centered more on urban areas',
+                                                         "MNOs' investments in 4G are growing, though GSM still "
+                                                         'represents the bulk of all mobile connections owing to the '
+                                                         'low penetration of smartphones and the concentration of '
+                                                         'high-speed data networks predominantly in high value urban '
+                                                         'areas',
                                                          'a lack of sufficient competition and investment in the wire '
                                                          'line segment has driven up prices and hampered network '
                                                          'coverage and quality',
@@ -13443,7 +12666,7 @@ P1_CNTR = \
                                                          'relatively low subscriber base, the difficult terrain, and '
                                                          'the high proportion of the population living in rural areas',
                                                          'fixed telecom infrastructure is almost non-existent outside '
-                                                         'urban centers, leaving most of the population unserved',
+                                                         'urban centers, leaving most of the population under served',
                                                          "PNG is the Pacific region's largest poorly developed telecom "
                                                          'market, with only around 22% of its people connected to the '
                                                          'internet',
@@ -13455,8 +12678,6 @@ P1_CNTR = \
                                                          "to serve the country's needs",
                                                          'low international capacity has meant that internet services '
                                                          'are expensive and slow',
-                                                         'internet access has improved, however, with the Coral Sea '
-                                                         'Cable System which came online in 2019',
                                                          'the cable links PNG to the Solomon Islands and Australia '
                                                          '(landing at Sydney)',
                                                          'despite the improvement in recent years, the country is '
@@ -13464,22 +12685,6 @@ P1_CNTR = \
                                                          'making it reliant on more expensive alternatives such as '
                                                          'satellites, also weighing on the affordability of services '
                                                          'for end-users',
-                                                         'after Chinese investors expressed their interest in '
-                                                         'acquiring the financially troubled Digicel Pacific, the '
-                                                         "Australian government decided to back Telstra's purchase of "
-                                                         'the operator, in a bid to limit Chinese expansion and '
-                                                         'influence in the region',
-                                                         "the transaction will include Digicel's units in Fiji, Nauru, "
-                                                         'PNG (its largest market), Samoa, Tonga, and Vanuatu',
-                                                         'as part of its efforts to promote itself in the region, and '
-                                                         "to counter the growing influence of China's telcos, the "
-                                                         'Australian government provided the bulk of the funds to '
-                                                         'complete the deal',
-                                                         'in June 2021, the National Executive Council voted to '
-                                                         'abolish Kumul Telikom Holdings, and in September 2021 the '
-                                                         'government announced its decision to merge the state-owned '
-                                                         'telcos Bmobile and Telikom, creating a more efficient '
-                                                         'vertically integrated operator.',
                                                          2022],
                                             'intl': [ 'landing points for the Kumul Domestic Submarine Cable System, '
                                                       'PNG-LNG, APNG-2, CSCS and the PPC-1 submarine cables to '
@@ -13490,7 +12695,7 @@ P1_CNTR = \
                                                       'production and supply chains globally',
                                                       'since 2020, some aspects of the telecom sector have experienced '
                                                       'a downturn, particularly in mobile device production',
-                                                      'progress towards 5G implementation has resumed, as well as '
+                                                      'progress toward 5G implementation has resumed, as well as '
                                                       'upgrades to infrastructure',
                                                       'consumer spending on telecom services has increased due to the '
                                                       'surge in demand for capacity and bandwidth',
@@ -13531,18 +12736,13 @@ P1_CNTR = \
                                                   'per 100 of the population',
                                                   2020],
                                     'general': [ 'limited progress on structural reform and deficient infrastructure '
-                                                 'of the landlocked country are obstacles to telecom platform',
-                                                 'monopolized fixed-line service',
+                                                 'of the landlocked country are obstacles to the telecom platform',
                                                  'effective competition in mobile market, serving 96% of population '
                                                  'through LTE',
                                                  'deployment of fiber',
-                                                 'South Korean investment in education centers',
                                                  'operator enabled 109 free Internet points across the country and is '
                                                  'looking to expand to 430 points in 2022',
-                                                 'Inter-American Development Bank loan supports modernization within '
-                                                 'regulatory framework',
                                                  'dependent on neighboring countries for access to submarine cables',
-                                                 'major importer of broadcasting equipment from the USA',
                                                  2022],
                                     'intl': [ "Paraguay's landlocked position means they must depend on neighbors for "
                                               'interconnection with submarine cable networks, making it cost more for '
@@ -13553,7 +12753,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -13583,7 +12783,7 @@ P1_CNTR = \
                                 'coast': 2414,
                                 'coord': ['10 00 S, 76 00 W'],
                                 'popul': 32275736,
-                                'ports': { 'container': 'Callao (2,313,907) (2019)',
+                                'ports': { 'container': 'Balboa (3,563,432); Callao (2,486,425) (2021)',
                                            'seaport': 'Callao, Matarani, Paita'},
                                 'region': 'South America',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PE',
@@ -13595,12 +12795,12 @@ P1_CNTR = \
                                     'republica del peru',
                                     'the republic of perú'],
                        'tel': { 'code': '51',
-                                'domestic': [ 'fixed-line teledensity is nearly 10 per 100 persons',
+                                'domestic': [ 'fixed-line teledensity is nearly 7 per 100 persons',
                                               'mobile-cellular teledensity, spurred by competition among multiple '
-                                              'providers, now nearly 124 telephones per 100 persons',
+                                              'providers, now nearly 133 telephones per 100 persons',
                                               'nationwide microwave radio relay system and a domestic satellite system '
                                               'with 12 earth stations',
-                                              2019],
+                                              2020],
                                 'general': [ 'after suffering a sharp retraction in the number of subscriptions and '
                                              "revenue during 2020 due to the pandemic, Peru's telecom sector managed "
                                              'to stage a small recovery in the first half of 2021',
@@ -13621,17 +12821,6 @@ P1_CNTR = \
                                              'the overwhelmingly preferred internet access platform will remain the '
                                              'smartphone, with a further 8.6% growth in the number of mobile broadband '
                                              'subscriptions expected in 2021',
-                                             'one drawback to success in the mobile broadband market was the decision '
-                                             "in January 2021 by Google's parent company Alphabet to shut down Project "
-                                             'Loon',
-                                             'this global endeavor involved the use of high-altitude balloons to '
-                                             'provide internet access to remote, under served areas around the world',
-                                             'in Peru, Loon had signed a deal with Telef&oacute',
-                                             'nica to provide internet services in areas of the Amazon rain forest as '
-                                             'part of the Telef&oacute',
-                                             'nica/Facebook &lsquo',
-                                             "Internet para Todos' (IPT) project launched in 2018",
-                                             'Alphabet was unable to make the venture financially sustainable.',
                                              2021],
                                 'intl': [ 'landing points for the SAM-1, IGW, American Movil-Telxius, SAC and PAN-AM '
                                           'submarine cable systems that provide links to parts of Central and South '
@@ -13642,7 +12831,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -13669,7 +12858,7 @@ P1_CNTR = \
                                        'coast': 36289,
                                        'coord': ['13 00 N, 122 00 E'],
                                        'popul': 114597229,
-                                       'ports': { 'container': 'Manila (5,315,500) (2019)',
+                                       'ports': { 'container': 'Manila (4,976,014) (2021)',
                                                   'seaport': 'Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila'},
                                        'region': 'Southeast Asia',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PH',
@@ -13685,9 +12874,9 @@ P1_CNTR = \
                                                      'platforms: fixed line, mobile cellular, cable TV, over-the-air '
                                                      'TV, radio and (very small aperture terminal) VSAT, fiber-optic '
                                                      'cable, and satellite for redundant international connectivity',
-                                                     'fixed-line nearly 4 per 100 and mobile-cellular nearly 155 per '
+                                                     'fixed-line nearly 4 per 100 and mobile-cellular nearly 137 per '
                                                      '100',
-                                                     2019],
+                                                     2020],
                                        'general': [ 'the Covid-19 pandemic had a relatively minor impact on the '
                                                     "Philippine's telecom sector in 2020",
                                                     'subscriber numbers fell in some areas, but this was offset by '
@@ -13700,27 +12889,9 @@ P1_CNTR = \
                                                     'roll outs as per the original schedule',
                                                     'the major telecom operators had mixed financial results for the '
                                                     'past year',
-                                                    "PLDT reported record revenues, whereas Globe Telecom's "
-                                                    'performance dropped below 2019 levels',
-                                                    'the pandemic was partly the cause in both cases: shifts in '
-                                                    'customer behavior during the enforced lock down bolstered mobile '
-                                                    "data and broadband, whereas Globe Telecom's leadership of the "
-                                                    'mobile market saw it suffer to a greater extent overall, as the '
-                                                    'total number of mobile subscribers fell in the first quarter of '
-                                                    '2021',
-                                                    'in spite of the setback, both companies predict a positive '
-                                                    'outlook for growth through the rest of 2021 and into 2022',
                                                     'overall, the number of mobile subscribers is expected to grow to '
                                                     '153 million by the end of 2021, with the penetration rate '
                                                     'approaching 144%',
-                                                    'PLDT and Globe Telecom have maintained their dominance of the '
-                                                    'Philippines telecom market, despite having their duopoly status '
-                                                    'removed by the government as far back as 2017',
-                                                    'two new entrants &ndash',
-                                                    'DITO Telecommunity and NOW Telecom &ndash',
-                                                    'have since become the third and fourth operators, but delays in '
-                                                    'their respective launch programs have caused minimal impact to '
-                                                    "the leaders' market share",
                                                     'the government remains keen, and committed, to seeing strong '
                                                     'competition, growth, and service excellence in the telecom '
                                                     'sector, so there is likely to be continued support (financially '
@@ -13733,16 +12904,11 @@ P1_CNTR = \
                                                     'accessing remote parts of the archipelago means that in many '
                                                     'areas fixed networks are neither cost-effective nor logistically '
                                                     'viable',
-                                                    'both PLDT and Globe Telecom continue to roll out fixed networks '
-                                                    'in some urban areas where it remains feasible to do so (primarily '
-                                                    'to support fixed broadband or &mdash',
-                                                    "in Globe Telecom's case &mdash",
-                                                    'fixed wireless services)',
                                                     'the bulk of telecoms investment over the coming years will '
                                                     'continue to be in 5G and 5G-enabled LTE networks',
                                                     'coverage of LTE and 5G networks extends to over 95% of the '
                                                     'population, and for the vast majority of people mobile will '
-                                                    'likely remain their only platform for telecom services.',
+                                                    'likely remain their only platform for telecom services',
                                                     2021],
                                        'intl': [ 'landing points for the NDTN, TGN-IA, AAG, PLCN, EAC-02C, DFON, SJC, '
                                                  'APCN-2, SeaMeWe, Boracay-Palawan Submarine Cable System, '
@@ -13754,7 +12920,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -13807,7 +12973,7 @@ P1_CNTR = \
                                                       'production and supply chains globally',
                                                       'since 2020, some aspects of the telecom sector have experienced '
                                                       'a downturn, particularly in mobile device production',
-                                                      'progress towards 5G implementation has resumed, as well as '
+                                                      'progress toward 5G implementation has resumed, as well as '
                                                       'upgrades to infrastructure',
                                                       'consumer spending on telecom services has increased due to the '
                                                       'surge in demand for capacity and bandwidth',
@@ -13839,7 +13005,7 @@ P1_CNTR = \
                                   'coast': 440,
                                   'coord': ['52 00 N, 20 00 E'],
                                   'popul': 38093101,
-                                  'ports': { 'container': 'Gdansk (2,073,215) (2019)',
+                                  'ports': { 'container': 'Gdansk (2,117,829) (2021)',
                                              'seaport': 'Gdansk, Gdynia, Swinoujscie'},
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PL',
@@ -13851,14 +13017,11 @@ P1_CNTR = \
                                       'the republic of poland'],
                          'tel': { 'code': '48',
                                   'domestic': [ 'several nation-wide networks provide mobile-cellular service',
-                                                'fixed-line roughly 15 per 100 (service lags in rural areas), '
-                                                'mobile-cellular over 130 per 100 persons',
-                                                2020],
+                                                'fixed-line roughly 14 per 100 (service lags in rural areas), '
+                                                'mobile-cellular over 132 per 100 persons',
+                                                2021],
                                   'general': [ 'the liberalized telecom market has seen considerable development in '
                                                'the broadband and mobile sectors',
-                                               'the incumbent telco, Orange Poland, dominates the broadband market and '
-                                               'has invested in fiber infrastructure to support the growing adoption '
-                                               'of bundled services among customers',
                                                'the regulatory environment has encouraged market competition, partly '
                                                'by encouraging operators to secure spectrum and also by ensuring '
                                                'access to cable and fiber infrastructure',
@@ -13868,7 +13031,7 @@ P1_CNTR = \
                                                "the regulator's attempts to auction spectrum in a range of bands has "
                                                'been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having '
                                                'been suspended to later in 2021 as a result of the Covid-19 outbreak '
-                                               'and legislative changes.',
+                                               'and legislative changes',
                                                2021],
                                   'intl': [ 'landing points for the Baltica and the Denmark-Poland2 submarine cables '
                                             'connecting Poland, Denmark and Sweden',
@@ -13880,7 +13043,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -13888,7 +13051,7 @@ P1_CNTR = \
                                             'home is still evident, and the spike in this area has seen growth '
                                             'opportunities for development of new tools and increased services',
                                             0],
-                                  'subs': {'bb': 8369218, 'fix': 5777428, 'internet': 31456228, 'mob': 49350724},
+                                  'subs': {'bb': 8369218, 'fix': 5308497, 'internet': 31456228, 'mob': 50588785},
                                   'tld': '.pl',
                                   'url_tld': 'https://en.wikipedia.org/wiki/.pl'}},
               'mcc': ['260'],
@@ -13983,32 +13146,18 @@ P1_CNTR = \
                                                  'key market operators which have invested in significant '
                                                  'infrastructure upgrades',
                                                  'these operators are focused on fiber-based services, resulting in a '
-                                                 'migration of subscribers from DSL infrastructure',
-                                                 'under the ownership of the Altice Group, Altice Portugal is focused '
-                                                 'on FttP, aiming to have covered 5.3 million premises by the end of '
-                                                 '2020, and providing national coverage',
-                                                 'the cable sector has also shifted towards fiber, with the principal '
-                                                 'cable company NOS investing in fiber rather than DOCSIS upgrades',
-                                                 'in addition, Vodafone Portugal provides fiber to about two-thirds of '
-                                                 'premises',
-                                                 'the growth in the fiber segment has resulted from shared '
-                                                 'infrastructure deals, including that between Vodafone and NOS',
-                                                 'the government has also supported two open-access wholesale networks '
-                                                 'being built by dstelecom and Fibroglobal',
-                                                 'the mobile market is dominated by the incumbent Altice Portugal, '
-                                                 'though it is seeing increasing competition from the other network '
-                                                 'operators, Vodafone Portugal, and NOS',
-                                                 'the MVNO market remains largely undeveloped, partly because network '
-                                                 'operators have their own low-cost brands, in July 2020, for example, '
-                                                 'NOS launched its sub-brand WOO',
+                                                 'migration of subscribers from digital subscriber line DSL '
+                                                 'infrastructure',
+                                                 'the government has also supported open-access wholesale networks',
+                                                 'the mobile virtual network operator (MVNO) market remains largely '
+                                                 'undeveloped, partly because network operators have their own '
+                                                 'low-cost brands',
                                                  'collectively, MVNOs have about 2.9% share of the market',
-                                                 'in October 2021 Dixarobil and Nowo secured spectrum in the final '
-                                                 'stage of a protracted 5G auction',
                                                  'population coverage by 3G infrastructure is universal, and most '
                                                  'investment in the sector is being directed to LTE and 5G '
                                                  'technologies',
                                                  'the MNOs have trialed 5G and are looking to launch commercial '
-                                                 'services.',
+                                                 'services',
                                                  2021],
                                     'intl': [ 'landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, '
                                               'Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and '
@@ -14023,7 +13172,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -14064,7 +13213,7 @@ P1_CNTR = \
                                        'coast': 501,
                                        'coord': ['18 15 N, 66 30 W'],
                                        'popul': 3098423,
-                                       'ports': { 'container': 'San Juan (2,142,662) (2019)',
+                                       'ports': { 'container': 'San Juan (1,438,218) (2021)',
                                                   'seaport': 'Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de '
                                                              'Ponce, San Juan'},
                                        'region': 'Central America and the Caribbean',
@@ -14094,36 +13243,11 @@ P1_CNTR = \
                                                     'although Puerto Rico is a US territory it lags well behind the '
                                                     'mainland US states in terms of fixed-line and broadband services',
                                                     'this is partly due to high unemployment rates (and consequently '
-                                                    'low disposable income) and poor telecoms investment in a market '
-                                                    'largely dominated by the incumbent Puerto Rico Telephone Company',
-                                                    'this dominance was augmented after the company was acquired by '
-                                                    'the largest wireless operator in Latin America, Am&eacute',
-                                                    'rica M&oacute',
-                                                    'vil, in 2007',
-                                                    'the acquisition by Liberty Global of the remaining cable TV '
-                                                    'operator Choice Cable, completed in mid-2015, created a monopoly '
-                                                    'player in this sector',
-                                                    'Liberty Cablevisi&oacute',
-                                                    'n (renamed Liberty Communications of Puerto Rico in 2020), now '
-                                                    "wholly-owned by Liberty Global's LLA division, is in a stronger "
-                                                    'position to capitalize on scale, and so provide improved services '
-                                                    'based on greater investment and on the use of technology based on '
-                                                    'the DOCSIS3.1 standard',
-                                                    'Liberty Communications has also become better placed in the '
-                                                    "bundled service market following LLA's acquisition of AT&T's "
-                                                    'wireless and wire line units in Puerto Rico',
+                                                    'low disposable income) and poor telecoms investment in a market',
                                                     'the mobile market has been impacted by several mergers and '
                                                     'acquisitions over the last few years',
-                                                    'in early 2017 Sprint and Open Wireless agreed to merge their '
-                                                    'networks in a bid to offer better market competition by '
-                                                    'increasing their scale and combining spectrum holdings',
-                                                    'the T-Mobile US acquisition of Sprint Communications was approved '
-                                                    "in April 2020, and LLA's acquisition of AT&T's Puerto Rican and "
-                                                    'US Virgin Islands operations was finalized in October 2020',
-                                                    'the activities of large multinational telcos such as Am&eacute',
-                                                    'rica M&oacute',
-                                                    'vil, T-Mobile US, and LLA, continue to impact the Puerto Rican '
-                                                    'market',
+                                                    'the activities of large multinational telcos continue to impact '
+                                                    'the Puerto Rican market',
                                                     'operators have secured spectrum in the 600MHz and 3.5GHz bands, '
                                                     'thus enabling them to expand the reach of LTE services and launch '
                                                     'services based on 5G',
@@ -14132,7 +13256,7 @@ P1_CNTR = \
                                                     'demand for streaming content from abroad',
                                                     'the uptake of cloud-based applications for both business and '
                                                     'individuals is also creating a heightened demand for affordable '
-                                                    'services.',
+                                                    'services',
                                                     2021],
                                        'intl': [ ', 939',
                                                  'landing points for the GTMO-PR, AMX-1, BRUSA, GCN, PCCS, SAm-1, '
@@ -14145,7 +13269,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -14192,13 +13316,11 @@ P1_CNTR = \
                                                2020],
                                  'general': [ 'Qatar had developed a mature telecom sector which has been able to '
                                               'absorb the additional data demands made on it during the pandemic',
-                                              'mobile services based on LTE are universally available, and this has '
-                                              'helped the two operators Ooredoo Qatar and Vodafone Qatar to migrate to '
-                                              '5G',
+                                              'mobile services based on LTE are universally available to migrate to 5G',
                                               'in combination with a strong fiber rollout, the country is aiming to '
                                               'provide gigabit services nationally',
                                               '5G services are largely based on 3.5GHz spectrum made available '
-                                              'following an auction in early 2019.',
+                                              'following an auction in early 2019',
                                               2022],
                                  'intl': [ 'landing points for the Qatar-UAE Submarine Cable System, AAE-1, FOG, '
                                            'GBICS/East North Africa MENA and the FALCON submarine cable network that '
@@ -14213,7 +13335,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -14262,25 +13384,11 @@ P1_CNTR = \
                                                             'the renewed optimism has been seen in company investment '
                                                             'in extending fiber-based networks providing 1Gb/s '
                                                             'services',
-                                                            'the incumbent telco eir is investing &euro',
-                                                            '1 billion in infrastructure, part of which is earmarked '
-                                                            "for its Ireland's Fiber Network which will deliver a "
-                                                            '1Gb/s service to 85% of premises',
-                                                            'the mobile market is dominated by Vodafone Ireland and 3 '
-                                                            'Ireland, followed by eir',
-                                                            'there is room for a small number of MVNOs, the largest of '
-                                                            'which is Tesco Mobile, though stiff competition and the '
-                                                            'deployment of low-cost sub-brands by the MNOs has made '
-                                                            'the MVNO model a difficult proposition and a few players '
-                                                            'have been forced to exit the market',
                                                             'the mobile sector is preparing for a multi-frequency '
-                                                            'availibility later in 2021 which will greatly increase '
+                                                            'availability later in 2021 which will greatly increase '
                                                             'the amount of frequencies available, and provide a boost '
                                                             'for 5G services',
-                                                            'the MNOs are rapidly expanding the reach of 5G, with eir '
-                                                            'alone covering about 57% of the population by March 2021',
-                                                            'Vodafone launches a commercial NB-IoT service, extend 5G '
-                                                            'services to more cities',
+                                                            'the MNOs are rapidly expanding the reach of 5G',
                                                             2021],
                                                'intl': [ 'landing point for the AEConnect -1, Celtic-Norse, '
                                                          'Havfrue/AEC-2, GTT Express, Celtic, ESAT-1, IFC-1, Solas, '
@@ -14295,7 +13403,7 @@ P1_CNTR = \
                                                          'since 2020, some aspects of the telecom sector have '
                                                          'experienced a downturn, particularly in mobile device '
                                                          'production',
-                                                         'progress towards 5G implementation has resumed, as well as '
+                                                         'progress toward 5G implementation has resumed, as well as '
                                                          'upgrades to infrastructure',
                                                          'consumer spending on telecom services has increased due to '
                                                          'the surge in demand for capacity and bandwidth',
@@ -14359,9 +13467,8 @@ P1_CNTR = \
                                         'tel': { 'code': '242',
                                                  'domestic': [ 'fixed-line infrastructure inadequate, providing less '
                                                                'than 1 fixed-line connection per 100 persons',
-                                                               'mobile-cellular subscribership has surged to nearly 99 '
-                                                               'per 100 persons',
-                                                               2019],
+                                                               'mobile-cellular 89 per 100 persons',
+                                                               2020],
                                                  'general': [ 'suffering from economic challenges of stimulating '
                                                               'recovery and reducing poverty',
                                                               'primary network consists of microwave radio relay and '
@@ -14375,8 +13482,9 @@ P1_CNTR = \
                                                               'only the most affluent have Internet access in their '
                                                               'homes',
                                                               'operator has plans to upgrade national broadband '
-                                                              'through fiber link to WACS landing station at '
-                                                              'Pointe-Noire with connections to Angola and DRC',
+                                                              'through fiber link to West Africa Cable System (WACS) '
+                                                              'landing station at Pointe-Noire with connections to '
+                                                              'Angola and DRC',
                                                               'fiber network project with aims to connect north and '
                                                               'south regions',
                                                               'DRC operator added fiber link between Brazzaville and '
@@ -14391,7 +13499,7 @@ P1_CNTR = \
                                                            'since 2020, some aspects of the telecom sector have '
                                                            'experienced a downturn, particularly in mobile device '
                                                            'production',
-                                                           'progress towards 5G implementation has resumed, as well as '
+                                                           'progress toward 5G implementation has resumed, as well as '
                                                            'upgrades to infrastructure',
                                                            'consumer spending on telecom services has increased due to '
                                                            'the surge in demand for capacity and bandwidth',
@@ -14434,38 +13542,15 @@ P1_CNTR = \
                                                  2020],
                                    'general': [ "Romania's telecom market has undergone several significant changes in "
                                                 'recent years',
-                                                "Vodafone Group in July 2019 acquired Liberty Global's local unit UPC "
-                                                'Romania, thus enabling Vodafone Romania to compete more effectively '
-                                                'in offering bundled services',
-                                                'Orange Romania more recently acquired the fixed-line assets of '
-                                                "Telekom Romania from Deutsche Telekom's subsidiary OTE",
-                                                'the deal, which requires regulatory clearances and could be completed '
-                                                'by the end of 2021, was prompted by competition in the fixed-line '
-                                                'segment, particularly from Digi, which would have compelled Telekom '
-                                                'Romania to invest more heavily in fixed-line infrastructure',
-                                                'the mobile market is served by network operators supported by '
-                                                'pan-European players, including Vodafone Group and Orange Group. All '
-                                                'have extensive LTE networks in place, while services based on 5G have '
-                                                'been offered under their existing spectrum concessions since 2019',
+                                                'the mobile market is served by network operators that have extensive '
+                                                'LTE networks in place, while services based on 5G have been offered '
+                                                'under their existing spectrum concessions since 2019',
                                                 'the delayed multi-spectrum auction, expected to be completed later in '
                                                 '2021, will enable the operators to expand 5G network capacity and '
                                                 "enable consumers to make far greater use of the technology's "
                                                 'potential',
                                                 'in line with legislation passed in July 2021 the MNOs will have to '
-                                                'replace equipment provided by vendors deemed to be a security risk, '
-                                                'essentially meaning that they will have up to seven years to replace '
-                                                'core and non-core kit provided by Huawei',
-                                                "this report provides an overview of Romania's fast-developing "
-                                                'telecommunications market, covering regulatory developments, major '
-                                                'players and fixed-line infrastructure, and offering a variety of '
-                                                'operational and financial statistics as well as a range of subscriber '
-                                                'forecasts',
-                                                'the report also covers the mobile voice and data markets, including '
-                                                'profiles of the major operators, updates on spectrum auctions and '
-                                                'regulatory developments',
-                                                'in addition, the report provides insights into the growing broadband '
-                                                'market, covering technologies, the major players and market '
-                                                'developments.',
+                                                'replace equipment provided by vendors deemed to be a security risk',
                                                 2021],
                                    'intl': [ 'landing point for the Diamond Link Global submarine cable linking '
                                              'Romania with Georgia',
@@ -14476,7 +13561,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -14527,11 +13612,10 @@ P1_CNTR = \
                                   'coast': 37653,
                                   'coord': ['60 00 N, 100 00 E'],
                                   'popul': 142021981,
-                                  'ports': { 'container': 'Saint Petersburg (2,221,724) (2019)',
-                                             'seaport': '<em>Arctic Ocean: </em>Arkhangelsk, Murmansk<em>Baltic '
-                                                        'Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<em>Black '
-                                                        'Sea:</em> Novorossiysk<em>Pacific Ocean:</em> Nakhodka, '
-                                                        'Vladivostok, Vostochnyy'},
+                                  'ports': { 'container': 'Saint Petersburg (2,042,358) (2021)',
+                                             'seaport': 'Arctic Ocean: Arkhangelsk, Murmansk; Baltic Sea: Kaliningrad, '
+                                                        'Primorsk, Saint Petersburg; Black Sea: Novorossiysk; Pacific '
+                                                        'Ocean: Nakhodka, Vladivostok, Vostochnyy'},
                                   'region': 'Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RU',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/russia'},
@@ -14559,14 +13643,6 @@ P1_CNTR = \
                                                'centers',
                                                'all sectors of the market have been liberalized, with competition most '
                                                'prevalent in the two largest regional markets',
-                                               'the incumbent telco Rostelecom, which absorbed most of the regional '
-                                               'players, in late 2019 acquired the remaining 55% of Tele2 Russia which '
-                                               'it did not already own',
-                                               "the deal strengthened the company's ability to compete in the offering "
-                                               'a full range of bundled services',
-                                               'Telcos continue to deploy and modernize fixed-line network '
-                                               'infrastructure to offer improved broadband services as well as a range '
-                                               'of IP-delivered content',
                                                'the fiber broadband sector has shown considerable growth, supported by '
                                                "the government's program to extend the reach of broadband to outlying "
                                                'regions',
@@ -14581,7 +13657,7 @@ P1_CNTR = \
                                                'there is pressure on operator revenue from the poor economic climate, '
                                                'lower pricing resulting from intense competition, regulatory measures '
                                                'introduced in 2018 which saw the end of roaming charges, and the '
-                                               'effects of the Covid-19 pandemic.',
+                                               'effects of the Covid-19 pandemic',
                                                2022],
                                   'intl': [ 'landing points for the Far East Submarine Cable System, HSCS, '
                                             'Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable '
@@ -14594,7 +13670,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -14681,16 +13757,8 @@ P1_CNTR = \
                                                 'fixed-line less than 1 per 100 and mobile-cellular telephone density '
                                                 'has increased to nearly 82 telephones per 100 persons',
                                                 2020],
-                                  'general': [ 'Rwanda was slow to liberalize the mobile sector, allowing MTN a '
-                                               'monopoly until 2006 when the fixed-line incumbent, Rwandatel (since '
-                                               'acquired by Liquid Intelligence Technologies) became the second mobile '
-                                               'operator',
-                                               'there was effective competition among three operators after Tigo '
-                                               'launched services in 2009',
-                                               'the acquisition of Tigo by Airtel saw a significant consolidation in '
-                                               "the market, and the cancellation of Rwandatel's license in 2011 "
-                                               'resulted in the market becoming a duopoly between the dominant '
-                                               'operator MTN and Airtel',
+                                  'general': [ 'Rwanda was slow to liberalize the mobile sector',
+                                               'there was effective competition among three operators',
                                                'the fixed broadband sector has suffered from limited fixed-line '
                                                'infrastructure and high prices',
                                                'operators are rolling out national backbone networks which also allow '
@@ -14698,18 +13766,15 @@ P1_CNTR = \
                                                'coast',
                                                'these cables gave the entire region greater internet bandwidth and '
                                                'ended the dependency on satellites',
-                                               'Liquid Technologies has continued to expand its FttP services across '
-                                               'Kigali and a number of other towns, while the country also has a new '
-                                               "cable link with Tanzania, and via Tanzania's national broadband "
-                                               'backbone it has gained connectivity to the networks of several other '
-                                               'countries in the region',
+                                               'while the country also has a new cable link with Tanzania, and via '
+                                               "Tanzania's national broadband backbone it has gained connectivity to "
+                                               'the networks of several other countries in the region',
                                                'the number of subscribers on LTE infrastructure has increased sharply, '
                                                'helped by national LTE coverage achieved in mid-2018',
                                                'mobile remains the dominant platform for voice and data services',
                                                'the regulator noted that the number of mobile subscribers increased '
                                                '2.7% in 2021, year-on-year',
-                                               'there was a slight fall in the beginning of 2022, though this decline '
-                                               'was entirely from Airtel.',
+                                               'there was a slight fall in the beginning of 2022',
                                                2022],
                                   'intl': [ 'international connections employ microwave radio relay to neighboring '
                                             'countries and satellite communications to more distant countries',
@@ -14722,7 +13787,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -14784,7 +13849,7 @@ P1_CNTR = \
                                                       'production and supply chains globally',
                                                       'since 2020, some aspects of the telecom sector have experienced '
                                                       'a downturn, particularly in mobile device production',
-                                                      'progress towards 5G implementation has resumed, as well as '
+                                                      'progress toward 5G implementation has resumed, as well as '
                                                       'upgrades to infrastructure',
                                                       'consumer spending on telecom services has increased due to the '
                                                       'surge in demand for capacity and bandwidth',
@@ -14886,7 +13951,7 @@ P1_CNTR = \
                                                                                   'telecom sector have experienced a '
                                                                                   'downturn, particularly in mobile '
                                                                                   'device production',
-                                                                                  'progress towards 5G implementation '
+                                                                                  'progress toward 5G implementation '
                                                                                   'has resumed, as well as upgrades to '
                                                                                   'infrastructure',
                                                                                   'consumer spending on telecom '
@@ -14930,10 +13995,10 @@ P1_CNTR = \
                                         'nameset': ['federation of saint kitts and nevis', 'saint kitts and nevis'],
                                         'tel': { 'code': '1869',
                                                  'domestic': [ 'interisland links via ECFS',
-                                                               'fixed-line teledensity about 33 per 100 persons',
-                                                               'mobile-cellular teledensity is roughly 148 per 100 '
+                                                               'fixed-line teledensity about 28 per 100 persons',
+                                                               'mobile-cellular teledensity is roughly 147 per 100 '
                                                                'persons',
-                                                               2019],
+                                                               2020],
                                                  'general': [ 'good interisland and international connections',
                                                               'broadband access',
                                                               'expanded FttP (Fiber to the Home) and LTE markets',
@@ -14950,7 +14015,7 @@ P1_CNTR = \
                                                            'since 2020, some aspects of the telecom sector have '
                                                            'experienced a downturn, particularly in mobile device '
                                                            'production',
-                                                           'progress towards 5G implementation has resumed, as well as '
+                                                           'progress toward 5G implementation has resumed, as well as '
                                                            'upgrades to infrastructure',
                                                            'consumer spending on telecom services has increased due to '
                                                            'the surge in demand for capacity and bandwidth',
@@ -14985,8 +14050,8 @@ P1_CNTR = \
                               'nameset': ['saint lucia'],
                               'tel': { 'code': '1758',
                                        'domestic': [ 'fixed-line teledensity is 20 per 100 persons and mobile-cellular '
-                                                     'teledensity is roughly 102 per 100 persons',
-                                                     2019],
+                                                     'teledensity is roughly 111 per 100 persons',
+                                                     2020],
                                        'general': [ 'an adequate system that is automatically switched',
                                                     'good interisland and international connections',
                                                     'broadband access',
@@ -15005,7 +14070,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -15055,14 +14120,14 @@ P1_CNTR = \
                                                      'telecom sector is a growth area',
                                                      2020],
                                         'intl': [ 'landing points for the SMPR-1, Southern Caribbean Fiber and the '
-                                                  'SSCS submarine cables providing connectivity to numerous Caribbean '
-                                                  'islands',
+                                                  'Saba, Statia Cable System submarine cables providing connectivity '
+                                                  'to numerous Caribbean islands',
                                                   2019],
                                         'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                   'production and supply chains globally',
                                                   'since 2020, some aspects of the telecom sector have experienced a '
                                                   'downturn, particularly in mobile device production',
-                                                  'progress towards 5G implementation has resumed, as well as upgrades '
+                                                  'progress toward 5G implementation has resumed, as well as upgrades '
                                                   'to infrastructure',
                                                   'consumer spending on telecom services has increased due to the '
                                                   'surge in demand for capacity and bandwidth',
@@ -15124,8 +14189,8 @@ P1_CNTR = \
                                                                'since 2020, some aspects of the telecom sector have '
                                                                'experienced a downturn, particularly in mobile device '
                                                                'production',
-                                                               'progress towards 5G implementation has resumed, as '
-                                                               'well as upgrades to infrastructure',
+                                                               'progress toward 5G implementation has resumed, as well '
+                                                               'as upgrades to infrastructure',
                                                                'consumer spending on telecom services has increased '
                                                                'due to the surge in demand for capacity and bandwidth',
                                                                'the crucial nature of telecom services as a tool for '
@@ -15188,7 +14253,7 @@ P1_CNTR = \
                                                                       'since 2020, some aspects of the telecom sector '
                                                                       'have experienced a downturn, particularly in '
                                                                       'mobile device production',
-                                                                      'progress towards 5G implementation has resumed, '
+                                                                      'progress toward 5G implementation has resumed, '
                                                                       'as well as upgrades to infrastructure',
                                                                       'consumer spending on telecom services has '
                                                                       'increased due to the surge in demand for '
@@ -15228,37 +14293,21 @@ P1_CNTR = \
                                      'samoa',
                                      'the independent state of samoa'],
                         'tel': { 'code': '685',
-                                 'domestic': [ 'fixed-line roughly 4 per 100 and mobile-cellular teledensity nearly 64 '
+                                 'domestic': [ 'fixed-line roughly 3 per 100 and mobile-cellular teledensity nearly 35 '
                                                'telephones per 100 persons',
-                                               2019],
+                                               2020],
                                  'general': [ 'Samoa was one of the first Pacific Island countries to establish a '
                                               'regulatory infrastructure and to liberalize its telecom market',
-                                              'in 2006, it became the first country in the region to see the market '
-                                              'entrance of Digicel, which has since launched services in other Pacific '
-                                              'nations',
                                               'the advent of competition in the mobile market saw prices fall by '
                                               'around 50% and network coverage increase to more than 90% of the '
                                               'population',
                                               'Samoa also boasts one of the highest rates of mobile phone coverage in '
                                               'the Pacific region',
-                                              'LTE is developing on the back of an initial launch of the technology in '
-                                              '2016 by Digicel Samoa, followed by BlueSky Samoa (now Vodafone Samoa) '
-                                              'in 2017',
-                                              'Digicel Samoa completed its LTE network in September 2020',
                                               'the growth of fixed-line internet has been impeded by factors including '
                                               'the high costs for bandwidth, under investment in fixed-line '
-                                              'infrastructure, as well as a strained consumer profile weighing on '
-                                              'demand for services',
-                                              "Digicel Samoa's financially troubled parent company, Digicel Pacific, "
-                                              'had been on the lookout for a potential buyer for several months as it '
-                                              'struggled financially',
-                                              'after various Chinese firms registered interest in taking a stake, the '
-                                              'Australian government sought to block further Chinese investment in the '
-                                              'region by providing financial support for a local buyer',
-                                              "in October 2021, Telstra agreed to acquire Digicel Group's Pacific "
-                                              'operations for around $1.6 billion, with a financial input from the '
-                                              "Australian government of around $1.33 billion, Samoa's telecoms sector "
-                                              'has been inhibited by a lack of international connectivity',
+                                              'infrastructure',
+                                              "Samoa's telecoms sector has been inhibited by a lack of international "
+                                              'connectivity',
                                               'Samoa has had access to the Samoa-America-Samoa (SAS) cable laid in '
                                               "2009, this cable has insufficient capacity to meet the country's future "
                                               'bandwidth needs',
@@ -15269,7 +14318,7 @@ P1_CNTR = \
                                               'the high costs previously associated with internet access in Samoa',
                                               'in April 2022, the Samoan government announced its decision to take '
                                               'over control of the Samoa Submarine Cable Company, looking to the cable '
-                                              'to generate additional revenue for the state.',
+                                              'to generate additional revenue for the state',
                                               2022],
                                  'intl': [ 'landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT '
                                            'submarine cables providing connectivity to Samoa, Fiji, Wallis & Futuna, '
@@ -15281,7 +14330,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -15315,8 +14364,8 @@ P1_CNTR = \
                                           'the republic of san marino'],
                              'tel': { 'code': '378',
                                       'domestic': [ 'fixed-line a little over 47 per 100 and mobile-cellular '
-                                                    'teledensity roughly 114 telephones per 100 persons',
-                                                    2019],
+                                                    'teledensity roughly 115 telephones per 100 persons',
+                                                    2020],
                                       'general': [ 'automatic telephone system completely integrated into Italian '
                                                    'system',
                                                    2018],
@@ -15325,8 +14374,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -15383,7 +14432,7 @@ P1_CNTR = \
                                                            'since 2020, some aspects of the telecom sector have '
                                                            'experienced a downturn, particularly in mobile device '
                                                            'production',
-                                                           'progress towards 5G implementation has resumed, as well as '
+                                                           'progress toward 5G implementation has resumed, as well as '
                                                            'upgrades to infrastructure',
                                                            'consumer spending on telecom services has increased due to '
                                                            'the surge in demand for capacity and bandwidth',
@@ -15418,8 +14467,8 @@ P1_CNTR = \
                                         'coast': 2640,
                                         'coord': ['25 00 N, 45 00 E'],
                                         'popul': 35354380,
-                                        'ports': { 'container': 'Ad Dammam (1,822,642), Jeddah (4,433,991), King '
-                                                                'Abdulla (2,020,683) (2019)',
+                                        'ports': { 'container': 'Ad Dammam (1,770,000), Jeddah (4,882,342), King '
+                                                                'Abdulla (2,813,920) (2021)',
                                                    'seaport': "Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'"},
                                         'region': 'Middle East',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SA',
@@ -15440,8 +14489,6 @@ P1_CNTR = \
                                                      'an essential element of this has been the widening reach of 5G '
                                                      'networks, which by mid-2021 reached about half of the population '
                                                      'and the majority of cities',
-                                                     'the competitive mobile sector is serviced by Saudi Telecom '
-                                                     'Company (stc), Mobily, and Zain KSA, as also four licensed MVNOs',
                                                      'the MNOs have focused investment on upgrading LTE infrastructure '
                                                      'and further developing 5G',
                                                      'this in part is aimed at generating additional revenue from '
@@ -15455,7 +14502,7 @@ P1_CNTR = \
                                                      "while Saudi Arabia's fixed broadband penetration remains "
                                                      'relatively low, there has been a concentration of fiber '
                                                      'infrastructure and the Kingdom has developed one of the fastest '
-                                                     'services in the region.',
+                                                     'services in the region',
                                                      2022],
                                         'intl': [ 'landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, '
                                                   'IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, '
@@ -15472,7 +14519,7 @@ P1_CNTR = \
                                                   'production and supply chains globally',
                                                   'since 2020, some aspects of the telecom sector have experienced a '
                                                   'downturn, particularly in mobile device production',
-                                                  'progress towards 5G implementation has resumed, as well as upgrades '
+                                                  'progress toward 5G implementation has resumed, as well as upgrades '
                                                   'to infrastructure',
                                                   'consumer spending on telecom services has increased due to the '
                                                   'surge in demand for capacity and bandwidth',
@@ -15530,25 +14577,6 @@ P1_CNTR = \
                                                 'internet accesses',
                                                 'quality of service issues continue to plague the market, with the '
                                                 'regulator periodically issuing fines to the market players',
-                                                "Orange Group's local subsidiary Orange Senegal (Sonatel) remains the "
-                                                'dominant player in both the fixed-line and mobile sectors',
-                                                'Free Senegal and Expresso Telecom provide effective competition, and '
-                                                'though their relative market shares have been relatively stable since '
-                                                '2013, Free has more recently made some inroads to the share held by '
-                                                'Expresso',
-                                                'this can partly be explained by the two-year delay in Expresso '
-                                                'launching LTE services, and so losing new subscribers to its '
-                                                'competitors',
-                                                'both Sonatel and Free continue to pilot 5G services in the country',
-                                                'Orange Senegal for some years held a near monopoly on the fixed-line, '
-                                                'though moderate competition became effective after Expresso launched '
-                                                'services as the second national operator in 2009',
-                                                'Expresso stopped investing in the sector, and it stopped providing '
-                                                'fixed telephony services in September 2018',
-                                                'in February 2021, the regulator ordered the company to relaunch fixed '
-                                                'telephony services, and so adhere to its license terms',
-                                                'By the following September it had signed up several thousand '
-                                                'customers.',
                                                 2022],
                                    'intl': [ 'landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC submarine '
                                              'cables providing connectivity from South Africa, numerous western '
@@ -15559,7 +14587,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -15630,22 +14658,13 @@ P1_CNTR = \
                                                'during 2021 the regulator resumed the process towards a 5G spectrum '
                                                'auction, which had been delayed owing to the onset of the covid-19 '
                                                'pandemic',
-                                               'in early 2021 Telekom Srbija agreed to provide Telenor Serbia with '
-                                               'access to its fiber network',
-                                               'Telenor (now operating as Yettel, and owned by the PPF Group), joined '
-                                               'the fixed market in November 2021, launching fiber-based fixed '
-                                               'broadband, fixed voice, and digital TV services',
-                                               'the operator is looking to bolster its returns by focusing more '
-                                               'strongly on the uptake of converged services in the market',
-                                               'these developments could lead to a significant shift in the telecom '
-                                               'market landscape.',
                                                2022],
                                   'intl': [0],
                                   'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -15696,8 +14715,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -15744,8 +14763,6 @@ P1_CNTR = \
                                                      'the theft of equipment and cabling, compounded by neglect, '
                                                      'mismanagement, and under investment, means that telcos continue '
                                                      'to operate in difficult conditions',
-                                                     'this has led to the demise of some telcos, including Comium and '
-                                                     'Smart Mobile',
                                                      'the telecom regulator has made efforts to improve the market, '
                                                      'including the liberalization of the international gateway and '
                                                      'regular checks on QoS',
@@ -15754,10 +14771,6 @@ P1_CNTR = \
                                                      'number of cheap packages as a response',
                                                      'the mobile sector has been the main driver of overall telecom '
                                                      'revenue',
-                                                     'there continues to be movement in the market, with Orange Group '
-                                                     "in mid-2016 having completed its acquisition of Bharti Airtel's "
-                                                     'local unit and the Gambian telco QCell being awarded a license '
-                                                     'to operate mobile services.',
                                                      2022],
                                         'intl': [ 'landing point for the ACE submarine cable linking to South Africa, '
                                                   'over 20 western African countries and Europe',
@@ -15767,7 +14780,7 @@ P1_CNTR = \
                                                   'production and supply chains globally',
                                                   'since 2020, some aspects of the telecom sector have experienced a '
                                                   'downturn, particularly in mobile device production',
-                                                  'progress towards 5G implementation has resumed, as well as upgrades '
+                                                  'progress toward 5G implementation has resumed, as well as upgrades '
                                                   'to infrastructure',
                                                   'consumer spending on telecom services has increased due to the '
                                                   'surge in demand for capacity and bandwidth',
@@ -15805,7 +14818,7 @@ P1_CNTR = \
                                      'coast': 193,
                                      'coord': ['1 22 N, 103 48 E'],
                                      'popul': 5921231,
-                                     'ports': {'container': 'Singapore (37,195,636) (2019)', 'seaport': 'Singapore'},
+                                     'ports': {'container': 'Singapore (37,470,000) (2021)', 'seaport': 'Singapore'},
                                      'region': 'Southeast Asia',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SG',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/singapore'},
@@ -15828,8 +14841,6 @@ P1_CNTR = \
                                                   'digital innovation',
                                                   'government oversees service providers and controls Internet content',
                                                   'well served by submarine cable and satellite connections',
-                                                  'major importer of integrated circuits and broadcasting equipment '
-                                                  'from China and exporter of same to SE Asian neighboring countries',
                                                   2021],
                                      'intl': [ 'landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn, '
                                                'PGASCOM, BSCS, IGG, B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, '
@@ -15843,7 +14854,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -15909,7 +14920,7 @@ P1_CNTR = \
                                                   'production and supply chains globally',
                                                   'since 2020, some aspects of the telecom sector have experienced a '
                                                   'downturn, particularly in mobile device production',
-                                                  'progress towards 5G implementation has resumed, as well as upgrades '
+                                                  'progress toward 5G implementation has resumed, as well as upgrades '
                                                   'to infrastructure',
                                                   'consumer spending on telecom services has increased due to the '
                                                   'surge in demand for capacity and bandwidth',
@@ -15970,38 +14981,21 @@ P1_CNTR = \
                                                   'provide nationwide cellular services',
                                                   'a few other companies provide services but do not have their own '
                                                   'networks',
-                                                  'fixed-line roughly 11 per 100 and mobile-cellular over 133 per 100 '
+                                                  'fixed-line roughly 11 per 100 and mobile-cellular over 135 per 100 '
                                                   'teledensity',
-                                                  2020],
-                                    'general': [ "Slovakia's incumbent telco Slovak Telekom retains its dominance of "
-                                                 'the fixed-line voice and broadband sector, though there is effective '
-                                                 'competition in the mobile market, where most investment is being '
-                                                 'channeled',
-                                                 'the main operators including O2 Slovakia and Orange Slovakia have '
-                                                 'expanded into offering bundled fixed and mobile services',
-                                                 'the broadband market has shown steady growth in recent years',
-                                                 'DSL remains the principal technology though in early 2020 it was '
-                                                 'eclipsed by the fast-developing fiber sector, which has been '
-                                                 'supported by sympathetic regulatory measures and considerable '
-                                                 'investment among operators',
+                                                  2021],
+                                    'general': [ 'the broadband market has shown steady growth in recent years',
+                                                 'fiber has become the principal platform for fixed broadband '
+                                                 'services, followed by DSL',
                                                  'the cable sector is a distant third in terms of subscribers, though '
                                                  'cable is particularly strong in urban areas',
-                                                 'the main telco UPC Slovakia has gained customers steadily in recent '
-                                                 'years (reaching 144,000 by the end of 2020) on the back of its '
-                                                 'widely available 1Gb/s service offering',
-                                                 "Slovakia's mobile market is served by four MNOs, two of which are "
-                                                 'the local units of operators with a pan-European reach (Deutsche '
-                                                 'Telekom and Orange Group), O2 Slovakia was once the local unit of '
-                                                 'Telef&oacute',
-                                                 'nica Group before being sold to an investment concern',
                                                  'mobile broadband access and content services are developing rapidly '
                                                  'in line with operators having upgraded their networks',
                                                  'the regulator prepared the groundwork for 5G services in line with '
                                                  'European Union requirements, with concessions in the 3.5GHz range '
                                                  'followed by those in the 700MHz, 900MHz and 1800MHz bands',
-                                                 'commercial services by the first quarter of 2021 were limited, '
-                                                 'licensees have invested in 5G infrastructure and also have '
-                                                 'considerable coverage obligations.',
+                                                 '5G was launched in late 2021 and is expected to cover about a fifth '
+                                                 'of the population by the end of 2022',
                                                  2021],
                                     'intl': [ '3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) '
                                               'are available',
@@ -16013,7 +15007,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -16021,7 +15015,7 @@ P1_CNTR = \
                                               'from home is still evident, and the spike in this area has seen growth '
                                               'opportunities for development of new tools and increased services',
                                               0],
-                                    'subs': {'bb': 1701561, 'fix': 648462, 'internet': 4917528, 'mob': 7399530},
+                                    'subs': {'bb': 1701561, 'fix': 577390, 'internet': 4917528, 'mob': 7362325},
                                     'tld': '.sk',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.sk'}},
                 'mcc': ['231'],
@@ -16036,6 +15030,7 @@ P1_CNTR = \
                             '23109',
                             '23110',
                             '23115',
+                            '23150',
                             '23199'],
                 'msisdn': ['421'],
                 'name': 'Slovakia',
@@ -16064,10 +15059,6 @@ P1_CNTR = \
                                                   'teledensity',
                                                   2020],
                                     'general': [ "Slovenia's telecom sector is dominated by four operators",
-                                                 'the incumbent telco Telekom Slovenije has faced increasing pressure '
-                                                 'in all sectors',
-                                                 'to address this, the company had diversified its business interests '
-                                                 'to reduce its reliance on telecom services',
                                                  'the mobile market has four MNOs and a small number of MVNOs, '
                                                  'operating in a country with a potential market of just over two '
                                                  'million people',
@@ -16081,14 +15072,14 @@ P1_CNTR = \
                                                  'DSL lost its dominance some years ago, being taken over by fiber as '
                                                  'subscribers are migrated to new fiber-based networks',
                                                  'fiber accounted for almost half of all fixed broadband connections '
-                                                 'by March 2022.',
+                                                 'by March 2022',
                                                  2022],
                                     'intl': [2016],
                                     'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -16100,7 +15091,7 @@ P1_CNTR = \
                                     'tld': '.si',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.si'}},
                 'mcc': ['293'],
-                'mccmnc': ['29310', '29311', '29320', '29321', '29340', '29341', '29364', '29370', '29386'],
+                'mccmnc': ['29310', '29311', '29320', '29321', '29322', '29340', '29341', '29364', '29370', '29386'],
                 'msisdn': ['386'],
                 'name': 'Slovenia',
                 'url': 'https://en.wikipedia.org/wiki/Slovenia'},
@@ -16122,16 +15113,15 @@ P1_CNTR = \
                                   'nameset': ['solomon islands', 'the solomon islands'],
                                   'tel': { 'code': '677',
                                            'domestic': [ 'fixed-line is just over 1 per 100 persons and '
-                                                         'mobile-cellular telephone density is about 71 per 100 '
+                                                         'mobile-cellular telephone density is about 69 per 100 '
                                                          'persons',
                                                          'domestic cable system to extend to key major islands',
-                                                         2019],
+                                                         2020],
                                            'general': [ 'mobile services have continually expanded in the Solomon '
                                                         'Islands',
                                                         '3G services became available in 2010, leading to an increase '
                                                         'in mobile broadband uptake',
-                                                        'Solomon Islands currently host three ISPs: Solomon Telekom, '
-                                                        'Bmobile and SATSOL',
+                                                        'Solomon Islands currently host three ISPs',
                                                         'fixed broadband services are largely limited to government, '
                                                         'corporations, and educational organizations in the Solomon '
                                                         'Islands',
@@ -16166,13 +15156,6 @@ P1_CNTR = \
                                                         'the capital Honiara, the main platform for mobile voice and '
                                                         'data services remains 3G, while in outlying areas GSM is '
                                                         'still an important technology for the provision of services',
-                                                        'geopolitical concerns have also come to the fore as the '
-                                                        'government pursues stronger ties with China',
-                                                        'this is a growing source of tension with Australia, which is '
-                                                        "the Solomon Islands' largest aid donor",
-                                                        'in April 2022, the country signed a security agreement with '
-                                                        'China, although the full details of the agreement have not '
-                                                        'been published.',
                                                         2022],
                                            'intl': [ 'landing points for the CSCS and ICNS2 submarine cables providing '
                                                      'connectivity from Solomon Islands, to PNG, Vanuatu and Australia',
@@ -16182,7 +15165,7 @@ P1_CNTR = \
                                                      'production and supply chains globally',
                                                      'since 2020, some aspects of the telecom sector have experienced '
                                                      'a downturn, particularly in mobile device production',
-                                                     'progress towards 5G implementation has resumed, as well as '
+                                                     'progress toward 5G implementation has resumed, as well as '
                                                      'upgrades to infrastructure',
                                                      'consumer spending on telecom services has increased due to the '
                                                      'surge in demand for capacity and bandwidth',
@@ -16224,8 +15207,9 @@ P1_CNTR = \
                                    'domestic': [ 'seven networks compete for customers in the mobile sector',
                                                  'some of these mobile-service providers offer fixed-lines and '
                                                  'Internet services',
-                                                 'fixed-line is 0 per 100 and mobile-cellular roughly 51 per 100',
-                                                 2019],
+                                                 'fixed-line is less than 1 per 100 and mobile-cellular roughly 56 per '
+                                                 '100',
+                                                 2020],
                                    'general': [ "Somalia's economic difficulties in recent years have made it "
                                                 'difficult for telcos and the government to sustain investment in '
                                                 'infrastructure',
@@ -16250,17 +15234,16 @@ P1_CNTR = \
                                                 'to provide mobile data and broadband services',
                                                 'the telecom market has flourished',
                                                 'tariffs are among the lowest in Africa, and new cable systems coming '
-                                                'on stream in the next few years (providing additional connectivity to '
-                                                'Asia and Europe), as well as planned investments from local operators '
-                                                "to bolster the country's national fiber backbone, will lead to "
-                                                'downward pressure on retail pricing',
+                                                'on stream in the next few years, as well as planned investments from '
+                                                "local operators to bolster the country's national fiber backbone, "
+                                                'will lead to downward pressure on retail pricing',
                                                 'on the consumer side, spending on telecoms services and devices are '
                                                 'under pressure from the financial effect of large-scale job losses '
                                                 'and the consequent restriction on disposable incomes as the remnants '
                                                 'of the impact of the Covid-19 pandemic remain and as global events, '
                                                 'such as the Russian invasion of Ukraine, continue to play out',
                                                 'the market is continuing a positive growth trajectory, supported by a '
-                                                'slow economic rebound in the country.',
+                                                'slow economic rebound in the country',
                                                 2022],
                                    'intl': [ 'landing points for the G2A, DARE1, PEACE, and EASSy fiber-optic '
                                              'submarine cable system linking East Africa, Indian Ocean Islands, the '
@@ -16270,7 +15253,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -16317,7 +15300,7 @@ P1_CNTR = \
                                         'coast': 2798,
                                         'coord': ['29 00 S, 24 00 E'],
                                         'popul': 57516665,
-                                        'ports': { 'container': 'Durban (2,769,869) (2019)',
+                                        'ports': { 'container': 'Durban (2,430,295) (2021)',
                                                    'seaport': 'Cape Town, Durban, Port Elizabeth, Richards Bay, '
                                                               'Saldanha Bay'},
                                         'region': 'Africa',
@@ -16335,18 +15318,11 @@ P1_CNTR = \
                                                       2020],
                                         'general': [ "South Africa's telecom sector boasts one of the most advanced "
                                                      'infrastructures on the continent',
-                                                     'there has been considerable investment from Telkom, Liquid '
-                                                     'Intelligence Technologies, Broadband InfraCo, and municipal '
-                                                     'providers as well as from mobile network operators, such as MTN '
-                                                     'and Vodacom, all aimed at improving network capabilities',
-                                                     'in mid-2021, Vodacom Group announced plans to set up its own '
-                                                     'InfraCo, merging its own fiber assets with those belonging to '
-                                                     'two recent acquisitions',
                                                      'the focus in recent years has been on back haul capacity and on '
                                                      'fiber and LTE networks to extend and improve internet service '
                                                      'connectivity',
-                                                     'with the ongoing migration to fiber, the incumbent telco Telkom '
-                                                     'expects to close down its copper network in 2024',
+                                                     'with the ongoing migration to fiber, the incumbent telco expects '
+                                                     'to close down its copper network in 2024',
                                                      'the mobile sector has developed strongly in recent years, partly '
                                                      'due to the poor availability and level of service of fixed-line '
                                                      'networks, which meant that many people had no alternative to '
@@ -16358,12 +15334,6 @@ P1_CNTR = \
                                                      'services on temporary licenses',
                                                      'six qualified bidders acquired spectrum, netting the regulator '
                                                      'ZAR14.4 billion in revenues',
-                                                     'in February 2022, Vumatel also acquired a 45% non-controlling '
-                                                     'stake in HeroTel, a local FttP player as the telco seeks to '
-                                                     'strengthen its foothold in the South African fiber market',
-                                                     'as of February 2022, HeroTel had passed 150,000 homes and '
-                                                     'businesses, with its internet services live in over 400 South '
-                                                     'African towns and cities',
                                                      'the market is shrugging off the impact of the pandemic, which '
                                                      'had a significant impact on production and supply chains '
                                                      'globally, and saw a slowdown in some network expansions, '
@@ -16375,7 +15345,7 @@ P1_CNTR = \
                                                      'communication as well as a tool for home-working, will offset '
                                                      'such pressures',
                                                      'in many markets the net effect should be a steady though reduced '
-                                                     'increase in subscriber growth.',
+                                                     'increase in subscriber growth',
                                                      2022],
                                         'intl': [ 'landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, '
                                                   'SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata '
@@ -16389,7 +15359,7 @@ P1_CNTR = \
                                                   'production and supply chains globally',
                                                   'since 2020, some aspects of the telecom sector have experienced a '
                                                   'downturn, particularly in mobile device production',
-                                                  'progress towards 5G implementation has resumed, as well as upgrades '
+                                                  'progress toward 5G implementation has resumed, as well as upgrades '
                                                   'to infrastructure',
                                                   'consumer spending on telecom services has increased due to the '
                                                   'surge in demand for capacity and bandwidth',
@@ -16473,14 +15443,14 @@ P1_CNTR = \
                                        'bound': {'bord': {'North Korea': 237}, 'len': 237},
                                        'capital': { 'coord': '37 33 N, 126 59 E',
                                                     'name': 'Seoul; note - Sejong, located some 120 km (75 mi) south '
-                                                            'of Seoul, is serving as an administrative capital for '
+                                                            'of Seoul, serves as an administrative capital for '
                                                             'segments of the South Korean Government',
                                                     'time_diff': 'UTC+9'},
                                        'coast': 2413,
                                        'coord': ['37 00 N, 127 30 E'],
                                        'popul': 51844834,
-                                       'ports': { 'container': 'Busan (21,992,001), Incheon (3,091,955), Kwangyang '
-                                                               '(2,378,337) (2019)',
+                                       'ports': { 'container': 'Busan (22,706,130), Incheon (3,353,781), Kwangyang '
+                                                               '(2,122,903) (2021)',
                                                   'seaport': 'Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, '
                                                              'Yeosu'},
                                        'region': 'Asia',
@@ -16494,7 +15464,7 @@ P1_CNTR = \
                                            'the republic of korea'],
                               'tel': { 'code': '82',
                                        'domestic': [ 'fixed-line approximately 47 per 100 and mobile-cellular services '
-                                                     '138 per 100 persons',
+                                                     '134 per 100 persons',
                                                      'rapid assimilation of a full range of telecommunications '
                                                      'technologies leading to a boom in e-commerce',
                                                      2020],
@@ -16502,8 +15472,6 @@ P1_CNTR = \
                                                     'telecom market maturity',
                                                     'it is also on the leading edge of the latest telecom technology '
                                                     'developments, including around 6G',
-                                                    "and it is host to two of the world's top equipment manufacturers "
-                                                    'in the form of Samsung and LG',
                                                     'with its highly urbanized, tech-savvy population, South Korea '
                                                     'also enjoys very high communication levels across all segments '
                                                     '&ndash',
@@ -16519,14 +15487,9 @@ P1_CNTR = \
                                                     "the government's Ultra Broadband convergence Network (UBcN) had "
                                                     'aimed to reach 50% adoption by the end of 2022, but that target '
                                                     'may be a few more years away',
-                                                    '<br />fixed-line teledensity is also at a very high level '
-                                                    'compared to most of the rest of the world, but it has been on a '
-                                                    'sharp decline from a rate of 60% ten years ago',
-                                                    'that fall has forced the incumbent telco KT Corp to diversify '
-                                                    'into other telecom segments (including investments in 5G and the '
-                                                    'development of 6G) as well as non-telecom sectors (such as '
-                                                    'autonomous vehicles) in an effort to transform itself into a '
-                                                    'digital platform company',
+                                                    'fixed-line teledensity is also at a very high level compared to '
+                                                    'most of the rest of the world, but it has been on a sharp decline '
+                                                    'from a rate of 60% ten years ago',
                                                     'on the mobile front, users have enthusiastically migrated from '
                                                     'one generation of mobile platform to the next as each iteration '
                                                     'becomes available',
@@ -16535,12 +15498,7 @@ P1_CNTR = \
                                                     'already well supported by 4G networks), with 30% of all '
                                                     'subscribers having already made the switch',
                                                     'part of the reason behind the rapid transition may be the '
-                                                    'subsidized handsets on offer from each of the MNOs and the MVNOs '
-                                                    '&ndash',
-                                                    'a practice that has become so widespread and cutthroat that the '
-                                                    'regulators have regularly stepped in and fined the companies '
-                                                    'billions for breaching the subsidy level and risking a price war '
-                                                    'that will ultimately damage the entire industry.',
+                                                    'subsidized handsets on offer from each of the MNOs and the MVNOs',
                                                     2022],
                                        'intl': [ 'landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG '
                                                  'North Asia Loop/REACH North Asia Loop, KJCN, NCP, and SJC2 submarine '
@@ -16552,7 +15510,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -16591,31 +15549,17 @@ P1_CNTR = \
                               'nameset': ['republic of south sudan', 'south sudan', 'the republic of south sudan'],
                               'tel': { 'code': '211',
                                        'domestic': [ 'fixed-line less than 1 per 100 subscriptions, mobile-cellular '
-                                                     'roughly 20 per 100 persons',
-                                                     2019],
-                                       'general': [ 'Following a referendum, oil-rich South Sudan seceded from Sudan '
+                                                     'roughly 12 per 100 persons',
+                                                     2020],
+                                       'general': [ 'following a referendum, oil-rich South Sudan seceded from Sudan '
                                                     'in 2011 and became an independent nation',
                                                     'having been deprived of investment for decades, it inherited one '
                                                     'of the least developed telecom markets in the world',
                                                     'there was once investment activity among mobile network operators '
-                                                    'who sought to expand their networks in some areas of the country, '
-                                                    'but by late 2016 both Zain South Sudan and MTN South Sudan had '
-                                                    'cut back their work forces in a bid to save on operating costs, '
-                                                    'while their falling subscriber bases have strained revenue',
-                                                    'Zain South Sudan in particular recorded considerable financial '
-                                                    'losses in 2015 and 2016',
+                                                    'who sought to expand their networks in some areas of the country',
                                                     'operators in the telecom sector placed themselves in survival '
                                                     'mode and are hoping for a political settlement and a return to '
                                                     'some degree of social stability',
-                                                    "MTN as reported its financial data on the basis of South Sudan's "
-                                                    'economy having been hyper inflationary since 2016',
-                                                    'although MTN and Zain reported a significant fall in the number '
-                                                    'of mobile subscribers in 2017, with a consequent severe decline '
-                                                    'in revenue, both saw subscriber bases increase in 2018 as they '
-                                                    'absorbed customers which had migrated from VivaCell after that '
-                                                    'company was closed down for failing to pay back taxes',
-                                                    'MTN South Sudan reported a 26.5% increase in the number of mobile '
-                                                    'subscribers in the year to September 2021',
                                                     'South Sudan has one of the lowest mobile penetration rates in '
                                                     'Africa',
                                                     'growth in the sector in coming years is premised on a resolution '
@@ -16625,24 +15569,21 @@ P1_CNTR = \
                                                     'fiber cables and on a national backbone network being in place',
                                                     'sophisticated infrastructure solutions are needed to reach the '
                                                     '80% of the population that live outside of the main urban centers',
-                                                    'with a negligible rate of bank account ownership, mobile payment '
-                                                    'and banking solutions also have a strong potential once a '
-                                                    'reliable mobile infrastructure is built',
-                                                    'some improvement has followed from the cable link completed by '
-                                                    'Liquid Telecom in February 2020 which connects Juba directly to '
-                                                    "the company's submarine landing station at Mombasa",
+                                                    'some improvement has followed from the cable link in February '
+                                                    "2020 which connects Juba directly to the company's submarine "
+                                                    'landing station at Mombasa',
                                                     "the cable was South Sudan's first direct international fiber "
                                                     'link, and has helped drive down the price of retail internet '
                                                     'services for residential and business customers',
                                                     'a second cable linking to the border with Kenya was completed in '
-                                                    'December 2021.',
+                                                    'December 2021',
                                                     2022],
                                        'intl': [2017],
                                        'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -16684,12 +15625,11 @@ P1_CNTR = \
                                  'coast': 4964,
                                  'coord': ['40 00 N, 4 00 W'],
                                  'popul': 47163418,
-                                 'ports': { 'container': 'Algeciras (5,125,385), Barcelona (3,324,650), Valencia '
-                                                         '(5,439,827) (2019)',
-                                            'seaport': '<em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa '
-                                                       'Cruz de Tenerife (in the Canary Islands)<em>Mediterranean '
-                                                       'Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, '
-                                                       'Valencia'},
+                                 'ports': { 'container': 'Algeciras (4,799,497), Barcelona (3,531,762), Valencia '
+                                                         '(5,604,478) (2021)',
+                                            'seaport': 'Atlantic Ocean: Bilbao, Huelva; Las Palmas, Santa Cruz de '
+                                                       'Tenerife (in the Canary Islands); Mediterranean Sea: '
+                                                       'Algeciras, Barcelona, Cartagena, Tarragona, Valencia'},
                                  'region': 'Europe',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ES',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/spain'},
@@ -16700,51 +15640,39 @@ P1_CNTR = \
                                                2020],
                                  'general': [ "Spain's telecom sector has tracked the performance of the overall "
                                               'economy, which has been one of the most heavily impacted by the '
-                                              'pandemic in all Europe',
+                                              'pandemic in all of Europe',
                                               'GDP dropped by 10.8% in 2020, while telecom revenue reversed the '
                                               "previous five years' positive results by falling 5.3%",
                                               'fixed-line services were the hardest hit, with revenue falling 13.7%',
                                               'mobile voice services did not fare much better, falling 4.7%',
                                               'this is despite relatively small shifts in the number of subscribers, '
-                                              'though the harsh lock down conditions resulted in a significant drop in '
+                                              'though the harsh lockdown conditions resulted in a significant drop in '
                                               'usage',
                                               'it had appeared that a return to growth might be possible in 2021 '
-                                              'following the lifting of the state of emergency in May, but the most '
-                                              'recent surge in cases and the continued restrictions on travel may once '
-                                              'again put the brakes on growth until at least 2022',
+                                              'following lifting the state of emergency in May, but the most recent '
+                                              'surge in cases and the continued restrictions on travel may once again '
+                                              'put the brakes on growth until at least 2022',
                                               "Spain's fixed-line broadband market managed to extend its decade-long "
                                               'pattern of steady growth into 2020, with a slight increase in demand '
                                               'caused by the need for fast internet access to support working and '
                                               'learning from home',
                                               "while most of Spain's larger telcos delivered negative revenue and "
-                                              'profit in 2020 &mdash',
-                                              'much in line with the overall sector &mdash',
-                                              'the up-and-comer M&aacute',
-                                              'sm&oacute',
-                                              'vil has signaled that it wants to play in the big league',
-                                              'in March 2021, it launched a friendly takeover bid (valued at around '
-                                              '&euro',
-                                              "2 billion) for Basque's fixed-line operator and MVNO Euskaltel",
-                                              "the deal was approved by Euskaltel's board as well as the competition "
-                                              'regulator',
-                                              'if successful, the deal will place the company in a better position to '
-                                              'challenge the dominance of the main telcos Telef&oacute',
-                                              'nica, Orange, and Vodafone.',
+                                              'profit in 2020',
                                               2021],
                                  'intl': [ 'landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, '
-                                           'SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FEA, '
-                                           'Balalink, ORVAL and PENBAL-5 submarine cables providing connectivity to '
-                                           'Europe, the Middle East, Africa, South America, Asia, Southeast Asia and '
-                                           'the US',
+                                           'SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FLAG '
+                                           'Europe-Asia (FEA), Balalink, ORVAL and PENBAL-5 submarine cables providing '
+                                           'connectivity to Europe, the Middle East, Africa, South America, Asia, '
+                                           'Southeast Asia and the US',
                                            'satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian '
-                                           'Ocean), NA Eutelsat',
+                                           'Ocean), Eutelsat',
                                            'tropospheric scatter to adjacent countries',
                                            2019],
                                  'note': [ 'the COVID-19 pandemic continues to have a significant impact on production '
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -16794,7 +15722,9 @@ P1_CNTR = \
                          '21436',
                          '21437',
                          '21438',
-                         '21451'],
+                         '21451',
+                         '214700',
+                         '214701'],
              'msisdn': ['34'],
              'name': 'Spain',
              'url': 'https://en.wikipedia.org/wiki/Spain'},
@@ -16810,7 +15740,7 @@ P1_CNTR = \
                                      'coast': 1340,
                                      'coord': ['7 00 N, 81 00 E'],
                                      'popul': 23187516,
-                                     'ports': {'container': 'Colombo (7,228,337) (2019)', 'seaport': 'Colombo'},
+                                     'ports': {'container': 'Colombo (7,250,000) (2021)', 'seaport': 'Colombo'},
                                      'region': 'Asia',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LK',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sri-lanka'},
@@ -16867,7 +15797,7 @@ P1_CNTR = \
                                                   'country eases back on its lock down measures and reduces travel '
                                                   'restrictions',
                                                   'it will also be boosted, come 2022, by the anticipated launch of '
-                                                  'commercial 5G mobile services.',
+                                                  'commercial 5G mobile services',
                                                   2021],
                                      'intl': [ 'landing points for the SeaMeWe -3,-5, Dhiraagu-SLT Submarine Cable '
                                                'Network, WARF Submarine Cable, Bharat Lanka Cable System and the Bay '
@@ -16879,7 +15809,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -16957,14 +15887,7 @@ P1_CNTR = \
                                               'though could slow from 2023 as the acute influences resulting the '
                                               'pandemic begin to wane',
                                               "the country's poor fixed-line infrastructure has helped the development "
-                                              "of mobile broadband services. Sudatel, Cameroon's Camtel, and "
-                                              "Chad-based SudaChad Telecom's planned investment, the WE-Africa-NA "
-                                              'terrestrial fibre link, will connect from Port-Sudan then on to Kribi '
-                                              'in Cameroon, passing through Chad',
-                                              'the new build aims to respond to rising data demand in all three '
-                                              'countries, particularly as usage has been accelerated since the onset '
-                                              'of the Covid-19 pandemic with digital and data services gaining '
-                                              'traction.',
+                                              'of mobile broadband services',
                                               2022],
                                  'intl': [ 'landing points for the EASSy, FALCON and SAS-1,-2, fiber-optic submarine '
                                            'cable systems linking Africa, the Middle East, Indian Ocean Islands and '
@@ -16975,7 +15898,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -17031,13 +15954,8 @@ P1_CNTR = \
                                                  'the only Dutch-speaking nation in South America, it has close '
                                                  'affinities with the Caribbean, and is a member of the Caribbean '
                                                  'Community and Common Market (CARICOM)',
-                                                 'the state-owned incumbent telco, Telesur, is the only provider of '
-                                                 'fixed-line and fixed broadband services in Suriname',
                                                  "the country's fixed-line infrastructure is reasonably reliable in "
                                                  'the more populated coastal region, though poor in the interior',
-                                                 'Telesur started building out a fiber network in Paramaribo 2013, and '
-                                                 'in June 2018, the company started with the rollout of the National '
-                                                 'Broadband Project (TNBP), which was completed in 2019',
                                                  'fixed teledensity and broadband penetration are slightly lower than '
                                                  'average for Latin America and the Caribbean, while mobile '
                                                  'penetration is significantly above the regional average and much '
@@ -17046,16 +15964,7 @@ P1_CNTR = \
                                                  'many Surinamese have up to three mobile lines with different '
                                                  'providers, which has pushed up penetration figures although the '
                                                  'number of subscribers has fallen in recent years as consumers have '
-                                                 'responded to economic pressures',
-                                                 'the mobile market supports only two players: Telesur (trading as '
-                                                 'TeleG), and Digicel (part of Digicel Group, a significant operator '
-                                                 'across the Caribbean). In early 2015 Digicel acquired the only other '
-                                                 'operator, Uniqa, which only had about 5,000 subscribers',
-                                                 'in January 2017 Digicel signed a deal to host the MVNO Transatel, '
-                                                 'which operates in a number of markets across the Caribbean and Latin '
-                                                 'America',
-                                                 'through a refinancing measure, Digicel in May 2020 reduced its debts '
-                                                 'by more than 20%. </div>',
+                                                 'responded to economic pressures </div>',
                                                  2021],
                                     'intl': [ 'landing point for the SG-SCS submarine cable linking South America with '
                                               'the Caribbean',
@@ -17065,7 +15974,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -17109,8 +16018,11 @@ P1_CNTR = \
                                                                 'low-altitude, polar-orbiting satellites',
                                                                 'it provides ground services to more satellites than '
                                                                 'any other facility in the world',
-                                                                2018],
-                                                  'general': ['modern, well-developed', 2018],
+                                                                2022],
+                                                  'general': [ 'Svalbard Undersea Cable System is a twin submarine '
+                                                               'communications cable which connects Svalbard to the '
+                                                               'mainland of Norway',
+                                                               2022],
                                                   'intl': [ '0',
                                                             'the Svalbard Undersea Cable System is a twin '
                                                             'communications cable that connects Svalbard to mainland '
@@ -17123,8 +16035,8 @@ P1_CNTR = \
                                                             'since 2020, some aspects of the telecom sector have '
                                                             'experienced a downturn, particularly in mobile device '
                                                             'production',
-                                                            'progress towards 5G implementation has resumed, as well '
-                                                            'as upgrades to infrastructure',
+                                                            'progress toward 5G implementation has resumed, as well as '
+                                                            'upgrades to infrastructure',
                                                             'consumer spending on telecom services has increased due '
                                                             'to the surge in demand for capacity and bandwidth',
                                                             'the crucial nature of telecom services as a tool for work '
@@ -17179,9 +16091,9 @@ P1_CNTR = \
                                                'different bands',
                                                'in the fixed-line broadband segment, the number of DSL subscribers is '
                                                'falling steadily as customers continue to migrate to fiber networks',
-                                               'there is also competition from HFC infrastructure, with the main cable '
-                                               'company Com Hem, now owned by Tele2, offering fiber-based broadband '
-                                               'and investing in services based on the DOCSIS3.1 standard',
+                                               'there is also competition from HFC infrastructure, offering '
+                                               'fiber-based broadband and investing in services based on the DOCSIS3.1 '
+                                               'standard',
                                                'this report assesses key aspects of the Swedish telecom market, '
                                                'providing data on fixed network services and profiling the main '
                                                'players',
@@ -17192,7 +16104,7 @@ P1_CNTR = \
                                                'operators and their strategies in a highly competitive environment',
                                                'in addition, the report considers the fixed and fixed-wireless '
                                                'broadband markets, including analyses of market dynamics and the main '
-                                               'operators, as well as providing subscriber forecasts.',
+                                               'operators, as well as providing subscriber forecasts',
                                                2021],
                                   'intl': [ 'landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, '
                                             'Eastern Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1, BCS '
@@ -17209,7 +16121,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -17308,30 +16220,26 @@ P1_CNTR = \
                                            'the swiss confederation'],
                               'tel': { 'code': '41',
                                        'domestic': [ 'fixed-line over 34 per 100 and mobile-cellular subscribership '
-                                                     'roughly 126 per 100 persons',
-                                                     'extensive cable and microwave radio relay networks',
+                                                     'roughly 126 per 100 persons: extensive cable and microwave radio '
+                                                     'relay networks',
                                                      2020],
                                        'general': [ 'Switzerland has one of the highest broadband penetration rates '
                                                     'within Europe, with a focus on services of at least 1Gb/s',
                                                     'this has been supported by sympathetic regulatory measures as '
-                                                    'well as by cooperative agreements between the main telcos '
-                                                    'Swisscom, Swiss Net Fire, and Sunrise UPC, and with local '
-                                                    'utilities',
+                                                    'well as by cooperative agreements between the main telcos, and '
+                                                    'with local utilities',
                                                     'fast fiber is complemented by 5G services reaching about 97% of '
                                                     'the population by early 2021',
                                                     'together, these networks will soon enable the telcos to provide '
                                                     'ultra-fast broadband services nationally, ahead of most other '
                                                     'countries in the region',
                                                     'the competitive mobile market is served by three network '
-                                                    'operators and a small number of MVNOs. Liberty Global acquired '
-                                                    'the MNO Sunrise in November 2020 and merged the business with its '
-                                                    'own unit UPC Switzerland, creating Sunrise UPC to contend '
-                                                    'effectively against Swisscom across the sector',
+                                                    'operators and a small number of MVNOs',
                                                     '5G services offered by the MNOs offer data rates of up to 2Gb/s, '
                                                     'and although various cantons have called a halt to extensions of '
                                                     '5G, citing health concerns, the regulator and environment '
                                                     'ministry have put in place measures aimed at ensuring that '
-                                                    'network rollouts can continue without disruption',
+                                                    'network roll outs can continue without disruption',
                                                     'with the migration of subscribers to LTE and 5G networks, the '
                                                     'MNOs have been able to begin closing down their GSM networks and '
                                                     'repurpose physical assets and spectrum',
@@ -17341,15 +16249,6 @@ P1_CNTR = \
                                                     'regulations on international voice roaming',
                                                     "this report presents an analysis of Switzerland's fixed-line "
                                                     'telecom market, including an assessment of network infrastructure',
-                                                    'it examines the regulatory environment and evaluates the '
-                                                    'strategies and performance of service providers including '
-                                                    'Swisscom and Sunrise UPC',
-                                                    'the report also assesses the mobile market, including new '
-                                                    'technologies and profiles of the main operators',
-                                                    'the report reviews the fixed and fixed-wireless broadband '
-                                                    'segments and the migration to a fiber-abased infrastructure',
-                                                    'subscriber forecasts to 2024 are provided covering a range of '
-                                                    'services.',
                                                     2021],
                                        'intl': [ 'satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian '
                                                  'Ocean)',
@@ -17358,7 +16257,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -17438,21 +16337,19 @@ P1_CNTR = \
                                                2020],
                                  'general': [ 'the years of civil war and destruction to infrastructure continue to '
                                               'have a toll on the telecoms sector in Syria',
-                                              'although over the years the major mobile service providers Syriatel and '
-                                              'MTN Syria have endeavored to restore and rebuild damaged networks, the '
-                                              'operating environment has been difficult',
+                                              'although over the years the major mobile service providers have '
+                                              'endeavored to restore and rebuild damaged networks, the operating '
+                                              'environment has been difficult',
                                               'following disputed demands for back taxes, MTN Group in August 2021 '
                                               'exited the country, after its majority stake had been transferred to '
                                               'judicial guardianship',
-                                              'this effectively meant that the mobile market became a monopoly, with '
-                                              'Syriatel as the only operator',
-                                              'in February 2022 the regulator awarded a third mobile license, to Wafa '
-                                              'Telecom, following a process which had been ongoing for many years',
+                                              'this effectively meant that the mobile market became a monopoly',
+                                              'in February 2022 the regulator awarded a third mobile license following '
+                                              'a process which had been ongoing for many years',
                                               'telecommunication services in Syria are highly regulated',
                                               'although urban areas can make use of the network built and maintained '
-                                              'by the government-owned incumbent Syrian Telecommunications '
-                                              'Establishment (STE), many underserved remote areas in the countryside '
-                                              'are obliged to rely on satellite communications',
+                                              'by the government-owned incumbent, many under served remote areas in '
+                                              'the countryside are obliged to rely on satellite communications',
                                               'the domestic and international fixed-line markets in Syria remain the '
                                               'monopoly of the STE, despite several initiatives over the years aimed '
                                               'at liberalizing the market',
@@ -17461,7 +16358,7 @@ P1_CNTR = \
                                               'infrastructure',
                                               'this may provide potential opportunities for growth once infrastructure '
                                               'and economic reconstruction efforts make headway, and civil issues '
-                                              'subside.',
+                                              'subside',
                                               2022],
                                  'intl': [ 'landing points for the Aletar, BERYTAR and UGART submarine cable '
                                            'connections to Egypt, Lebanon, and Cyprus',
@@ -17475,7 +16372,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -17500,8 +16397,8 @@ P1_CNTR = \
                                   'coast': 1566,
                                   'coord': ['23 30 N, 121 00 E'],
                                   'popul': 23580712,
-                                  'ports': { 'container': 'Kaohsiung (10,428,634), Taichung (1,793,966), Taipei '
-                                                          '(1,620,392) (2019)',
+                                  'ports': { 'container': 'Kaohsiung (9,864,448), Taichung (1,979,222), Taipei '
+                                                          '(2,091,132) (2021)',
                                              'seaport': 'Keelung (Chi-lung), Kaohsiung, Hualian, Taichung'},
                                   'region': 'Southeast Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TW',
@@ -17522,10 +16419,10 @@ P1_CNTR = \
                                                'industrial development plans',
                                                'Taiwan has one of the highest teledensities in the region',
                                                'while fixed-line subscriber numbers are trending downwards, the rate '
-                                               'of decline has been slowed by the major fixed-line provider (Chunghwa '
-                                               'Telecom) investing strongly in building out a widespread fiber network '
-                                               'to allow customers to maintain a terrestrial voice connection as part '
-                                               'of a fixed broadband package',
+                                               'of decline has been slowed by the major fixed-line provider investing '
+                                               'strongly in building out a widespread fiber network to allow customers '
+                                               'to maintain a terrestrial voice connection as part of a fixed '
+                                               'broadband package',
                                                "fiber is the dominant platform in Taiwan's fixed broadband market",
                                                'cable services have retained an unusually strong following thanks to '
                                                'the success of cable providers in delivering competitive cable TV and '
@@ -17542,11 +16439,8 @@ P1_CNTR = \
                                                'will drive increased usage and ARPU',
                                                'fierce competition following the launch of 4G saw the opposite happen, '
                                                'with price wars causing telco revenues to fall instead',
-                                               'it is possible that the same problem can be avoided with 5G, since the '
-                                               'three smaller operators have recently been absorbed into the major '
-                                               'providers Chunghwa Telecom, Taiwan Mobile, and Far EasTone',
-                                               'allowing Taiwan to reach the target of 50% of subscribers on 5G by '
-                                               'mid-2023.',
+                                               'it is possible that the same problem can be avoided with 5G allowing '
+                                               'Taiwan to reach the target of 50% of subscribers on 5G by mid-2023',
                                                2022],
                                   'intl': [ 'landing points for the EAC-C2C, APCN-2, FASTER, SJC2, TSE-1, TPE, APG, '
                                             'SeaMeWe-3, FLAG North Asia Loop/REACH North Asia Loop, HKA, NCP, and PLCN '
@@ -17558,7 +16452,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -17619,8 +16513,8 @@ P1_CNTR = \
                                                     'while mobile cellular subscribership, aided by competition among '
                                                     'multiple operators, has expanded',
                                                     'coverage now extends to all major cities and towns',
-                                                    'fixed-line over 5 per 100 and mobile-cellular over 111 per 100',
-                                                    2019],
+                                                    'fixed-line over 5 per 100 and mobile-cellular over 121 per 100',
+                                                    2020],
                                       'general': [ 'the nation of Tajikistan has had to struggle through a further two '
                                                    'years of economic hardship following the onset of the Covid-19 '
                                                    'pandemic',
@@ -17631,7 +16525,7 @@ P1_CNTR = \
                                                    'languish far behind the mobile sector in terms of teledensity and '
                                                    'penetration',
                                                    'with only around 6,000 fixed broadband customers (0.07% '
-                                                   'penetration), there would appear to be massive growth potential '
+                                                   'penetration), there would appear to be massive growth potential, '
                                                    'but the limited fixed line infrastructure in the country suggests '
                                                    "there's little likelihood of that occurring any time soon",
                                                    "the size of Tajikistan's mobile market dwarfs the fixed line "
@@ -17639,15 +16533,14 @@ P1_CNTR = \
                                                    'with a number of private sector companies active in the mobile '
                                                    'market, there been more commitment to investment in network '
                                                    'upgrades and expansion',
-                                                   'three MNOs, MegaFon, Tcell, and ZET Mobile have all launched '
-                                                   'commercial 5G services, initially in areas of the capital city '
-                                                   'Dushanbe',
+                                                   'three MNOs have all launched commercial 5G services, initially in '
+                                                   'areas of the capital city Dushanbe',
                                                    'the move towards higher speed mobile services should further '
                                                    'underpin the growth in the nascent mobile broadband market, which '
                                                    'is still estimated to be at a relatively low penetration level of '
                                                    '42% (at least relative to most other Asian nations) but is '
                                                    'predicted to be a strong compound annual growth rate of more than '
-                                                   '8% for at least the next five years.',
+                                                   '8% for at least the next five years',
                                                    2021],
                                       'intl': [ 'linked by cable and microwave radio relay to other CIS republics and '
                                                 'by leased connections to the Moscow international gateway switch',
@@ -17659,8 +16552,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -17714,33 +16607,38 @@ P1_CNTR = \
                                     'domestic': [ 'fixed-line telephone network inadequate with less than 1 connection '
                                                   'per 100 persons',
                                                   'mobile-cellular service, aided by multiple providers, is increasing '
-                                                  'rapidly and exceeds 82 telephones per 100 persons',
+                                                  'rapidly and exceeds 86 telephones per 100 persons',
                                                   'trunk service provided by open-wire, microwave radio relay, '
                                                   'tropospheric scatter, and fiber-optic cable',
                                                   'some links being made digital',
-                                                  2019],
-                                    'general': [ "Tanzania's telecom services are being developed to reach parity with "
-                                                 'more advanced networks from neighboring countries such as Kenya and '
-                                                 "fierce competition exists amongst Tanzania's 5 major mobile network "
-                                                 'operators',
-                                                 'one fixed-line operator with competition in mobile networks',
-                                                 'high tariffs on telecom',
-                                                 'mobile use remains popular, with the government subsidizing '
-                                                 'expansion of mobile networks into rural communities',
-                                                 'most mobile networks rely on older 2G and 3G technology with 4G/LTE '
-                                                 'service available in urban centers',
-                                                 'the government is currently testing 5G technology and plans to begin '
-                                                 'rolling out 5G service in 2024',
-                                                 'the government continues to improve rural telecom infrastructure '
-                                                 'including work on a national fiber backbone network connecting the '
-                                                 'entire population',
+                                                  2020],
+                                    'general': [ "Tanzania's telecom sector enjoys effective competition, particularly "
+                                                 'in the mobile segment',
+                                                 'the government has encouraged foreign participation to promote '
+                                                 'economic growth and social development, and policy reforms have led '
+                                                 'to the country having one of the most liberal telecom sectors in '
+                                                 'Africa',
+                                                 'the government has sought to increase broadband penetration by a '
+                                                 'range of measures, including the reduction in VAT charged on the '
+                                                 'sale of smartphones and other devices, and reductions in the cost of '
+                                                 'data',
+                                                 'the MNOs became the leading ISPs following the launch of mobile '
+                                                 'broadband services based on 3G and LTE technologies',
+                                                 'operators are hoping for revenue growth in the mobile data services '
+                                                 'market, given that the voice market is almost entirely prepaid',
+                                                 'the MNOs have invested in network upgrades, which in turn has '
+                                                 'supported m-mobile data use, as well as m-money transfer services '
+                                                 'and banking services. Together, these have become a fast-developing '
+                                                 'source of revenue',
+                                                 'the landing of the first international submarine cables in the '
+                                                 'country some years ago revolutionized the telecom market, which up '
+                                                 'to that point had entirely depended on expensive satellite '
+                                                 'connections',
+                                                 'the government aims to complete a national fiber backbone network, '
+                                                 'having signed an agreement',
                                                  'in late 2021, the government announced plans to extend the national '
                                                  'backbone network from about 8,300km to 15,000km by 2023, and to '
                                                  'provide ongoing connectivity to more countries in the region',
-                                                 'domestically, Vodacom Tanzania contracted Eutelsat to provide '
-                                                 'satellite broadband services to areas of Tanzania which lack '
-                                                 'connectivity, while World Mobile has launched a balloon-based '
-                                                 'broadband network in Zanzibar.',
                                                  2022],
                                     'intl': [ 'landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS '
                                               'fiber-optic submarine cable system linking East Africa with the Middle '
@@ -17752,7 +16650,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -17793,7 +16691,7 @@ P1_CNTR = \
                                     'coast': 3219,
                                     'coord': ['15 00 N, 100 00 E'],
                                     'popul': 69648117,
-                                    'ports': { 'container': 'Laem Chabang (8,106,928) (2019)',
+                                    'ports': { 'container': 'Laem Chabang (8,335,384) (2021)',
                                                'seaport': 'Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si '
                                                           'Racha'},
                                     'region': 'Southeast Asia',
@@ -17826,15 +16724,6 @@ P1_CNTR = \
                                                  'further auctions of spectrum in the 700MHz band (being repurposed '
                                                  'from digital TV broadcasting), and in the 3.6GHz range will further '
                                                  'improve network capacity',
-                                                 'the announcement of the planned merger of True and DTAC, the '
-                                                 "country's second and third largest mobile network operators, holds "
-                                                 "the potential to significantly alter the mobile market's dynamics",
-                                                 'if approved, the new entity would displace the current market leader '
-                                                 'AIS',
-                                                 'additionally, this could risk establishing an unofficial duopoly in '
-                                                 'the market (despite the presence of the far smaller National Telecom '
-                                                 'and other players such as MVNOs) posing a risk to consumer choice '
-                                                 'and benefits',
                                                  'in the wire line segment, the decline in fixed-line penetration is '
                                                  'expected to continue as subscribers migrate to mobile networks for '
                                                  'voice and data services',
@@ -17850,17 +16739,13 @@ P1_CNTR = \
                                                  'there is also strong interest from the government, as well as '
                                                  'private vendors, in establishing Thailand as a data center hub to '
                                                  'serve the region',
-                                                 'recent developments include Amazon tapping Thailand for a data '
-                                                 'center build to support its hyperscale infrastructure in the Asia '
-                                                 "Pacific region, as well as Telehouse's facility set for launch in "
-                                                 '2023',
                                                  'the size, capacity and spread of existing data centers in the '
                                                  'Greater Mekong Subregion (GMS) outside of Thailand is small',
                                                  'Thailand retains some advantages to attract investment, including '
                                                  'improved fiber connectivity and international bandwidth',
                                                  'increasing submarine capacity, such as the SJC2 cable to come online '
                                                  "later in 2022, will considerably improve Thailand's potential as a "
-                                                 'regional hub.',
+                                                 'regional hub',
                                                  2022],
                                     'intl': [ 'landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, MCT '
                                               'and AAG submarine cable systems providing links throughout Asia, '
@@ -17871,7 +16756,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',
@@ -17910,7 +16795,7 @@ P1_CNTR = \
                                        'coast': 3542,
                                        'coord': ['24 15 N, 76 00 W'],
                                        'popul': 355608,
-                                       'ports': { 'container': 'Freeport (1,396,568) (2019)',
+                                       'ports': { 'container': 'Freeport (1,642,780) (2021)',
                                                   'seaport': 'Freeport, Nassau, South Riding Point'},
                                        'region': 'Central America and the Caribbean',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BS',
@@ -17920,31 +16805,13 @@ P1_CNTR = \
                                            'the bahamas',
                                            'the commonwealth of the bahamas'],
                               'tel': { 'code': '1242',
-                                       'domestic': ['23 per 100 fixed-line, 109 per 100 mobile-cellular', 2019],
+                                       'domestic': ['23 per 100 fixed-line, 119 per 100 mobile-cellular', 2020],
                                        'general': [ 'the telecom sector has seen a decline in subscriber numbers '
                                                     '(particularly for prepaid mobile services the mainstay of short '
                                                     'term visitors) and revenue',
                                                     'fixed and mobile broadband services are two areas that have '
                                                     'benefited from the crisis as employees and students have resorted '
                                                     'to working from home',
-                                                    "one major casualty may be the region's second largest telco "
-                                                    'operator, Digicel',
-                                                    'the company filed for bankruptcy in the US in April 2020',
-                                                    'it continues to operate in all of its Caribbean markets as it '
-                                                    'seeks to refinance billions of dollars of debt',
-                                                    'the other major telco, regional incumbent Cable & Wireless '
-                                                    'Communications (CWC), is experiencing similar drops in subscriber '
-                                                    'numbers and revenue',
-                                                    'CWC is expanding and enhancing its fixed and mobile networks in '
-                                                    'many of the countries it serves around the Caribbean, despite '
-                                                    'many locations being small islands with very small populations',
-                                                    'one area of the telecom market that is not prepared for growth is '
-                                                    '5G mobile',
-                                                    'governments, regulators, and even the mobile network operators '
-                                                    'have shown that they have not been investing in 5G opportunities '
-                                                    'at the present time',
-                                                    'network expansion and enhancements remain concentrated around '
-                                                    'improving LTE coverage.',
                                                     2021],
                                        'intl': [ 'landing points for the ARCOS-1, BICS, Bahamas 2-US, and BDSN '
                                                  'fiber-optic submarine cables that provide links to South and Central '
@@ -17957,7 +16824,7 @@ P1_CNTR = \
                                                  'production and supply chains globally',
                                                  'since 2020, some aspects of the telecom sector have experienced a '
                                                  'downturn, particularly in mobile device production',
-                                                 'progress towards 5G implementation has resumed, as well as upgrades '
+                                                 'progress toward 5G implementation has resumed, as well as upgrades '
                                                  'to infrastructure',
                                                  'consumer spending on telecom services has increased due to the surge '
                                                  'in demand for capacity and bandwidth',
@@ -17996,25 +16863,12 @@ P1_CNTR = \
                                                     'company and mobile-cellular teledensity nearly 111 per 100 '
                                                     'persons',
                                                     2020],
-                                      'general': [ "Gambia's telecom market is dominated by the incumbent telco "
-                                                   'Gamtel, which retains a monopoly on fixed-line telephony services',
-                                                   'there are five mobile networks providing effective competition, '
-                                                   'though Giraffe Telecom was only licensed in January 2022 and has '
-                                                   'not yet been allocated a frequency',
-                                                   'the market leader is Africell, with about 62% of the market, while '
-                                                   'Comium and QCell compete closely for second and third place',
-                                                   "Gamtel's mobile unit Gamcel is by far the smallest network, having "
-                                                   'suffered from low investment in recent years',
-                                                   'Comium has also suffered from financial difficulties: its failure '
-                                                   'to pay accumulated fees resulted in the government having sought a '
-                                                   'temporary suspension of its services in mid-2021',
+                                      'general': [ "Gambia's telecom market has five mobile networks providing "
+                                                   'effective competition',
                                                    'mobile subscriptions are well above the African average, itself a '
                                                    'testament to the poor condition of the fixed-line infrastructure '
                                                    'and the lack of availability of fixed services in many rural areas '
                                                    'of the country',
-                                                   'the incumbent has a relatively well-developed national fiber '
-                                                   'backbone network, low fixed-line subscriptions have hindered '
-                                                   'internet usage',
                                                    'there are only four licensed ISPs, which are small networks '
                                                    'serving local areas, and so competition is minimal',
                                                    'their limited services are complemented by the fixed-wireless '
@@ -18022,8 +16876,6 @@ P1_CNTR = \
                                                    'the government has embarked on a National Broadband Network '
                                                    'program aimed at closing the digital divide affecting many parts '
                                                    'of the country',
-                                                   'Gamtel launched services based on this network in late 2019, '
-                                                   'though on a limited scale',
                                                    'despite efforts to improve internet connectivity, the country '
                                                    'ranks among the lowest globally in terms of digital readiness.',
                                                    2022],
@@ -18035,8 +16887,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -18061,7 +16913,7 @@ P1_CNTR = \
                                 'coast': 56,
                                 'coord': ['8 00 N, 1 10 E'],
                                 'popul': 8492333,
-                                'ports': {'seaport': 'Kpeme, Lome'},
+                                'ports': {'container': 'Lome (1,962,304) (2021)', 'seaport': 'Kpeme, Lome'},
                                 'region': 'Africa',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TG',
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/togo'},
@@ -18085,7 +16937,7 @@ P1_CNTR = \
                                           'and supply chains globally',
                                           'since 2020, some aspects of the telecom sector have experienced a downturn, '
                                           'particularly in mobile device production',
-                                          'progress towards 5G implementation has resumed, as well as upgrades to '
+                                          'progress toward 5G implementation has resumed, as well as upgrades to '
                                           'infrastructure',
                                           'consumer spending on telecom services has increased due to the surge in '
                                           'demand for capacity and bandwidth',
@@ -18135,7 +16987,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -18166,13 +17018,13 @@ P1_CNTR = \
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tonga'},
                         'nameset': ['kingdom of tonga', "pule'anga fakatu'i 'o tonga", 'the kingdom of tonga', 'tonga'],
                         'tel': { 'code': '676',
-                                 'domestic': [ 'fixed-line 6 per 100 persons and mobile-cellular teledensity 59 '
+                                 'domestic': [ 'fixed-line 7 per 100 persons and mobile-cellular teledensity 59 '
                                                'telephones per 100',
                                                'fully automatic switched network',
-                                               2019],
-                                 'general': [ 'high speed Internet provided by 3 MNOs, has subsequently allowed for '
-                                              'better health care services, faster connections for education and '
-                                              'growing e-commerce services',
+                                               2020],
+                                 'general': [ 'high speed Internet provided by 3 Mobile Network Operators, has '
+                                              'subsequently allowed for better health care services, faster '
+                                              'connections for education and growing e-commerce services',
                                               'in 2018 new 4G LTE network',
                                               'fixed-line teledensity has dropped given mobile subscriptions',
                                               "mobile technology dominates given the island's geography",
@@ -18189,7 +17041,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -18250,7 +17102,7 @@ P1_CNTR = \
                                                          'since 2020, some aspects of the telecom sector have '
                                                          'experienced a downturn, particularly in mobile device '
                                                          'production',
-                                                         'progress towards 5G implementation has resumed, as well as '
+                                                         'progress toward 5G implementation has resumed, as well as '
                                                          'upgrades to infrastructure',
                                                          'consumer spending on telecom services has increased due to '
                                                          'the surge in demand for capacity and bandwidth',
@@ -18315,11 +17167,9 @@ P1_CNTR = \
                                                 'improve Internet connectivity to underserved areas',
                                                 'operators built extensive LTE infrastructure in 2019, and continue to '
                                                 'discuss plans for future 5G networks and services',
-                                                "People's Republic of China (PRC) company Huawei sold equipment to "
-                                                "operators for Tunisia's LTE networks",
                                                 'one operator has signed an agreement to pursue nano-satellite '
                                                 'launches in 2023',
-                                                'Internet censorship abolished, though concerns of government '
+                                                'internet censorship abolished, though concerns of government '
                                                 'surveillance remain',
                                                 'legislation passed in 2017 supporting e-commerce and active '
                                                 'e-government',
@@ -18339,7 +17189,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -18372,8 +17222,8 @@ P1_CNTR = \
                                   'coast': 7200,
                                   'coord': ['39 00 N, 35 00 E'],
                                   'popul': 83047706,
-                                  'ports': { 'container': 'Ambarli (3,104,882), Mersin (Icel) (1,854,312), Izmet '
-                                                          '(1,715,193) (2019)',
+                                  'ports': { 'container': 'Ambarli (2,942,550), Mersin (Icel) (2,106,937), Izmet '
+                                                          '(1,967,946) (2021)',
                                              'seaport': 'Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), '
                                                         'Mersin (Icel), Limani, Yarimca'},
                                   'region': 'Middle East',
@@ -18401,13 +17251,10 @@ P1_CNTR = \
                                                'with the successful launch of the Turksat 5A and 5B satellites in '
                                                '2021, the country has vastly increased its bandwidth capacity',
                                                'these satellites will be joined by the Turksat 6A in early 2023',
-                                               "the country's telcos have invested in fiber infrastructure, with "
-                                               'Vodafone Turkey having trialed a 1Tb/s service in late 2021 to support '
-                                               'its 5G network back haul and improve the quality of its fixed '
-                                               'infrastructure',
-                                               'deployment of fiber-based broadband networks are well established, '
-                                               'with fiber accounting for 26.7% of all fixed broadband connections as '
-                                               'of early 2022',
+                                               "the country's telcos have invested in fiber infrastructure",
+                                               '<br />deployment of fiber-based broadband networks are well '
+                                               'established, with fiber accounting for 26.7% of all fixed broadband '
+                                               'connections as of early 2022',
                                                'the DSL sector still dominates, accounting for about 63% of '
                                                'connections, but its share is steadily declining, year-on-year, while '
                                                'the number of fiber connections has grown strongly',
@@ -18416,7 +17263,7 @@ P1_CNTR = \
                                                'area of focus for the emerging digital economy and the transformation '
                                                'to a knowledge-based economy',
                                                "Turkey's National Smart Cities Strategy and Action Plan runs through "
-                                               'to 2023.',
+                                               'to 2023',
                                                2022],
                                   'intl': [ 'landing points for the SeaMeWe-3 & -5, MedNautilus Submarine System, '
                                             'Turcyos-1 & -2 submarine cables providing connectivity to Europe, Africa, '
@@ -18428,7 +17275,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -18465,9 +17312,9 @@ P1_CNTR = \
                                'nameset': ['turkmenistan'],
                                'tel': { 'code': '993',
                                         'domestic': [ 'fixed-line nearly 12 per 100 and mobile-cellular teledensity is '
-                                                      'about 163 per 100 persons',
+                                                      'about 155 per 100 persons',
                                                       'first telecommunication satellite was launched in 2015',
-                                                      2019],
+                                                      2020],
                                         'general': [ 'the nation of Turkmenistan, which rivals only North Korea for '
                                                      'its isolationism, continues to keep its telecom sector along '
                                                      'with the broader populace under tight control',
@@ -18475,13 +17322,13 @@ P1_CNTR = \
                                                      'rankings for press and internet freedom in the most recent '
                                                      'report from Reporters Without Borders',
                                                      'most social networks in the country are blocked, although locals '
-                                                     'do have access to the government-developed Biz Byarde (We Are '
-                                                     'Here) platform released in 2019',
+                                                     'do have access to the government-developed platform released in '
+                                                     '2019',
                                                      'all internet users, however, need to identify themselves before '
                                                      'logging on, and strict censorship over what can be viewed is in '
                                                      'force',
                                                      'the end result is that Turkmenistan has one of the lowest '
-                                                     'penetration rates for internet access in the world.',
+                                                     'penetration rates for internet access in the world',
                                                      2022],
                                         'intl': [ 'linked by fiber-optic cable and microwave radio relay to other CIS '
                                                   'republics and to other countries by leased connections to the '
@@ -18494,7 +17341,7 @@ P1_CNTR = \
                                                   'production and supply chains globally',
                                                   'since 2020, some aspects of the telecom sector have experienced a '
                                                   'downturn, particularly in mobile device production',
-                                                  'progress towards 5G implementation has resumed, as well as upgrades '
+                                                  'progress toward 5G implementation has resumed, as well as upgrades '
                                                   'to infrastructure',
                                                   'consumer spending on telecom services has increased due to the '
                                                   'surge in demand for capacity and bandwidth',
@@ -18531,8 +17378,8 @@ P1_CNTR = \
                                            'tel': { 'code': '1649',
                                                     'domestic': [ 'full range of services available',
                                                                   'GSM wireless service available',
-                                                                  'fixed-line teledensity roughly 11 per 100 persons',
-                                                                  2019],
+                                                                  'fixed-line teledensity roughly 10 per 100 persons',
+                                                                  2020],
                                                     'general': [ 'fully digital system with international direct '
                                                                  'dialing',
                                                                  'broadband access',
@@ -18552,7 +17399,7 @@ P1_CNTR = \
                                                               'since 2020, some aspects of the telecom sector have '
                                                               'experienced a downturn, particularly in mobile device '
                                                               'production',
-                                                              'progress towards 5G implementation has resumed, as well '
+                                                              'progress toward 5G implementation has resumed, as well '
                                                               'as upgrades to infrastructure',
                                                               'consumer spending on telecom services has increased due '
                                                               'to the surge in demand for capacity and bandwidth',
@@ -18589,9 +17436,9 @@ P1_CNTR = \
                          'nameset': ['tuvalu'],
                          'tel': { 'code': '688',
                                   'domestic': [ 'radiotelephone communications between islands',
-                                                'fixed-line teledensity over 17 per 100 and mobile-cellular over 70 '
+                                                'fixed-line teledensity over 17 per 100 and mobile-cellular over 76 '
                                                 'per 100',
-                                                2019],
+                                                2020],
                                   'general': [ 'internal communications needs met',
                                                'small global scale of over 11,000 people on 9 inhabited islands',
                                                'mobile subscriber penetration about 40% and broadband about 10% '
@@ -18606,7 +17453,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -18647,34 +17494,17 @@ P1_CNTR = \
                                                 2020],
                                   'general': [ "a series of reforms within Uganda's telecom sector have provided the "
                                                'country with one of the most competitive markets in the region',
-                                               'the entry of MTN Uganda as the second national operator to compete '
-                                               'with Uganda Telecom in all telecom sectors fundamentally improved the '
-                                               'availability and quality of services offered to end-users',
-                                               'regulatory reforms in recent years have meant that Lycamobile Uganda '
-                                               'and Airtel Uganda also now hold National Telecommunications Operator '
-                                               'licenses',
                                                "in line with the regulator's licensing requirements by which "
-                                               'Uganda-based companies should be broadly owned by Ugandans by '
-                                               'mid-2022, MTN Group carried out a partial listing on the Uganda Stock '
-                                               'Exchange in December 2021',
-                                               'Airtel is expected to follow suit later in 2022',
-                                               'a simplified and converged licensing regime has significantly reduced '
-                                               'barriers to market entry and increased competition, but this has also '
-                                               'led to price wars which have dented operator revenue',
-                                               'heightened competitive pressures against the backdrop of a weak '
-                                               'consumer profile have worsened operating conditions, prompting the '
-                                               'exit of Africell in 2021 while the financially strained Smile Telecom '
-                                               'has pinned its hopes on a restructuring plan aimed at stabilizing in '
-                                               'the challenging market',
+                                               'Uganda-based companies should be broadly owned by Ugandans by mid-2022',
                                                'fixed-line infrastructure remains poor, with low penetration, and as a '
                                                'result fixed-line broadband penetration is also particularly low',
                                                'consumers have largely depended on mobile infrastructure to provide '
                                                'voice and broadband services',
                                                'there is sufficient capacity with LTE infrastructure to match data '
                                                'demand during the next few years',
-                                               'MTN Uganda has anticipated the migration to 5G, having held trials in '
+                                               'Uganda has anticipated the migration to 5G, having held trials in '
                                                'early 2020 though the roll out of 5G is not expected until later in '
-                                               '2022.',
+                                               '2022',
                                                2022],
                                   'intl': [ 'satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat',
                                             'analog and digital links to Kenya and Tanzania',
@@ -18683,7 +17513,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -18749,19 +17579,6 @@ P1_CNTR = \
                                                 'growth in the mobile sector is flat, while the market waits for the '
                                                 'regulator and the three dominant MNOs to move towards making faster '
                                                 'and more powerful services available for public consumption',
-                                                "most of the action with Ukraine's telecom market involves "
-                                                'consolidation or, in the case of Vodafone Ukraine, a role-reversal',
-                                                'first up was telecommunications service provider Datagroup, which '
-                                                'completed its acquisition of cableco Volia in June 2021',
-                                                'the combined entity now operates one of the largest fiber networks in '
-                                                'the country, with a reach of more than four million households',
-                                                'in August 2021, Vodafone Ukraine reversed its position from 2015 when '
-                                                'it had sold its fixed internet and fixed telephony operations in '
-                                                'Odessa and Kyiv to Vega',
-                                                'the mobile operator instead acquired 99.9% of Vega, as well as the '
-                                                'cableco Cable TV-Finance',
-                                                'Vodafone Ukraine broadcast has become a major provider rather than '
-                                                "one of the country's three major MNOs.",
                                                 2021],
                                    'intl': [ 'landing point for the Kerch Strait Cable connecting Ukraine to Russia',
                                              '2 new domestic trunk lines are a part of the fiber-optic TAE system and '
@@ -18776,7 +17593,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -18805,6 +17622,7 @@ P1_CNTR = \
                            '25550',
                            '25567',
                            '25568',
+                           '255701',
                            '25599'],
                'msisdn': ['380'],
                'name': 'Ukraine',
@@ -18820,7 +17638,7 @@ P1_CNTR = \
                                                 'coast': 1318,
                                                 'coord': ['24 00 N, 54 00 E'],
                                                 'popul': 9915803,
-                                                'ports': { 'container': 'Dubai Port (14,111,000) (2019)',
+                                                'ports': { 'container': 'Dubai Port (13,742,000) (2021)',
                                                            'seaport': "Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor "
                                                                       'Fakkan (Khawr Fakkan) (Sharjah), Mubarraz '
                                                                       "Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' "
@@ -18836,15 +17654,9 @@ P1_CNTR = \
                                                               'fixed-line roughly 24 per 100 and mobile-cellular '
                                                               'nearly 186 per 100',
                                                               2020],
-                                                'general': [ 'the UAE has a strong mobile market, dominated by '
-                                                             'Etisalat and du',
-                                                             'both are majority-owned by the government',
-                                                             'in a bid to attract additional foreign investment, it '
-                                                             'was resolved in early 2021 that the stake held by '
-                                                             'foreigners in the two companies could be increased',
-                                                             'Etisalat and du have deployed LTE networks providing '
-                                                             'national coverage, while the 5G penetration rate is the '
-                                                             'second highest globally after China',
+                                                'general': [ 'the UAE has a strong mobile market',
+                                                             'while the 5G penetration rate is the second highest '
+                                                             'globally after China',
                                                              'this has underpinned growth in the mobile broadband '
                                                              'sector, and has enabled the strong development in the '
                                                              'take-up of rich content and applications, as well as '
@@ -18869,7 +17681,7 @@ P1_CNTR = \
                                                              'cable infrastructure, and so improve direct connectivity '
                                                              'to Europe, South East Asia, and Africa',
                                                              "the UAE's ISPs can also access Bezeq International's "
-                                                             'data center in Tel Aviv, improving internet services.',
+                                                             'data center in Tel Aviv, improving internet services',
                                                              2022],
                                                 'intl': [ 'landing points for the FLAG, SEA-ME-WE-3 ,-4 & -5, Qater '
                                                           'UAE Submarine Cable System, FALCON, FOG, Tat TGN-Gulf, '
@@ -18885,7 +17697,7 @@ P1_CNTR = \
                                                           'since 2020, some aspects of the telecom sector have '
                                                           'experienced a downturn, particularly in mobile device '
                                                           'production',
-                                                          'progress towards 5G implementation has resumed, as well as '
+                                                          'progress toward 5G implementation has resumed, as well as '
                                                           'upgrades to infrastructure',
                                                           'consumer spending on telecom services has increased due to '
                                                           'the surge in demand for capacity and bandwidth',
@@ -18918,8 +17730,8 @@ P1_CNTR = \
                                           'coast': 12429,
                                           'coord': ['54 00 N, 2 00 W'],
                                           'popul': 67791400,
-                                          'ports': { 'container': 'Felixstowe (3,584,000), London (2,790,000), '
-                                                                  'Southampton (1,924,847) (2019)',
+                                          'ports': { 'container': 'Felixstowe (3,700,000), London (3,111,000), '
+                                                                  'Southampton (1,871,081) (2021)',
                                                      'seaport': 'Dover, Felixstowe, Immingham, Liverpool, London, '
                                                                 'Southampton, Teesport (England); Forth Ports '
                                                                 '(Scotland); Milford Haven (Wales)'},
@@ -18949,10 +17761,6 @@ P1_CNTR = \
                                                        'super-fast broadband available to about 95% of customers',
                                                        'London is developing smart city technology, in collaboration '
                                                        'with private, tech, and academic sectors',
-                                                       "in 2020 the UK Government banned Chinese company Huawei's 5G "
-                                                       "equipment from the UK's 5G networks following advisement from "
-                                                       'the National Cyber Security Centre (NCSC)',
-                                                       'importer of broadcasting equipment from China',
                                                        2021],
                                           'intl': [ 'Landing points for the GTT Atlantic, Scotland-Northern Ireland '
                                                     '-1, & -2, Lanis 1,-2, &-3, Sirius North, BT-MT-1, SHEFA-2, BT '
@@ -18974,7 +17782,7 @@ P1_CNTR = \
                                                     'production and supply chains globally',
                                                     'since 2020, some aspects of the telecom sector have experienced a '
                                                     'downturn, particularly in mobile device production',
-                                                    'progress towards 5G implementation has resumed, as well as '
+                                                    'progress toward 5G implementation has resumed, as well as '
                                                     'upgrades to infrastructure',
                                                     'consumer spending on telecom services has increased due to the '
                                                     'surge in demand for capacity and bandwidth',
@@ -19050,6 +17858,7 @@ P1_CNTR = \
                                   '23476',
                                   '23477',
                                   '23478',
+                                  '23479',
                                   '23486',
                                   '23488',
                                   '23494',
@@ -19082,15 +17891,15 @@ P1_CNTR = \
                                          'coast': 19924,
                                          'coord': ['38 00 N, 97 00 W'],
                                          'popul': 337341954,
-                                         'ports': { 'container': 'Charleston (2,436,185), Hampton Roads (2,937,962), '
-                                                                 'Houston (2,987,291), Long Beach (7,632,032), Los '
-                                                                 'Angeles (9,337,632), New York/New Jersey '
-                                                                 '(7,471,131), Oakland (2,500,431), Savannah '
-                                                                 '(4,599,177), Seattle/Tacoma (3,775,303) (2019)',
-                                                    'seaport': '<em>Atlantic Ocean:</em> Charleston, Hampton Roads, '
-                                                               'New York/New Jersey, Savannah<em>Pacific Ocean:</em> '
-                                                               'Long Beach, Los Angeles, Oakland, '
-                                                               'Seattle/Tacoma<em>Gulf of Mexico:</em> Houston'},
+                                         'ports': { 'container': 'Charleston (2,751,442), Hampton Roads (3,522,834), '
+                                                                 'Houston (3,453,220), Long Beach (9,384,368), Los '
+                                                                 'Angeles (10,677,610), New York/New Jersey '
+                                                                 '(8,985,929), Oakland (2,448,243), Savannah '
+                                                                 '(5,613,163), Seattle/Tacoma (3,736,206) (2021)',
+                                                    'seaport': 'Atlantic Ocean: Charleston, Hampton Roads, New '
+                                                               'York/New Jersey, Savannah; Pacific Ocean: Long Beach, '
+                                                               'Los Angeles, Oakland, Seattle/Tacoma; Gulf of Mexico: '
+                                                               'Houston'},
                                          'region': 'North America',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:US',
                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/united-states'},
@@ -19126,9 +17935,8 @@ P1_CNTR = \
                                                       'quality of their offers based on LTE and 5G',
                                                       'some of this spectrum, auctioned during 2021, was only made '
                                                       'available to licensees from February 2022',
-                                                      'the widening availability of 5G from the main providers AT&T, '
-                                                      'Verizon, and T-Mobile US has resulted in a dramatic increase in '
-                                                      'mobile data traffic',
+                                                      'the widening availability of 5G from the main providers has '
+                                                      'resulted in a dramatic increase in mobile data traffic',
                                                       'in tandem with the focus on 5G, operators have closed down '
                                                       'their GSM and CDMA networks, and have either closed down 3G '
                                                       'networks (as AT&T did in January 2022), or plan to in coming '
@@ -19149,7 +17957,7 @@ P1_CNTR = \
                                                       '2025, which will see the vast majority of their fixed networks '
                                                       'being entirely on fiber',
                                                       'service offerings of up to 2Gb/s are becoming more widely '
-                                                      'available as the process continues.',
+                                                      'available as the process continues',
                                                       2022],
                                          'intl': [ 'landing points for the Quintillion Subsea Cable Network, TERRA SW, '
                                                    'AU-Aleutian, KKFL, AKORN, Alaska United -West, & -East & '
@@ -19175,8 +17983,8 @@ P1_CNTR = \
                                                    'production and supply chains globally',
                                                    'since 2020, some aspects of the telecom sector have experienced a '
                                                    'downturn, particularly in mobile device production',
-                                                   'progress towards 5G implementation has resumed, as well as '
-                                                   'upgrades to infrastructure',
+                                                   'progress toward 5G implementation has resumed, as well as upgrades '
+                                                   'to infrastructure',
                                                    'consumer spending on telecom services has increased due to the '
                                                    'surge in demand for capacity and bandwidth',
                                                    'the crucial nature of telecom services as a tool for work and '
@@ -19669,6 +18477,17 @@ P1_CNTR = \
                                  '314200',
                                  '314210',
                                  '314220',
+                                 '314230',
+                                 '314240',
+                                 '314260',
+                                 '314270',
+                                 '314280',
+                                 '314290',
+                                 '314300',
+                                 '314310',
+                                 '314320',
+                                 '314330',
+                                 '314340',
                                  '315010',
                                  '316010',
                                  '316011'],
@@ -19712,12 +18531,9 @@ P1_CNTR = \
                                                             'virgin islands',
                                                             'virgin islands of the united states'],
                                                'tel': { 'code': '1340',
-                                                        'domestic': [ 'full range of services available',
-                                                                      'fixed-line roughly 72 per 100 persons, no '
-                                                                      'recent teledensity numbers available for '
-                                                                      'mobile-cellular usage, although it was '
-                                                                      'approximately 75 per 100 in 2010',
-                                                                      2018],
+                                                        'domestic': [ 'fixed-line 75 per 100 persons, with '
+                                                                      'mobile-cellular 77 per 100',
+                                                                      2020],
                                                         'general': [ 'modern system with total digital switching, uses '
                                                                      'fiber-optic cable and microwave radio relay',
                                                                      'good interisland and international connections',
@@ -19739,7 +18555,7 @@ P1_CNTR = \
                                                                   'since 2020, some aspects of the telecom sector have '
                                                                   'experienced a downturn, particularly in mobile '
                                                                   'device production',
-                                                                  'progress towards 5G implementation has resumed, as '
+                                                                  'progress toward 5G implementation has resumed, as '
                                                                   'well as upgrades to infrastructure',
                                                                   'consumer spending on telecom services has increased '
                                                                   'due to the surge in demand for capacity and '
@@ -19778,9 +18594,9 @@ P1_CNTR = \
                           'tel': { 'code': '598',
                                    'domestic': [ 'most modern facilities concentrated in Montevideo',
                                                  'nationwide microwave radio relay network',
-                                                 'overall fixed-line roughly 34 per 100 and mobile-cellular '
-                                                 'teledensity 138 per 100 persons',
-                                                 2019],
+                                                 'overall fixed-line roughly 35 per 100 and mobile-cellular '
+                                                 'teledensity 131 per 100 persons',
+                                                 2020],
                                    'general': [ 'Uruguay has an advanced telecom market, with excellent infrastructure '
                                                 'and one of the highest broadband penetration rates in Latin America',
                                                 'fixed-line teledensity is also particularly high for the region, '
@@ -19797,13 +18613,10 @@ P1_CNTR = \
                                                 'incumbent Antel is expected to provide national FttP coverage by '
                                                 'early 2022',
                                                 'together with the FttP network, the opening of the submarine cable '
-                                                'system (Bicentenario) in early 2012 and the Tannat cable in August '
-                                                "2017 have helped boost Uruguay's internet bandwidth, and increase the "
-                                                'data rate available to end-users',
+                                                "system in early 2012 and August 2017 have helped boost Uruguay's "
+                                                'internet bandwidth, and increase the data rate available to end-users',
                                                 'Uruguay is one of the very few Latin American countries where the '
                                                 'local fixed-line market is neither privatized nor liberalized',
-                                                'Antel has a monopoly in the provision of local telephony and fixed '
-                                                'broadband services',
                                                 'other segments of the telecom market have been opened to competition, '
                                                 'including international long-distance telephony, mobile telephony, '
                                                 'and fixed-wireless broadband',
@@ -19815,23 +18628,14 @@ P1_CNTR = \
                                                 'the government announced in December 2020 that it intended to '
                                                 'introduce changes to the law to permit pay TV providers to offer '
                                                 'internet and telephony packages over their own networks',
-                                                'the mobile market is dominated by Antel, with Telef&oacute',
-                                                "nica's Movistar in second place and Am&eacute",
-                                                'rica M&oacute',
-                                                "vil's Claro third",
                                                 'all three operators offer mobile broadband through 3G and LTE '
                                                 'networks',
                                                 'operators have achieved nationwide 3G coverage and the number of '
                                                 'mobile broadband subscribers continues to grow',
-                                                'Antel has been at the forefront with LTE services, though the auction '
-                                                'of multi-band spectrum in August 2017 has also enabled Movistar and '
-                                                'Claro to widen the reach of their LTE offers',
-                                                'in April 2019 Antel launched a commercial 5G network, though limited '
-                                                'in reach',
                                                 'at the end of 2019, spectrum in the 5G-suitable range was auctioned, '
                                                 'enabling operators to launch 5G services',
                                                 'the regulator is working on a spectrum and connectivity policy that '
-                                                'emphasizes 5G.',
+                                                'emphasizes 5G',
                                                 2021],
                                    'intl': [ 'landing points for the Unisor, Tannat, and Bicentenario submarine cable '
                                              'system providing direct connectivity to Brazil and Argentina',
@@ -19843,7 +18647,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -19883,8 +18687,8 @@ P1_CNTR = \
                                           'the republic of uzbekistan',
                                           'uzbekistan'],
                              'tel': { 'code': '998',
-                                      'domestic': [ 'fixed-line nearly 11 per 100 persons and mobile-cellular '
-                                                    'teledensity nearly 100 per 100 persons',
+                                      'domestic': [ 'fixed-line nearly 10 per 100 persons and mobile-cellular '
+                                                    'teledensity nearly 103 per 100 persons',
                                                     'the state-owned telecommunications company, Uzbek Telecom, owner '
                                                     'of the fixed-line telecommunications system, has used loans from '
                                                     'the Japanese government and the China Development Bank to upgrade '
@@ -19892,7 +18696,7 @@ P1_CNTR = \
                                                     'mobile-cellular services are provided by 2 private and 3 '
                                                     'state-owned operators with a total subscriber base of 22.8 '
                                                     'million as of January 2018',
-                                                    2020],
+                                                    2021],
                                       'general': [ "Uzbekistan's telecom markets both wireline and wireless have been "
                                                    'playing "catch up" in terms of their development following the '
                                                    "country's independence from the former Soviet Union",
@@ -19907,25 +18711,15 @@ P1_CNTR = \
                                                    'sector as fiber network roll outs continue beyond the main urban '
                                                    'centers, while the mobile market experiences some consolidation '
                                                    'for stronger, more efficient competitors',
-                                                   'the fixed line market is dominated by the incumbent state owned '
-                                                   'provider Uztelecom, which has 98% of the market share',
-                                                   'with teledensity at 11%, the fixed line segment remains relatively '
-                                                   'underdeveloped',
-                                                   'Uztelecom has been diligently expanding its fiber footprint across '
-                                                   'the country, and so utilization is increasing as consumers are '
-                                                   'able to take on VoIP services as part of their fiber packages',
-                                                   'growth is present in the fixed broadband segment thanks to that '
-                                                   'same network expansion with penetration projected to reach 24% by '
-                                                   '2027 (a 5-year CAGR of 6.2%)',
+                                                   'growth is present in the fixed broadband segment with penetration '
+                                                   'projected to reach 24% by 2027 (a 5-year CAGR of 6.2%)',
                                                    'despite the promising signs in the fixed markets, it is the mobile '
                                                    "segment that continues to dominate Uzbekistan's telecoms sector in "
                                                    'terms of penetration, revenue, and growth',
                                                    'there are four major operators providing a modicum of competition',
-                                                   'three of the four are government owned entities although private '
-                                                   'operator Beeline Uzbekistan has been able to capture up to a third '
-                                                   'of the market',
+                                                   'three of the four are government owned entities',
                                                    'the mobile market is expected to reach 100% penetration in 2023 a '
-                                                   '50% increase in the last five years.',
+                                                   '50% increase in the last five years',
                                                    2022],
                                       'intl': [ 'linked by fiber-optic cable or microwave radio relay with CIS member '
                                                 'states and to other countries by leased connection via the Moscow '
@@ -19939,8 +18733,8 @@ P1_CNTR = \
                                                 'production and supply chains globally',
                                                 'since 2020, some aspects of the telecom sector have experienced a '
                                                 'downturn, particularly in mobile device production',
-                                                'progress towards 5G implementation has resumed, as well as upgrades '
-                                                'to infrastructure',
+                                                'progress toward 5G implementation has resumed, as well as upgrades to '
+                                                'infrastructure',
                                                 'consumer spending on telecom services has increased due to the surge '
                                                 'in demand for capacity and bandwidth',
                                                 'the crucial nature of telecom services as a tool for work and school '
@@ -19948,7 +18742,7 @@ P1_CNTR = \
                                                 'growth opportunities for development of new tools and increased '
                                                 'services',
                                                 0],
-                                      'subs': {'bb': 4820009, 'fix': 3550069, 'internet': 17161534, 'mob': 33387000},
+                                      'subs': {'bb': 4820009, 'fix': 3470097, 'internet': 17161534, 'mob': 35069999},
                                       'tld': '.uz',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.uz'}},
                   'mcc': ['434'],
@@ -19979,20 +18773,19 @@ P1_CNTR = \
                                    'domestic': [ 'fixed-line teledensity a bit over 1 per 100 and mobile-cellular just '
                                                  'over 80 per 100',
                                                  2020],
-                                   'general': [ "for many years, GSM was the primary mobile technology for Vanuatu's "
-                                                '300,000 people',
+                                   'general': [ 'for many years, 2G Global System for Mobile Communications was the '
+                                                "primary mobile technology for Vanuatu's 300,000 people",
                                                 'recent infrastructure projects have improved access technologies, '
                                                 'with a transition to 3G and, to a limited degree, to LTE',
                                                 'Vanuatu has also benefited from the ICN1 submarine cable and the '
                                                 'launch of the Kacific-1 satellite, both of which have considerably '
                                                 'improved access to telecom services in recent years',
                                                 "Vanuatu's telecom sector is liberalized, with the two prominent "
-                                                'mobile operators Amalgamated Telecom Holdings (operating as TVL) and '
-                                                'Digicel Vanuatu offering effective competition',
+                                                'mobile operators',
                                                 'while fixed broadband penetration remains low, the incumbent operator '
                                                 'is slowly exchanging copper fixed-lines for fiber',
                                                 'a number of ongoing submarine cable developments will also assist in '
-                                                'increasing data rates and reduce internet pricing in coming years.',
+                                                'increasing data rates and reduce internet pricing in coming years',
                                                 2021],
                                    'intl': [ 'landing points for the ICN1 & ICN2 submarine cables providing '
                                              'connectivity to the Solomon Islands and Fiji',
@@ -20003,7 +18796,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -20042,14 +18835,23 @@ P1_CNTR = \
                                        'the holy see (vatican city state)',
                                        'vatican'],
                           'tel': { 'code': '39',
-                                   'domestic': ['connected via fiber-optic cable to Telecom Italia network', 2018],
-                                   'general': ['automatic digital exchange', 2018],
+                                   'domestic': [ 'the telephone system operates through an automatic digital exchange',
+                                                 2020],
+                                   'general': [ "the Vatican's interior telecommunication system is composed of two "
+                                                'strongly integrated sub-system: fixed infrastructure and mobile '
+                                                'infrastructure',
+                                                'it is important to note that the mobile communication system has been '
+                                                'designed to be capable of using satellite connections so that it is '
+                                                'possible to ensure the telecommunication services whenever needed, '
+                                                'following the Pastoral travels of the Pope',
+                                                'the telephone system operates through an automatic digital exchange',
+                                                2020],
                                    'intl': ['uses Italian system', 0],
                                    'note': [ 'the COVID-19 pandemic continues to have a significant impact on '
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -20111,20 +18913,6 @@ P1_CNTR = \
                                                   'year-on-year, as subscribers terminated services in a bid to reduce '
                                                   'discretionary spending, this decline is expected to continue into '
                                                   '2022, with subscriber growth not returning until 2023',
-                                                  'the three MNOs Movilnet, Movistar, and Digitel have also had to '
-                                                  'contend with widespread theft of equipment and with erratic '
-                                                  'electricity supply to their remaining base stations',
-                                                  'Movistar has also been hit by currency restrictions and has '
-                                                  'depended on support from Telef&oacute',
-                                                  'nica Group to stay afloat',
-                                                  "this report provides an overview of Venezuela's telecom "
-                                                  'infrastructure, market, and regulatory environment, together with '
-                                                  'profiles of the major fixed-line operators. It also provides a '
-                                                  'range of statistics and market analyses',
-                                                  'the report also reviews the fixed and wireless broadband markets, '
-                                                  'as well as the mobile market, including an assessment of key market '
-                                                  'statistics and general sector analyses on a very difficult '
-                                                  'competitive environment.',
                                                   2021],
                                      'intl': [ 'landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, '
                                                'GlobeNet, ALBA-1 and Americas II submarine cable system providing '
@@ -20135,7 +18923,7 @@ P1_CNTR = \
                                                'production and supply chains globally',
                                                'since 2020, some aspects of the telecom sector have experienced a '
                                                'downturn, particularly in mobile device production',
-                                               'progress towards 5G implementation has resumed, as well as upgrades to '
+                                               'progress toward 5G implementation has resumed, as well as upgrades to '
                                                'infrastructure',
                                                'consumer spending on telecom services has increased due to the surge '
                                                'in demand for capacity and bandwidth',
@@ -20162,8 +18950,8 @@ P1_CNTR = \
                                    'coast': 3444,
                                    'coord': ['16 10 N, 107 50 E'],
                                    'popul': 103808319,
-                                   'ports': { 'container': 'Saigon (7,220,377), Cai Mep (3,742,384), Haiphong '
-                                                           '(5,133,150) (2019)',
+                                   'ports': { 'container': 'Saigon (7,956,133), Cai Mep (5,385,289), Haiphong '
+                                                           '(5,695,839) (2021)',
                                               'seaport': 'Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon'},
                                    'region': 'Southeast Asia',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VN',
@@ -20213,7 +19001,7 @@ P1_CNTR = \
                                                 "telcos' financial and operating data updates to June 2021, Telecom "
                                                 'Maturity Index charts and analyses, assessment of the global impact '
                                                 'of Covid-19 on the telecoms sector, and other recent market '
-                                                'developments.',
+                                                'developments',
                                                 2021],
                                    'intl': [ 'landing points for the SeaMeWe-3, APG, SJC2, AAE-1, AAG and the TGN-IA '
                                              'submarine cable system providing connectivity to Europe, Africa, the '
@@ -20224,7 +19012,7 @@ P1_CNTR = \
                                              'production and supply chains globally',
                                              'since 2020, some aspects of the telecom sector have experienced a '
                                              'downturn, particularly in mobile device production',
-                                             'progress towards 5G implementation has resumed, as well as upgrades to '
+                                             'progress toward 5G implementation has resumed, as well as upgrades to '
                                              'infrastructure',
                                              'consumer spending on telecom services has increased due to the surge in '
                                              'demand for capacity and bandwidth',
@@ -20273,8 +19061,8 @@ P1_CNTR = \
                                                           'recent international interest in infrastructure development',
                                                           'increase in demand for mobile broadband as mobile services '
                                                           'serve as primary source for Internet access',
-                                                          'Kacific-1 broadband satellite launched in 2019 to improve '
-                                                          'costs and capability',
+                                                          'broadband satellite launched in 2019 to improve costs and '
+                                                          'capability',
                                                           2020],
                                              'intl': [ 'landing point for the Tui-Samoa submarine cable network '
                                                        'connecting Wallis & Futuna, Samoa and Fiji',
@@ -20284,7 +19072,7 @@ P1_CNTR = \
                                                        'since 2020, some aspects of the telecom sector have '
                                                        'experienced a downturn, particularly in mobile device '
                                                        'production',
-                                                       'progress towards 5G implementation has resumed, as well as '
+                                                       'progress toward 5G implementation has resumed, as well as '
                                                        'upgrades to infrastructure',
                                                        'consumer spending on telecom services has increased due to the '
                                                        'surge in demand for capacity and bandwidth',
@@ -20357,13 +19145,8 @@ P1_CNTR = \
                                               'evolution of mobile data services',
                                               'the ownership of telecommunication services, and the scrutiny of '
                                               'associated revenues and taxes, have become a political issue in Yemen',
-                                              "in 2019 the recognized government moved Tele Yemen's headquarters from "
-                                              "Sana'a to Aden in a bid to regain control of the company",
                                               'until telecom infrastructure can be improved across Yemen, and until '
                                               'civil unrest eases, there will be little progress for the sector',
-                                              'MTN Group in November 2021 completed its exit from the country, having '
-                                              'incurred losses for several years, and considered that continuing its '
-                                              'presence in this market was no longer worth its while.',
                                               2022],
                                  'intl': [ 'landing points for the FALCON, SeaMeWe-5, Aden-Djibouti, and the AAE-1 '
                                            'international submarine cable connecting Europe, Africa, the Middle East, '
@@ -20376,7 +19159,7 @@ P1_CNTR = \
                                            'and supply chains globally',
                                            'since 2020, some aspects of the telecom sector have experienced a '
                                            'downturn, particularly in mobile device production',
-                                           'progress towards 5G implementation has resumed, as well as upgrades to '
+                                           'progress toward 5G implementation has resumed, as well as upgrades to '
                                            'infrastructure',
                                            'consumer spending on telecom services has increased due to the surge in '
                                            'demand for capacity and bandwidth',
@@ -20388,7 +19171,7 @@ P1_CNTR = \
                                  'tld': '.ye',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.ye'}},
              'mcc': ['421'],
-             'mccmnc': ['42101', '42102', '42103', '42104'],
+             'mccmnc': ['42101', '42102', '42103', '42104', '42110', '42111'],
              'msisdn': ['967'],
              'name': 'Yemen',
              'url': 'https://en.wikipedia.org/wiki/Yemen'},
@@ -20437,15 +19220,14 @@ P1_CNTR = \
                                                'in turn, this has resulted in a considerable reduction in fixed-line '
                                                'and mobile access pricing for end-users',
                                                'mobile network operators continue to invest in 3G and LTE-based '
-                                               'services, while the government also contracted Huawei to upgrade the '
-                                               'state-owned mobile infrastructure for 5G services',
+                                               'services, the government contracted to upgrade the state-owned mobile '
+                                               'infrastructure for 5G services',
                                                'delays in holding spectrum have stymied the development of 5G thus far',
                                                'in mid-2021 the regulator completed a consultation of auctioning low, '
                                                'medium, and high band spectrum for 5G, aiming to provide sufficient '
                                                'spectrum to meet the anticipated increase in data traffic in coming '
                                                'years',
-                                               'fixed-line broadband services remain underdeveloped, though MTN Zambia '
-                                               'has initiated an FttP program, initially in Lusaka.',
+                                               'fixed-line broadband services remain underdeveloped',
                                                2022],
                                   'intl': [ 'multiple providers operate overland fiber optic routes via Zimbabwe/South '
                                             'Africa, Botswana/Namibia and Tanzania provide access to the major '
@@ -20455,7 +19237,7 @@ P1_CNTR = \
                                             'production and supply chains globally',
                                             'since 2020, some aspects of the telecom sector have experienced a '
                                             'downturn, particularly in mobile device production',
-                                            'progress towards 5G implementation has resumed, as well as upgrades to '
+                                            'progress toward 5G implementation has resumed, as well as upgrades to '
                                             'infrastructure',
                                             'consumer spending on telecom services has increased due to the surge in '
                                             'demand for capacity and bandwidth',
@@ -20507,9 +19289,9 @@ P1_CNTR = \
                                                  'cash-strapped government',
                                                  'inflation has become so high that year-on-year revenue comparisons '
                                                  'since 2019 have been difficult to assess meaningfully',
-                                                 'the three MNOs Econet Wireless, NetOne and Telecel Zimbabwe continue '
-                                                 'to invest in network upgrades, partly supported by government '
-                                                 'efforts and cash released from the Universal Service Fund',
+                                                 'the three MNOs continue to invest in network upgrades, partly '
+                                                 'supported by government efforts and cash released from the Universal '
+                                                 'Service Fund',
                                                  'as a result of these investments, LTE networks have expanded '
                                                  'steadily, though services remain concentrated in urban areas',
                                                  'international bandwidth has improved since fiber links to several '
@@ -20522,7 +19304,7 @@ P1_CNTR = \
                                                  'slow but steady growth in the number of DSL connections, and also '
                                                  'fiber subscriptions',
                                                  'during 2021, most growth in the fixed broadband segment has been '
-                                                 'with fiber connections.',
+                                                 'with fiber connections',
                                                  2022],
                                     'intl': [ 'fiber-optic connections to neighboring states provide access to '
                                               'international networks via undersea cable',
@@ -20533,7 +19315,7 @@ P1_CNTR = \
                                               'production and supply chains globally',
                                               'since 2020, some aspects of the telecom sector have experienced a '
                                               'downturn, particularly in mobile device production',
-                                              'progress towards 5G implementation has resumed, as well as upgrades to '
+                                              'progress toward 5G implementation has resumed, as well as upgrades to '
                                               'infrastructure',
                                               'consumer spending on telecom services has increased due to the surge in '
                                               'demand for capacity and bandwidth',

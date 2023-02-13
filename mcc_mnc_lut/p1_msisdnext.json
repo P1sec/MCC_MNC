@@ -35,7 +35,6 @@
       "Trinidad and Tobago",
       "Turks and Caicos Islands",
       "United States",
-      "United States Minor Outlying Islands",
       "United States Virgin Islands"
     ],
     "1242": [
@@ -807,12 +806,10 @@
       "Russia"
     ],
     "800": [
-      "International Freephone Service (UIFN)",
-      "Universal international freephone number"
+      "International Freephone Service (UIFN)"
     ],
     "808": [
-      "International Shared Cost Service (ISCS)",
-      "Shared Cost Service"
+      "International Shared Cost Service (ISCS)"
     ],
     "81": [
       "Asuka Station",
@@ -854,13 +851,13 @@
       "Inmarsat SNAC"
     ],
     "878": [
-      "Universal Personal Telecommunications"
+      "Universal Personal Telecommunications (UPT)"
     ],
     "880": [
       "Bangladesh"
     ],
     "881": [
-      "Global Mobile Satellite System"
+      "Global Mobile Satellite System (GMSS)"
     ],
     "8810": [
       "ICO Global (Mobile Satellite Service)"
@@ -980,13 +977,10 @@
       "Nepal"
     ],
     "979": [
-      "International premium rate service"
+      "International Premium Rate Service"
     ],
     "98": [
       "Iran"
-    ],
-    "991": [
-      "ITPCS"
     ],
     "992": [
       "Tajikistan"
@@ -1005,6 +999,9 @@
     ],
     "996": [
       "Kyrgyzstan"
+    ],
+    "997": [
+      "Kazakhstan"
     ],
     "998": [
       "Uzbekistan"
