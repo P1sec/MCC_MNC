@@ -6,2980 +6,3243 @@
     ]
   },
   {
-    "20400": [
-      "Intovoice B.V.",
-      "Netherlands",
-      "ADD"
-    ],
-    "20401": [
-      "RadioAccess Network Services B.V.",
-      "Netherlands",
-      "SUP"
-    ],
-    "20402": [
-      "T-Mobile Netherlands B.V.",
-      "Netherlands",
-      "LIR"
-    ],
-    "20405": [
-      "Elephant Talk Communications Premium Rate Services",
-      "Netherlands",
-      "SUP"
-    ],
-    "20406": [
-      "Mundio Mobile (Netherlands) Ltd",
-      "Netherlands",
-      "SUP"
-    ],
-    "20407": [
-      "Tata Communications MOVE B.V.",
-      "Netherlands",
-      "LIR"
-    ],
-    "20408": [
-      "KPN B.V.",
-      "Netherlands",
-      "LIR"
-    ],
-    "20411": [
-      "Greenet Netwerk B.V.",
-      "Netherlands",
-      "ADD"
-    ],
-    "20414": [
-      "Venus & Mercury Telecom",
-      "Netherlands",
-      "ADD"
-    ],
-    "20417": [
-      "Lebara Ltd",
-      "Netherlands",
-      "ADD"
-    ],
-    "20418": [
-      "Ziggo Services B.V.",
-      "Netherlands",
-      "LIR"
-    ],
-    "20423": [
-      "KORE Wireless Nederland B.V.",
-      "Netherlands",
-      "LIR"
-    ],
-    "20424": [
-      "PM Factory B.V.",
-      "Netherlands",
-      "LIR"
-    ],
-    "20425": [
-      "CapX Nederland",
-      "Netherlands",
-      "LIR"
-    ],
-    "20427": [
-      "L-Mobi Mobile B.V.",
-      "Netherlands",
-      "ADD"
-    ],
-    "20429": [
-      "Tismi B.V.",
-      "Netherlands",
-      "ADD"
-    ],
-    "20430": [
-      "ASpider Solutions Nederland B.V.",
-      "Netherlands",
-      "ADD"
-    ],
-    "20432": [
-      "Cubic Telecom Limited",
-      "Netherlands",
-      "ADD"
-    ],
-    "20433": [
-      "Truphone B.V.",
-      "Netherlands",
-      "ADD"
-    ],
-    "20460": [
-      "Nextgen Mobile Ltd",
-      "Netherlands",
-      "SUP"
-    ],
-    "20461": [
-      "Alcadis B.V.",
-      "Netherlands",
-      "ADD"
-    ],
-    "20462": [
-      "RGTN Wholesale Netherlands B.V.",
-      "Netherlands",
-      "ADD"
-    ],
-    "20463": [
-      "Messagebird BV",
-      "Netherlands",
-      "ADD"
-    ],
-    "20465": [
-      "AGMS Nederland B.V.",
-      "Netherlands",
-      "SUP"
-    ],
-    "20467": [
-      "RadioAccess B.V.",
-      "Netherlands",
-      "SUP"
-    ],
-    "20468": [
-      "Roamware (Netherlands) B.V.",
-      "Netherlands",
-      "SUP"
-    ],
-    "20469": [
-      "KPN B.V.",
-      "Netherlands",
-      "LIR"
-    ],
-    "20491": [
-      "Enexis Netbeheer B.V.",
-      "Netherlands",
-      "ADD"
-    ],
-    "20603": [
-      "Citymesh",
-      "Belgium",
-      "ADD"
-    ],
-    "20604": [
-      "MWINGZ (Proximus/Orange Belgium)",
-      "Belgium",
-      "ADD"
-    ],
-    "20611": [
-      "L-Mobi Mobile",
-      "Belgium",
-      "ADD"
-    ],
-    "20622": [
-      "FEBO Telecom",
-      "Belgium",
-      "ADD"
-    ],
-    "20629": [
-      "TISMI",
-      "Belgium",
-      "ADD"
-    ],
-    "20634": [
-      "ONOFFAPP",
-      "Belgium",
-      "ADD"
-    ],
-    "20640": [
-      "Join Experience (Belgium)",
-      "Belgium",
-      "SUP"
-    ],
-    "20699": [
-      "e-BO Enterprises",
-      "Belgium",
-      "ADD"
-    ],
-    "20812": [
-      "Truphone France",
-      "France",
-      "ADD"
-    ],
-    "20819": [
-      "Haute-Garonne num\u00e9rique",
-      "France",
-      "LIR"
-    ],
-    "20826": [
-      "Bouygues Telecom Business - Distribution",
-      "France",
-      "LIR"
-    ],
-    "20828": [
-      "Airmob Infra Full",
-      "France",
-      "LIR"
-    ],
-    "20830": [
-      "Syma",
-      "France",
-      "LIR"
-    ],
-    "20833": [
-      "Syndicat mixte La Fibre64",
-      "France",
-      "LIR"
-    ],
-    "20834": [
-      "Cellhire (France)",
-      "France",
-      "ADD"
-    ],
-    "20835": [
-      "Free mobile",
-      "France",
-      "ADD"
-    ],
-    "20836": [
-      "Free mobile",
-      "France",
-      "ADD"
-    ],
-    "20837": [
-      "IP Directions",
-      "France",
-      "ADD"
-    ],
-    "20838": [
-      "Lebara France Limited",
-      "France",
-      "ADD"
-    ],
-    "20839": [
-      "Netwo",
-      "France",
-      "ADD"
-    ],
-    "208501": [
-      "Butachimie",
-      "France",
-      "ADD"
-    ],
-    "208502": [
-      "EDF",
-      "France",
-      "ADD"
-    ],
-    "208701": [
-      "GIP Vend\u00e9e num\u00e9rique",
-      "France",
-      "ADD"
-    ],
-    "208702": [
-      "17-Numerique",
-      "France",
-      "ADD"
-    ],
-    "208703": [
-      "Nivertel",
-      "France",
-      "ADD"
-    ],
-    "208704": [
-      "Axione Limousin",
-      "France",
-      "ADD"
-    ],
-    "208705": [
-      "Hautes-Pyr\u00e9n\u00e9es Num\u00e9rique",
-      "France",
-      "ADD"
-    ],
-    "208706": [
-      "Tours M\u00e9tropole Num\u00e9rique",
-      "France",
-      "ADD"
-    ],
-    "208707": [
-      "Sartel THD",
-      "France",
-      "ADD"
-    ],
-    "208708": [
-      "Melis@ territoires ruraux",
-      "France",
-      "ADD"
-    ],
-    "208709": [
-      "Quimper communaut\u00e9 t\u00e9l\u00e9com",
-      "France",
-      "ADD"
-    ],
-    "208710": [
-      "Losange",
-      "France",
-      "ADD"
-    ],
-    "208711": [
-      "Nomotech",
-      "France",
-      "ADD"
-    ],
-    "208712": [
-      "Syndicat Audois d'\u00e9nergies et du Num\u00e9rique",
-      "France",
-      "ADD"
-    ],
-    "208713": [
-      "SD NUM SAS",
-      "France",
-      "ADD"
-    ],
-    "208714": [
-      "D\u00e9partement de l'Is\u00e8re",
-      "France",
-      "ADD"
-    ],
-    "20887": [
-      "Airbus defence and space SAS",
-      "France",
-      "LIR"
-    ],
-    "20889": [
-      "Hub One",
-      "France",
-      "LIR"
-    ],
-    "20893": [
-      "Thales communications & Security",
-      "France",
-      "SUP"
-    ],
-    "20895": [
-      "Orange",
-      "France",
-      "SUP"
-    ],
-    "20896": [
-      "R\u00e9gion Bourgogne-Franche-Comt\u00e9",
-      "France",
-      "LIR"
-    ],
-    "20898": [
-      "Soci\u00e9t\u00e9 Air France",
-      "France",
-      "SUP"
-    ],
-    "21412": [
-      "VENUS MOVIL, S.L. UNIPERSONAL",
-      "Spain",
-      "ADD"
-    ],
-    "21413": [
-      "SYMA MOBILE ESPA\u00d1A, S.L.",
-      "Spain",
-      "SUP"
-    ],
-    "21414": [
-      "AVATEL M\u00d3VIL, S.L.U.",
-      "Spain",
-      "ADD"
-    ],
-    "21416": [
-      "R CABLE Y TELECOMUNICACIONES GALICIA, S.A.",
-      "Spain",
-      "LIR"
-    ],
-    "21421": [
-      "ORANGE ESPAGNE, S.A. UNIPERSONAL",
-      "Spain",
-      "SUP"
-    ],
-    "21423": [
-      "Xfera M\u00f3viles, S.A.U.",
-      "Spain",
-      "ADD"
-    ],
-    "21424": [
-      "VODAFONE ESPA\u00d1A, S.A.U.",
-      "Spain",
-      "LIR"
-    ],
-    "21425": [
-      "XFERA M\u00d3VILES, S.A. UNIPERSONAL",
-      "Spain",
-      "ADD"
-    ],
-    "21429": [
-      "XFERA M\u00d3VILES, S.A.U.",
-      "Spain",
-      "ADD"
-    ],
-    "21430": [
-      "Compatel Limited",
-      "Spain",
-      "SUP"
-    ],
-    "21432": [
-      "Telef\u00f3nica M\u00f3viles Espa\u00f1a, SAU",
-      "Spain",
-      "SUP"
-    ],
-    "21433": [
-      "XFERA M\u00d3VILES, S.A.U.",
-      "Spain",
-      "SUP"
-    ],
-    "21436": [
-      "ALAI OPERADOR DE TELECOMUNICACIONES, S.L.",
-      "Spain",
-      "ADD"
-    ],
-    "21437": [
-      "VODAFONE ESPA\u00d1A, S.A.U.",
-      "Spain",
-      "ADD"
-    ],
-    "21438": [
-      "Telef\u00f3nica M\u00f3viles Espa\u00f1a, SAU",
-      "Spain",
-      "ADD"
-    ],
-    "214700": [
-      "IBERDROLA ESPA\u00d1A, S.A.UNIPERSONAL",
-      "Spain",
-      "ADD"
-    ],
-    "214701": [
-      "ENDESA DISTRIBUCI\u00d3N EL\u00c9CTRICA, S.L.",
-      "Spain",
-      "ADD"
-    ],
-    "21601": [
-      "Yettel Hungary Ltd.",
-      "Hungary",
-      "LIR"
-    ],
-    "21604": [
-      "Invitech ICT Services Ltd.",
-      "Hungary",
-      "SUP"
-    ],
-    "21620": [
-      "Yettel Hungary Ltd.",
-      "Hungary",
-      "ADD"
-    ],
-    "21671": [
-      "Vodafone Hungary Ltd",
-      "Hungary",
-      "LIR"
-    ],
-    "22107": [
-      "Dukagjini Telecommunications LLC",
-      "Kosovo*",
-      "ADD"
-    ],
-    "22808": [
-      "Sunrise Communications AG",
-      "Switzerland",
-      "LIR"
-    ],
-    "22859": [
-      "Vectone Mobile Limited, London",
-      "Switzerland",
-      "ADD"
-    ],
-    "22861": [
-      "Compatel Ltd",
-      "Switzerland",
-      "SUP"
-    ],
-    "22862": [
-      "Telecom26 AG",
-      "Switzerland",
-      "ADD"
-    ],
-    "22863": [
-      "Fink Telecom Services",
-      "Switzerland",
-      "ADD"
-    ],
-    "22864": [
-      "NTH AG",
-      "Switzerland",
-      "ADD"
-    ],
-    "22866": [
-      "Inovia Services SA",
-      "Switzerland",
-      "ADD"
-    ],
-    "22867": [
-      "Datatrade Managed AG",
-      "Switzerland",
-      "ADD"
-    ],
-    "22868": [
-      "Intellico AG",
-      "Switzerland",
-      "ADD"
-    ],
-    "22869": [
-      "MTEL Schweiz GmbH",
-      "Switzerland",
-      "ADD"
-    ],
-    "22870": [
-      "Tismi BV",
-      "Switzerland",
-      "ADD"
-    ],
-    "23002": [
-      "O2 Czech Republic a.s.",
-      "Czech Rep.",
-      "LIR"
-    ],
-    "23004": [
-      "Nordic Telecom s.r.o.",
-      "Czech Rep.",
-      "LIR"
-    ],
-    "23007": [
-      "T-Mobile Czech Republic a.s.",
-      "Czech Rep.",
-      "ADD"
-    ],
-    "23009": [
-      "Uniphone, s.r.o.",
-      "Czech Rep.",
-      "ADD"
-    ],
-    "23098": [
-      "Sprava zeleznic, statni organizace",
-      "Czech Rep.",
-      "LIR"
-    ],
-    "23401": [
-      "Vectone Mobile Limited",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23405": [
-      "COLT Mobile Telecommunications Limited",
-      "United Kingdom",
-      "SUP"
-    ],
-    "23406": [
-      "Internet Computer Bureau Limited",
-      "United Kingdom",
-      "SUP"
-    ],
-    "23407": [
-      "Vodafone Ltd (C&W)",
-      "United Kingdom",
-      "SUP"
-    ],
-    "23414": [
-      "LINK MOBILITY UK LTD",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23415": [
-      "Vodafone Limited",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23417": [
-      "FleXtel Limited",
-      "United Kingdom",
-      "SUP"
-    ],
-    "23419": [
-      "TeleWare Group PLC",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23427": [
-      "Tata Communications Move UK Ltd",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23429": [
-      "(AQ) LIMITED",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23433": [
-      "EE Limited (Orange)",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23434": [
-      "EE Limited (Orange)",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23440": [
-      "Mass Response Service GmbH",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23450": [
-      "JT (Jersey) Limited",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23453": [
-      "Tango Networks UK Ltd",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23456": [
-      "The National Cyber Security Centre",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23458": [
-      "MANX TELECOM TRADING LIMITED",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23459": [
-      "Limitless Mobile Ltd",
-      "United Kingdom",
-      "SUP"
-    ],
-    "23470": [
-      "AMSUK Limited",
-      "United Kingdom",
-      "SUP"
-    ],
-    "23472": [
-      "Hanhaa Limited",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23473": [
-      "BlueWave Communications",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23474": [
-      "Pareteum Europe B.V.",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23477": [
-      "Vodafone Limited",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23488": [
-      "Telet Research (N.I.) Limited",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23500": [
-      "Vectone Mobile Limited",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23504": [
-      "University Of Strathclyde",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23506": [
-      "University Of Strathclyde",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23507": [
-      "University Of Strathclyde",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23508": [
-      "Spitfire Network Services Limited",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23588": [
-      "Telet Research (N.I.) Limited",
-      "United Kingdom",
-      "ADD"
-    ],
-    "23591": [
-      "Vodafone Limited",
-      "United Kingdom",
-      "LIR"
-    ],
-    "23592": [
-      "Vodafone Ltd (C&W)",
-      "United Kingdom",
-      "SUP"
-    ],
-    "23817": [
-      "Gotanet AB",
-      "Denmark",
-      "ADD"
-    ],
-    "23877": [
-      "Telenor",
-      "Denmark",
-      "SUP"
-    ],
-    "23888": [
-      "Cobira ApS",
-      "Denmark",
-      "ADD"
-    ],
-    "23896": [
-      "Telia Danmark",
-      "Denmark",
-      "ADD"
-    ],
-    "24003": [
-      "Teracom AB",
-      "Sweden",
-      "LIR"
-    ],
-    "24013": [
-      "Bredband2 F\u00f6retag AB",
-      "Sweden",
-      "LIR"
-    ],
-    "24014": [
-      "Tele2 Sverige AB",
-      "Sweden",
-      "LIR"
-    ],
-    "24020": [
-      "Sierra Wireless Messaging AB",
-      "Sweden",
-      "LIR"
-    ],
-    "24026": [
-      "Twilio Ireland Ltd.",
-      "Sweden",
-      "LIR"
-    ],
-    "24028": [
-      "LINK Mobile A/S",
-      "Sweden",
-      "SUP"
-    ],
-    "24029": [
-      "MI Carrier Services AB",
-      "Sweden",
-      "LIR"
-    ],
-    "24030": [
-      "NextGen Mobile Ltd.",
-      "Sweden",
-      "SUP"
-    ],
-    "24037": [
-      "Sinch Sweden AB",
-      "Sweden",
-      "LIR"
-    ],
-    "24039": [
-      "Primlight AB",
-      "Sweden",
-      "LIR"
-    ],
-    "24040": [
-      "Netmore Group AB",
-      "Sweden",
-      "LIR"
-    ],
-    "24041": [
-      "Telenor Sverige AB",
-      "Sweden",
-      "ADD"
-    ],
-    "24048": [
-      "Tismi BV",
-      "Sweden",
-      "ADD"
-    ],
-    "24049": [
-      "Telia Sverige AB",
-      "Sweden",
-      "ADD"
-    ],
-    "24060": [
-      "V\u00e4stra G\u00f6talandsregionen (temporary assigned until 2026-12-31)",
-      "Sweden",
-      "ADD"
-    ],
-    "24061": [
-      "MessageBird B.V.",
-      "Sweden",
-      "SUP"
-    ],
-    "24063": [
-      "Fink Telecom Services",
-      "Sweden",
-      "ADD"
-    ],
-    "24805": [
-      "CSC Telecom Estonia O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "24815": [
-      "Premium Net International S.R.L. Eesti filiaal",
-      "Estonia",
-      "SUP"
-    ],
-    "24816": [
-      "SmartTel Plus O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "24817": [
-      "Baltergo O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "24818": [
-      "CLOUD COMMUNICATIONS O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "24819": [
-      "OkTelecom O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "24820": [
-      "DOTT Telecom O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "24821": [
-      "Tismi B.V.",
-      "Estonia",
-      "ADD"
-    ],
-    "24822": [
-      "M2MConnect O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "24824": [
-      "Novametro O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "24825": [
-      "Eurofed O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "24826": [
-      "IT-Decision Telecom O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "24828": [
-      "Nord Connect O\u00dc",
-      "Estonia",
-      "ADD"
-    ],
-    "25501": [
-      "\"VF UKRAINE\" PrJSC",
-      "Ukraine",
-      "LIR"
-    ],
-    "25502": [
-      "\"Kyivstar\" PrJSC",
-      "Ukraine",
-      "LIR"
-    ],
-    "25503": [
-      "\"Kyivstar\" PrJSC",
-      "Ukraine",
-      "LIR"
-    ],
-    "25504": [
-      "\"Intertelecom\" LLC",
-      "Ukraine",
-      "LIR"
-    ],
-    "25506": [
-      "\"lifecell\" LLC",
-      "Ukraine",
-      "LIR"
-    ],
-    "25507": [
-      "\"TriMob\" LLC",
-      "Ukraine",
-      "LIR"
-    ],
-    "25508": [
-      "\"Ukrtelecom\" JSC",
-      "Ukraine",
-      "ADD"
-    ],
-    "25509": [
-      "\"Farlep-Invest\", PrJSC",
-      "Ukraine",
-      "ADD"
-    ],
-    "25510": [
-      "\"Atlantis Telecom\", LLC",
-      "Ukraine",
-      "ADD"
-    ],
-    "25521": [
-      "\"Telesystems of Ukraine\" PrJSC",
-      "Ukraine",
-      "LIR"
-    ],
-    "26603": [
-      "GibFibre Ltd (trading as \u201cGibfibrespeed\u201d)",
-      "Gibraltar",
-      "ADD"
-    ],
-    "27005": [
-      "Luxembourg Online S.A.",
-      "Luxembourg",
-      "ADD"
-    ],
-    "27077": [
-      "Proximus Luxembourg S.A.",
-      "Luxembourg",
-      "LIR"
-    ],
-    "27221": [
-      "Net Feasa Limited",
-      "Ireland",
-      "ADD"
-    ],
-    "27268": [
-      "Office of the Government Chief Information Officer",
-      "Ireland",
-      "ADD"
-    ],
-    "27601": [
-      "ONE TELECOMMUNICATIONS sh.a",
-      "Albania",
-      "LIR"
-    ],
-    "27603": [
-      "ALBTELECOM sh.a.",
-      "Albania",
-      "LIR"
-    ],
-    "27604": [
-      "Mobile 4 AL",
-      "Albania",
-      "SUP"
-    ],
-    "27801": [
-      "Epic Communications Ltd",
-      "Malta",
-      "LIR"
-    ],
-    "27811": [
-      "YOM",
-      "Malta",
-      "SUP"
-    ],
-    "27877": [
-      "Melita Ltd",
-      "Malta",
-      "LIR"
-    ],
-    "28002": [
-      "CYTA",
-      "Cyprus",
-      "ADD"
-    ],
-    "28023": [
-      "Mundio Mobile Cyprus Ltd",
-      "Cyprus",
-      "SUP"
-    ],
-    "28212": [
-      "\"Telecom1\" LTD",
-      "Georgia",
-      "LIR"
-    ],
-    "28213": [
-      "\"Asanet\" LTD",
-      "Georgia",
-      "ADD"
-    ],
-    "28214": [
-      "\"Datahouseglobal\u201d LTD",
-      "Georgia",
-      "ADD"
-    ],
-    "28215": [
-      "\"Servicebox\" LTD",
-      "Georgia",
-      "ADD"
-    ],
-    "28222": [
-      "\"Myphone\" LTD",
-      "Georgia",
-      "ADD"
-    ],
-    "28803": [
-      "Sp/f Tosa",
-      "Faroe Islands",
-      "SUP"
-    ],
-    "29311": [
-      "BeeIN d.o.o.",
-      "Slovenia",
-      "ADD"
-    ],
-    "29321": [
-      "Novatel d.o.o.",
-      "Slovenia",
-      "ADD"
-    ],
-    "29412": [
-      "MTEL DOOEL Skopje",
-      "North Macedonia",
-      "ADD"
-    ],
-    "29507": [
-      "First Mobile AG",
-      "Liechtenstein",
-      "SUP"
-    ],
-    "29510": [
-      "SORACOM CORPORATION, LTD.",
-      "Liechtenstein",
-      "LIR"
-    ],
-    "29511": [
-      "DIMOCO Messaging AG",
-      "Liechtenstein",
-      "ADD"
-    ],
-    "302150": [
-      "Cogeco Connexion Inc.",
-      "Canada",
-      "ADD"
-    ],
-    "302151": [
-      "Cogeco Connexion Inc.",
-      "Canada",
-      "ADD"
-    ],
-    "302152": [
-      "Cogeco Connexion Inc.",
-      "Canada",
-      "ADD"
-    ],
-    "302230": [
-      "ISP Telecom",
-      "Canada",
-      "ADD"
-    ],
-    "302330": [
-      "Blue Canada Wireless Inc",
-      "Canada",
-      "SUP"
-    ],
-    "302350": [
-      "Naskapi Imuun Inc.",
-      "Canada",
-      "ADD"
-    ],
-    "302550": [
-      "Star Solutions International Inc.",
-      "Canada",
-      "ADD"
-    ],
-    "302570": [
-      "Ligado Networks Corp.",
-      "Canada",
-      "LIR"
-    ],
-    "302721": [
-      "Rogers Communications Canada Inc. (Wireless)",
-      "Canada",
-      "ADD"
-    ],
-    "302770": [
-      "TNW Wireless Inc.",
-      "Canada",
-      "LIR"
-    ],
-    "302848": [
-      "Vocom International Telecommunications, Inc",
-      "Canada",
-      "ADD"
-    ],
-    "302910": [
-      "Halton Regional Police Service (reserved)",
-      "Canada",
-      "ADD"
-    ],
-    "302996": [
-      "Powertech Labs (experimental)",
-      "Canada",
-      "ADD"
-    ],
-    "302998": [
-      "Institut de Recherche d\u2019Hydro-Qu\u00e9bec (experimental)",
-      "Canada",
-      "ADD"
-    ],
-    "30803": [
-      "SAS SPM Telecom",
-      "Saint Pierre and Miquelon",
-      "ADD"
-    ],
-    "310040": [
-      "MTA Communications dba MTA Wireless",
-      "United States",
-      "SUP"
-    ],
-    "310060": [
-      "Consolidated Telcom",
-      "United States",
-      "SUP"
-    ],
-    "310300": [
-      "Blanca Telephone Company",
-      "United States",
-      "SUP"
-    ],
-    "310330": [
-      "Wireless Partners LLC",
-      "United States",
-      "ADD"
-    ],
-    "310340": [
-      "Limitless Mobile, LLC",
-      "United States",
-      "ADD"
-    ],
-    "310470": [
-      "Docomo Pacific Inc",
-      "United States",
-      "LIR"
-    ],
-    "310570": [
-      "Broadpoint, LLC (former PetroCom, LLC) c/o MTPCS, LLC dba CellularOne",
-      "United States",
-      "LIR"
-    ],
-    "310591": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310592": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310593": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310594": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310595": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310596": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310597": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310598": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310599": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310610": [
-      "Elkhart Telephone Co. Inc. dba Epic Touch Co.",
-      "United States",
-      "SUP"
-    ],
-    "310620": [
-      "Nsighttel Wireless, LLC",
-      "United States",
-      "LIR"
-    ],
-    "310690": [
-      "Limitless Mobile, LLC",
-      "United States",
-      "LIR"
-    ],
-    "310780": [
-      "D.D. Inc",
-      "United States",
-      "SUP"
-    ],
-    "310810": [
-      "Pacific Lightwave Inc.",
-      "United States",
-      "ADD"
-    ],
-    "310891": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310892": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310893": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310894": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310895": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310896": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310897": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310898": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310899": [
-      "Verizon Wireless",
-      "United States",
-      "ADD"
-    ],
-    "310940": [
-      "Tyntec Inc.",
-      "United States",
-      "LIR"
-    ],
-    "310990": [
-      "Evolve Cellular Inc.",
-      "United States",
-      "LIR"
-    ],
-    "311010": [
-      "Chariton Valley Communications Corporation",
-      "United States",
-      "LIR"
-    ],
-    "311170": [
-      "Tampnet (formerly Broadpoint, LLC (former PetroCom, LLC) c/o MTPCS, LL",
-      "United States",
-      "LIR"
-    ],
-    "311200": [
-      "ARINC",
-      "United States",
-      "SUP"
-    ],
-    "311210": [
-      "Telnyx LLC",
-      "United States",
-      "ADD"
-    ],
-    "311300": [
-      "Nexus Communications Inc",
-      "United States",
-      "SUP"
-    ],
-    "311460": [
-      "ELECTRIC IMP INCORPORATED",
-      "United States",
-      "ADD"
-    ],
-    "311500": [
-      "Mosaic Telecom Inc",
-      "United States",
-      "SUP"
-    ],
-    "311510": [
-      "Ligado Networks",
-      "United States",
-      "LIR"
-    ],
-    "311550": [
-      "Commnet Wireless, LLC",
-      "United States",
-      "LIR"
-    ],
-    "311600": [
-      "Limitless Mobile, LLC",
-      "United States",
-      "ADD"
-    ],
-    "311700": [
-      "Midwest Network Solutions Hub, LLC. (MNS)",
-      "United States",
-      "LIR"
-    ],
-    "311760": [
-      "Reclaimed 06/21/2016",
-      "United States",
-      "ADD"
-    ],
-    "311780": [
-      "The American Samoa Telecommunications Authority",
-      "United States",
-      "ADD"
-    ],
-    "311882": [
-      "Sprint",
-      "United States",
-      "ADD"
-    ],
-    "311920": [
-      "Missouri RSA No 5 Partnership",
-      "United States",
-      "LIR"
-    ],
-    "311960": [
-      "Lycamobile USA Inc",
-      "United States",
-      "SUP"
-    ],
-    "312010": [
-      "Chariton Valley Communications Corporation",
-      "United States",
-      "LIR"
-    ],
-    "312050": [
-      "Fuego Wireless LLC",
-      "United States",
-      "SUP"
-    ],
-    "312070": [
-      "Adams Networks Inc",
-      "United States",
-      "SUP"
-    ],
-    "312140": [
-      "Cleveland Unlimited Inc",
-      "United States",
-      "SUP"
-    ],
-    "312180": [
-      "Limitless Mobile, LLC",
-      "United States",
-      "LIR"
-    ],
-    "312220": [
-      "Chariton Valley Communications Corporation",
-      "United States",
-      "LIR"
-    ],
-    "312340": [
-      "MTA Communications dba MTA Wireless",
-      "United States",
-      "SUP"
-    ],
-    "312440": [
-      "Consolidated Telcom",
-      "United States",
-      "SUP"
-    ],
-    "312650": [
-      "Brightlink",
-      "United States",
-      "LIR"
-    ],
-    "312690": [
-      "TGS, LLC",
-      "United States",
-      "LIR"
-    ],
-    "312740": [
-      "KDDI America, Inc dba Locus Telecommunications",
-      "United States",
-      "SUP"
-    ],
-    "312990": [
-      "PREMIER HOLDINGS, LLC",
-      "United States",
-      "LIR"
-    ],
-    "313061": [
-      "Country Wireless",
-      "United States",
-      "ADD"
-    ],
-    "313100": [
-      "AT&T FirstNet",
-      "United States",
-      "LIR"
-    ],
-    "313110": [
-      "AT&T FirstNet",
-      "United States",
-      "ADD"
-    ],
-    "313120": [
-      "AT&T FirstNet",
-      "United States",
-      "ADD"
-    ],
-    "313130": [
-      "AT&T FirstNet",
-      "United States",
-      "ADD"
-    ],
-    "313140": [
-      "AT&T FirstNet",
-      "United States",
-      "ADD"
-    ],
-    "313150": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "313160": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "313170": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "313180": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "313190": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "313210": [
-      "AT&T Mobility",
-      "United States",
-      "LIR"
-    ],
-    "313220": [
-      "Custer Telephone Cooperative,Inc.",
-      "United States",
-      "ADD"
-    ],
-    "313230": [
-      "Velocity Communications Inc",
-      "United States",
-      "ADD"
-    ],
-    "313240": [
-      "Fundamental Holdings, Corp",
-      "United States",
-      "ADD"
-    ],
-    "313250": [
-      "Imperial County Office of Education",
-      "United States",
-      "ADD"
-    ],
-    "313260": [
-      "Expeto Wireless Inc.",
-      "United States",
-      "ADD"
-    ],
-    "313280": [
-      "King Street Wireless, LP",
-      "United States",
-      "ADD"
-    ],
-    "313290": [
-      "Gulf Coast Broadband LLC",
-      "United States",
-      "ADD"
-    ],
-    "313300": [
-      "Cambio WiFi of Delmarva, LLC.",
-      "United States",
-      "ADD"
-    ],
-    "313310": [
-      "CAL.NET, INC",
-      "United States",
-      "ADD"
-    ],
-    "313320": [
-      "Paladin Wireless",
-      "United States",
-      "ADD"
-    ],
-    "313330": [
-      "CenturyTel Broadband Services LLC",
-      "United States",
-      "ADD"
-    ],
-    "313340": [
-      "Dish Network",
-      "United States",
-      "ADD"
-    ],
-    "313350": [
-      "Dish Network",
-      "United States",
-      "ADD"
-    ],
-    "313360": [
-      "Dish Network",
-      "United States",
-      "ADD"
-    ],
-    "313370": [
-      "Red Truck Wireless, LLC",
-      "United States",
-      "ADD"
-    ],
-    "313380": [
-      "OptimERA Inc.",
-      "United States",
-      "ADD"
-    ],
-    "313390": [
-      "Altice USA Wireless, Inc.",
-      "United States",
-      "ADD"
-    ],
-    "313400": [
-      "Texoma Communications, LLC",
-      "United States",
-      "ADD"
-    ],
-    "313410": [
-      "pdvWireless",
-      "United States",
-      "ADD"
-    ],
-    "313420": [
-      "Hudson Valley Wireless",
-      "United States",
-      "ADD"
-    ],
-    "313440": [
-      "Arvig Enterprises INC",
-      "United States",
-      "ADD"
-    ],
-    "313450": [
-      "Spectrum Wireless Holdings, LLC",
-      "United States",
-      "ADD"
-    ],
-    "313460": [
-      "Mobi, Inc.",
-      "United States",
-      "ADD"
-    ],
-    "313470": [
-      "San Diego Gas & Electric Company",
-      "United States",
-      "ADD"
-    ],
-    "313480": [
-      "Ready Wireless, LLC",
-      "United States",
-      "ADD"
-    ],
-    "313490": [
-      "Puloli, Inc",
-      "United States",
-      "ADD"
-    ],
-    "313500": [
-      "Shelcomm, Inc",
-      "United States",
-      "ADD"
-    ],
-    "313510": [
-      "Puerto Rico Telecom Company",
-      "United States",
-      "ADD"
-    ],
-    "313520": [
-      "Florida Broadband, Inc",
-      "United States",
-      "ADD"
-    ],
-    "313540": [
-      "Nokia Innovations US LLC",
-      "United States",
-      "ADD"
-    ],
-    "313550": [
-      "Mile High Networks LLC",
-      "United States",
-      "ADD"
-    ],
-    "313560": [
-      "Transit Wireless, LLC",
-      "United States",
-      "ADD"
-    ],
-    "313570": [
-      "Celular Network Partnership",
-      "United States",
-      "ADD"
-    ],
-    "313580": [
-      "Telecall Telecommuncations Corp.",
-      "United States",
-      "ADD"
-    ],
-    "313590": [
-      "Southern Communications Services, Inc. D/B/A Southern Linc",
-      "United States",
-      "ADD"
-    ],
-    "313600": [
-      "ST Engineering iDirect",
-      "United States",
-      "ADD"
-    ],
-    "313610": [
-      "Crystal Automation Systems, Inc.",
-      "United States",
-      "ADD"
-    ],
-    "313620": [
-      "Screened Images",
-      "United States",
-      "ADD"
-    ],
-    "313630": [
-      "LICT Corporation",
-      "United States",
-      "ADD"
-    ],
-    "313640": [
-      "Geoverse",
-      "United States",
-      "ADD"
-    ],
-    "313650": [
-      "Chevron USA INC",
-      "United States",
-      "ADD"
-    ],
-    "313660": [
-      "Hudson Valley Wireless",
-      "United States",
-      "ADD"
-    ],
-    "313670": [
-      "Hudson Valley Wireless",
-      "United States",
-      "ADD"
-    ],
-    "313680": [
-      "Hudson Valley Wireless",
-      "United States",
-      "ADD"
-    ],
-    "313690": [
-      "Shenandoah Cable Television, LLC",
-      "United States",
-      "ADD"
-    ],
-    "313700": [
-      "Ameren Services Company",
-      "United States",
-      "ADD"
-    ],
-    "313710": [
-      "Extent Systems",
-      "United States",
-      "ADD"
-    ],
-    "313720": [
-      "1st Point Communications, LLC",
-      "United States",
-      "ADD"
-    ],
-    "313730": [
-      "TruAccess Networks",
-      "United States",
-      "ADD"
-    ],
-    "313740": [
-      "RTO Wireless, LLC",
-      "United States",
-      "ADD"
-    ],
-    "313750": [
-      "313-CellTex Networks, LLC",
-      "United States",
-      "ADD"
-    ],
-    "313760": [
-      "Hologram, Inc.",
-      "United States",
-      "ADD"
-    ],
-    "313770": [
-      "Tango Networks",
-      "United States",
-      "ADD"
-    ],
-    "314010": [
-      "Boingo Wireless Inc",
-      "United States",
-      "ADD"
-    ],
-    "314020": [
-      "Spectrum Wireless Holdings, LLC",
-      "United States",
-      "ADD"
-    ],
-    "314030": [
-      "Baicells Technologies North America Inc.",
-      "United States",
-      "ADD"
-    ],
-    "314100": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "314110": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "314120": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "314130": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "314140": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "314150": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "314160": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "314170": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "314180": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "314190": [
-      "RESERVED FOR PUBLIC SAFETY",
-      "United States",
-      "ADD"
-    ],
-    "334010": [
-      "AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.",
-      "Mexico",
-      "LIR"
-    ],
-    "334030": [
-      "PEGASO PCS, S.A. DE C.V.",
-      "Mexico",
-      "LIR"
-    ],
-    "334040": [
-      "AT&T NORTE, S. DE R.L. DE C.V. Y AT&T DESARROLLO EN COMUNICACIONES DE M\u00c9XICO, S. DE R.L. DE C.V.",
-      "Mexico",
-      "LIR"
-    ],
-    "334050": [
-      "GRUPO AT&T CELULLAR, S. DE R.L. DE C.V.",
-      "Mexico",
-      "LIR"
-    ],
-    "334070": [
-      "AT&T COMERCIALIZACI\u00d3N M\u00d3VIL, S. DE R.L. DE C.V.",
-      "Mexico",
-      "LIR"
-    ],
-    "334080": [
-      "AT&T COMERCIALIZACI\u00d3N M\u00d3VIL, S. DE R.L. DE C.V.",
-      "Mexico",
-      "LIR"
-    ],
-    "334090": [
-      "AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.",
-      "Mexico",
-      "LIR"
-    ],
-    "334100": [
-      "TELECOMUNICACIONES DE M\u00c9XICO",
-      "Mexico",
-      "ADD"
-    ],
-    "334110": [
-      "MAXCOM TELECOMUNICACIONES, S.A.B. DE C.V.",
-      "Mexico",
-      "ADD"
-    ],
-    "334120": [
-      "QUICKLY PHONE, S.A. DE C.V.",
-      "Mexico",
-      "ADD"
-    ],
-    "334130": [
-      "AXTEL, S.A.B. DE C.V.",
-      "Mexico",
-      "ADD"
-    ],
-    "334140": [
-      "ALT\u00c1N REDES, S.A.P.I. DE C.V.",
-      "Mexico",
-      "ADD"
-    ],
-    "334150": [
-      "ULTRAVISI\u00d3N, S.A. DE C.V.",
-      "Mexico",
-      "ADD"
-    ],
-    "334160": [
-      "CABLEVISI\u00d3N RED, S.A. DE C.V.",
-      "Mexico",
-      "ADD"
-    ],
-    "334170": [
-      "OXIO MOBILE, S.A. DE C.V.",
-      "Mexico",
-      "ADD"
-    ],
-    "334180": [
-      "FREEDOMPOP M\u00c9XICO, S.A. DE C.V.",
-      "Mexico",
-      "ADD"
-    ],
-    "334190": [
-      "VIASAT TECNOLOG\u00cdA, S.A. DE C.V.",
-      "Mexico",
-      "ADD"
-    ],
-    "338040": [
-      "Symbiote Investment Limited",
-      "Jamaica",
-      "SUP"
-    ],
-    "338080": [
-      "Rock Mobile Limited",
-      "Jamaica",
-      "ADD"
-    ],
-    "34004": [
-      "Free Cara\u00efbe",
-      "Guadeloupe",
-      "SUP"
-    ],
-    "34011": [
-      "Guyane T\u00e9l\u00e9phone Mobile",
-      "French Guiana",
-      "SUP"
-    ],
-    "34012": [
-      "Martinique T\u00e9l\u00e9phone Mobile",
-      "Martinique",
-      "SUP"
-    ],
-    "342600": [
-      "Cable & Wireless",
-      "Barbados",
-      "LIR"
-    ],
-    "342646": [
-      "KW Telecommunications Inc.",
-      "Barbados",
-      "ADD"
-    ],
-    "342800": [
-      "Ozone",
-      "Barbados",
-      "ADD"
-    ],
-    "342820": [
-      "Neptune Communications Inc.",
-      "Barbados",
-      "ADD"
-    ],
-    "346001": [
-      "WestTel Ltd., trading as Logic",
-      "Cayman Islands",
-      "ADD"
-    ],
-    "350007": [
-      "Paradise Mobile",
-      "Bermuda",
-      "ADD"
-    ],
-    "35015": [
-      "FKB Net Ltd.",
-      "Bermuda",
-      "ADD"
-    ],
-    "376351": [
-      "Digicel TCI Ltd",
-      "Turks and Caicos Islands",
-      "SUP"
-    ],
-    "376352": [
-      "IslandCom Communication Ltd.",
-      "Turks and Caicos Islands",
-      "SUP"
-    ],
-    "376360": [
-      "Digicel",
-      "Turks and Caicos Islands",
-      "ADD"
-    ],
-    "40211": [
-      "Bhutan Telecom Limited (Bmobile)",
-      "Bhutan",
-      "LIR"
-    ],
-    "40217": [
-      "Bhutan Telecom Limited (Bmobile)",
-      "Bhutan",
-      "LIR"
-    ],
-    "40277": [
-      "Tashi InfoComm Limited (Tashi Cell)",
-      "Bhutan",
-      "ADD"
-    ],
-    "41303": [
-      "Hutchison Telecommunications Lanka (Pvt) Ltd.",
-      "Sri Lanka",
-      "SUP"
-    ],
-    "41309": [
-      "Hutchison Telecommunications Lanka (Pvt) Ltd.",
-      "Sri Lanka",
-      "SUP"
-    ],
-    "41702": [
-      "MTN Syria",
-      "Syrian Arab Republic",
-      "ADD"
-    ],
-    "41703": [
-      "WAFA Telecom",
-      "Syrian Arab Republic",
-      "ADD"
-    ],
-    "42206": [
-      "Vodafone Oman",
-      "Oman",
-      "ADD"
-    ],
-    "42522": [
-      "Maskyoo Telephonia Ltd.",
-      "Israel",
-      "ADD"
-    ],
-    "42527": [
-      "BITIT Ltd.",
-      "Israel",
-      "ADD"
-    ],
-    "42606": [
-      "STC Bahrain",
-      "Bahrain",
-      "ADD"
-    ],
-    "42607": [
-      "TAIF",
-      "Bahrain",
-      "ADD"
-    ],
-    "43201": [
-      "KISH CELL PARS",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43202": [
-      "NEGIN ERTEBATAT AVA",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43203": [
-      "PARSIAN HAMRAH LOTUS",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43204": [
-      "TOSE E FANAVARI ERTEBATAT NOVIN HAMRAH",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43205": [
-      "HAMRAH HOSHMAND AYANDEH",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43206": [
-      "ERTEBATAT ARYANTEL",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43207": [
-      "HOOSHMAND AMIN MOBILE",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43208": [
-      "TOSE-E ERTEBATAT HAMRAH SHATEL",
-      "Iran (Islamic Republic of)",
-      "LIR"
-    ],
-    "43209": [
-      "HIWEB",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43211": [
-      "MCI (Mobile Communications of Iran)",
-      "Iran (Islamic Republic of)",
-      "LIR"
-    ],
-    "43212": [
-      "HIWEB",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43213": [
-      "HIWEB",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43214": [
-      "Kish Free Zone Organization",
-      "Iran (Islamic Republic of)",
-      "LIR"
-    ],
-    "43219": [
-      "Telecommunication Company of Iran (TCI) - Isfahan Celcom GSM",
-      "Iran (Islamic Republic of)",
-      "SUP"
-    ],
-    "43220": [
-      "RIGHTEL",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43232": [
-      "TCI (Telecommunication Company of Iran)",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43235": [
-      "IRANCELL",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43244": [
-      "ERTEBATAT MOBIN NET",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43245": [
-      "FARABORD DADEHAYE IRANIAN",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43246": [
-      "HIWEB",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43249": [
-      "GOSTARESH ERTEBATAT MABNA",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43250": [
-      "SHATEL",
-      "Iran (Islamic Republic of)",
-      "LIR"
-    ],
-    "43251": [
-      "PISHGAMAN TOSE-E ERTEBATAT",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43252": [
-      "ASIATECH",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43270": [
-      "TCI (Telecommunication Company of Iran)",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43271": [
-      "ERTEBATAT KOOHE NOOR",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "43293": [
-      "ERTEBATAT FARZANEGAN PARS",
-      "Iran (Islamic Republic of)",
-      "ADD"
-    ],
-    "44001": [
-      "KDDI CORPORATION",
-      "Japan",
-      "LIR"
-    ],
-    "44007": [
-      "closip, Inc.",
-      "Japan",
-      "LIR"
-    ],
-    "44008": [
-      "Panasonic Systems Solutions Japan Co., Ltd",
-      "Japan",
-      "ADD"
-    ],
-    "44009": [
-      "Marubeni Wireless Communications Inc.",
-      "Japan",
-      "ADD"
-    ],
-    "44011": [
-      "Rakuten Mobile Network, Inc.",
-      "Japan",
-      "ADD"
-    ],
-    "44012": [
-      "CABLE MEDIA WAIWAI CORPORATION",
-      "Japan",
-      "ADD"
-    ],
-    "44013": [
-      "NTT Communications Corporation",
-      "Japan",
-      "ADD"
-    ],
-    "44014": [
-      "GRAPE ONE LTD.",
-      "Japan",
-      "ADD"
-    ],
-    "44015": [
-      "BB Backbone Corp.",
-      "Japan",
-      "ADD"
-    ],
-    "44016": [
-      "Nokia Innovations Japan G.K.",
-      "Japan",
-      "ADD"
-    ],
-    "44017": [
-      "OSAKA GAS BUSINESS CREATE CORPORATION",
-      "Japan",
-      "ADD"
-    ],
-    "44018": [
-      "Kintetsu Cable Network, Ltd",
-      "Japan",
-      "ADD"
-    ],
-    "44019": [
-      "NEC Networks & System Integration Corporation",
-      "Japan",
-      "ADD"
-    ],
-    "44022": [
-      "JTOWER Inc.",
-      "Japan",
-      "ADD"
-    ],
-    "44023": [
-      "FUJITSU LIMITED",
-      "Japan",
-      "ADD"
-    ],
-    "44110": [
-      "UQ Communications Inc.",
-      "Japan",
-      "SUP"
-    ],
-    "441200": [
-      "SORACOM, Inc.",
-      "Japan",
-      "ADD"
-    ],
-    "441201": [
-      "Aurens Co.,Ltd.",
-      "Japan",
-      "ADD"
-    ],
-    "441202": [
-      "Sony Wireless Communications Inc.",
-      "Japan",
-      "ADD"
-    ],
-    "441203": [
-      "GujoCity",
-      "Japan",
-      "ADD"
-    ],
-    "441204": [
-      "Wicom Inc.",
-      "Japan",
-      "ADD"
-    ],
-    "441205": [
-      "KATCH NETWORK INC.",
-      "Japan",
-      "ADD"
-    ],
-    "441206": [
-      "MITSUBISHI ELECTRIC CORPORATION",
-      "Japan",
-      "ADD"
-    ],
-    "441207": [
-      "Mitsui Knowledge Industry Co., Ltd.",
-      "Japan",
-      "ADD"
-    ],
-    "441208": [
-      "CHUDENKO CORPORATION",
-      "Japan",
-      "ADD"
-    ],
-    "441209": [
-      "Cable Television TOYAMA Inc.",
-      "Japan",
-      "ADD"
-    ],
-    "441210": [
-      "NIPPON TELEGRAPH AND TELEPHONE EAST CORPORATION",
-      "Japan",
-      "ADD"
-    ],
-    "44191": [
-      "The Tokyo Organising Committee of the Olympic and Paralympic Games",
-      "Japan",
-      "SUP"
-    ],
-    "45203": [
-      "S Telecom (CDMA)",
-      "Viet Nam",
-      "SUP"
-    ],
-    "45205": [
-      "Vietnamobile",
-      "Viet Nam",
-      "ADD"
-    ],
-    "45206": [
-      "EVN Telecom",
-      "Viet Nam",
-      "SUP"
-    ],
-    "45207": [
-      "Gmobile",
-      "Viet Nam",
-      "LIR"
-    ],
-    "45208": [
-      "I-Telecom",
-      "Viet Nam",
-      "ADD"
-    ],
-    "45209": [
-      "REDDI",
-      "Viet Nam",
-      "ADD"
-    ],
-    "45409": [
-      "CMMobile Global Communications Ltd",
-      "Hong Kong, China",
-      "SUP"
-    ],
-    "45412": [
-      "China Mobile Hong Kong Company Limited",
-      "Hong Kong, China",
-      "LIR"
-    ],
-    "45413": [
-      "China Mobile Hong Kong Company Limited",
-      "Hong Kong, China",
-      "LIR"
-    ],
-    "45421": [
-      "21 ViaNet Group Limited",
-      "Hong Kong, China",
-      "LIR"
-    ],
-    "45423": [
-      "Lycamobile Hong Kong Ltd",
-      "Hong Kong, China",
-      "SUP"
-    ],
-    "45430": [
-      "China Mobile Hong Kong Company Limited",
-      "Hong Kong, China",
-      "LIR"
-    ],
-    "45435": [
-      "Webbing Hong Kong Limited",
-      "Hong Kong, China",
-      "ADD"
-    ],
-    "45436": [
-      "Easco Telecommunications Limited",
-      "Hong Kong, China",
-      "ADD"
-    ],
-    "45701": [
-      "Lao Telecommunication Public Company",
-      "Lao P.D.R.",
-      "LIR"
-    ],
-    "45702": [
-      "ETL Company Limited",
-      "Lao P.D.R.",
-      "LIR"
-    ],
-    "45703": [
-      "Star Telecom Co., Ltd",
-      "Lao P.D.R.",
-      "ADD"
-    ],
-    "45707": [
-      "Best Telecom Co., Ltd",
-      "Lao P.D.R.",
-      "ADD"
-    ],
-    "45708": [
-      "TPLUS Digital Sole Company Limited",
-      "Lao P.D.R.",
-      "LIR"
-    ],
-    "50512": [
-      "Vodafone Hutchison Australia Pty Ltd",
-      "Australia",
-      "LIR"
-    ],
-    "50518": [
-      "Pactel International Pty Ltd",
-      "Australia",
-      "SUP"
-    ],
-    "50546": [
-      "ANGLOGOLD ASHANTI AUSTRALIA LTD",
-      "Australia",
-      "ADD"
-    ],
-    "50547": [
-      "Woodside Energy Limited",
-      "Australia",
-      "ADD"
-    ],
-    "50548": [
-      "Titan ICT Pty Ltd",
-      "Australia",
-      "ADD"
-    ],
-    "50549": [
-      "Field Solutions Group Pty Ltd",
-      "Australia",
-      "ADD"
-    ],
-    "50551": [
-      "Fortescue Metals Group Ltd",
-      "Australia",
-      "ADD"
-    ],
-    "50552": [
-      "Optitel Pty Ltd",
-      "Australia",
-      "ADD"
-    ],
-    "50553": [
-      "Shell Australia Pty Ltd",
-      "Australia",
-      "ADD"
-    ],
-    "50554": [
-      "Nokia Solutions and Networks Australia Pty Ltd",
-      "Australia",
-      "ADD"
-    ],
-    "52801": [
-      "Telekom Brunei Berhad (TelBru)",
-      "Brunei Darussalam",
-      "ADD"
-    ],
-    "52802": [
-      "Progresif Cellular Sdn Bhd (PCSB)",
-      "Brunei Darussalam",
-      "ADD"
-    ],
-    "52803": [
-      "Unified National Networks Sdn Bhd (UNN)",
-      "Brunei Darussalam",
-      "ADD"
-    ],
-    "53007": [
-      "Dense Air New Zealand Ltd",
-      "New Zealand",
-      "ADD"
-    ],
-    "53704": [
-      "Digitec Communication Limited",
-      "Papua New Guinea",
-      "ADD"
-    ],
-    "55299": [
-      "Palau Mobile Communications Inc. (PMCI)",
-      "Palau",
-      "ADD"
-    ],
-    "63105": [
-      "AFRICELL",
-      "Angola",
-      "ADD"
-    ],
-    "63305": [
-      "Intelvision Ltd",
-      "Seychelles",
-      "ADD"
-    ],
-    "63407": [
-      "Sudanese Telecommunication Co. LTD (SUDATEL)",
-      "Sudan",
-      "ADD"
-    ],
-    "63513": [
-      "AIRTEL RWANDA Ltd",
-      "Rwanda",
-      "ADD"
-    ],
-    "63514": [
-      "AIRTEL RWANDA Ltd",
-      "Rwanda",
-      "SUP"
-    ],
-    "63901": [
-      "Safaricom PLC",
-      "Kenya",
-      "LIR"
-    ],
-    "63902": [
-      "Safaricom PLC",
-      "Kenya",
-      "LIR"
-    ],
-    "63908": [
-      "Sema Mobile Services Limited",
-      "Kenya",
-      "SUP"
-    ],
-    "63911": [
-      "Jambo Telcoms Limited",
-      "Kenya",
-      "ADD"
-    ],
-    "63912": [
-      "Infura Limited",
-      "Kenya",
-      "ADD"
-    ],
-    "64001": [
-      "Shared Network Tanzania Limited",
-      "Tanzania",
-      "SUP"
-    ],
-    "64006": [
-      "WIA Company Limited",
-      "Tanzania",
-      "ADD"
-    ],
-    "64008": [
-      "Benson Informatics Limited (Smart)",
-      "Tanzania",
-      "SUP"
-    ],
-    "64013": [
-      "Wiafrica Tanzania Limited (Cootel)",
-      "Tanzania",
-      "SUP"
-    ],
-    "64014": [
-      "MO Mobile Holding Limited",
-      "Tanzania",
-      "SUP"
-    ],
-    "64106": [
-      "Afrimax Uganda Limited",
-      "Uganda",
-      "SUP"
-    ],
-    "64118": [
-      "Suretelecom Uganda Limited",
-      "Uganda",
-      "SUP"
-    ],
-    "64120": [
-      "Hamilton Telecom Limited",
-      "Uganda",
-      "SUP"
-    ],
-    "64126": [
-      "Lycamobile Network services Uganda Limited",
-      "Uganda",
-      "SUP"
-    ],
-    "64501": [
-      "Airtel Zambia Limited",
-      "Zambia",
-      "LIR"
-    ],
-    "64502": [
-      "MTN Zambia Limited",
-      "Zambia",
-      "LIR"
-    ],
-    "64507": [
-      "Liquid Telecom Zambia Limited",
-      "Zambia",
-      "ADD"
-    ],
-    "64907": [
-      "Capricorn Connect",
-      "Namibia",
-      "ADD"
-    ],
-    "65503": [
-      "Telkom SA SOC Ltd",
-      "South Africa",
-      "ADD"
-    ],
-    "65504": [
-      "Sasol (Pty) Ltd",
-      "South Africa",
-      "SUP"
-    ],
-    "65511": [
-      "SAPS Gauteng",
-      "South Africa",
-      "SUP"
-    ],
-    "65517": [
-      "Sishen Iron Ore Company (Ltd) Pty",
-      "South Africa",
-      "SUP"
-    ],
-    "65521": [
-      "Cape Town Metropolitan Council",
-      "South Africa",
-      "SUP"
-    ],
-    "65541": [
-      "South African Police Service",
-      "South Africa",
-      "SUP"
-    ],
-    "65565": [
-      "Vodacom Pty Ltd",
-      "South Africa",
-      "ADD"
-    ],
-    "65575": [
-      "Airport Company South Africa (ACSA)",
-      "South Africa",
-      "SUP"
-    ],
-    "65576": [
-      "Comsol Networks (Pty) Ltd",
-      "South Africa",
-      "ADD"
-    ],
-    "65577": [
-      "K2015315513 (Pty) Ltd t\\a One Telecom (Pty) Ltd",
-      "South Africa",
-      "ADD"
-    ],
-    "71402": [
-      "Grupo de Comunicaciones Digitales, S.A. (TIGO)",
-      "Panama",
-      "LIR"
-    ],
-    "714020": [
-      "Grupo de Comunicaciones Digitales, S.A. (TIGO)",
-      "Panama",
-      "LIR"
-    ],
-    "71405": [
-      "Cable & Wireless Panam\u00e1, S.A.",
-      "Panama",
-      "ADD"
-    ],
-    "72406": [
-      "Telef\u00f4nica Brasil S.A.",
-      "Brazil",
-      "LIR"
-    ],
-    "72410": [
-      "Telef\u00f4nica Brasil S.A.",
-      "Brazil",
-      "LIR"
-    ],
-    "72411": [
-      "Telef\u00f4nica Brasil S.A.",
-      "Brazil",
-      "LIR"
-    ],
-    "72417": [
-      "SURF TELECOM S.A.",
-      "Brazil",
-      "ADD"
-    ],
-    "72421": [
-      "LIGUE",
-      "Brazil",
-      "ADD"
-    ],
-    "72423": [
-      "Telef\u00f4nica Brasil S.A.",
-      "Brazil",
-      "LIR"
-    ],
-    "72454": [
-      "TIM S.A.",
-      "Brazil",
-      "LIR"
-    ],
-    "73026": [
-      "WILL S.A.",
-      "Chile",
-      "ADD"
-    ],
-    "73027": [
-      "Cibeles Telecom S.A.",
-      "Chile",
-      "ADD"
-    ],
-    "73800": [
-      "E-Networks Inc.",
-      "Guyana",
-      "ADD"
-    ],
-    "74204": [
-      "Free Cara\u00efbe",
-      "French Guiana",
-      "ADD"
-    ],
-    "74800": [
-      "Ancel - TDMA",
-      "Uruguay",
-      "SUP"
-    ],
-    "74801": [
-      "Administraci\u00f3n Nacional de Telecomunicaciones (ANTEL)",
-      "Uruguay",
-      "LIR"
-    ],
-    "74803": [
-      "Ancel",
-      "Uruguay",
-      "SUP"
-    ],
-    "74807": [
-      "Telef\u00f3nica M\u00f3viles del Uruguay S.A. (Movistar)",
-      "Uruguay",
-      "LIR"
-    ],
-    "74810": [
-      "AM Wireless Uruguay S.A. (Claro)",
-      "Uruguay",
-      "LIR"
-    ],
-    "90113": [
-      "BebbiCell AG (Formerly Global Networks Switzerland AG",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90119": [
-      "Vodafone Malta (Monaco Telecom)",
-      "International Mobile, shared code",
-      "LIR"
-    ],
-    "90129": [
-      "Telenor Connexion AB",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90133": [
-      "Smart Communications, Inc",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90141": [
-      "One Network B.V.",
-      "International Mobile, shared code",
-      "LIR"
-    ],
-    "90142": [
-      "IMC Island Ehf (formerly DCN Hub ehf)",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90147": [
-      "Ooredoo",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90149": [
-      "Mobile Telecommunications Company K.S.C.P. (Formerly Zain Kuwait)",
-      "International Mobile, shared code",
-      "LIR"
-    ],
-    "90151": [
-      "VisionNG",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90153": [
-      "Inmarsat Ltd. (replacing Deutsche Telekom AG)",
-      "International Mobile, shared code",
-      "LIR"
-    ],
-    "90157": [
-      "SAP",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90163": [
-      "GloTell B.V.",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90165": [
-      "Plintron Global Technology Solutions Private Limited",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90166": [
-      "Limitless Mobile, LLC",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90167": [
-      "1NCE GmbH",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90168": [
-      "Maersk Line A/S",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90169": [
-      "Legos",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90170": [
-      "Clementvale Baltic O\u00dc",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90171": [
-      "Tampnet AS",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90172": [
-      "Tele2 Sverige Aktiebolag (Formerly Tele2 IoT)",
-      "International Mobile, shared code",
-      "LIR"
-    ],
-    "90173": [
-      "Cubic Telecom Limited",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90174": [
-      "Etisalat",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90175": [
-      "Podsystem Ltd.",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90176": [
-      "A1 Telekom Austria AG",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90177": [
-      "Bouygues Telecom",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90178": [
-      "Telecom Italia Sparkle S.p.A.",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90179": [
-      "Nokia Corporation",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90180": [
-      "Flo Live Limited",
-      "International Mobile, shared code",
-      "SUP"
-    ],
-    "90181": [
-      "Airnity SAS",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90182": [
-      "Eseye Limited",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90183": [
-      "iBasis Netherlands BV",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90184": [
-      "TELEFONICA MOVILES ESPA\u00d1A, S.A. UNIPERSONAL (TME)",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90185": [
-      "Telef\u00f3nica Germany GmbH & Co. OHG",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90186": [
-      "BJT PARTNERS SAS",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90187": [
-      "Cisco Systems, Inc.",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90188": [
-      "UN Office for the Coordination of Humanitarian Affairs (OCHA)",
-      "International              Mobile, shared code",
-      "SUP"
-    ],
-    "90189": [
-      "DIDWW Ireland Limited",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90190": [
-      "Truphone Limited",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90191": [
-      "World Mobile Group Limited",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90192": [
-      "Phonegroup SA",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90193": [
-      "SkyFive AG",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90194": [
-      "Intelsat US LLC",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90195": [
-      "HMD Global Oy",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "90196": [
-      "KORE Wireless",
-      "International Mobile, shared code",
-      "ADD"
-    ],
-    "99101": [
-      "World's Global Telecom (end of temporary assignment for trial on 15.I.2021)",
-      "Trial of a proposed new international telecommunication service, shared code",
-      "SUP"
-    ],
-    "99102": [
-      "Orange (end of temporary assignment for trial on 7.VIII.2022)",
-      "Trial of a proposed new international telecommunication service, shared code",
-      "SUP"
-    ],
-    "99103": [
-      "Halys SAS (temporary assignment for trial until 5.IV.2022)",
-      "Trial of a proposed new international telecommunication service, shared code",
-      "ADD"
+    "Albania": [
+      [
+        "Mobile 4 AL",
+        "27604",
+        "SUP"
+      ],
+      [
+        "ONE TELECOMMUNICATIONS sh.a",
+        "27601",
+        "LIR"
+      ],
+      [
+        "ALBTELECOM sh.a.",
+        "27603",
+        "LIR"
+      ]
+    ],
+    "Angola": [
+      [
+        "AFRICELL",
+        "63105",
+        "ADD"
+      ]
+    ],
+    "Australia": [
+      [
+        "ANGLOGOLD ASHANTI AUSTRALIA LTD",
+        "50546",
+        "ADD"
+      ],
+      [
+        "Vodafone Hutchison Australia Pty Ltd",
+        "50512",
+        "LIR"
+      ],
+      [
+        "Woodside Energy Limited",
+        "50547",
+        "ADD"
+      ],
+      [
+        "Titan ICT Pty Ltd",
+        "50548",
+        "ADD"
+      ],
+      [
+        "Pactel International Pty Ltd",
+        "50518",
+        "SUP"
+      ],
+      [
+        "Field Solutions Group Pty Ltd",
+        "50549",
+        "ADD"
+      ],
+      [
+        "Fortescue Metals Group Ltd",
+        "50551",
+        "ADD"
+      ],
+      [
+        "Optitel Pty Ltd",
+        "50552",
+        "ADD"
+      ],
+      [
+        "Shell Australia Pty Ltd",
+        "50553",
+        "ADD"
+      ],
+      [
+        "Nokia Solutions and Networks Australia Pty Ltd",
+        "50554",
+        "ADD"
+      ]
+    ],
+    "Bahrain": [
+      [
+        "STC Bahrain",
+        "42606",
+        "ADD"
+      ],
+      [
+        "TAIF",
+        "42607",
+        "ADD"
+      ]
+    ],
+    "Barbados": [
+      [
+        "Neptune Communications Inc.",
+        "342820",
+        "ADD"
+      ],
+      [
+        "Ozone",
+        "342800",
+        "ADD"
+      ],
+      [
+        "Cable & Wireless",
+        "342600",
+        "LIR"
+      ],
+      [
+        "KW Telecommunications Inc.",
+        "342646",
+        "ADD"
+      ]
+    ],
+    "Belgium": [
+      [
+        "Join Experience (Belgium)",
+        "20640",
+        "SUP"
+      ],
+      [
+        "Citymesh",
+        "20603",
+        "ADD"
+      ],
+      [
+        "L-Mobi Mobile",
+        "20611",
+        "ADD"
+      ],
+      [
+        "FEBO Telecom",
+        "20622",
+        "ADD"
+      ],
+      [
+        "TISMI",
+        "20629",
+        "ADD"
+      ],
+      [
+        "e-BO Enterprises",
+        "20699",
+        "ADD"
+      ],
+      [
+        "MWINGZ (Proximus/Orange Belgium)",
+        "20604",
+        "ADD"
+      ],
+      [
+        "ONOFFAPP",
+        "20634",
+        "ADD"
+      ]
+    ],
+    "Bermuda": [
+      [
+        "FKB Net Ltd.",
+        "35015",
+        "ADD"
+      ],
+      [
+        "Paradise Mobile",
+        "350007",
+        "ADD"
+      ]
+    ],
+    "Bhutan": [
+      [
+        "Tashi InfoComm Limited (Tashi Cell)",
+        "40277",
+        "ADD"
+      ],
+      [
+        "Bhutan Telecom Limited (Bmobile)",
+        "40211",
+        "LIR"
+      ],
+      [
+        "Bhutan Telecom Limited (Bmobile)",
+        "40217",
+        "LIR"
+      ]
+    ],
+    "Brazil": [
+      [
+        "Telef\u00f4nica Brasil S.A.",
+        "72406",
+        "LIR"
+      ],
+      [
+        "Telef\u00f4nica Brasil S.A.",
+        "72410",
+        "LIR"
+      ],
+      [
+        "Telef\u00f4nica Brasil S.A.",
+        "72411",
+        "LIR"
+      ],
+      [
+        "Telef\u00f4nica Brasil S.A.",
+        "72423",
+        "LIR"
+      ],
+      [
+        "TIM S.A.",
+        "72454",
+        "LIR"
+      ],
+      [
+        "LIGUE",
+        "72421",
+        "ADD"
+      ],
+      [
+        "SURF TELECOM S.A.",
+        "72417",
+        "ADD"
+      ]
+    ],
+    "Brunei Darussalam": [
+      [
+        "Telekom Brunei Berhad (TelBru)",
+        "52801",
+        "ADD"
+      ],
+      [
+        "Progresif Cellular Sdn Bhd (PCSB)",
+        "52802",
+        "ADD"
+      ],
+      [
+        "Unified National Networks Sdn Bhd (UNN)",
+        "52803",
+        "ADD"
+      ]
+    ],
+    "Canada": [
+      [
+        "Blue Canada Wireless Inc",
+        "302330",
+        "ADD"
+      ],
+      [
+        "Star Solutions International Inc.",
+        "302550",
+        "ADD"
+      ],
+      [
+        "Rogers Communications Canada Inc. (Wireless)",
+        "302721",
+        "ADD"
+      ],
+      [
+        "Cogeco Connexion Inc.",
+        "302150",
+        "ADD"
+      ],
+      [
+        "Blue Canada Wireless Inc",
+        "302330",
+        "SUP"
+      ],
+      [
+        "Powertech Labs (experimental)",
+        "302996",
+        "ADD"
+      ],
+      [
+        "Halton Regional Police Service (reserved)",
+        "302910",
+        "ADD"
+      ],
+      [
+        "TNW Wireless Inc.",
+        "302770",
+        "LIR"
+      ],
+      [
+        "Institut de Recherche d\u2019Hydro-Qu\u00e9bec (experimental)",
+        "302998",
+        "ADD"
+      ],
+      [
+        "Naskapi Imuun Inc.",
+        "302350",
+        "ADD"
+      ],
+      [
+        "Vocom International Telecommunications, Inc",
+        "302848",
+        "ADD"
+      ],
+      [
+        "ISP Telecom",
+        "302230",
+        "ADD"
+      ],
+      [
+        "Cogeco Connexion Inc.",
+        "302151",
+        "ADD"
+      ],
+      [
+        "Cogeco Connexion Inc.",
+        "302152",
+        "ADD"
+      ],
+      [
+        "Ligado Networks Corp.",
+        "302570",
+        "LIR"
+      ]
+    ],
+    "Cayman Islands": [
+      [
+        "WestTel Ltd., trading as Logic",
+        "346001",
+        "ADD"
+      ]
+    ],
+    "Chile": [
+      [
+        "WILL S.A.",
+        "73026",
+        "ADD"
+      ],
+      [
+        "Cibeles Telecom S.A.",
+        "73027",
+        "ADD"
+      ]
+    ],
+    "Cyprus": [
+      [
+        "Mundio Mobile Cyprus Ltd",
+        "28023",
+        "SUP"
+      ],
+      [
+        "CYTA",
+        "28002",
+        "ADD"
+      ]
+    ],
+    "Czech Rep.": [
+      [
+        "T-Mobile Czech Republic a.s.",
+        "23007",
+        "ADD"
+      ],
+      [
+        "O2 Czech Republic a.s.",
+        "23002",
+        "LIR"
+      ],
+      [
+        "Nordic Telecom s.r.o.",
+        "23004",
+        "LIR"
+      ],
+      [
+        "Sprava zeleznic, statni organizace",
+        "23098",
+        "LIR"
+      ],
+      [
+        "Uniphone, s.r.o.",
+        "23009",
+        "ADD"
+      ]
+    ],
+    "Denmark": [
+      [
+        "Telia Danmark",
+        "23896",
+        "ADD"
+      ],
+      [
+        "Gotanet AB",
+        "23817",
+        "ADD"
+      ],
+      [
+        "Cobira ApS",
+        "23888",
+        "ADD"
+      ],
+      [
+        "Telenor",
+        "23877",
+        "SUP"
+      ]
+    ],
+    "Estonia": [
+      [
+        "SmartTel Plus O\u00dc",
+        "24816",
+        "ADD"
+      ],
+      [
+        "Premium Net International S.R.L. Eesti filiaal",
+        "24815",
+        "SUP"
+      ],
+      [
+        "CSC Telecom Estonia O\u00dc",
+        "24805",
+        "ADD"
+      ],
+      [
+        "Baltergo O\u00dc",
+        "24817",
+        "ADD"
+      ],
+      [
+        "CLOUD COMMUNICATIONS O\u00dc",
+        "24818",
+        "ADD"
+      ],
+      [
+        "OkTelecom O\u00dc",
+        "24819",
+        "ADD"
+      ],
+      [
+        "DOTT Telecom O\u00dc",
+        "24820",
+        "ADD"
+      ],
+      [
+        "Tismi B.V.",
+        "24821",
+        "ADD"
+      ],
+      [
+        "M2MConnect O\u00dc",
+        "24822",
+        "ADD"
+      ],
+      [
+        "Novametro O\u00dc",
+        "24824",
+        "ADD"
+      ],
+      [
+        "Eurofed O\u00dc",
+        "24825",
+        "ADD"
+      ],
+      [
+        "IT-Decision Telecom O\u00dc",
+        "24826",
+        "ADD"
+      ],
+      [
+        "Nord Connect O\u00dc",
+        "24828",
+        "ADD"
+      ]
+    ],
+    "Faroe Islands": [
+      [
+        "Sp/f Tosa",
+        "28803",
+        "SUP"
+      ]
+    ],
+    "France": [
+      [
+        "Thales communications & Security",
+        "20893",
+        "SUP"
+      ],
+      [
+        "Orange",
+        "20895",
+        "SUP"
+      ],
+      [
+        "Soci\u00e9t\u00e9 Air France",
+        "20898",
+        "SUP"
+      ],
+      [
+        "Truphone France",
+        "20812",
+        "ADD"
+      ],
+      [
+        "Cellhire (France)",
+        "20834",
+        "ADD"
+      ],
+      [
+        "Free mobile",
+        "20835",
+        "ADD"
+      ],
+      [
+        "Free mobile",
+        "20836",
+        "ADD"
+      ],
+      [
+        "IP Directions",
+        "20837",
+        "ADD"
+      ],
+      [
+        "Lebara France Limited",
+        "20838",
+        "ADD"
+      ],
+      [
+        "Netwo",
+        "20839",
+        "ADD"
+      ],
+      [
+        "Butachimie",
+        "208501",
+        "ADD"
+      ],
+      [
+        "EDF",
+        "208502",
+        "ADD"
+      ],
+      [
+        "GIP Vend\u00e9e num\u00e9rique",
+        "208701",
+        "ADD"
+      ],
+      [
+        "17-Numerique",
+        "208702",
+        "ADD"
+      ],
+      [
+        "Nivertel",
+        "208703",
+        "ADD"
+      ],
+      [
+        "Axione Limousin",
+        "208704",
+        "ADD"
+      ],
+      [
+        "Hautes-Pyr\u00e9n\u00e9es Num\u00e9rique",
+        "208705",
+        "ADD"
+      ],
+      [
+        "Tours M\u00e9tropole Num\u00e9rique",
+        "208706",
+        "ADD"
+      ],
+      [
+        "Sartel THD",
+        "208707",
+        "ADD"
+      ],
+      [
+        "Melis@ territoires ruraux",
+        "208708",
+        "ADD"
+      ],
+      [
+        "Quimper communaut\u00e9 t\u00e9l\u00e9com",
+        "208709",
+        "ADD"
+      ],
+      [
+        "Losange",
+        "208710",
+        "ADD"
+      ],
+      [
+        "Nomotech",
+        "208711",
+        "ADD"
+      ],
+      [
+        "Syndicat Audois d'\u00e9nergies et du Num\u00e9rique",
+        "208712",
+        "ADD"
+      ],
+      [
+        "SD NUM SAS",
+        "208713",
+        "ADD"
+      ],
+      [
+        "D\u00e9partement de l'Is\u00e8re",
+        "208714",
+        "ADD"
+      ],
+      [
+        "Haute-Garonne num\u00e9rique",
+        "20819",
+        "LIR"
+      ],
+      [
+        "Bouygues Telecom Business - Distribution",
+        "20826",
+        "LIR"
+      ],
+      [
+        "Airmob Infra Full",
+        "20828",
+        "LIR"
+      ],
+      [
+        "Syma",
+        "20830",
+        "LIR"
+      ],
+      [
+        "Syndicat mixte La Fibre64",
+        "20833",
+        "LIR"
+      ],
+      [
+        "Airbus defence and space SAS",
+        "20887",
+        "LIR"
+      ],
+      [
+        "Hub One",
+        "20889",
+        "LIR"
+      ],
+      [
+        "R\u00e9gion Bourgogne-Franche-Comt\u00e9",
+        "20896",
+        "LIR"
+      ]
+    ],
+    "French Guiana": [
+      [
+        "Guyane T\u00e9l\u00e9phone Mobile",
+        "34011",
+        "SUP"
+      ],
+      [
+        "Free Cara\u00efbe",
+        "74204",
+        "ADD"
+      ]
+    ],
+    "Georgia": [
+      [
+        "\"Datacomm\" LTD",
+        "28212",
+        "ADD"
+      ],
+      [
+        "\"Asanet\" LTD",
+        "28213",
+        "ADD"
+      ],
+      [
+        "\"Datahouseglobal\u201d LTD",
+        "28214",
+        "ADD"
+      ],
+      [
+        "\"Telecom1\" LTD",
+        "28212",
+        "LIR"
+      ],
+      [
+        "\"Myphone\" LTD",
+        "28222",
+        "ADD"
+      ],
+      [
+        "\"Servicebox\" LTD",
+        "28215",
+        "ADD"
+      ]
+    ],
+    "Gibraltar": [
+      [
+        "GibFibre Ltd (trading as \u201cGibfibrespeed\u201d)",
+        "26603",
+        "ADD"
+      ]
+    ],
+    "Guadeloupe": [
+      [
+        "Free Cara\u00efbe",
+        "34004",
+        "SUP"
+      ]
+    ],
+    "Guyana": [
+      [
+        "E-Networks Inc.",
+        "73800",
+        "ADD"
+      ]
+    ],
+    "Hong Kong, China": [
+      [
+        "Webbing Hong Kong Limited",
+        "45435",
+        "ADD"
+      ],
+      [
+        "CMMobile Global Communications Ltd",
+        "45409",
+        "SUP"
+      ],
+      [
+        "Lycamobile Hong Kong Ltd",
+        "45423",
+        "SUP"
+      ],
+      [
+        "Easco Telecommunications Limited",
+        "45436",
+        "ADD"
+      ],
+      [
+        "China Mobile Hong Kong Company Limited",
+        "45412",
+        "LIR"
+      ],
+      [
+        "China Mobile Hong Kong Company Limited",
+        "45413",
+        "LIR"
+      ],
+      [
+        "21 ViaNet Group Limited",
+        "45421",
+        "LIR"
+      ],
+      [
+        "China Mobile Hong Kong Company Limited",
+        "45430",
+        "LIR"
+      ]
+    ],
+    "Hungary": [
+      [
+        "Invitech ICT Services Ltd.",
+        "21604",
+        "LIR"
+      ],
+      [
+        "Invitech ICT Services Ltd.",
+        "21604",
+        "SUP"
+      ],
+      [
+        "Vodafone Hungary Ltd",
+        "21671",
+        "LIR"
+      ],
+      [
+        "Yettel Hungary Ltd.",
+        "21601",
+        "LIR"
+      ],
+      [
+        "Yettel Hungary Ltd.",
+        "21620",
+        "ADD"
+      ]
+    ],
+    "International Mobile, shared code": [
+      [
+        "Plintron Global Technology Solutions Private Limited",
+        "90165",
+        "ADD"
+      ],
+      [
+        "Limitless Mobile, LLC",
+        "90166",
+        "ADD"
+      ],
+      [
+        "1NCE GmbH",
+        "90167",
+        "ADD"
+      ],
+      [
+        "Maersk Line A/S",
+        "90168",
+        "ADD"
+      ],
+      [
+        "UN Office for the Coordination of Humanitarian Affairs (OCHA) - Reserved",
+        "90188",
+        "LIR"
+      ],
+      [
+        "Legos",
+        "90169",
+        "ADD"
+      ],
+      [
+        "Clementvale Baltic O\u00dc",
+        "90170",
+        "ADD"
+      ],
+      [
+        "One Network B.V.",
+        "90141",
+        "LIR"
+      ],
+      [
+        "Tampnet AS",
+        "90171",
+        "ADD"
+      ],
+      [
+        "Tele2 IoT",
+        "90172",
+        "ADD"
+      ],
+      [
+        "Cubic Telecom Limited",
+        "90173",
+        "ADD"
+      ],
+      [
+        "Vodafone Malta (Monaco Telecom)",
+        "90119",
+        "LIR"
+      ],
+      [
+        "Etisalat",
+        "90174",
+        "ADD"
+      ],
+      [
+        "Mobile Telecommunications Company K.S.C.P. (Formerly Zain Kuwait)",
+        "90149",
+        "LIR"
+      ],
+      [
+        "Podsystem Ltd.",
+        "90175",
+        "ADD"
+      ],
+      [
+        "A1 Telekom Austria AG",
+        "90176",
+        "ADD"
+      ],
+      [
+        "Bouygues Telecom",
+        "90177",
+        "ADD"
+      ],
+      [
+        "Tele2 Sverige Aktiebolag (Formerly Tele2 IoT)",
+        "90172",
+        "LIR"
+      ],
+      [
+        "Inmarsat Ltd. (replacing Deutsche Telekom AG)",
+        "90153",
+        "LIR"
+      ],
+      [
+        "Telecom Italia Sparkle S.p.A.",
+        "90178",
+        "ADD"
+      ],
+      [
+        "Nokia Corporation",
+        "90179",
+        "ADD"
+      ],
+      [
+        "Flo Live Limited",
+        "90180",
+        "ADD"
+      ],
+      [
+        "Airnity SAS",
+        "90181",
+        "ADD"
+      ],
+      [
+        "Eseye Limited",
+        "90182",
+        "ADD"
+      ],
+      [
+        "iBasis Netherlands BV",
+        "90183",
+        "ADD"
+      ],
+      [
+        "UN Office for the Coordination of Humanitarian Affairs (OCHA)",
+        "90188",
+        "SUP"
+      ],
+      [
+        "TELEFONICA MOVILES ESPA\u00d1A, S.A. UNIPERSONAL (TME)",
+        "90184",
+        "ADD"
+      ],
+      [
+        "Telef\u00f3nica Germany GmbH & Co. OHG",
+        "90185",
+        "ADD"
+      ],
+      [
+        "GloTell B.V.",
+        "90163",
+        "SUP"
+      ],
+      [
+        "Telenor Connexion AB",
+        "90129",
+        "SUP"
+      ],
+      [
+        "Smart Communications, Inc",
+        "90133",
+        "SUP"
+      ],
+      [
+        "Ooredoo",
+        "90147",
+        "SUP"
+      ],
+      [
+        "SAP",
+        "90157",
+        "SUP"
+      ],
+      [
+        "Clementvale Baltic O\u00dc",
+        "90170",
+        "SUP"
+      ],
+      [
+        "BJT PARTNERS SAS",
+        "90186",
+        "ADD"
+      ],
+      [
+        "Cisco Systems, Inc.",
+        "90187",
+        "ADD"
+      ],
+      [
+        "DIDWW Ireland Limited",
+        "90189",
+        "ADD"
+      ],
+      [
+        "Truphone Limited",
+        "90190",
+        "ADD"
+      ],
+      [
+        "World Mobile Group Limited",
+        "90191",
+        "ADD"
+      ],
+      [
+        "VisionNG",
+        "90151",
+        "SUP"
+      ],
+      [
+        "Phonegroup SA",
+        "90192",
+        "ADD"
+      ],
+      [
+        "SkyFive AG",
+        "90193",
+        "ADD"
+      ],
+      [
+        "BebbiCell AG (Formerly Global Networks Switzerland AG",
+        "90113",
+        "SUP"
+      ],
+      [
+        "Plintron Global Technology Solutions Private Limited",
+        "90165",
+        "SUP"
+      ],
+      [
+        "Flo Live Limited",
+        "90180",
+        "SUP"
+      ],
+      [
+        "Intelsat US LLC",
+        "90194",
+        "ADD"
+      ],
+      [
+        "HMD Global Oy",
+        "90195",
+        "ADD"
+      ],
+      [
+        "IMC Island Ehf (formerly DCN Hub ehf)",
+        "90142",
+        "SUP"
+      ],
+      [
+        "KORE Wireless",
+        "90196",
+        "ADD"
+      ]
+    ],
+    "Iran (Islamic Republic of)": [
+      [
+        "Telecommunication Company of Iran (TCI) - Isfahan Celcom GSM",
+        "43219",
+        "SUP"
+      ],
+      [
+        "KISH CELL PARS",
+        "43201",
+        "ADD"
+      ],
+      [
+        "NEGIN ERTEBATAT AVA",
+        "43202",
+        "ADD"
+      ],
+      [
+        "PARSIAN HAMRAH LOTUS",
+        "43203",
+        "ADD"
+      ],
+      [
+        "TOSE E FANAVARI ERTEBATAT NOVIN HAMRAH",
+        "43204",
+        "ADD"
+      ],
+      [
+        "HAMRAH HOSHMAND AYANDEH",
+        "43205",
+        "ADD"
+      ],
+      [
+        "ERTEBATAT ARYANTEL",
+        "43206",
+        "ADD"
+      ],
+      [
+        "HOOSHMAND AMIN MOBILE",
+        "43207",
+        "ADD"
+      ],
+      [
+        "HIWEB",
+        "43209",
+        "ADD"
+      ],
+      [
+        "HIWEB",
+        "43212",
+        "ADD"
+      ],
+      [
+        "HIWEB",
+        "43213",
+        "ADD"
+      ],
+      [
+        "RIGHTEL",
+        "43220",
+        "ADD"
+      ],
+      [
+        "TCI (Telecommunication Company of Iran)",
+        "43232",
+        "ADD"
+      ],
+      [
+        "IRANCELL",
+        "43235",
+        "ADD"
+      ],
+      [
+        "ERTEBATAT MOBIN NET",
+        "43244",
+        "ADD"
+      ],
+      [
+        "FARABORD DADEHAYE IRANIAN",
+        "43245",
+        "ADD"
+      ],
+      [
+        "HIWEB",
+        "43246",
+        "ADD"
+      ],
+      [
+        "GOSTARESH ERTEBATAT MABNA",
+        "43249",
+        "ADD"
+      ],
+      [
+        "PISHGAMAN TOSE-E ERTEBATAT",
+        "43251",
+        "ADD"
+      ],
+      [
+        "ASIATECH",
+        "43252",
+        "ADD"
+      ],
+      [
+        "TCI (Telecommunication Company of Iran)",
+        "43270",
+        "ADD"
+      ],
+      [
+        "ERTEBATAT KOOHE NOOR",
+        "43271",
+        "ADD"
+      ],
+      [
+        "ERTEBATAT FARZANEGAN PARS",
+        "43293",
+        "ADD"
+      ],
+      [
+        "TOSE-E ERTEBATAT HAMRAH SHATEL",
+        "43208",
+        "LIR"
+      ],
+      [
+        "MCI (Mobile Communications of Iran)",
+        "43211",
+        "LIR"
+      ],
+      [
+        "Kish Free Zone Organization",
+        "43214",
+        "LIR"
+      ],
+      [
+        "SHATEL",
+        "43250",
+        "LIR"
+      ]
+    ],
+    "Ireland": [
+      [
+        "Net Feasa Limited",
+        "27221",
+        "ADD"
+      ],
+      [
+        "Office of the Government Chief Information Officer",
+        "27268",
+        "ADD"
+      ]
+    ],
+    "Israel": [
+      [
+        "Maskyoo Telephonia Ltd.",
+        "42522",
+        "ADD"
+      ],
+      [
+        "BITIT Ltd.",
+        "42527",
+        "ADD"
+      ]
+    ],
+    "Jamaica": [
+      [
+        "Symbiote Investment Limited",
+        "338040",
+        "SUP"
+      ],
+      [
+        "Rock Mobile Limited",
+        "338080",
+        "ADD"
+      ]
+    ],
+    "Japan": [
+      [
+        "Panasonic Systems Solutions Japan Co., Ltd",
+        "44008",
+        "ADD"
+      ],
+      [
+        "Marubeni Wireless Communications Inc.",
+        "44009",
+        "ADD"
+      ],
+      [
+        "Rakuten Mobile Network, Inc.",
+        "44011",
+        "ADD"
+      ],
+      [
+        "CABLE MEDIA WAIWAI CORPORATION",
+        "44012",
+        "ADD"
+      ],
+      [
+        "UQ Communications Inc.",
+        "44110",
+        "SUP"
+      ],
+      [
+        "NTT Communications Corporation",
+        "44013",
+        "ADD"
+      ],
+      [
+        "GRAPE ONE LTD.",
+        "44014",
+        "ADD"
+      ],
+      [
+        "BB Backbone Corp.",
+        "44015",
+        "ADD"
+      ],
+      [
+        "Nokia Innovations Japan G.K.",
+        "44016",
+        "ADD"
+      ],
+      [
+        "OSAKA GAS BUSINESS CREATE CORPORATION",
+        "44017",
+        "ADD"
+      ],
+      [
+        "Kintetsu Cable Network, Ltd",
+        "44018",
+        "ADD"
+      ],
+      [
+        "NEC Networks & System Integration Corporation",
+        "44019",
+        "ADD"
+      ],
+      [
+        "JTOWER Inc.",
+        "44022",
+        "ADD"
+      ],
+      [
+        "FUJITSU LIMITED",
+        "44023",
+        "ADD"
+      ],
+      [
+        "SORACOM, Inc.",
+        "441200",
+        "ADD"
+      ],
+      [
+        "Aurens Co.,Ltd.",
+        "441201",
+        "ADD"
+      ],
+      [
+        "Sony Wireless Communications Inc.",
+        "441202",
+        "ADD"
+      ],
+      [
+        "GujoCity",
+        "441203",
+        "ADD"
+      ],
+      [
+        "Wicom Inc.",
+        "441204",
+        "ADD"
+      ],
+      [
+        "KATCH NETWORK INC.",
+        "441205",
+        "ADD"
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORPORATION",
+        "441206",
+        "ADD"
+      ],
+      [
+        "closip, Inc.",
+        "44007",
+        "LIR"
+      ],
+      [
+        "The Tokyo Organising Committee of the Olympic and Paralympic Games",
+        "44191",
+        "SUP"
+      ],
+      [
+        "Mitsui Knowledge Industry Co., Ltd.",
+        "441207",
+        "ADD"
+      ],
+      [
+        "CHUDENKO CORPORATION",
+        "441208",
+        "ADD"
+      ],
+      [
+        "Cable Television TOYAMA Inc.",
+        "441209",
+        "ADD"
+      ],
+      [
+        "NIPPON TELEGRAPH AND TELEPHONE EAST CORPORATION",
+        "441210",
+        "ADD"
+      ],
+      [
+        "KDDI CORPORATION",
+        "44001",
+        "LIR"
+      ]
+    ],
+    "Kenya": [
+      [
+        "WiAfrica Kenya Limited",
+        "63911",
+        "SUP"
+      ],
+      [
+        "Safaricom PLC",
+        "63901",
+        "LIR"
+      ],
+      [
+        "Safaricom PLC",
+        "63902",
+        "LIR"
+      ],
+      [
+        "Sema Mobile Services Limited",
+        "63908",
+        "SUP"
+      ],
+      [
+        "Jambo Telcoms Limited",
+        "63911",
+        "ADD"
+      ],
+      [
+        "Infura Limited",
+        "63912",
+        "ADD"
+      ]
+    ],
+    "Kosovo*": [
+      [
+        "Dukagjini Telecommunications LLC",
+        "22107",
+        "ADD"
+      ]
+    ],
+    "Lao P.D.R.": [
+      [
+        "Star Telecom Co., Ltd",
+        "45703",
+        "ADD"
+      ],
+      [
+        "Best Telecom Co., Ltd",
+        "45707",
+        "ADD"
+      ],
+      [
+        "Lao Telecommunication Public Company",
+        "45701",
+        "LIR"
+      ],
+      [
+        "ETL Company Limited",
+        "45702",
+        "LIR"
+      ],
+      [
+        "TPLUS Digital Sole Company Limited",
+        "45708",
+        "LIR"
+      ]
+    ],
+    "Liechtenstein": [
+      [
+        "First Mobile AG",
+        "29507",
+        "SUP"
+      ],
+      [
+        "DIMOCO Messaging AG",
+        "29511",
+        "ADD"
+      ],
+      [
+        "SORACOM CORPORATION, LTD.",
+        "29510",
+        "LIR"
+      ]
+    ],
+    "Luxembourg": [
+      [
+        "Proximus Luxembourg S.A.",
+        "27077",
+        "LIR"
+      ],
+      [
+        "Luxembourg Online S.A.",
+        "27005",
+        "ADD"
+      ]
+    ],
+    "Malta": [
+      [
+        "Epic Communications Ltd",
+        "27801",
+        "LIR"
+      ],
+      [
+        "Melita Ltd",
+        "27877",
+        "LIR"
+      ],
+      [
+        "YOM",
+        "27811",
+        "SUP"
+      ]
+    ],
+    "Martinique": [
+      [
+        "Martinique T\u00e9l\u00e9phone Mobile",
+        "34012",
+        "SUP"
+      ]
+    ],
+    "Mexico": [
+      [
+        "TELECOMUNICACIONES DE M\u00c9XICO",
+        "334100",
+        "ADD"
+      ],
+      [
+        "MAXCOM TELECOMUNICACIONES, S.A.B. DE C.V.",
+        "334110",
+        "ADD"
+      ],
+      [
+        "QUICKLY PHONE, S.A. DE C.V.",
+        "334120",
+        "ADD"
+      ],
+      [
+        "AXTEL, S.A.B. DE C.V.",
+        "334130",
+        "ADD"
+      ],
+      [
+        "ALT\u00c1N REDES, S.A.P.I. DE C.V.",
+        "334140",
+        "ADD"
+      ],
+      [
+        "ULTRAVISI\u00d3N, S.A. DE C.V.",
+        "334150",
+        "ADD"
+      ],
+      [
+        "CABLEVISI\u00d3N RED, S.A. DE C.V.",
+        "334160",
+        "ADD"
+      ],
+      [
+        "OXIO MOBILE, S.A. DE C.V.",
+        "334170",
+        "ADD"
+      ],
+      [
+        "AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.",
+        "334010",
+        "LIR"
+      ],
+      [
+        "PEGASO PCS, S.A. DE C.V.",
+        "334030",
+        "LIR"
+      ],
+      [
+        "AT&T NORTE, S. DE R.L. DE C.V. Y AT&T DESARROLLO EN COMUNICACIONES DE M\u00c9XICO, S. DE R.L. DE C.V.",
+        "334040",
+        "LIR"
+      ],
+      [
+        "GRUPO AT&T CELULLAR, S. DE R.L. DE C.V.",
+        "334050",
+        "LIR"
+      ],
+      [
+        "AT&T COMERCIALIZACI\u00d3N M\u00d3VIL, S. DE R.L. DE C.V.",
+        "334070",
+        "LIR"
+      ],
+      [
+        "AT&T COMERCIALIZACI\u00d3N M\u00d3VIL, S. DE R.L. DE C.V.",
+        "334080",
+        "LIR"
+      ],
+      [
+        "AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.",
+        "334090",
+        "LIR"
+      ],
+      [
+        "FREEDOMPOP M\u00c9XICO, S.A. DE C.V.",
+        "334180",
+        "ADD"
+      ],
+      [
+        "VIASAT TECNOLOG\u00cdA, S.A. DE C.V.",
+        "334190",
+        "ADD"
+      ]
+    ],
+    "Namibia": [
+      [
+        "Capricorn Connect",
+        "64907",
+        "ADD"
+      ]
+    ],
+    "Netherlands": [
+      [
+        "Mundio Mobile (Netherlands) Ltd",
+        "20406",
+        "SUP"
+      ],
+      [
+        "Intercity Mobile Communications B.V.",
+        "20417",
+        "SUP"
+      ],
+      [
+        "Tismi B.V.",
+        "20429",
+        "ADD"
+      ],
+      [
+        "Nextgen Mobile Ltd",
+        "20460",
+        "SUP"
+      ],
+      [
+        "Alcadis B.V.",
+        "20461",
+        "ADD"
+      ],
+      [
+        "AGMS Nederland B.V.",
+        "20465",
+        "SUP"
+      ],
+      [
+        "Roamware (Netherlands) B.V.",
+        "20468",
+        "SUP"
+      ],
+      [
+        "Intovoice B.V.",
+        "20400",
+        "ADD"
+      ],
+      [
+        "Greenet Netwerk B.V.",
+        "20411",
+        "ADD"
+      ],
+      [
+        "Venus & Mercury Telecom",
+        "20414",
+        "ADD"
+      ],
+      [
+        "L-Mobi Mobile B.V.",
+        "20427",
+        "ADD"
+      ],
+      [
+        "ASpider Solutions Nederland B.V.",
+        "20430",
+        "ADD"
+      ],
+      [
+        "Cubic Telecom Limited",
+        "20432",
+        "ADD"
+      ],
+      [
+        "Truphone B.V.",
+        "20433",
+        "ADD"
+      ],
+      [
+        "Messagebird BV",
+        "20463",
+        "ADD"
+      ],
+      [
+        "Enexis Netbeheer B.V.",
+        "20491",
+        "ADD"
+      ],
+      [
+        "T-Mobile Netherlands B.V.",
+        "20402",
+        "LIR"
+      ],
+      [
+        "Tata Communications MOVE B.V.",
+        "20407",
+        "LIR"
+      ],
+      [
+        "KPN B.V.",
+        "20408",
+        "LIR"
+      ],
+      [
+        "Ziggo Services B.V.",
+        "20418",
+        "LIR"
+      ],
+      [
+        "KORE Wireless Nederland B.V.",
+        "20423",
+        "LIR"
+      ],
+      [
+        "CapX Nederland",
+        "20425",
+        "LIR"
+      ],
+      [
+        "KPN B.V.",
+        "20469",
+        "LIR"
+      ],
+      [
+        "RadioAccess Network Services B.V.",
+        "20401",
+        "SUP"
+      ],
+      [
+        "Elephant Talk Communications Premium Rate Services",
+        "20405",
+        "SUP"
+      ],
+      [
+        "RadioAccess B.V.",
+        "20467",
+        "SUP"
+      ],
+      [
+        "Lebara Ltd",
+        "20417",
+        "ADD"
+      ],
+      [
+        "RGTN Wholesale Netherlands B.V.",
+        "20462",
+        "ADD"
+      ],
+      [
+        "PM Factory B.V.",
+        "20424",
+        "LIR"
+      ]
+    ],
+    "New Zealand": [
+      [
+        "Dense Air New Zealand Ltd",
+        "53007",
+        "ADD"
+      ]
+    ],
+    "North Macedonia": [
+      [
+        "MTEL DOOEL Skopje",
+        "29412",
+        "ADD"
+      ]
+    ],
+    "Oman": [
+      [
+        "Vodafone Oman",
+        "42206",
+        "ADD"
+      ]
+    ],
+    "Palau": [
+      [
+        "Palau Mobile Communications Inc. (PMCI)",
+        "55299",
+        "ADD"
+      ]
+    ],
+    "Panama": [
+      [
+        "Grupo de Comunicaciones Digitales, S.A. (TIGO)",
+        "71402",
+        "LIR"
+      ],
+      [
+        "Grupo de Comunicaciones Digitales, S.A. (TIGO)",
+        "714020",
+        "LIR"
+      ],
+      [
+        "Cable & Wireless Panam\u00e1, S.A.",
+        "71405",
+        "ADD"
+      ]
+    ],
+    "Papua New Guinea": [
+      [
+        "Digitec Communication Limited",
+        "53704",
+        "ADD"
+      ]
+    ],
+    "Rwanda": [
+      [
+        "AIRTEL RWANDA Ltd",
+        "63513",
+        "ADD"
+      ],
+      [
+        "AIRTEL RWANDA Ltd",
+        "63514",
+        "SUP"
+      ]
+    ],
+    "Saint Pierre and Miquelon": [
+      [
+        "SAS SPM Telecom",
+        "30803",
+        "ADD"
+      ]
+    ],
+    "Seychelles": [
+      [
+        "Intelvision Ltd",
+        "63305",
+        "ADD"
+      ]
+    ],
+    "Slovenia": [
+      [
+        "BeeIN d.o.o.",
+        "29311",
+        "ADD"
+      ],
+      [
+        "Novatel d.o.o.",
+        "29321",
+        "ADD"
+      ]
+    ],
+    "South Africa": [
+      [
+        "Vodacom Pty Ltd",
+        "65565",
+        "ADD"
+      ],
+      [
+        "Sasol (Pty) Ltd",
+        "65504",
+        "SUP"
+      ],
+      [
+        "SAPS Gauteng",
+        "65511",
+        "SUP"
+      ],
+      [
+        "Sishen Iron Ore Company (Ltd) Pty",
+        "65517",
+        "SUP"
+      ],
+      [
+        "Cape Town Metropolitan Council",
+        "65521",
+        "SUP"
+      ],
+      [
+        "South African Police Service",
+        "65541",
+        "SUP"
+      ],
+      [
+        "Airport Company South Africa (ACSA)",
+        "65575",
+        "SUP"
+      ],
+      [
+        "Comsol Networks (Pty) Ltd",
+        "65576",
+        "ADD"
+      ],
+      [
+        "K2015315513 (Pty) Ltd t\\a One Telecom (Pty) Ltd",
+        "65577",
+        "ADD"
+      ],
+      [
+        "Telkom SA SOC Ltd",
+        "65503",
+        "ADD"
+      ]
+    ],
+    "Spain": [
+      [
+        "OPEN CABLE TELECOMUNICACIONES, S.L.",
+        "21436",
+        "SUP"
+      ],
+      [
+        "SYMA MOBILE ESPA\u00d1A, S.L.",
+        "21413",
+        "ADD"
+      ],
+      [
+        "VODAFONE ESPA\u00d1A, S.A.U.",
+        "21424",
+        "LIR"
+      ],
+      [
+        "Xfera M\u00f3viles, S.A.U.",
+        "21423",
+        "ADD"
+      ],
+      [
+        "Telef\u00f3nica M\u00f3viles Espa\u00f1a, SAU",
+        "21438",
+        "ADD"
+      ],
+      [
+        "XFERA M\u00d3VILES, S.A.U.",
+        "21433",
+        "ADD"
+      ],
+      [
+        "R CABLE Y TELECOMUNICACIONES GALICIA, S.A.",
+        "21416",
+        "LIR"
+      ],
+      [
+        "ALAI OPERADOR DE TELECOMUNICACIONES, S.L.",
+        "21436",
+        "ADD"
+      ],
+      [
+        "XFERA M\u00d3VILES, S.A.U.",
+        "21429",
+        "ADD"
+      ],
+      [
+        "Vodafone Espa\u00f1a, SAU",
+        "21437",
+        "SUP"
+      ],
+      [
+        "VODAFONE ESPA\u00d1A, S.A.U.",
+        "21437",
+        "ADD"
+      ],
+      [
+        "Telef\u00f3nica M\u00f3viles Espa\u00f1a, SAU",
+        "21432",
+        "SUP"
+      ],
+      [
+        "AVATEL M\u00d3VIL, S.L.U.",
+        "21414",
+        "ADD"
+      ],
+      [
+        "SAC CONVERGENT AGGREGATION SERVICES, S.L.U.",
+        "21412",
+        "SUP"
+      ],
+      [
+        "Compatel Limited",
+        "21430",
+        "SUP"
+      ],
+      [
+        "VENUS MOVIL, S.L. UNIPERSONAL",
+        "21412",
+        "ADD"
+      ],
+      [
+        "SYMA MOBILE ESPA\u00d1A, S.L.",
+        "21413",
+        "SUP"
+      ],
+      [
+        "ORANGE ESPAGNE, S.A. UNIPERSONAL",
+        "21421",
+        "SUP"
+      ],
+      [
+        "XFERA M\u00d3VILES, S.A. UNIPERSONAL",
+        "21425",
+        "ADD"
+      ],
+      [
+        "XFERA M\u00d3VILES, S.A.U.",
+        "21433",
+        "SUP"
+      ],
+      [
+        "IBERDROLA ESPA\u00d1A, S.A.UNIPERSONAL",
+        "214700",
+        "ADD"
+      ],
+      [
+        "ENDESA DISTRIBUCI\u00d3N EL\u00c9CTRICA, S.L.",
+        "214701",
+        "ADD"
+      ]
+    ],
+    "Sri Lanka": [
+      [
+        "Hutchison Telecommunications Lanka (Pvt) Ltd. (Valid until 12 September 2021)",
+        "41309",
+        "ADD"
+      ],
+      [
+        "Hutchison Telecommunications Lanka (Pvt) Ltd. (Valid until 12 September 2021)",
+        "41303",
+        "LIR"
+      ],
+      [
+        "Hutchison Telecommunications Lanka (Pvt) Ltd.",
+        "41303",
+        "SUP"
+      ],
+      [
+        "Hutchison Telecommunications Lanka (Pvt) Ltd.",
+        "41309",
+        "SUP"
+      ]
+    ],
+    "Sudan": [
+      [
+        "Sudanese Telecommunication Co. LTD (SUDATEL)",
+        "63407",
+        "ADD"
+      ]
+    ],
+    "Sweden": [
+      [
+        "Telefonaktiebolaget LM Ericsson (MNC assigned for test purpose. Temporary license until 2019-12-31)",
+        "24060",
+        "LIR"
+      ],
+      [
+        "NextGen Mobile Ltd.",
+        "24030",
+        "SUP"
+      ],
+      [
+        "Fink Telecom Services",
+        "24063",
+        "ADD"
+      ],
+      [
+        "Tismi BV",
+        "24048",
+        "ADD"
+      ],
+      [
+        "Shyam Telecom UK Ltd",
+        "24041",
+        "SUP"
+      ],
+      [
+        "Primlight AB",
+        "24039",
+        "LIR"
+      ],
+      [
+        "Twilio Ireland Ltd.",
+        "24026",
+        "LIR"
+      ],
+      [
+        "Telia Sverige AB",
+        "24049",
+        "ADD"
+      ],
+      [
+        "Tele2 Sverige AB",
+        "24014",
+        "LIR"
+      ],
+      [
+        "Telenor Sverige AB",
+        "24041",
+        "ADD"
+      ],
+      [
+        "LINK Mobile A/S",
+        "24028",
+        "SUP"
+      ],
+      [
+        "V\u00e4stra G\u00f6talandsregionen (temporary assigned until 2026-12-31)",
+        "24060",
+        "ADD"
+      ],
+      [
+        "MessageBird B.V.",
+        "24061",
+        "SUP"
+      ],
+      [
+        "Teracom AB",
+        "24003",
+        "LIR"
+      ],
+      [
+        "Bredband2 F\u00f6retag AB",
+        "24013",
+        "LIR"
+      ],
+      [
+        "Sierra Wireless Messaging AB",
+        "24020",
+        "LIR"
+      ],
+      [
+        "MI Carrier Services AB",
+        "24029",
+        "LIR"
+      ],
+      [
+        "Sinch Sweden AB",
+        "24037",
+        "LIR"
+      ],
+      [
+        "Netmore Group AB",
+        "24040",
+        "LIR"
+      ]
+    ],
+    "Switzerland": [
+      [
+        "Telecom26 AG",
+        "22862",
+        "ADD"
+      ],
+      [
+        "Fink Telecom Services",
+        "22863",
+        "ADD"
+      ],
+      [
+        "NTH AG",
+        "22864",
+        "ADD"
+      ],
+      [
+        "Compatel Ltd",
+        "22861",
+        "SUP"
+      ],
+      [
+        "Vectone Mobile Limited, London",
+        "22859",
+        "ADD"
+      ],
+      [
+        "Inovia Services SA",
+        "22866",
+        "ADD"
+      ],
+      [
+        "Datatrade Managed AG",
+        "22867",
+        "ADD"
+      ],
+      [
+        "Intellico AG",
+        "22868",
+        "ADD"
+      ],
+      [
+        "Sunrise Communications AG",
+        "22808",
+        "LIR"
+      ],
+      [
+        "MTEL Schweiz GmbH",
+        "22869",
+        "ADD"
+      ],
+      [
+        "Tismi BV",
+        "22870",
+        "ADD"
+      ]
+    ],
+    "Syrian Arab Republic": [
+      [
+        "MTN Syria",
+        "41702",
+        "ADD"
+      ],
+      [
+        "WAFA Telecom",
+        "41703",
+        "ADD"
+      ]
+    ],
+    "Tanzania": [
+      [
+        "Shared Network Tanzania Limited",
+        "64001",
+        "SUP"
+      ],
+      [
+        "Benson Informatics Limited (Smart)",
+        "64008",
+        "SUP"
+      ],
+      [
+        "MO Mobile Holding Limited",
+        "64014",
+        "ADD"
+      ],
+      [
+        "Wiafrica Tanzania Limited (Cootel)",
+        "64013",
+        "SUP"
+      ],
+      [
+        "MO Mobile Holding Limited",
+        "64014",
+        "SUP"
+      ],
+      [
+        "WIA Company Limited",
+        "64006",
+        "ADD"
+      ]
+    ],
+    "Trial of a proposed new international telecommunication service, shared code": [
+      [
+        "World's Global Telecom (temporary assignment for trial until 14.I.2021)",
+        "99101",
+        "LIR"
+      ],
+      [
+        "Orange (temporary assignment for trial until 6.VIII.2021)",
+        "99102",
+        "ADD"
+      ],
+      [
+        "World's Global Telecom (end of temporary assignment for trial on 15.I.2021)",
+        "99101",
+        "SUP"
+      ],
+      [
+        "Halys SAS (temporary assignment for trial until 5.IV.2022)",
+        "99103",
+        "ADD"
+      ],
+      [
+        "Orange (temporary assignment for trial until 6.VIII.2022)",
+        "99102",
+        "LIR"
+      ],
+      [
+        "Orange (end of temporary assignment for trial on 7.VIII.2022)",
+        "99102",
+        "SUP"
+      ]
+    ],
+    "Turks and Caicos Islands": [
+      [
+        "IslandCom Communication Ltd.",
+        "376352",
+        "SUP"
+      ],
+      [
+        "IslandCom Communication Ltd",
+        "376360",
+        "SUP"
+      ],
+      [
+        "Digicel TCI Ltd",
+        "376351",
+        "ADD"
+      ],
+      [
+        "Digicel TCI Ltd",
+        "376351",
+        "SUP"
+      ],
+      [
+        "Digicel",
+        "376360",
+        "ADD"
+      ]
+    ],
+    "Uganda": [
+      [
+        "Afrimax Uganda Limited",
+        "64106",
+        "SUP"
+      ],
+      [
+        "Lycamobile Network services Uganda Limited",
+        "64126",
+        "SUP"
+      ],
+      [
+        "Suretelecom Uganda Limited",
+        "64118",
+        "SUP"
+      ],
+      [
+        "Hamilton Telecom Limited",
+        "64120",
+        "SUP"
+      ]
+    ],
+    "Ukraine": [
+      [
+        "\"Ukrtelecom\" JSC",
+        "25508",
+        "ADD"
+      ],
+      [
+        "\"VF UKRAINE\" PrJSC",
+        "25501",
+        "LIR"
+      ],
+      [
+        "\"Kyivstar\" PrJSC",
+        "25502",
+        "LIR"
+      ],
+      [
+        "\"Kyivstar\" PrJSC",
+        "25503",
+        "LIR"
+      ],
+      [
+        "\"Intertelecom\" LLC",
+        "25504",
+        "LIR"
+      ],
+      [
+        "\"lifecell\" LLC",
+        "25506",
+        "LIR"
+      ],
+      [
+        "\"TriMob\" LLC",
+        "25507",
+        "LIR"
+      ],
+      [
+        "\"Telesystems of Ukraine\" PrJSC",
+        "25521",
+        "LIR"
+      ],
+      [
+        "\"Farlep-Invest\", PrJSC",
+        "25509",
+        "ADD"
+      ],
+      [
+        "\"Atlantis Telecom\", LLC",
+        "25510",
+        "ADD"
+      ]
+    ],
+    "United Kingdom": [
+      [
+        "COLT Mobile Telecommunications Limited",
+        "23405",
+        "SUP"
+      ],
+      [
+        "Internet Computer Bureau Limited",
+        "23406",
+        "SUP"
+      ],
+      [
+        "Vodafone Ltd (C&W)",
+        "23407",
+        "SUP"
+      ],
+      [
+        "FleXtel Limited",
+        "23417",
+        "SUP"
+      ],
+      [
+        "Limitless Mobile Ltd",
+        "23459",
+        "SUP"
+      ],
+      [
+        "AMSUK Limited",
+        "23470",
+        "SUP"
+      ],
+      [
+        "Vodafone Ltd (C&W)",
+        "23592",
+        "SUP"
+      ],
+      [
+        "Mass Response Service GmbH",
+        "23440",
+        "ADD"
+      ],
+      [
+        "Hanhaa Limited",
+        "23472",
+        "ADD"
+      ],
+      [
+        "BlueWave Communications",
+        "23473",
+        "ADD"
+      ],
+      [
+        "Pareteum Europe B.V.",
+        "23474",
+        "ADD"
+      ],
+      [
+        "Vodafone Limited",
+        "23477",
+        "ADD"
+      ],
+      [
+        "Telet Research (N.I.) Limited",
+        "23488",
+        "ADD"
+      ],
+      [
+        "University Of Strathclyde",
+        "23504",
+        "ADD"
+      ],
+      [
+        "University Of Strathclyde",
+        "23506",
+        "ADD"
+      ],
+      [
+        "University Of Strathclyde",
+        "23507",
+        "ADD"
+      ],
+      [
+        "Spitfire Network Services Limited",
+        "23508",
+        "ADD"
+      ],
+      [
+        "Telet Research (N.I.) Limited",
+        "23588",
+        "ADD"
+      ],
+      [
+        "Vectone Mobile Limited",
+        "23401",
+        "LIR"
+      ],
+      [
+        "LINK MOBILITY UK LTD",
+        "23414",
+        "LIR"
+      ],
+      [
+        "Vodafone Limited",
+        "23415",
+        "LIR"
+      ],
+      [
+        "TeleWare Group PLC",
+        "23419",
+        "LIR"
+      ],
+      [
+        "Tata Communications Move UK Ltd",
+        "23427",
+        "LIR"
+      ],
+      [
+        "(AQ) LIMITED",
+        "23429",
+        "LIR"
+      ],
+      [
+        "EE Limited (Orange)",
+        "23433",
+        "LIR"
+      ],
+      [
+        "EE Limited (Orange)",
+        "23434",
+        "LIR"
+      ],
+      [
+        "JT (Jersey) Limited",
+        "23450",
+        "LIR"
+      ],
+      [
+        "Tango Networks UK Ltd",
+        "23453",
+        "LIR"
+      ],
+      [
+        "The National Cyber Security Centre",
+        "23456",
+        "LIR"
+      ],
+      [
+        "MANX TELECOM TRADING LIMITED",
+        "23458",
+        "LIR"
+      ],
+      [
+        "Vectone Mobile Limited",
+        "23500",
+        "LIR"
+      ],
+      [
+        "Vodafone Limited",
+        "23591",
+        "LIR"
+      ]
+    ],
+    "United States": [
+      [
+        "MTA Communications dba MTA Wireless",
+        "310040",
+        "SUP"
+      ],
+      [
+        "Consolidated Telcom",
+        "310060",
+        "SUP"
+      ],
+      [
+        "Blanca Telephone Company",
+        "310300",
+        "SUP"
+      ],
+      [
+        "Elkhart Telephone Co. Inc. dba Epic Touch Co.",
+        "310610",
+        "SUP"
+      ],
+      [
+        "D.D. Inc",
+        "310780",
+        "SUP"
+      ],
+      [
+        "ARINC",
+        "311200",
+        "SUP"
+      ],
+      [
+        "Nexus Communications Inc",
+        "311300",
+        "SUP"
+      ],
+      [
+        "Mosaic Telecom Inc",
+        "311500",
+        "SUP"
+      ],
+      [
+        "Lycamobile USA Inc",
+        "311960",
+        "SUP"
+      ],
+      [
+        "Fuego Wireless LLC",
+        "312050",
+        "SUP"
+      ],
+      [
+        "Adams Networks Inc",
+        "312070",
+        "SUP"
+      ],
+      [
+        "Cleveland Unlimited Inc",
+        "312140",
+        "SUP"
+      ],
+      [
+        "MTA Communications dba MTA Wireless",
+        "312340",
+        "SUP"
+      ],
+      [
+        "Consolidated Telcom",
+        "312440",
+        "SUP"
+      ],
+      [
+        "KDDI America, Inc dba Locus Telecommunications",
+        "312740",
+        "SUP"
+      ],
+      [
+        "Wireless Partners LLC",
+        "310330",
+        "ADD"
+      ],
+      [
+        "Limitless Mobile, LLC",
+        "310340",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310591",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310592",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310593",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310594",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310595",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310596",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310597",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310598",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310599",
+        "ADD"
+      ],
+      [
+        "Pacific Lightwave Inc.",
+        "310810",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310891",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310892",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310893",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310894",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310895",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310896",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310897",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310898",
+        "ADD"
+      ],
+      [
+        "Verizon Wireless",
+        "310899",
+        "ADD"
+      ],
+      [
+        "Telnyx LLC",
+        "311210",
+        "ADD"
+      ],
+      [
+        "ELECTRIC IMP INCORPORATED",
+        "311460",
+        "ADD"
+      ],
+      [
+        "Limitless Mobile, LLC",
+        "311600",
+        "ADD"
+      ],
+      [
+        "Reclaimed 06/21/2016",
+        "311760",
+        "ADD"
+      ],
+      [
+        "The American Samoa Telecommunications Authority",
+        "311780",
+        "ADD"
+      ],
+      [
+        "Sprint",
+        "311882",
+        "ADD"
+      ],
+      [
+        "Country Wireless",
+        "313061",
+        "ADD"
+      ],
+      [
+        "AT&T FirstNet",
+        "313110",
+        "ADD"
+      ],
+      [
+        "AT&T FirstNet",
+        "313120",
+        "ADD"
+      ],
+      [
+        "AT&T FirstNet",
+        "313130",
+        "ADD"
+      ],
+      [
+        "AT&T FirstNet",
+        "313140",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "313150",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "313160",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "313170",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "313180",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "313190",
+        "ADD"
+      ],
+      [
+        "Custer Telephone Cooperative,Inc.",
+        "313220",
+        "ADD"
+      ],
+      [
+        "Velocity Communications Inc",
+        "313230",
+        "ADD"
+      ],
+      [
+        "Fundamental Holdings, Corp",
+        "313240",
+        "ADD"
+      ],
+      [
+        "Imperial County Office of Education",
+        "313250",
+        "ADD"
+      ],
+      [
+        "Expeto Wireless Inc.",
+        "313260",
+        "ADD"
+      ],
+      [
+        "King Street Wireless, LP",
+        "313280",
+        "ADD"
+      ],
+      [
+        "Gulf Coast Broadband LLC",
+        "313290",
+        "ADD"
+      ],
+      [
+        "Cambio WiFi of Delmarva, LLC.",
+        "313300",
+        "ADD"
+      ],
+      [
+        "CAL.NET, INC",
+        "313310",
+        "ADD"
+      ],
+      [
+        "Paladin Wireless",
+        "313320",
+        "ADD"
+      ],
+      [
+        "CenturyTel Broadband Services LLC",
+        "313330",
+        "ADD"
+      ],
+      [
+        "Dish Network",
+        "313340",
+        "ADD"
+      ],
+      [
+        "Dish Network",
+        "313350",
+        "ADD"
+      ],
+      [
+        "Dish Network",
+        "313360",
+        "ADD"
+      ],
+      [
+        "Red Truck Wireless, LLC",
+        "313370",
+        "ADD"
+      ],
+      [
+        "OptimERA Inc.",
+        "313380",
+        "ADD"
+      ],
+      [
+        "Altice USA Wireless, Inc.",
+        "313390",
+        "ADD"
+      ],
+      [
+        "Texoma Communications, LLC",
+        "313400",
+        "ADD"
+      ],
+      [
+        "pdvWireless",
+        "313410",
+        "ADD"
+      ],
+      [
+        "Hudson Valley Wireless",
+        "313420",
+        "ADD"
+      ],
+      [
+        "Arvig Enterprises INC",
+        "313440",
+        "ADD"
+      ],
+      [
+        "Spectrum Wireless Holdings, LLC",
+        "313450",
+        "ADD"
+      ],
+      [
+        "Mobi, Inc.",
+        "313460",
+        "ADD"
+      ],
+      [
+        "San Diego Gas & Electric Company",
+        "313470",
+        "ADD"
+      ],
+      [
+        "Ready Wireless, LLC",
+        "313480",
+        "ADD"
+      ],
+      [
+        "Puloli, Inc",
+        "313490",
+        "ADD"
+      ],
+      [
+        "Shelcomm, Inc",
+        "313500",
+        "ADD"
+      ],
+      [
+        "Puerto Rico Telecom Company",
+        "313510",
+        "ADD"
+      ],
+      [
+        "Florida Broadband, Inc",
+        "313520",
+        "ADD"
+      ],
+      [
+        "Nokia Innovations US LLC",
+        "313540",
+        "ADD"
+      ],
+      [
+        "Mile High Networks LLC",
+        "313550",
+        "ADD"
+      ],
+      [
+        "Transit Wireless, LLC",
+        "313560",
+        "ADD"
+      ],
+      [
+        "Celular Network Partnership",
+        "313570",
+        "ADD"
+      ],
+      [
+        "Telecall Telecommuncations Corp.",
+        "313580",
+        "ADD"
+      ],
+      [
+        "Southern Communications Services, Inc. D/B/A Southern Linc",
+        "313590",
+        "ADD"
+      ],
+      [
+        "ST Engineering iDirect",
+        "313600",
+        "ADD"
+      ],
+      [
+        "Crystal Automation Systems, Inc.",
+        "313610",
+        "ADD"
+      ],
+      [
+        "Screened Images",
+        "313620",
+        "ADD"
+      ],
+      [
+        "LICT Corporation",
+        "313630",
+        "ADD"
+      ],
+      [
+        "Geoverse",
+        "313640",
+        "ADD"
+      ],
+      [
+        "Chevron USA INC",
+        "313650",
+        "ADD"
+      ],
+      [
+        "Hudson Valley Wireless",
+        "313660",
+        "ADD"
+      ],
+      [
+        "Hudson Valley Wireless",
+        "313670",
+        "ADD"
+      ],
+      [
+        "Hudson Valley Wireless",
+        "313680",
+        "ADD"
+      ],
+      [
+        "Shenandoah Cable Television, LLC",
+        "313690",
+        "ADD"
+      ],
+      [
+        "Ameren Services Company",
+        "313700",
+        "ADD"
+      ],
+      [
+        "Extent Systems",
+        "313710",
+        "ADD"
+      ],
+      [
+        "1st Point Communications, LLC",
+        "313720",
+        "ADD"
+      ],
+      [
+        "TruAccess Networks",
+        "313730",
+        "ADD"
+      ],
+      [
+        "RTO Wireless, LLC",
+        "313740",
+        "ADD"
+      ],
+      [
+        "313-CellTex Networks, LLC",
+        "313750",
+        "ADD"
+      ],
+      [
+        "Hologram, Inc.",
+        "313760",
+        "ADD"
+      ],
+      [
+        "Tango Networks",
+        "313770",
+        "ADD"
+      ],
+      [
+        "Boingo Wireless Inc",
+        "314010",
+        "ADD"
+      ],
+      [
+        "Spectrum Wireless Holdings, LLC",
+        "314020",
+        "ADD"
+      ],
+      [
+        "Baicells Technologies North America Inc.",
+        "314030",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "314100",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "314110",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "314120",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "314130",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "314140",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "314150",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "314160",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "314170",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "314180",
+        "ADD"
+      ],
+      [
+        "RESERVED FOR PUBLIC SAFETY",
+        "314190",
+        "ADD"
+      ],
+      [
+        "Docomo Pacific Inc",
+        "310470",
+        "LIR"
+      ],
+      [
+        "Broadpoint, LLC (former PetroCom, LLC) c/o MTPCS, LLC dba CellularOne",
+        "310570",
+        "LIR"
+      ],
+      [
+        "Nsighttel Wireless, LLC",
+        "310620",
+        "LIR"
+      ],
+      [
+        "Limitless Mobile, LLC",
+        "310690",
+        "LIR"
+      ],
+      [
+        "Tyntec Inc.",
+        "310940",
+        "LIR"
+      ],
+      [
+        "Evolve Cellular Inc.",
+        "310990",
+        "LIR"
+      ],
+      [
+        "Chariton Valley Communications Corporation",
+        "311010",
+        "LIR"
+      ],
+      [
+        "Tampnet (formerly Broadpoint, LLC (former PetroCom, LLC) c/o MTPCS, LL",
+        "311170",
+        "LIR"
+      ],
+      [
+        "Ligado Networks",
+        "311510",
+        "LIR"
+      ],
+      [
+        "Commnet Wireless, LLC",
+        "311550",
+        "LIR"
+      ],
+      [
+        "Midwest Network Solutions Hub, LLC. (MNS)",
+        "311700",
+        "LIR"
+      ],
+      [
+        "Missouri RSA No 5 Partnership",
+        "311920",
+        "LIR"
+      ],
+      [
+        "Chariton Valley Communications Corporation",
+        "312010",
+        "LIR"
+      ],
+      [
+        "Limitless Mobile, LLC",
+        "312180",
+        "LIR"
+      ],
+      [
+        "Chariton Valley Communications Corporation",
+        "312220",
+        "LIR"
+      ],
+      [
+        "Brightlink",
+        "312650",
+        "LIR"
+      ],
+      [
+        "TGS, LLC",
+        "312690",
+        "LIR"
+      ],
+      [
+        "PREMIER HOLDINGS, LLC",
+        "312990",
+        "LIR"
+      ],
+      [
+        "AT&T FirstNet",
+        "313100",
+        "LIR"
+      ],
+      [
+        "AT&T Mobility",
+        "313210",
+        "LIR"
+      ]
+    ],
+    "Uruguay": [
+      [
+        "Ancel - TDMA",
+        "74800",
+        "SUP"
+      ],
+      [
+        "Ancel",
+        "74803",
+        "SUP"
+      ],
+      [
+        "Administraci\u00f3n Nacional de Telecomunicaciones (ANTEL)",
+        "74801",
+        "LIR"
+      ],
+      [
+        "Telef\u00f3nica M\u00f3viles del Uruguay S.A. (Movistar)",
+        "74807",
+        "LIR"
+      ],
+      [
+        "AM Wireless Uruguay S.A. (Claro)",
+        "74810",
+        "LIR"
+      ]
+    ],
+    "Viet Nam": [
+      [
+        "S Telecom (CDMA)",
+        "45203",
+        "SUP"
+      ],
+      [
+        "EVN Telecom",
+        "45206",
+        "SUP"
+      ],
+      [
+        "I-Telecom",
+        "45208",
+        "ADD"
+      ],
+      [
+        "Vietnamobile",
+        "45205",
+        "ADD"
+      ],
+      [
+        "Gmobile",
+        "45207",
+        "LIR"
+      ],
+      [
+        "REDDI",
+        "45209",
+        "ADD"
+      ]
+    ],
+    "Zambia": [
+      [
+        "Liquid Telecom Zambia Limited",
+        "64507",
+        "ADD"
+      ],
+      [
+        "Airtel Zambia Limited",
+        "64501",
+        "LIR"
+      ],
+      [
+        "MTN Zambia Limited",
+        "64502",
+        "LIR"
+      ]
     ]
   }
 ]

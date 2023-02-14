@@ -230,7 +230,8 @@ def gen_dict_mnc_compl():
     #
     R = {}
     #
-    # 2) complete MNC dict with new MNC from ITU-T 1162 bulletin (2018)
+    # 1) complete MNC dict with new MNC from ITU-T 1162 bulletin (2018)
+    # and incremental updates from 1162 to the last one downloaded
     for cntr, inf in sorted(ITUT_MNC_1162.items()):
         for mno, mccmnc in inf:
             if mccmnc not in MNC:
@@ -256,7 +257,7 @@ def gen_dict_mnc_compl():
                             MNC[mccmnc]['cc2s'].append(cc2)
                             MNC[mccmnc]['cc2s'] = list(sorted(MNC[mccmnc]['cc2s']))
     #
-    # 3) complete MNC dict with new MNC from txtNation
+    # 2) complete MNC dict with new MNC from txtNation
     for mccmnc, inf in sorted(CSV_TXTN_MCCMNC.items()):
         if mccmnc not in MNC and mccmnc not in R:
             if isinstance(inf, list):

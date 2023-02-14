@@ -571,17 +571,22 @@ def _mnclist_to_mnclut(cntr, rule, mnclist, dbg):
 
 
 def parse_mnc_incr(start=1163, fnpre=PATH_PRE, dbg=False):
-    mnc = {}
+    mncd = {}
     for fn in sorted(os.listdir(fnpre)):
         if not fn.startswith('T-SP-OB.'):
             continue
         elif int(fn[8:12]) < start:
             continue
-        #print(fn)
         mnclut = parse_mnc_upd_list(fnpre + fn, dbg=dbg)
-        if mnclut:
-            mnc.update(mnclut)
-    return mnc
+        if not mnclut:
+            continue
+        for mnc, (mno, cntr, rule) in mnclut.items():
+            cntr = re.sub('\s{1,}', ' ', cntr)
+            if cntr not in mncd:
+                mncd[cntr] = [[mno, mnc, rule]]
+            else:
+                mncd[cntr].append([mno, mnc, rule])
+    return mncd
 
 
 #------------------------------------------------------------------------------#

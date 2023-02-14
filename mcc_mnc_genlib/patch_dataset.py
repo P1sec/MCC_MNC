@@ -46,6 +46,7 @@ __all__ = [
     # ITU-T MNC lists
     'ITUT_MNC_1111',
     'ITUT_MNC_1162',
+    'ITUT_MNC_INCR',
     'ITUT_SPC_1199',
     'ITUT_SANC_1125',
     # Custom structures
@@ -103,6 +104,7 @@ except ImportError:
 try:
     from raw.itut_mnc_1111      import ITUT_MNC_1111
     from raw.itut_mnc_1162      import ITUT_MNC_1162
+    from raw.itut_mnc_incr      import ITUT_MNC_INCR
     from raw.itut_spc_1199      import ITUT_SPC_1199
     from raw.itut_sanc_1125     import ITUT_SANC_1125
 except ImportError:
@@ -300,7 +302,8 @@ COUNTRY_RENAME = {
     
     #
     # others
-    'International Networks (country code)' : 'International Networks'
+    'International Networks (country code)' : 'International Networks',
+    'International Mobile, shared code'     : 'International Networks',
     }
 
 
@@ -1026,15 +1029,14 @@ patch_txtn_mnc()
 # instead of Réunion and / or Mayotte
 # So this needs to be handled explicitely when looking up for the country
 
+# We 1st patch lists from bulletins 1111 and 1162 for aligning country names
+# Then we patch list from bulletin 1162 with the ITUT_MNC_INCR dict
+# And ultimately add intl MNO from ITUT_MNC_INCR into it
 
 def patch_itut_mnc(mncs):
-    print('[+] patch ITU-T list of MCC-MNC: %r' % id(mncs))
+    print('[+] patch ITU-T 1111, 1162 and incremental lists of MCC-MNC: %r' % id(mncs))
     #
     isonameset  = set([r['country_name'] for r in WIKIP_ISO3166.values()])
-    mncset      = set()
-    for mnos in WIKIP_MNC.values():
-        for mno in mnos:
-            mncset.add(mno['mcc'] + mno['mnc'])
     #
     for cntr, mnos in list(mncs.items()):
         if cntr not in isonameset:
@@ -1045,6 +1047,66 @@ def patch_itut_mnc(mncs):
 
 patch_itut_mnc(ITUT_MNC_1111)
 patch_itut_mnc(ITUT_MNC_1162)
+
+
+def patch_itut_mncincr(mncs):
+    print('[+] patch ITU-T incremental list of international MCC-MNC: %r' % id(mncs))
+    # merge "Trial of a proposed new international telecommunication service, shared code"
+    # into "International Mobile, shared code"
+    if "Trial of a proposed new international telecommunication service, shared code" in mncs \
+    and "International Mobile, shared code" in mncs:
+        mncs["International Mobile, shared code"].extend(
+            mncs["Trial of a proposed new international telecommunication service, shared code"]
+            )
+        del mncs["Trial of a proposed new international telecommunication service, shared code"]
+
+patch_itut_mncincr(ITUT_MNC_INCR)
+patch_itut_mnc(ITUT_MNC_INCR)
+
+
+def patch_itut_mnc_incr(mnc1162, mncincr):
+    print('[+] patch list of MCC-MNC from ITU-T 1162 bulletin with incremental updates')
+    # 1) reduce mncincr
+    for cntr, mnclist in mncincr.items():
+        mncd = {}
+        for mno, mnc, rule in mnclist:
+            # the mnclist in mncincr is built by reading incremental bulletins,
+            # hence the 1st item is the oldest while the last is the newest
+            # we keep all the record, even for SUPPRESS rule, except when overriding an existing entry
+            if mnc in mncd and rule == 'SUP':
+                continue
+            mncd[mnc] = (mno, rule)
+        mncincr[cntr] = mncd
+    #
+    cntr_upd = set(mncincr)
+    for cntr, mnclist in mnc1162.items():
+        if cntr not in mncincr:
+            continue
+        mnc_upd = dict(mncincr[cntr])
+        # change existing MNO in mnclist
+        for i, (mno, mnc) in enumerate(mnclist[:]):
+            if mnc not in mnc_upd:
+                continue
+            mno_upd, rule = mnc_upd[mnc]
+            if rule == 'SUP' and mno_upd[:8] != mno[:8]:
+                print('>>> not updating ITU-T 1162 %s - %s: %s with %s' % (cntr, mnc, mno, mno_upd))
+                continue
+            mnclist[i] = (mno_upd, mnc)
+            del mnc_upd[mnc]
+        # update mnclist with new MNO
+        for mnc, (mno, rule) in mnc_upd.items():
+            mnclist.append( (mno, mnc) )
+        cntr_upd.remove(cntr)
+    #
+    # add additional list of MNO, MNC for new countries
+    for cntr in cntr_upd:
+        print('> updating ITU-T 1162 with MNC from %s' % cntr)
+        mnclist = []
+        for mnc, (mno, rule) in mncincr[cntr].items():
+            mnclist.append( (mno, mnc) )
+        mnc1162[cntr] = mnclist
+
+patch_itut_mnc_incr(ITUT_MNC_1162, ITUT_MNC_INCR)
 
 
 def patch_itut_spc(spclist):

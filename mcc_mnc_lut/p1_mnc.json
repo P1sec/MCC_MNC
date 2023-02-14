@@ -1903,6 +1903,17 @@
       "operator": "EDF",
       "src": "Wikipedia"
     },
+    "208501": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "FR"
+      ],
+      "country": "France",
+      "ope": false,
+      "operator": "Butachimie",
+      "src": "ITU-T"
+    },
     "208502": {
       "bands": [
         "Unknown"
@@ -22300,6 +22311,116 @@
       "ope": false,
       "operator": "Southern LINC",
       "src": "Wikipedia"
+    },
+    "314100": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "RESERVED FOR PUBLIC SAFETY",
+      "src": "ITU-T"
+    },
+    "314110": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "RESERVED FOR PUBLIC SAFETY",
+      "src": "ITU-T"
+    },
+    "314120": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "RESERVED FOR PUBLIC SAFETY",
+      "src": "ITU-T"
+    },
+    "314130": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "RESERVED FOR PUBLIC SAFETY",
+      "src": "ITU-T"
+    },
+    "314140": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "RESERVED FOR PUBLIC SAFETY",
+      "src": "ITU-T"
+    },
+    "314150": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "RESERVED FOR PUBLIC SAFETY",
+      "src": "ITU-T"
+    },
+    "314160": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "RESERVED FOR PUBLIC SAFETY",
+      "src": "ITU-T"
+    },
+    "314170": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "RESERVED FOR PUBLIC SAFETY",
+      "src": "ITU-T"
+    },
+    "314180": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "RESERVED FOR PUBLIC SAFETY",
+      "src": "ITU-T"
+    },
+    "314190": {
+      "bands": "",
+      "brand": "",
+      "cc2s": [
+        "US"
+      ],
+      "country": "United States",
+      "ope": false,
+      "operator": "RESERVED FOR PUBLIC SAFETY",
+      "src": "ITU-T"
     },
     "314200": {
       "bands": [
