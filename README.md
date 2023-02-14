@@ -19,7 +19,7 @@ And generate re-engineered JSON and Python dictionnaries from them.
 
 The code from this repository, that is used to generate the dataset, is licensed under the terms of the AGPLv3.
 The data downloaded from Wikipedia is licensed under the terms of the Creative Commons Attribution-ShareAlike license.
-The 4 other websites used as source do not indicate any specific licensing for the data provided.
+The 4 other websites used as source do not indicate any specific licensing for the data provided however.
 
 
 ## Data sources
@@ -115,14 +115,14 @@ all additions and modifications to numbering plans, MNC identifiers and other si
 information. Complete lists of MCC-MNC can be found in bulletin 1111 from 2016 and 
 bulletin 1162 from 2018. Moreover, differentials can be provided into individual bulletin.
 
-One of the script can be used to download all bulletins in PDF (starting from 1111),
-and convert them into text, using the Linux command ```pdftotext```. All resulting
-documents are available in the *itut/* directory.
+The script `parse_itut_bulletins.py` can be used to download all bulletins (starting from 1111
+or whatever numbering after) and convert them to text using the Linux command ```pdftotext```.
+All resulting documents are available in the *itut/* directory.
 
-Bulletins 1111 from 2016 and 1162 from 2018 contain a full list of declared MCC-MNC. 
-Bulletin 1199 contains a full list of declared international signaling point codes.
-The script extract them and put resulting JSON and Python files into the *raw/* directory
-for further integration.
+Bulletins 1111 from 2016 and 1162 from 2018 contain a full list of declared MCC-MNC which is extracted.
+Additionally, all MCC-MNC incremental updates from bulletins after the 1162 are also extracted.
+Finally, bulletin 1199 contains a full list of declared international signaling point codes which is extracted too.
+The script put all resulting JSON and Python files into the *raw/* directory for further integration.
 
 
 ### Which ones to use:
@@ -130,21 +130,44 @@ for further integration.
 After checking several sources, it seems Wikipedia has the most complete, up-to-date and accurate information.
 Therefore, the tool primarily uses it to build the JSON / Python dictionnaries.
 Information related to MCC-MNC is completed with the csv listing from the txtNation website 
-and the ITU-T operational bulletins 1162.
+and the ITU-T operational bulletins 1162 and all following updates.
 The list of Signaling Point Codes is extracted from ITU-T bulletin 1199.
 Geographical information are taken from the CIA World Factbook to gather information related to each country,
 including borders and telephony-related.
 This is completed with the data provided on the _egallic_ blogpost for getting close countries in addition to neighbours one.
 
 
+## Directory structure
+
+All command-line tools are available straight in the root directory of the project.
+Data downloaded and extracted from Internet are put in the *raw/* directory, except 
+document from the ITU-T which are downloaded as PDF and converted to text in the *itut/*
+directory.
+Re-engineered look-up tables put in the *mcc_mnc_gen/* directory.
+
+
 ## Install and usage
 
-The provided scripts require Python3, and lxml for the ones extracting data from 
-web sites (parse_wikipedia_tables.py and parse_worldfactbook_infos.py).
-No installation is required, just run the scripts as is.
+### Install
 
-The Wikipedia, World Factbook, Egallic and txtNation data, and ITU-T bulletins 
-can be imported and processed by using the following commands:
+The provided scripts all require Python3.
+For rebuilding / updating the source dataset (the files in the `./raw/` subdirectory),
+the following packages are required: `urllib`, `lxml` and `csv`.
+For generating the aggregated dataset (the files in the `./mcc_mnc_lut/` subdirectory),
+no specific packages are required.
+
+If you want, you can run `python setup.py install` to install the chk\_*.py scripts
+and the look-up tables (in the `./mcc_mnc_lut/` subdirectory) in your system or user
+environment. The extraction and table generation scripts won't be installed however, 
+and you will need to reinstall the package each time you update the tables.
+
+Generally, installation is not required and every scripts can be run as-is.
+
+
+### Source dataset update
+
+The Wikipedia, World Factbook and ITU-T bulletins source datasets can be updated with the
+following scripts:
 
 ```
 $ ./parse_wikipedia_tables.py --help
@@ -169,17 +192,6 @@ Python file
 ```
 
 ```
-$ ./parse_various_csv.py --help
-usage: parse_various_csv.py [-h] [-j] [-p]
-
-dump csv files from the Egallic blog (distance between countries) and the
-txtNation website (list of MCC-MNC)
-[...]
-```
-
-and
-
-```
 $ ./parse_itut_bulletins.py --help
 usage: parse_itut_bulletins.py [-h] [-d] [-b B] [-j] [-p]
 
@@ -193,9 +205,26 @@ optional arguments:
   -p          produce a Python file listing all MNC and SPC (with suffix .py)
 ```
 
+The script extracting information from Wikipedia tables may fail sometimes, as the layout on
+Wikipedia is sometimes adjusted. Nothing magic here, it's then require to patch the `parse_wikipedia_tables.py`
+script to make it work again against the new Wikipedia layout.
+
+The Egallic and txtNation data can be processed with the following script (it won't download anything 
+from the Internet, as both CSV files are provided directly in the project):
+
+```
+$ ./parse_various_csv.py --help
+usage: parse_various_csv.py [-h] [-j] [-p]
+
+dump csv files from the Egallic blog (distance between countries) and the
+txtNation website (list of MCC-MNC)
+[...]
+```
 
 
-Then, in order to load all those imported data with aligned and coherent values 
+### Aggregated dataset generation
+
+In order to load all those imported data with aligned and coherent values 
 (e.g. country names, ISO codes and other information and numbering), the module
 *patch_dataset* can be used. It exports the Wikipedia, World Factbook, Egallic, 
 txtNation and ITU-T datasets, after applying few corrections and fixes on them:
@@ -221,37 +250,39 @@ those re-engineered data and store them in new files prefixed with "p1":
 ```
 $ ./gen_dataset.py
 [...]
-[+] gen/p1_mnc.json file generated
-[+] gen/p1_mnc.py file generated
-[+] gen/p1_mcc.json file generated
-[+] gen/p1_mcc.py file generated
-[+] gen/p1_msisdn.json file generated
-[+] gen/p1_msisdn.py file generated
-[+] gen/p1_msisdnext.json file generated
-[+] gen/p1_msisdnext.py file generated
-[+] gen/p1_ispc.json file generated
-[+] gen/p1_ispc.py file generated
-[+] gen/p1_cc2.json file generated
-[+] gen/p1_cc2.py file generated
-[+] gen/p1_cntr.json file generated
-[+] gen/p1_cntr.py file generated
-[+] gen/p1_terr.json file generated
-[+] gen/p1_terr.py file generated
-
+[+] mcc_mnc_lut/p1_mnc.json file generated
+[+] mcc_mnc_lut/p1_mnc.py file generated
+[+] mcc_mnc_lut/p1_mcc.json file generated
+[+] mcc_mnc_lut/p1_mcc.py file generated
+[+] mcc_mnc_lut/p1_msisdn.json file generated
+[+] mcc_mnc_lut/p1_msisdn.py file generated
+[+] mcc_mnc_lut/p1_msisdnext.json file generated
+[+] mcc_mnc_lut/p1_msisdnext.py file generated
+[+] mcc_mnc_lut/p1_ispc.json file generated
+[+] mcc_mnc_lut/p1_ispc.py file generated
+[+] mcc_mnc_lut/p1_sanc.json file generated
+[+] mcc_mnc_lut/p1_sanc.py file generated
+[+] mcc_mnc_lut/p1_cc2.json file generated
+[+] mcc_mnc_lut/p1_cc2.py file generated
+[+] mcc_mnc_lut/p1_cntr.json file generated
+[+] mcc_mnc_lut/p1_cntr.py file generated
+[+] mcc_mnc_lut/p1_terr.json file generated
+[+] mcc_mnc_lut/p1_terr.py file generated
 ```
 
-The following one-liner can be used to update the whole final dataset (without downloading ITU-T bulletins):
+The following one-liner can be used to update the whole final dataset (without downloading new ITU-T bulletins):
 ```
 $ ./parse_wikipedia_tables.py -j -p && ./parse_worldfactbook_infos.py -j -p && ./parse_various_csv.py -j -p && ./parse_itut_bulletins.py -j -p && ./gen_dataset.py
 ```
 
+### Usage
 
+Now you can use those dictionnaries to get complete information for any MCC, MNC, MSISDN prefix, 
+and related geographical information, directly in your application as much as you want
+(do not forget to comply with the licensing).
 
-Now you can use those dictionnaries to get complete information for any MCC, MNC,
-MSISDN prefix, and related geographical information.
-
-Finally, 4 little command-line tools are provided to make direct use of the 
-extracted and engineered dataset:
+Finally, 4 little command-line tools are provided to make direct use of the aggregated 
+datasets straight from the CLI:
 
 ```
 $ ./chk_mnc.py --help
@@ -306,18 +337,4 @@ optional arguments:
   -h, --help  show this help message and exit
   -x          provides extended information for associated country
 ```
-
-
-If you want, you can still run `python setup.py install` to install the chk_*.py scripts
-and the look-up tables in your system. The extraction and table generation scripts won't be installed, 
-and you will need to reinstall the package each time you update the tables.
-
-
-## Directory structure
-
-All command-line tools are available straight in the root directory of the project.
-Data downloaded and extracted from Internet are put in the *raw/* directory, except 
-document from the ITU-T which are downloaded as PDF and converted to text in the *itut/*
-directory.
-Re-engineered look-up tables put in the *mcc_mnc_gen/* directory.
 
