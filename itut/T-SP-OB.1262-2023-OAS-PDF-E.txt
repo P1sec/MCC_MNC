@@ -1,0 +1,1590 @@
+                               ITU Operational Bulletin
+                                                                 www.itu.int/itu-t/bulletin
+
+              No. 1262               15.II.2023                  (Information received by 31 January 2023) ISSN 1564-5223 (Online)
+        Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+        Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+        Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+        E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                         Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                    3
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010)):
+   Note from TSB ...........................................................................................................................................            4
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Note from TSB ........................................................................................................................                  4
+Telephone Service:
+     Denmark (Agency for Data Supply and Infrastructure, Copenhagen) .......................................................                                            5
+     Iran (Islamic Republic of) (Communications Regulatory Authority (CRA), Tehran) ...................................                                                 6
+     Kyrgyzstan (Service on Regulation and Supervision in Communication Industry under the Ministry
+        of Digital Development of the Kyrgyz Republic, Bishkek) ....................................................................                                    9
+     Mauritius (Information and Communication Technologies Authority (ICTA), Port-Louis).........................                                                      10
+     Myanmar (Ministry of Transport and Communications, Nay Pyi Taw)......................................................                                             10
+Other communication:
+     Austria .......................................................................................................................................................   11
+Service Restrictions .........................................................................................................................................         12
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                    12
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ...........................................                                            13
+List of International Monitoring Stations (List VIII) .........................................................................................                        14
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                    24
+List of Recommendation ITU-T E.164 assigned Country Codes ......................................................................                                       25
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................             26
+List of ITU Carrier Codes..................................................................................................................................            27
+List of International Signalling Point Codes (ISPC) ..........................................................................................                         32
+National Numbering Plan ................................................................................................................................               32
+
+
+
+
+                                                                                                                                             www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1263              1.III.2023            14.II.2023
+               1264             15.III.2023            28.II. 2023
+               1265              1.IV.2023             15.III.2023
+               1266             15.IV.2023             31.III.2023
+               1267              1.V.2023              12.IV.2023
+               1268             15.V.2023              30.IV.2023
+               1269              1.VI.2023             12.V.2023
+               1270             15.VI.2023             1.VI.2023
+               1271             1.VII.2023             15.VI.2023
+               1272             15.VII.2023            30.VI.2023
+               1273             1.VIII.2023           14.VII.2023
+               1274            15.VIII.2023           28.VII.2023
+               1275              1.IX.2023            11.VIII.2023
+               1276             15.IX.2023            31.VIII.2023
+               1277              1.X.2023              15.IX.2023
+               1278             15.X.2023              29.IX.2023
+               1279              1.XI.2023             13.X.2023
+               1280             15.XI.2023             1.XI.2023
+               1281             1.XII.2023             15.XI.2023
+               1282             15.XII.2023            30.XI.2023
+               1283              1.I.2024              8.XII.2023
+
+
+
+
+                                                GENERAL INFORMATION
+                                Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on 1
+      November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-T
+      Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on 15
+      May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1 May
+      2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                  The International Public Telecommunication Numbering Plan
+                           (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                     Identification codes for international networks
+
+Associated with shared country code 883 for international networks, the following three-digit identification code has been
+withdrawn:
+
+                                                                                  Country Code and             Date of
+                Applicant                             Network
+                                                                                 Identification Code          withdrawal
+
+
+ Beezz Communications Solutions         Beezz Communications Solutions                 +883 220                1.II.2023
+ Ltd                                    Ltd
+
+
+
+
+          International Identification Plan for Public Networks and Subscriptions
+                         (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                                 Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC) have been
+withdrawn.
+
+                                                   Mobile Country Code (MCC) and              Date of withdrawal
+                     Network
+                                                    Mobile Network Code (MNC)
+    MegaFon                                                     901 32                                 31.I.2023
+    Beezz Communication Solutions Ltd                           901 55                                 1.II.2023
+
+
+
+
+                                             Telephone Service
+                                        (Recommendation ITU-T E.164)
+                                                 url: www.itu.int/itu-t/inr/nnp
+Denmark (country code +45)
+Communication of 16.I.2023:
+The Agency for Data Supply and Infrastructure, Copenhagen, announces the following updates to the national numbering
+plan of Denmark:
+
+•     Assignment – Mobile communication services
+
+           Provider                                       Numbering resource                             Date of
+                                                                                                       assignment
+    Hi3G Denmark ApS           3650efgh                                                                 2.XII.2022
+
+
+•     Withdrawal – 4-digit short codes for directory enquiry services or special services
+           Provider                                        Numbering resource                            Date of
+                                                                                                        withdrawal
+TDC Net A/S                    1881                                                                     31.XII.2022
+
+
+•     Withdrawal – Fixed communication services
+           Provider                                         Numbering resource                            Date of
+                                                                                                         withdrawal
+TDC Net A/S                    33305fgh; 33442fgh; 33473fgh; 33546fgh; 33708fgh; 33758fgh; 33759fgh;     31.XII.2022
+                               35529fgh; 35879fgh; 36109fgh; 36189fgh; 36193fgh; 36433fgh; 36438fgh;
+                               36847fgh; 36904fgh; 36945fgh; 36952fgh; 36971fgh; 36972fgh; 36974fgh;
+                               36984fgh; 36985fgh; 38540fgh; 38542fgh; 38545fgh; 38546fgh; 39756fgh;
+                               39773fgh; 43390fgh; 43391fgh; 43394fgh; 43395fgh; 43859fgh; 44278fgh;
+                               44461fgh; 44463fgh; 44464fgh; 44465fgh; 44466fgh; 44467fgh; 44468fgh;
+                               44469fgh; 44836fgh; 44883fgh; 44884fgh; 45369fgh; 45743fgh; 45922fgh;
+                               45924fgh; 45957fgh; 45984fgh; 45986fgh; 45988fgh; 46909fgh; 46916fgh;
+                               46917fgh; 46930fgh; 46939fgh; 46940fgh; 46941fgh; 46948fgh; 46957fgh;
+                               46958fgh; 46961fgh; 46962fgh; 46974fgh; 46994fgh; 46995fgh; 47978fgh;
+                               48101fgh; 54639fgh; 56902fgh; 56909fgh; 57653fgh; 57654fgh; 59493fgh;
+                               62607fgh; 62608fgh; 62609fgh; 63738fgh; 65424fgh; 65712fgh; 65713fgh;
+                               65714fgh; 65715fgh; 65716fgh; 65946fgh; 65947fgh; 65948fgh; 66603fgh;
+                               66604fgh; 66610fgh; 66689fgh; 70190fgh; 70193fgh; 70194fgh; 70195fgh;
+                               70196fgh; 70197fgh; 70198fgh; 70199fgh; 70291fgh; 70295fgh; 70296fgh;
+                               70297fgh; 70298fgh; 73242fgh; 73247fgh; 73324fgh; 73519fgh; 73747fgh;
+                               73923fgh; 74126fgh; 74205fgh; 79315fgh; 79898fgh; 86400fgh; 87356fgh;
+                               87372fgh; 87404fgh; 87642fgh; 89344fgh; 89380fgh; 89428fgh; 89447fgh;
+                               89490fgh; 89502fgh; 89547fgh; 89550fgh; 89551fgh; 89552fgh; 89553fgh;
+                               8956efgh; 96689fgh; 99422fgh; 99428fgh; 99754fgh; 99941fgh
+
+Contact:
+        Agency for Data Supply and Infrastructure
+        8 Rentemestervej
+        2400 COPENHAGEN NV
+        Denmark
+        Tel: +45 7254 5500
+        E-mail: tele@sdfi.dk
+        URL: www.sdfi.dk
+
+
+
+
+Iran (Islamic Republic of) (country code +98)
+Communication of 18.I.2023:
+The Communications Regulatory Authority (CRA), Tehran, announces the following updated National Numbering Plan of
+the Islamic Republic of Iran.
+                                       Presentation of the Iran E.164 numbering plan
+1- General Information
+The E.164 numbering Plan of Iran:
+    •     Country Code: +98
+    •     International Prefix: "00"
+    •     National Prefix: "0"
+          For national calls, it must be dialled before all telephone numbers except short numbers.
+          It must not be dialled from abroad.
+    •     National destination Code: 2 digits.
+2- Detail of Numbering Scheme
+    •     NDC: National Destination Code
+    •     NSN: National Significant Number (NDC + SN)
+The minimum number length (excluding the country code) is           5 digits
+The maximum number length (excluding the country code) is          10 digits
+
+                                                    Numbering Scheme
+
+
+        NDC        NSN Number length               Usage of                      Additional Information
+                                                E.164 number
+                  Minimum     Maximum
+         11            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- Mazandaran)
+         13            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- Gilan)
+         17            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- Golestan)
+         21            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- Tehran)
+         23            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- Semnan)
+         24            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- Zanjan)
+         25            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers-Qom)
+         26            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers-Alborz)
+         28            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers-Ghazvin )
+         31            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- Isfahan)
+         34            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- Kerman)
+         35            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers-Yazd)
+         38            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- Chahar Mahal vaBakhtiari)
+         41            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- East Azarbayjan)
+         44            5          10            Fixed Phone       Area Code (Geographic Number for Fixed
+                                                                  telephony Numbers- West Azarbayjan)
+
+     NDC         NSN Number length       Usage of                    Additional Information
+                                      E.164 number
+               Minimum      Maximum
+     45            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers- Ardabil)
+     51            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers – Razavi Khorasan)
+     54            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers – SistanvaBalochestan)
+     56            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers – South Khorasan)
+     58            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers - North Khorasan)
+     61            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers -Khuzestan)
+     66            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers - Lorestan)
+     71            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers - Fars)
+     74            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers –Kohgiluoyeva Boyer Ahmad)
+     76            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers - Hormozgan)
+     77            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers - Bushehr)
+     81            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers – Hamadan)
+     83            5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers – Kermanshahan)
+84                 5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers- Ilam)
+86                 5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers-Markazi)
+87                 5           10      Fixed Phone      Area Code (Geographic Number for Fixed
+                                                        telephony Numbers-Kurdestan)
+900               10           10     Mobile services
+901               10           10     Mobile services
+902               10           10     Mobile services
+903               10           10     Mobile services
+9044              10           10     Mobile services
+9045              10           10     Mobile services
+9046              10           10     Mobile services
+905               10           10     Mobile services
+91                10           10     Mobile services
+920               10           10     Mobile services
+921               10           10     Mobile services
+922               10           10     Mobile services
+923               10           10     Mobile services
+93                10           10     Mobile services
+942121            10           10      Fixed Phone      Non geographical
+94220             10           10      Fixed Phone      Non geographical
+94260             6            10      Fixed Phone      Non geographical
+942800            10           10      Fixed Phone      Non geographical
+942801            10           10      Fixed Phone      Non geographical
+942802            10           10      Fixed Phone      Non geographical
+942900            10           10      Fixed Phone      Non geographical
+942901            10           10      Fixed Phone      Non geographical
+
+  NDC       NSN Number length        Usage of                       Additional Information
+                                  E.164 number
+           Minimum   Maximum
+942902          10      10         Fixed Phone        Non geographical
+942903          10      10         Fixed Phone        Non geographical
+942904          10      10         Fixed Phone        Non geographical
+9430130         10      10         Fixed Phone        Non geographical
+943016          10      10         Fixed Phone        Non geographical
+940000          10      10      Fixed Phone (fiber)   Non geographical
+940009          10      10      Fixed Phone (fiber)   Non geographical
+94440           10      10      Fixed Phone (Fixed    Just Originating from Iran
+                                  wireless Access)
+96              4       10        Services Codes
+990             10      10        Mobile services
+991             10      10        Mobile services
+992             10      10        Mobile services
+993             10      10        Mobile services
+9940            10      10        Mobile services
+9941            10      10        Mobile services
+9942            10      10        Mobile services
+9944            10      10        Mobile services
+9945            10      10        Mobile services
+9950            5       10         Public Trunk
+99510           10      10        Mobile services
+99550           10      10        Mobile services
+996             10      10        Mobile services
+99810           10      10        Mobile services
+99811           10      10        Mobile services
+99812           10      10        Mobile services
+99813           10      10        Mobile services
+99814           10      10        Mobile services
+99815           10      10        Mobile services
+99816           10      10        Mobile services
+99817           10      10        Mobile services
+99818           10      10        Mobile services
+99888           10      10        Mobile services
+99900           10      10        Mobile services
+99901           10      10        Mobile services
+99902           10      10        Mobile services
+99903           10      10        Mobile services
+99910           10      10        Mobile services
+99911           10      10        Mobile services
+99912           10      10        Mobile services
+99913           10      10        Mobile services
+99914           10      10        Mobile services
+99915           10      10        Mobile services
+99916           10      10        Mobile services
+99921           10      10        Mobile services
+99969           10      10        Mobile services
+99977           10      10        Mobile services
+99987           10      10        Mobile services
+99988           10      10        Mobile services
+99989           10      10        Mobile services
+99990           10      10        Mobile services
+99991           10      10        Mobile services
+99992           10      10        Mobile services
+99993           10      10        Mobile services
+
+       NDC           NSN Number length           Usage of                       Additional Information
+                                              E.164 number
+                    Minimum    Maximum
+    99994             10          10         Mobile services
+    99995             10          10         Mobile services
+    99996             10          10         Mobile services
+    99997             10          10         Mobile services
+    99998             10          10         Mobile services
+    99999             10          10         Mobile services
+
+Contact:
+           Alireza Darvishi
+           Director General, International Organizations Bureau,
+           Communications Regulatory Authority (CRA)
+           Ministry of Information and Communication Technology
+           15598 TEHRAN
+           Iran (Islamic Republic of)
+           Tel:      +98 21 89662201
+           Fax:      +98 21 88468999
+           E-mail: darvishi@cra.ir
+           URL:      www.cra.ir
+
+
+Kyrgyzstan (country code +996)
+Communication of 26.I.2023:
+The Service on Regulation and Supervision in Communication Industry under the Ministry of Digital Development of the
+Kyrgyz Republic, Bishkek, announces update to the national numbering plan.
+
+            Description of introduction of new resource for national E.164 numbering plan for country code 996:
+
+        NDC (national           N(S)N number length
+     destination code) or
+                                                                    Usage of                     Time and date of
+   leading digits of N(S)N    Maximum       Minimum            ITU-T E.164 number                  introduction
+    (national (significant)    length        length
+           number)
+               60                  9            9        Non-geographic number –                  3 August 2022
+                                                         Mobile telephony services               (Sky Mobile LLC)
+                                                         (+996 60 0 XXX XXX)
+
+Contacts:
+   Service on Regulation and Supervision in Communication Industry
+   under the Ministry of Digital Development of the Kyrgyz Republic
+   119 Akhunbaev str.
+   BISHKEK 720005
+   Kyrgyzstan
+   Tel:      +996 312 544450
+   Fax:      +996 312 544105
+   E-mail: m.zelenenko@nas.gov.kg
+   URL:      http://nas.gov.kg/dp/pri-videl-tel-nom-res/
+
+   Sky Mobile LLC – Roaming and interconnect department
+   E-mail: roaming@beeline.kg, interconnect@beeline.kg
+
+
+
+
+Mauritius (country code +230)
+Communication of 30.I.2023:
+The Information and Communication Technologies Authority (ICTA), Port-Louis, announces that new mobile number ranges
+have been opened in the Republic of Mauritius by the following mobile operators in October 2022.
+
+
+ Operator                                       Usage of ITU-T E.164 number                 Dialling Format
+ Cellplus Mobile Communications Ltd             Non-geographic mobile numbers               +230 700X XXXX
+ Cellplus Mobile Communications Ltd             Non-geographic mobile numbers               +230 733X XXXX
+ Emtel Ltd.                                     Non-geographic mobile numbers               +230 701X XXXX
+ Emtel Ltd.                                     Non-geographic mobile numbers               +230 730X XXXX
+
+Contact:
+           A.N Maduray
+           Information and Communication Technologies Authority (ICTA)
+           Level 12, The Celicourt
+           6, Sir Celicourt Antelme Street
+           PORT LOUIS
+           Mauritius
+           Tel: +230 211 5333/4
+           Fax: +230 211 9444
+           E-mail: info@icta.mu
+           URL: www.icta.mu/telecom-numbering/
+
+
+Myanmar (country code +95)
+Communication of 25.I.2023:
+The Ministry of Transport and Communications, Nay Pyi Taw, announces that the following updated numbering scheme
+has been added to the national numbering plan of Myanmar:
+                                       Description of introduction of new resources for
+                                     national E.164 numbering plan for country code + 95:
+Mobile Numbering
+
+ Sr        Area                                               Digit Length
+                    Number series           System                               Operator
+ No.       Code                                          (including area code)
+
+ 1           9         653 xxx xxx      WCDMA/GSM                  10            Telecom International Myanmar Co., Ltd
+
+
+Contact:
+           Ministry of Transport and Communications
+           Posts and Telecommunications Department (PTD)
+           Building No. 2,
+           NAY PYI TAW
+           Myanmar
+           Tel:     +95 67 3407 225
+           Fax:     +95 67 3407 216
+           E-mail: dg@ptd.gov.mm
+
+
+
+
+                                            Other communication
+
+Austria
+Communication of 23.I.2023:
+On the occasion of the "Antarctic Activity Week", the Austrian Administration authorizes some Austrian amateur stations
+to use the special call signs OE20AAW, OE88WAP, OE89ANT and OE90AAW from 19 to 26 February 2023.
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                        Call-Back
+                and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                   AMENDMENTS TO SERVICE PUBLICATIONS
+                                           Abbreviations used
+                               ADD   Insert                  PAR    Paragraph
+                               COL   Column                  REP    Replace
+                               LIR   Read                    SUP    Delete
+                               P     Page(s)
+
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2022
+
+                                               Section VI
+
+
+ADD
+
+ IA02      PT. Wintermar, Jl. Kebayoran Lama No. 155 Kel. Sukabumi Selatan,
+           Kecamatan Kebon Jeruk, Jakarta Barat – 11560, INDONESIA.
+           E-mail: Simlala_Wintermar@smshipping.co.id, Tel: +62 21 530 5201/2,
+           Fax: +62 21 530 5203.
+           Contact person: Muhammad Shanie Mubarak.
+
+REP
+
+ DZ01      Agence Nationale des Fréquences, 4, Boulevard Krim Belkacem,
+           16027 Alger, Algérie.
+           E-mail: Dpsae.contact@anf.dz, Tel: +213 21 719206, Fax: +213 21 718683.
+
+
+
+
+                             List of International Monitoring Stations
+                                              (List VIII)
+                                           Edition of 2022
+                                                 (Amendment No. 1)
+
+
+                                                       PART I
+                      STATIONS IN THE TERRESTRIAL RADIOCOMMUNICATION SERVICES
+
+
+
+QAT – Qatar
+          SUP     Station: Doha (Sumaismah) (IMS)
+P1        ADD     by alphabetical order
+                  Station: Al Corniche
+
+       Name of the station                        Postal address                    Telephone, Telefax, Electronic-mail
+
+ Al Corniche                        Communications Regulatory Authority            PHONE: +974 44995374
+                                    (CRA)                                          TELEFAX: +974 44830630
+                                    Al Nasr Tower-B                                EMAIL: msadeq@cra.gov.qa
+                                    Corniche Road
+                                    P.O.Box 23404
+                                    Doha
+                                    Qatar
+
+
+
+ Geographical        Types of                  Ranges of        Hours of service                  Remarks
+ coordinates       measurements             frequencies for         (UTC)
+                                          each measurement
+
+                                                                                     Sunday to Thursday.
+
+                                                                                     H24: on request.
+
+                                                                                     Measurement Accuracy: ± 1 Hz
+                                                                                     (absolute).
+ 25°18'48"N      Frequency
+                                          20MHz - 8.5GHz      0400 - 1100 (UTC)      All fixed monitoring stations are
+ 051°31'09"E     measurements
+                                                                                     remotely controlled at the National
+                                                                                     Control Center (CRA building) via
+                                                                                     the highly secured MPLS/IP
+                                                                                     network.
+
+                                                                                     All MMS can connect to any of the
+                                                                                     FMS & TDOA sites for Geolocation.
+
+
+
+
+Geographical       Types of              Ranges of      Hours of service                 Remarks
+coordinates      measurements         frequencies for       (UTC)
+                                    each measurement
+
+                                                                            Sunday to Thursday.
+
+                                                                            H24: on request.
+
+                                                                            Measurement Accuracy: ± 3 dB.
+               Field strength or
+25°18'48"N                                                                  All fixed monitoring stations are
+               power flux-density   20MHz - 8.5GHz      0400 - 1100 (UTC)
+051°31'09"E                                                                 remotely controlled at the National
+               measurements
+                                                                            Control Center (CRA building) via
+                                                                            the highly secured MPLS/IP
+                                                                            network.
+
+                                                                            All MMS can connect to any of the
+                                                                            FMS & TDOA sites for Geolocation.
+                                                                            Sunday to Thursday.
+
+                                                                            H24: on request.
+
+                                                                            DF Accuracy: 2 degrees RMS.
+
+                                                                            Dual Polarization: 20MHz - 3GHz.
+
+                                                                            Vertical Polarization: 3GHz -
+25°18'48"N     Direction-finding
+                                    20MHz - 8.5GHz      0400 - 1100 (UTC)   8.5GHz.
+051°31'09"E    measurements
+
+                                                                            All fixed monitoring stations are
+                                                                            remotely controlled at the National
+                                                                            Control Center (CRA building) via
+                                                                            the highly secured MPLS/IP
+                                                                            network.
+
+                                                                            All MMS can connect to any of the
+                                                                            FMS & TDOA sites for Geolocation.
+                                                                            Sunday to Thursday.
+
+                                                                            H24: on request.
+
+                                                                            x dB and ß% methods, in
+                                                                            accordance with Recommendation
+                                                                            ITU-R SM.443-4. Instantaneous
+                                                                            bandwidth for wideband signals
+                                                                            (40 MHz), in accordance with
+25°18'48"N     Bandwidth
+                                    20MHz - 8.5GHz      0400 - 1100 (UTC)   Recommendation ITU-R SM.1794.
+051°31'09"E    measurements
+
+                                                                            All fixed monitoring stations are
+                                                                            remotely controlled at the National
+                                                                            Control Center (CRA building) via
+                                                                            the highly secured MPLS/IP
+                                                                            network.
+
+                                                                            All MMS can connect to any of the
+                                                                            FMS & TDOA sites for Geolocation.
+
+
+
+
+Geographical          Types of                Ranges of        Hours of service                  Remarks
+coordinates         measurements           frequencies for         (UTC)
+                                         each measurement
+                                                                                    Sunday to Thursday.
+
+                                                                                    H24: on request.
+
+                                                                                    Automatic measurements of
+                                                                                    spectrum occupancy in accordance
+                                                                                    with Recommendation ITU-R
+                                                                                    SM.1880 and ITU-R Spectrum
+25°18'48"N        Automatic spectrum                                                Monitoring Handbook.
+                                        20MHz - 8.5GHz        0400 - 1100 (UTC)
+051°31'09"E       occupancy surveys
+                                                                                    All fixed monitoring stations are
+                                                                                    remotely controlled at the National
+                                                                                    Control Center (CRA building) via
+                                                                                    the highly secured MPLS/IP
+                                                                                    network.
+
+                                                                                    All MMS can connect to any of the
+                                                                                    FMS & TDOA sites for Geolocation.
+
+
+                   Station: AL KHOR
+
+          Name of the station                     Postal address                   Telephone, Telefax, Electronic-mail
+
+Al Khor                                Communications Regulatory Authority        PHONE: +974 44995374
+                                       (CRA)                                      TELEFAX: +974 44830630
+                                       Al Nasr Tower-B                            EMAIL: msadeq@cra.gov.qa
+                                       Corniche Road
+                                       P.O.Box 23404
+                                       Doha
+                                       Qatar
+
+
+
+Geographical          Types of              Ranges of        Hours of service                   Remarks
+coordinates         measurements         frequencies for         (UTC)
+                                       each measurement
+                                                                                  Sunday to Thursday.
+
+                                                                                  H24: on request.
+
+                                                                                  Measurement Accuracy: ± 1 Hz
+                                                                                  (absolute).
+25°40'14"N        Frequency
+                                       20MHz - 8.5GHz        0400 - 1100 (UTC)
+051°28'49"E       measurements                                                    All fixed monitoring stations are
+                                                                                  remotely controlled at the National
+                                                                                  Control Center (CRA building) via the
+                                                                                  highly secured MPLS/IP network.
+
+                                                                                  All MMS can connect to any of the
+                                                                                  FMS & TDOA sites for Geolocation.
+
+
+
+
+Geographical       Types of              Ranges of      Hours of service                  Remarks
+coordinates      measurements         frequencies for       (UTC)
+                                    each measurement
+                                                                            Sunday to Thursday.
+
+                                                                            H24: on request.
+
+                                                                            Measurement Accuracy: ± 3 dB.
+               Field strength or
+25°40'14"N
+               power flux-density   20MHz - 8.5GHz      0400 - 1100 (UTC)   All fixed monitoring stations are
+051°28'49"E
+               measurements                                                 remotely controlled at the National
+                                                                            Control Center (CRA building) via the
+                                                                            highly secured MPLS/IP network.
+
+                                                                            All MMS can connect to any of the
+                                                                            FMS & TDOA sites for Geolocation.
+                                                                            Sunday to Thursday.
+
+                                                                            H24: on request.
+
+                                                                            DF Accuracy: 2 degrees RMS.
+
+                                                                            Dual Polarization: 20MHz - 3GHz.
+25°40'14"N     Direction-finding
+                                    20MHz - 8.5GHz      0400 - 1100 (UTC)   Vertical Polarization: 3GHz - 8.5GHz.
+051°28'49"E    measurements
+                                                                            All fixed monitoring stations are
+                                                                            remotely controlled at the National
+                                                                            Control Center (CRA building) via the
+                                                                            highly secured MPLS/IP network.
+
+                                                                            All MMS can connect to any of the
+                                                                            FMS & TDOA sites for Geolocation.
+                                                                            Sunday to Thursday.
+
+                                                                            H24: on request.
+
+                                                                            x dB and ß% methods, in accordance
+                                                                            with Recommendation ITU-R
+                                                                            SM.443-4. Instantaneous bandwidth
+                                                                            for wideband signals (40 MHz), in
+25°40'14"N     Bandwidth                                                    accordance with Recommendation
+                                    20MHz - 8.5GHz      0400 - 1100 (UTC)
+051°28'49"E    measurements                                                 ITU-R SM.1794.
+
+                                                                            All fixed monitoring stations are
+                                                                            remotely controlled at the National
+                                                                            Control Center (CRA building) via the
+                                                                            highly secured MPLS/IP network.
+
+                                                                            All MMS can connect to any of the
+                                                                            FMS & TDOA sites for Geolocation.
+
+
+
+
+Geographical       Types of                Ranges of        Hours of service                 Remarks
+coordinates      measurements           frequencies for         (UTC)
+                                      each measurement
+                                                                               Sunday to Thursday.
+
+                                                                               H24: on request.
+
+                                                                               Automatic measurements of
+                                                                               spectrum occupancy in accordance
+                                                                               with Recommendation ITU-R
+                Automatic
+                                                                               SM.1880 and ITU-R Spectrum
+25°40'14"N      spectrum
+                                    20MHz - 8.5GHz         0400 - 1100 (UTC)   Monitoring Handbook.
+051°28'49"E     occupancy
+                surveys
+                                                                               All fixed monitoring stations are
+                                                                               remotely controlled at the National
+                                                                               Control Center (CRA building) via the
+                                                                               highly secured MPLS/IP network.
+
+                                                                               All MMS can connect to any of the
+                                                                               FMS & TDOA sites for Geolocation.
+
+
+                 Station: AL WAKRAH
+
+      Name of the station                         Postal address                Telephone, Telefax, Electronic-mail
+
+Al Wakrah                           Communications Regulatory Authority        PHONE: +974 44995374
+                                    (CRA)                                      TELEFAX: +974 44830630
+                                    Al Nasr Tower-B                            EMAIL: msadeq@cra.gov.qa
+                                    Corniche Road
+                                    P.O.Box 23404
+                                    Doha
+                                    Qatar
+
+
+
+Geographical      Types of       Ranges of frequencies      Hours of service                 Remarks
+coordinates     measurements     for each measurement           (UTC)
+                                                                               Sunday to Thursday.
+
+                                                                               H24: on request.
+
+                                                                               Measurement Accuracy: ± 1 Hz
+                                                                               (absolute).
+25°01'32"N      Frequency
+                                 20MHz - 8.5GHz            0400 - 1100 (UTC)
+051°27'27"E     measurements                                                   All fixed monitoring stations are
+                                                                               remotely controlled at the National
+                                                                               Control Center (CRA building) via the
+                                                                               highly secured MPLS/IP network.
+
+                                                                               All MMS can connect to any of the
+                                                                               FMS & TDOA sites for Geolocation.
+                                                                               Sunday to Thursday.
+
+                                                                               H24: on request.
+
+                                                                               Measurement Accuracy: ± 3 dB.
+                Field strength
+25°01'32"N      or power flux-
+                                 20MHz - 8.5GHz            0400 - 1100 (UTC)   All fixed monitoring stations are
+051°27'27"E     density
+                                                                               remotely controlled at the National
+                measurements
+                                                                               Control Center (CRA building) via the
+                                                                               highly secured MPLS/IP network.
+
+                                                                               All MMS can connect to any of the
+                                                                               FMS & TDOA sites for Geolocation.
+Geographical     Types of     Ranges of frequencies   Hours of service                  Remarks
+coordinates    measurements   for each measurement        (UTC)
+                                                                          Sunday to Thursday.
+
+                                                                          H24: on request.
+
+                                                                          DF Accuracy: 2 degrees RMS.
+
+                                                                          Dual Polarization: 20MHz - 3GHz.
+               Direction-
+25°01'32"N
+               finding        20MHz - 8.5GHz          0400 - 1100 (UTC)   Vertical Polarization: 3GHz - 8.5GHz.
+051°27'27"E
+               measurements
+                                                                          All fixed monitoring stations are
+                                                                          remotely controlled at the National
+                                                                          Control Center (CRA building) via the
+                                                                          highly secured MPLS/IP network.
+
+                                                                          All MMS can connect to any of the
+                                                                          FMS & TDOA sites for Geolocation.
+                                                                          Sunday to Thursday.
+
+                                                                          H24: on request.
+
+                                                                          x dB and ß% methods, in accordance
+                                                                          with Recommendation ITU-R
+                                                                          SM.443-4. Instantaneous bandwidth
+                                                                          for wideband signals (40 MHz), in
+25°01'32"N     Bandwidth                                                  accordance with Recommendation
+                              20MHz - 8.5GHz          0400 - 1100 (UTC)
+051°27'27"E    measurements                                               ITU-R SM.1794.
+
+                                                                          All fixed monitoring stations are
+                                                                          remotely controlled at the National
+                                                                          Control Center (CRA building) via the
+                                                                          highly secured MPLS/IP network.
+
+                                                                          All MMS can connect to any of the
+                                                                          FMS & TDOA sites for Geolocation.
+                                                                          Sunday to Thursday.
+
+                                                                          H24: on request.
+
+                                                                          Automatic measurements of
+                                                                          spectrum occupancy in accordance
+                                                                          with Recommendation ITU-R
+               Automatic
+                                                                          SM.1880 and ITU-R Spectrum
+25°01'32"N     spectrum
+                              20MHz - 8.5GHz          0400 - 1100 (UTC)   Monitoring Handbook.
+051°27'27"E    occupancy
+               surveys
+                                                                          All fixed monitoring stations are
+                                                                          remotely controlled at the National
+                                                                          Control Center (CRA building) via the
+                                                                          highly secured MPLS/IP network.
+
+                                                                          All MMS can connect to any of the
+                                                                          FMS & TDOA sites for Geolocation.
+
+
+
+
+                 Station: MMS 1
+
+        Name of the station                      Postal address                   Telephone, Telefax, Electronic-mail
+
+MMS 1                                 Communications Regulatory Authority        PHONE: +974 44995374
+                                      (CRA)                                      TELEFAX: +974 44830630
+                                      Al Nasr Tower-B                            EMAIL: msadeq@cra.gov.qa
+                                      Corniche Road
+                                      P.O.Box 23404
+                                      Doha
+                                      Qatar
+
+
+
+Geographical         Types of                Ranges of       Hours of service                   Remarks
+coordinates        measurements           frequencies for        (UTC)
+                                        each measurement
+                                                                                   Sunday to Thursday.
+
+                                                                                   H24: on request.
+
+                                                                                   Measurement Accuracy: ± 1 Hz
+                                                                                   (absolute).
+                 Frequency
+                                       9kHz - 8GHz           0400 - 1100 (UTC)     All fixed monitoring stations are
+                 measurements
+                                                                                   remotely controlled at the National
+                                                                                   Control Center (CRA building) via
+                                                                                   the highly secured MPLS/IP
+                                                                                   network.
+
+                                                                                   All MMS can connect to any of the
+                                                                                   FMS & TDOA sites for Geolocation.
+                                                                                   Sunday to Thursday.
+
+                                                                                   H24: on request.
+
+                                                                                   Measurement Accuracy: ± 3 dB.
+                 Field strength or
+                                                                                   All fixed monitoring stations are
+                 power flux-density    9kHz - 8GHz           0400 - 1100 (UTC)
+                                                                                   remotely controlled at the National
+                 measurements
+                                                                                   Control Center (CRA building) via
+                                                                                   the highly secured MPLS/IP
+                                                                                   network.
+
+                                                                                   All MMS can connect to any of the
+                                                                                   FMS & TDOA sites for Geolocation.
+
+
+
+
+Geographical       Types of             Ranges of      Hours of service                 Remarks
+coordinates      measurements        frequencies for       (UTC)
+                                   each measurement
+                                                                           Sunday to Thursday.
+
+                                                                           H24: on request.
+
+                                                                           DF Accuracy: 2 degrees RMS.
+
+                                                                           Dual Polarization: 20MHz - 3GHz.
+
+                                                                           Vertical Polarization: 3GHz -
+               Direction-finding
+                                   9kHz - 8GHz         0400 - 1100 (UTC)   8.5GHz.
+               measurements
+                                                                           All fixed monitoring stations are
+                                                                           remotely controlled at the National
+                                                                           Control Center (CRA building) via
+                                                                           the highly secured MPLS/IP
+                                                                           network.
+
+                                                                           All MMS can connect to any of the
+                                                                           FMS & TDOA sites for Geolocation.
+                                                                           Sunday to Thursday.
+
+                                                                           H24: on request.
+
+                                                                           x dB and ß% methods, in
+                                                                           accordance with Recommendation
+                                                                           ITU-R SM.443-4. Instantaneous
+                                                                           bandwidth for wideband signals
+                                                                           (40 MHz), in accordance with
+               Bandwidth
+                                   9kHz - 8GHz         0400 - 1100 (UTC)   Recommendation ITU-R SM.1794.
+               measurements
+                                                                           All fixed monitoring stations are
+                                                                           remotely controlled at the National
+                                                                           Control Center (CRA building) via
+                                                                           the highly secured MPLS/IP
+                                                                           network.
+
+                                                                           All MMS can connect to any of the
+                                                                           FMS & TDOA sites for Geolocation.
+                                                                           Sunday to Thursday.
+
+                                                                           H24: on request.
+
+                                                                           Automatic measurements of
+                                                                           spectrum occupancy in accordance
+                                                                           with Recommendation ITU-R
+                                                                           SM.1880 and ITU-R Spectrum
+               Automatic
+                                                                           Monitoring Handbook.
+               spectrum            9kHz - 8GHz         0400 - 1100 (UTC)
+               occupancy surveys
+                                                                           All fixed monitoring stations are
+                                                                           remotely controlled at the National
+                                                                           Control Center (CRA building) via
+                                                                           the highly secured MPLS/IP
+                                                                           network.
+
+                                                                           All MMS can connect to any of the
+                                                                           FMS & TDOA sites for Geolocation.
+
+
+
+
+                 Station: MMS 2
+
+        Name of the station                      Postal address                   Telephone, Telefax, Electronic-mail
+
+MMS 2                                 Communications Regulatory Authority        PHONE: +974 44995374
+                                      (CRA)                                      TELEFAX: +974 44830630
+                                      Al Nasr Tower-B                            EMAIL: msadeq@cra.gov.qa
+                                      Corniche Road
+                                      P.O.Box 23404
+                                      Doha
+                                      Qatar
+
+
+
+Geographical         Types of                Ranges of       Hours of service                   Remarks
+coordinates        measurements           frequencies for        (UTC)
+                                        each measurement
+                                                                                   Sunday to Thursday.
+
+                                                                                   H24: on request.
+
+                                                                                   Measurement Accuracy: ± 1 Hz
+                                                                                   (absolute).
+                 Frequency             20MHz - 8.5GHz;
+                                                             0400 - 1100 (UTC)     All fixed monitoring stations are
+                 measurements          8.5 - 40GHz
+                                                                                   remotely controlled at the National
+                                                                                   Control Center (CRA building) via
+                                                                                   the highly secured MPLS/IP
+                                                                                   network.
+
+                                                                                   All MMS can connect to any of the
+                                                                                   FMS & TDOA sites for Geolocation.
+                                                                                   Sunday to Thursday.
+
+                                                                                   H24: on request.
+
+                                                                                   Measurement Accuracy: ± 3 dB.
+                 Field strength or
+                                       20MHz - 8.5GHz;                             All fixed monitoring stations are
+                 power flux-density                          0400 - 1100 (UTC)
+                                       8.5 - 40GHz                                 remotely controlled at the National
+                 measurements
+                                                                                   Control Center (CRA building) via
+                                                                                   the highly secured MPLS/IP
+                                                                                   network.
+
+                                                                                   All MMS can connect to any of the
+                                                                                   FMS & TDOA sites for Geolocation.
+
+
+
+
+Geographical       Types of             Ranges of      Hours of service                 Remarks
+coordinates      measurements        frequencies for       (UTC)
+                                   each measurement
+                                                                           Sunday to Thursday.
+
+                                                                           H24: on request.
+
+                                                                           DF Accuracy: 2 degrees RMS.
+
+                                                                           Dual Polarization: 20MHz - 3GHz.
+
+                                                                           Vertical Polarization: 3GHz -
+               Direction-finding
+                                   20MHz - 8.5GHz      0400 - 1100 (UTC)   8.5GHz.
+               measurements
+                                                                           All fixed monitoring stations are
+                                                                           remotely controlled at the National
+                                                                           Control Center (CRA building) via
+                                                                           the highly secured MPLS/IP
+                                                                           network.
+
+                                                                           All MMS can connect to any of the
+                                                                           FMS & TDOA sites for Geolocation.
+                                                                           Sunday to Thursday.
+
+                                                                           H24: on request.
+
+                                                                           x dB and ß% methods, in
+                                                                           accordance with Recommendation
+                                                                           ITU-R SM.443-4. Instantaneous
+                                                                           bandwidth for wideband signals
+                                                                           (40 MHz), in accordance with
+               Bandwidth           20MHz - 8.5GHz;
+                                                       0400 - 1100 (UTC)   Recommendation ITU-R SM.1794.
+               measurements        8.5 - 40GHz
+                                                                           All fixed monitoring stations are
+                                                                           remotely controlled at the National
+                                                                           Control Center (CRA building) via
+                                                                           the highly secured MPLS/IP
+                                                                           network.
+
+                                                                           All MMS can connect to any of the
+                                                                           FMS & TDOA sites for Geolocation.
+                                                                           Sunday to Thursday.
+
+                                                                           H24: on request.
+
+                                                                           Automatic measurements of
+                                                                           spectrum occupancy in accordance
+                                                                           with Recommendation ITU-R
+                                                                           SM.1880 and ITU-R Spectrum
+               Automatic                                                   Monitoring Handbook.
+               spectrum            20MHz - 8.5GHz      0400 - 1100 (UTC)
+               occupancy surveys                                           All fixed monitoring stations are
+                                                                           remotely controlled at the National
+                                                                           Control Center (CRA building) via
+                                                                           the highly secured MPLS/IP
+                                                                           network.
+
+                                                                           All MMS can connect to any of the
+                                                                           FMS & TDOA sites for Geolocation.
+
+
+
+
+                               List of Issuer Identifier Numbers for
+                       the International Telecommunication Charge Card
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                  (Position on 1 December 2018)
+                           (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                            (Amendment No. 77)
+
+
+South Africa     ADD
+
+
+    Country/       Company Name/Address            Issuer      Contact                                     Effective
+  geographical                                   Identifier                                                 date of
+      area                                        Number                                                    usage
+ South Africa      ONEX SA (PTY) LTD             89 27 83      Mobeen Bhamjee                             26.IV.2022
+                   19 Liverpool Road                           ONEX SA (PTY) LTD,
+                   Benoni South,                               PO Box 5037
+                   GAUTENG 1502                                Benoni West, GAUTENG 1503
+                                                               Tel: +27 11 646 8777
+                                                               E-mail:
+                                                               mobeen.bhamjee@onetel.co.za/
+                                                               david@onetel.co.za
+
+United States ADD
+
+    Country/       Company Name/Address            Issuer      Contact                                   Effective date
+  Geographical                                   Identifier                                                 of usage
+      area                                        Number
+
+ United States     Spectrum Wireless             89 1 345      Anshul Maggon                                9.I.2023
+                   Holdings, LLC                               6399 S Fiddlers Green Cir,
+                   6399 S Fiddlers Green Cir,                  4th Floor
+                   4th Floor                                   Greenwood Village,
+                   Greenwood Village,                          CO 80111
+                   CO 80111                                    E-mail: anshul.maggon@charter.com
+
+
+
+
+               List of Recommendation ITU-T E.164 assigned Country Codes
+                 (Complement to Recommendation ITU-T E.164 (11/2010))
+                            (Position on 15 December 2016)
+                                 (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                  (Amendment No. 34)
+
+ Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+
+
+p        Associated with shared country code 883, the following three-digit identification code reservation or
+         assignment has been made for the international networks of:
+
+Note p)      +883 220         SUP*
+
+                                                                                    Country Code and
+                  Applicant                                      Network                                        Status
+                                                                                   Identification Code
+
+    Beezz Communication Solutions                Beezz Communication Solutions         +883 220              Withdrawn
+    Ltd                                          Ltd
+
+* 1.II.2023
+
+__________
+
+See page 4 of the present Operational Bulletin No. 1262 of 15.II.2023.
+
+
+
+
+      Mobile Network Codes (MNC) for the international identification plan
+                     for public networks and subscriptions
+             (According to Recommendation ITU-T E.212 (09/2016))
+                        (Position on 15 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                              (Amendment No. 90)
+
+
+Country/Geographical area           MCC+MNC            Operator/Network
+Estonia SUP
+                                         248 25        Eurofed OÜ
+Estonia ADD
+                                         248 29        SkyTel OÜ
+Japan SUP
+                                         440 70        KDDI Corporation
+                                         440 71        KDDI Corporation
+                                         440 72        KDDI Corporation
+                                         440 73        KDDI Corporation
+                                         440 74        KDDI Corporation
+                                         440 75        KDDI Corporation
+                                         440 76        KDDI Corporation
+Japan ADD
+                                        441 211        STARCAT CABLE NETWORK Co., LTD.
+                                        441 212        I-TEC Solutions Co., Ltd.
+Japan LIR
+                                         440 08        Panasonic Connect Co., Ltd
+                                         440 09        Marubeni Network Solutions Inc.
+International Mobile,
+shared code SUP*
+                                         901 32        MegaFon
+                                         901 55        Beezz Communication Solutions Ltd.
+____________
+
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+* See the present ITU Operational Bulletin No. 1262 of 15.II.2023, page 4.
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                             (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 144)
+
+
+ Country or area/ISO code                               Company Code         Contact
+  Company Name/Address                                   (carrier code)
+
+
+Bosnia and Herzegovina / BIH         REP all information by
+
+
+ Adria net d.o.o. Mostar                               ADNISP               Tel: +387 36 333 483
+ Dr. Ante Starčevića 46                                                     E-mail: info@adrianet.eu
+ 88000 Mostar
+ AKT.ONLINE d.o.o. Sarajevo                            AKTBIH               Tel: +387 33 296 621
+ Fra Anđela Zvizdovića br. 1                                                Fax: +387 33 296 622
+ 71000 Sarajevo                                                             E-mail: info@aktonline.ba
+ Alfanet Informatika d.o.o. Prijedor                   ALFANE               Tel: +387 52 212 000/+387 52 232 143
+ Majora Milana Tepića M1, lokal 5                                           E-mail: office@alfa-net.com;
+ 79101 Prijedor                                                             info@elektronika.rs.ba
+ AMB-NET d.o.o. Živinice                               A9M9B2               Tel: +387 63 028 675
+ Tupković bb                                                                Fax: +387 35 764 415
+ 75270 Živinice                                                             E-mail: ambnetdoo@gmail.com ;
+                                                                            ambnetinternet@gmail.com
+ AVAX NET d.o.o. Lukavac                               AVAXBH               Tel: +387 80 020 231 (free phone, Bosnia and
+ Kralja Tvrtka I bb                                                         Herzegovina only)
+ 75300 Lukavac                                                              Fax: +387 35 553 696
+                                                                            E-mail: avaxba@yahoo.com
+ BH Telecom d.d. Sarajevo                              BHTBIH               Tel: +387 33 232 651/+387 33 232 652
+ Franca Lehara 7                                                            E-mail: support@bih.net.ba
+ 71000 Sarajevo
+ Blicnet d.o.o. Banja Luka                             BLICBH               Tel: +387 51 921 000/+387 51 921 921
+ Majke Jugovića br. 25                                                      E-mail: office@aneks.com
+ 78000 Banja Luka
+ DASTO-SEMTEL d.o.o. Bijeljina                         ZONABH               Tel: +387 55 420 100
+ Račanska 98                                                                Fax: +387 55 420 101
+ 76300 Bijeljina                                                            E-mail: info@zona.ba
+ DINNET d.o.o. Gračanica                               DINNET               Tel: +387 35961700/+387 61660739
+ Zlatnih ljiljana bb                                                        E-mail: shop@dinnet.net
+ 75323 Gračanica
+ DOMOOPTIK d.o.o.                                      DOMBIH               Tel: + 387 33 943950
+ Tvornička br.3                                                             E-mail: info@domooptik.ba
+ 71000 Sarajevo
+ DSL-ELEKTRONIKA d.o.o. Modriča                        DSLON                Tel: +387 65 950 255/+387 53 813 005
+ Cara Lazara bb                                                             E-mail: info@dslon.ws
+ 74480 Modriča
+ ELEKTRON GROUP d.o.o. Derventa                        BNET16               Tel: +387 53 311 888
+ Derventski Lug 74                                                          Fax: +387 53 311 898
+ 74400 Derventa                                                             E-mail: electron@teol.net
+
+ELIT M d.o.o. Bijeljina                 SCWLAN   Tel: +387 55 215 255
+Vidovdanska br. 48 đ                             E-mail: office@scwlan.com
+76300 Bijeljina
+ELKATEL d.o.o. Tuzla                    ELKTEL   Tel: +387 35 302 333
+Fočanska br. 1N                                  Fax: +387 35 302 330
+75000 Tuzla                                      E-mail: elkatel@txtv.ba
+ELTA-MT d.o.o. Tuzla                    ELTAMT   Tel: +387 35 302 333
+Fočanska br. 1N                                  E-mail: elta-mt@elta-mt.ba
+75000 Tuzla
+EUROPRONET BOSNIA d.o.o. Sarajevo       EPNBIH   Tel: +387 33 941 000/+387 33 213 200
+Tvornička 371210 Ilidža                          E-mail: office@europronet.ba
+FORMEA d.o.o. Visoko                    FORMEA   Tel: +387 32 739 217
+Kralja Tvrtka bb                                 E-mail: prodaja@formea.ba
+71300 Visoko
+HKB net d.o.o. Sarajevo                 HKBNET   Tel: +387 33 844 404/+387 33 972 972
+Džemala Bijedića 216                             E-mail: hs-hkb@hs-hkb.ba
+71000 Sarajevo
+INTEGRA INŽENJERING d.o.o. Banja Luka   INTGRA   Tel: +387 51 337 449
+Trg Republike Srpske 8/XIII                      Fax: +387 51 337 492
+78000 Banja Luka                                 E-mail: integra@integralgrupa.com
+ITS d.o.o. Široki Brijeg                ITSF72   Fax: +387 39 704 249
+Fra Didaka Buntića 72                            E-mail: its@service-its.com
+88220 Široki Brijeg
+JetStream BH d.o.o.                     JETBIH   Tel: +387 33 465 793
+Hiseta 15                                        E-mail: ws.jetstreamsubs@a1telekom.at
+71000 Sarajevo
+JP Elektroprivreda BiH d.d. Sarajevo    JPEPBH   Tel: +387 33 751 000/+387 33 751 008
+Vilsonovo šetalište 15                           E-mail: www.elektroprivreda.ba
+71000 Sarajevo
+JP HT d.d. Mostar                       HTMBIH   Tel: +387 36 395 555
+Kneza Branimira bb                               Fax: +387 36 395 279
+88000 Mostar                                     E-mail infoHT@hteronet.ba
+KAMER COMMERCE d.o.o. Sarajevo          PLUSBA   Tel: +387 33 555 062
+Blažujski drum 14                                E-mail: prodaja@plus.ba
+71210 Ilidža
+KATARINA d.o.o. Mostar                  KATISP   Tel: +387 36 326 426
+Dr. Ante Starčevića br.48                        Fax: +387 36 333 483
+88000 Mostar                                     E-mail: katarina@katarina.ba
+KATV HS d.o.o. Sarajevo                 KATVHS   Tel: +387 33 716 505/+387 33 716 377
+Džemala Bijedića 216                             E-mail: hs-hkb@hs-hkb.ba
+71000 Sarajevo
+KG-1 d.o.o. Goražde                     C3N6A1   Tel: +387 38 221 080/+387 38 240 130
+Naselje Panorama bb                              E-mail: kg1gorazde@gmail.com
+73000 Goražde
+K-NET d.o.o. Derventa                   KNETBH   Tel: +387 65 633 926/+387 53 333 815
+1.maja br.46                                     E-mail: k.netderventa@gmail.com
+74400 Derventa
+KTV E-G-E d.o.o. Doboj Jug              EGE123   Tel: +387 63 285 024/+387 32 699 081
+203 brigade 305, Matuzići                        E-mail: info@ktv-ege.ba
+74203 Doboj-Jug
+
+
+
+Logosoft d.o.o. Sarajevo                         LGSFT1   Tel: +387 33 931 900
+Grbavička 4                                               Fax: +387 33 931 901
+71000 Sarajevo                                            E-mail: info@logosoft.ba
+M&H Company d.o.o. Sarajevo                      MHCOMP   Tel: +387 33 716 505/+387 33 716 377
+Džemala Bijedića 216                                      E-mail: hs-hkb@hs-hkb.ba
+71000 Sarajevo
+Media Sky d.o.o. Živinice                        MSKBIH   Tel: +387 35 772 249
+Druga Ulica 48                                            Fax: +387 35 775 406
+75270 Živinice                                            E-mail: mediasky@mediasky.ba
+MH ERS MP a.d. Trebinje, ZP Elektro Doboj a.d.   ELEDOB   Tel: +387 53 209 733
+Doboj                                                     Fax: +387 53 241 344
+Nikole Pašića br.77                                       E-mail: info@elektrodoboj.net
+74000 Doboj
+MISS.NET d.o.o. Bihać                            MISNET   Tel: +387 37 961 000
+Sarajevska 24                                             Fax: +387 37 961 503
+77000 Bihać                                               E-mail: missnet@missnet.ba
+Neon Solucije d.o.o. Kalesija                    NEONBA   Tel: +387 35 617 482
+Miljanovci bb                                             Fax: +387 35 617 493
+75260 Kalesija                                            E-mail: info@neon.ba
+NET-FLET d.o.o. Bugojno                          BNTFLT   Tel: +387 30 961 150
+Bosanska 14                                               E-mail: info@net-flet.ba
+70230 Bugojno
+novotel d.o.o.                                   NOVOBH   Tel: + 387 33 953 400
+Džemala Bijedića br. 39                                   E-mail: info@novotel.ba
+71000 Sarajevo
+ORTAK d.o.o. Šipovo                              1ORTAK   Tel: +387 50 360 410/+387 50 360 411
+Vojvode Radomira Putnika bb                               E-mail: kancelarija@kdsortak.net
+78364 Šipovo
+PRVI FORTIS PROJEKT d.o.o.                       PFPBIH   Tel: +387 36 807 167
+Hercegovačkog ustanka bb.                                 E-mail: prvifortisprojekt@gmail.com
+88390 Neum
+SECTOR TECHNOLOGY d.o.o. Brčko distrikt BiH      SECTOR   Tel: +387 49 230 770
+Branislava Nušića br.19                                   E-mail: office@sector.ba
+76100 Brčko
+SiOL d.o.o. Sarajevo                             SIOLSA   Tel: +387 33 881 118/+387 33 861 010
+Fra Anđela Zvizdovića 1                                   E-mail: admir.kudic@sgl.ba;
+71000 Sarajevo                                            sreta.maric@telekom.si
+SOFTNET d.o.o. Sarajevo                          SNBH05   Tel: +387 33 551 360
+Fra Anđela Zvizdovića 1                                   Fax: +387 33 551 361
+71000 Sarajevo                                            E-mail: info@softnet.ba
+Stokić d.o.o. Doboj                              GOJA65   Tel: +387 65 680 573/+387 53 286 145
+Velika Bukovica 34                                        E-mail: stokicdoo@hotmail.com
+74213 Doboj
+TEAM:MEDIA d.o.o. Sarajevo                       TEAMBH   Tel: +387 33 257 241
+Igmanska bb, Krug UNIS-PRETIS                             E-mail: info@team-media.ba
+71320 Vogošća
+TEAM CONSULTING d.o.o. Sarajevo                  TEAMAC   Tel: +387 62 348 797/+387 33 922 474
+Tvornička 3                                               E-mail: info@team.ba
+71000 Sarajevo
+
+
+
+
+TELEKLIK d.o.o. Banja Luka                     TLKNET   Tel: +387 51 321 013/+387 51 321 008
+Kralja Petra II Karađorđevića 39                        E-mail: info@teleklik.ba
+78000 Banja Luka
+Telekom Srpske a.d. Banja Luka                 MTELBH   Tel: +387 51 240 100
+Vuka Karadžića broj 2                                   Fax: +387 51 211 150
+78000 Banja Luka                                        E-mail: ts.office@mtel.ba;
+                                                        korisnicka.podrska@mtel.ba
+Telemach BH d.o.o. Sarajevo                    TLMBIH   Tel: +387 33 466 043
+Džemala Bijedića 216                                    E-mail: info@telemach.co.ba
+71000 Sarajevo
+TELESKY d.o.o. Gradačac                        TELE15   Tel: +387 35 560 560
+1. mart br. 14                                          E-mail: kontakt@telesky.ba
+76250 Gradačac
+TELINEA d.o.o. Bihać                           TELBIH   Tel: +387 37 901 901/+387 37 689 530
+Dr.Irfana Ljubijankića 148                              E-mail: info@telinea.com
+77000 Bihać
+Tel-Net d.o.o. Ključ                           TLNAD1   Tel: +387 37 662 088
+Branilaca BiH bb                                        E-mail: doo.telnet@gmail.com
+79280 Ključ
+TEONET d.o.o. Tuzla                            T30C4K   Tel: +387 65 388 389
+Armije BiH 15                                           E-mail: teonet.doo@gmail.com
+75000 Tuzla
+Terc Trade Company d.o.o. Prnjavor             TERCTT   Tel: +387 51 640 040
+Novaka Pivaševića 36                                    E-mail: terc@teol.net
+78430 Prnjavor
+TRION TEL d.o.o. Banja Luka                    3ONBIH   Tel: +387 51 491 700
+Vidovdanska broj 8                                      E-mail: info@triontel.net
+78000 Banja Luka
+TX TV d.o.o. Tuzla                             TXTVBH   Tel: +387 35 302 333
+Fočanska 1N                                             Fax +387 35 302 330
+75000 Tuzla                                             E-mail: internet@txtv.ba
+Univerzitet u Sarajevu (UNSA) Univerzitetski   UTIC     Tel: +387 33 560 240
+Tele-Informatički Centar (UTIC)                         Fax: +387 33 213 773
+Obala Kulina bana 7/II                                  E-mail: support@utic.net.ba
+71000 Sarajevo
+Wirac.Net d.o.o. Gračanica                     WNETBH   Tel: +387 35 707 035
+Zlatnih ljiljana bb                                     Fax: +387 35 708 296
+75320 Gračanica                                         E-mail: info@wirac.net
+ZipZap d.o.o. Zenica                           ZIPZAP   Tel: +387 32 200 860
+Londža 92                                               Fax: +387 32 200 861
+72000 Zenica                                            E-mail: info@zipzap.ba
+
+
+
+
+ Country or area/ISO code                   Company Code      Contact
+  Company Name/Address                       (carrier code)
+
+
+Germany (Federal Republic of) / DEU   ADD
+
+
+ in.sec GmbH                                    INSEC         Mr Simon Harlacher
+ Karl-Theodor-Strasse 3                                       Tel: +49 8142 427340
+ D-82140 OLCHING                                              E-mail: carrier@insec.gmbh
+
+ Mainzer Breitband GmbH                        MZMSW          Mrs Miriam Volkmann
+ Rheinallee 41                                                Tel.: +49 6131 12 8112
+ D-55118 MAINZ                                                Email: miriam.volkmann@mainzer-breitband.de
+
+ Telekommunikationsgesellschaft                TKGSWF         Mr Stefan Glusa
+ Südwestfalen mbH                                             Tel.: +49 291 94 4411
+ Steinstrasse 27                                              Fax: +49 291 94 1140
+ D-59872 MESCHEDE                                             Email: info@tkg-swf.de
+
+ Terrera AG                                    TERGER         Mr Michael Lenz
+ Ringstrasse 13                                               Tel.: +49 6474 274416
+ D-65606 VILLMAR                                              Fax: +49 6474 274463
+                                                              Email: michael.lenz@terrera.ag
+
+
+
+Germany (Federal Republic of) / DEU   LIR
+
+
+ CompuNet Systems GmbH                          CPN1          Mr Boris Hoppe
+ Moislinger Allee 9 d                                         Tel: +49 451 3170330
+ D-23558 LUEBECK                                              E-mail: b.hoppe@compunet.systems
+
+ COM-IN Telekommunikations GmbH                COMIN          Mr Stefan Ferstl
+ Erni-Singerl-Strasse 2 b                                     Tel: +49 841 88511 0
+ D-85053 INGOLSTADT                                           Fax: +49 841 88511 1099
+                                                              E-mail: kontakt@comin-glasfaser.de
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 50)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point         Name of the signalling point operator
+
+
+ Georgia LIR
+ 3-246-0       8112         Tbilisi, Bulk SMS server                    FIGENSOFT GEORGIA LTD
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                          Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.I.2023, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                                      Country/ Geographical area                      Country Code (CC)
+                  Iran (Islamic Republic of)                                                 +98
+                  Poland                                                                     +48
+                  Trinidad and Tobago                                                      +1 868
+
+
+
+

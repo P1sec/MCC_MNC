@@ -80,6 +80,26 @@
         "Nokia Solutions and Networks Australia Pty Ltd",
         "50554",
         "ADD"
+      ],
+      [
+        "Nokia Solutions and Networks Australia Pty Ltd",
+        "50554",
+        "SUP"
+      ],
+      [
+        "New South Wales Government Telecommunications Authority",
+        "50555",
+        "ADD"
+      ],
+      [
+        "Nokia Solutions and Networks Pty Ltd",
+        "50556",
+        "ADD"
+      ],
+      [
+        "UE Access Pty Ltd",
+        "50590",
+        "LIR"
       ]
     ],
     "Bahrain": [
@@ -316,6 +336,26 @@
         "Ligado Networks Corp.",
         "302570",
         "LIR"
+      ],
+      [
+        "Fibernetics Corporation",
+        "302140",
+        "ADD"
+      ],
+      [
+        "Rogers Communications Canada Inc.",
+        "302741",
+        "ADD"
+      ],
+      [
+        "Rogers Communications Canada Inc.",
+        "302740",
+        "LIR"
+      ],
+      [
+        "Halton Regional Police",
+        "302910",
+        "LIR"
       ]
     ],
     "Cayman Islands": [
@@ -374,6 +414,16 @@
         "Uniphone, s.r.o.",
         "23009",
         "ADD"
+      ],
+      [
+        "incrate s.r.o.",
+        "23011",
+        "ADD"
+      ],
+      [
+        "Nordic Telecom Regional s.r.o.",
+        "23004",
+        "LIR"
       ]
     ],
     "Denmark": [
@@ -462,6 +512,26 @@
       [
         "Nord Connect O\u00dc",
         "24828",
+        "ADD"
+      ],
+      [
+        "Eurofed O\u00dc",
+        "24825",
+        "SUP"
+      ],
+      [
+        "SkyTel O\u00dc",
+        "24829",
+        "ADD"
+      ],
+      [
+        "Baltergo O\u00dc",
+        "24817",
+        "SUP"
+      ],
+      [
+        "Mediafon Carrier Services O\u00dc",
+        "24830",
         "ADD"
       ]
     ],
@@ -695,6 +765,13 @@
         "ADD"
       ]
     ],
+    "Greenland": [
+      [
+        "GTV",
+        "29003",
+        "ADD"
+      ]
+    ],
     "Guadeloupe": [
       [
         "Free Cara\u00efbe",
@@ -706,6 +783,11 @@
       [
         "E-Networks Inc.",
         "73800",
+        "ADD"
+      ],
+      [
+        "E-Networks Inc.",
+        "738040",
         "ADD"
       ]
     ],
@@ -1023,6 +1105,46 @@
         "KORE Wireless",
         "90196",
         "ADD"
+      ],
+      [
+        "MegaFon",
+        "90132",
+        "SUP"
+      ],
+      [
+        "Beezz Communication Solutions Ltd.",
+        "90155",
+        "SUP"
+      ],
+      [
+        "Satelio IoT Services S.L.",
+        "90197",
+        "ADD"
+      ],
+      [
+        "Flo Live Limited",
+        "90180",
+        "ADD"
+      ],
+      [
+        "Skylo Technologies, Inc.",
+        "90198",
+        "ADD"
+      ],
+      [
+        "Webbing",
+        "90101",
+        "ADD"
+      ],
+      [
+        "Athalos Global Services BV",
+        "90199",
+        "ADD"
+      ],
+      [
+        "GlobalmatiX AG",
+        "90102",
+        "ADD"
       ]
     ],
     "Iran (Islamic Republic of)": [
@@ -1338,6 +1460,66 @@
         "KDDI CORPORATION",
         "44001",
         "LIR"
+      ],
+      [
+        "KDDI Corporation",
+        "44070",
+        "SUP"
+      ],
+      [
+        "KDDI Corporation",
+        "44071",
+        "SUP"
+      ],
+      [
+        "KDDI Corporation",
+        "44072",
+        "SUP"
+      ],
+      [
+        "KDDI Corporation",
+        "44073",
+        "SUP"
+      ],
+      [
+        "KDDI Corporation",
+        "44074",
+        "SUP"
+      ],
+      [
+        "KDDI Corporation",
+        "44075",
+        "SUP"
+      ],
+      [
+        "KDDI Corporation",
+        "44076",
+        "SUP"
+      ],
+      [
+        "STARCAT CABLE NETWORK Co., LTD.",
+        "441211",
+        "ADD"
+      ],
+      [
+        "I-TEC Solutions Co., Ltd.",
+        "441212",
+        "ADD"
+      ],
+      [
+        "Panasonic Connect Co., Ltd",
+        "44008",
+        "LIR"
+      ],
+      [
+        "Marubeni Network Solutions Inc.",
+        "44009",
+        "LIR"
+      ],
+      [
+        "Okinawa Cellular Telephone Company",
+        "44078",
+        "SUP"
       ]
     ],
     "Kenya": [
@@ -1698,6 +1880,11 @@
         "PM Factory B.V.",
         "20424",
         "LIR"
+      ],
+      [
+        "Private Mobility Nederland B.V.",
+        "20406",
+        "ADD"
       ]
     ],
     "New Zealand": [
@@ -2078,6 +2265,26 @@
         "Netmore Group AB",
         "24040",
         "LIR"
+      ],
+      [
+        "RebTel Networks AB",
+        "24031",
+        "SUP"
+      ],
+      [
+        "Bredband2 Allm\u00e4nna IT AB",
+        "24013",
+        "LIR"
+      ],
+      [
+        "Teracom AB",
+        "24030",
+        "ADD"
+      ],
+      [
+        "EuTel AB",
+        "24022",
+        "SUP"
       ]
     ],
     "Switzerland": [
@@ -2134,6 +2341,11 @@
       [
         "Tismi BV",
         "22870",
+        "ADD"
+      ],
+      [
+        "Spusu AG",
+        "22871",
         "ADD"
       ]
     ],
@@ -2210,6 +2422,11 @@
       [
         "Orange (end of temporary assignment for trial on 7.VIII.2022)",
         "99102",
+        "SUP"
+      ],
+      [
+        "Halys SAS (end of temporary assignment for trial on 6.IV.2022)",
+        "99103",
         "SUP"
       ]
     ],
@@ -3166,6 +3383,691 @@
         "AT&T Mobility",
         "313210",
         "LIR"
+      ],
+      [
+        "Wave Runner LLC",
+        "310400",
+        "SUP"
+      ],
+      [
+        "Oklahoma Western Telephone Company",
+        "310540",
+        "SUP"
+      ],
+      [
+        "U.S. Cellular",
+        "310730",
+        "SUP"
+      ],
+      [
+        "Mid-Rivers Telephone Cooperative",
+        "310900",
+        "SUP"
+      ],
+      [
+        "Chariton Valley Communications Corporation",
+        "311010",
+        "SUP"
+      ],
+      [
+        "Missouri RSA No. 5 Partnership",
+        "311020",
+        "SUP"
+      ],
+      [
+        "Wilkes Cellular Inc.",
+        "311150",
+        "SUP"
+      ],
+      [
+        "U.S. Cellular",
+        "311220",
+        "SUP"
+      ],
+      [
+        "Wave Runner LLC",
+        "311250",
+        "SUP"
+      ],
+      [
+        "Pinpoint Wireless Inc.",
+        "311290",
+        "SUP"
+      ],
+      [
+        "Leaco Rural Telephone Company Inc",
+        "311310",
+        "SUP"
+      ],
+      [
+        "Iowa RSA No. 2 Limited Partnership",
+        "311410",
+        "SUP"
+      ],
+      [
+        "ELECTRIC IMP INCORPORATED",
+        "311460",
+        "SUP"
+      ],
+      [
+        "North Dakota Network Co.",
+        "311610",
+        "SUP"
+      ],
+      [
+        "Midwest Network Solutions Hub, LLC. (MNS)",
+        "311700",
+        "SUP"
+      ],
+      [
+        "Northeast Wireless Networks LLC",
+        "311710",
+        "SUP"
+      ],
+      [
+        "Proximiti Mobility Inc",
+        "311730",
+        "SUP"
+      ],
+      [
+        "Flat Wireless, LLC",
+        "311750",
+        "SUP"
+      ],
+      [
+        "SI Wireless LLC",
+        "311910",
+        "SUP"
+      ],
+      [
+        "Missouri RSA No 5 Partnership",
+        "311920",
+        "SUP"
+      ],
+      [
+        "Chariton Valley Communications Corporation",
+        "312010",
+        "SUP"
+      ],
+      [
+        "CoverageCo",
+        "312060",
+        "SUP"
+      ],
+      [
+        "Iowa RSA No. 2 Limited Partnership",
+        "312170",
+        "SUP"
+      ],
+      [
+        "Chariton Valley Communications Corporation",
+        "312220",
+        "SUP"
+      ],
+      [
+        "SRT Communications Inc.",
+        "312230",
+        "SUP"
+      ],
+      [
+        "Sprint",
+        "312240",
+        "SUP"
+      ],
+      [
+        "Mid-Rivers Telephone Cooperative",
+        "312400",
+        "SUP"
+      ],
+      [
+        "TrustComm, Inc",
+        "312490",
+        "SUP"
+      ],
+      [
+        "Santel Communications Cooperative, Inc.",
+        "312820",
+        "SUP"
+      ],
+      [
+        "Flat Wireless, LLC",
+        "312860",
+        "SUP"
+      ],
+      [
+        "Northeast Wireless Networks",
+        "312920",
+        "SUP"
+      ],
+      [
+        "Webformix",
+        "312940",
+        "SUP"
+      ],
+      [
+        "M&A Technology, Inc.",
+        "312960",
+        "SUP"
+      ],
+      [
+        "Tennessee Wireless",
+        "313000",
+        "SUP"
+      ],
+      [
+        "Manti Tele Communications Company, Inc. dba Breakaway Wireless",
+        "313050",
+        "SUP"
+      ],
+      [
+        "Mercury Network Corporation",
+        "313200",
+        "SUP"
+      ],
+      [
+        "CAL.NET, INC",
+        "313310",
+        "SUP"
+      ],
+      [
+        "Florida Broadband, Inc",
+        "313520",
+        "SUP"
+      ],
+      [
+        "Sprint",
+        "316010",
+        "SUP"
+      ],
+      [
+        "Southern Communications Services Inc.",
+        "316011",
+        "SUP"
+      ],
+      [
+        "Mobi",
+        "310040",
+        "ADD"
+      ],
+      [
+        "Dish Wireless",
+        "311200",
+        "ADD"
+      ],
+      [
+        "U.S. Cellular",
+        "311225",
+        "ADD"
+      ],
+      [
+        "U.S. Cellular",
+        "311228",
+        "ADD"
+      ],
+      [
+        "U.S. Cellular",
+        "311229",
+        "ADD"
+      ],
+      [
+        "Mobi",
+        "311500",
+        "ADD"
+      ],
+      [
+        "Coeur Rochester, Inc",
+        "311540",
+        "ADD"
+      ],
+      [
+        "Mediacom",
+        "311570",
+        "ADD"
+      ],
+      [
+        "U.S. Cellular",
+        "311588",
+        "ADD"
+      ],
+      [
+        "U.S. Cellular",
+        "311589",
+        "ADD"
+      ],
+      [
+        "Cox Communications",
+        "311930",
+        "ADD"
+      ],
+      [
+        "ShawnTech Communications",
+        "312610",
+        "ADD"
+      ],
+      [
+        "Windstream Services LLC",
+        "313780",
+        "ADD"
+      ],
+      [
+        "Liberty Cablevision of Puerto Rico LLC",
+        "313790",
+        "ADD"
+      ],
+      [
+        "W.A.T.C.H. TV Co. dba Watch Communications",
+        "313810",
+        "ADD"
+      ],
+      [
+        "Inland Cellular Telephone Company",
+        "313820",
+        "ADD"
+      ],
+      [
+        "360 communications INC",
+        "313830",
+        "ADD"
+      ],
+      [
+        "Celblox Acquisitions",
+        "313840",
+        "ADD"
+      ],
+      [
+        "Softcom Internet Communications, Inc.",
+        "313850",
+        "ADD"
+      ],
+      [
+        "AMG Technology Investment Group dba Nextlink Internet",
+        "313860",
+        "ADD"
+      ],
+      [
+        "Elektrafi LLC",
+        "313870",
+        "ADD"
+      ],
+      [
+        "Shuttle Wireless Solutions Inc.",
+        "313880",
+        "ADD"
+      ],
+      [
+        "Tulare County Office of Education",
+        "313890",
+        "ADD"
+      ],
+      [
+        "All Tribal Networks",
+        "313900",
+        "ADD"
+      ],
+      [
+        "San Diego Gas and Electric",
+        "313910",
+        "ADD"
+      ],
+      [
+        "JCI US INC",
+        "313920",
+        "ADD"
+      ],
+      [
+        "Standing Rock Telecom",
+        "313930",
+        "ADD"
+      ],
+      [
+        "Motorola Solutions, Inc",
+        "313940",
+        "ADD"
+      ],
+      [
+        "Cheyenne and Arapaho Development Group",
+        "313950",
+        "ADD"
+      ],
+      [
+        "Townes 5G, LLC",
+        "313960",
+        "ADD"
+      ],
+      [
+        "Tychron Corporation",
+        "313970",
+        "ADD"
+      ],
+      [
+        "Ericsson US",
+        "313990",
+        "ADD"
+      ],
+      [
+        "Texas A&M University System \u2013 RELLIS Campus",
+        "314060",
+        "ADD"
+      ],
+      [
+        "Texas A&M University System \u2013 RELLIS Campus",
+        "314070",
+        "ADD"
+      ],
+      [
+        "Texas A&M University System \u2013 RELLIS Campus",
+        "314080",
+        "ADD"
+      ],
+      [
+        "Southern Communications Services, Inc. D/B/A Southern Linc",
+        "314090",
+        "ADD"
+      ],
+      [
+        "XF Wireless Investments",
+        "314200",
+        "ADD"
+      ],
+      [
+        "Telecom Resource Center",
+        "314210",
+        "ADD"
+      ],
+      [
+        "Secrus Technologies",
+        "314220",
+        "ADD"
+      ],
+      [
+        "Trace-Tek",
+        "314230",
+        "ADD"
+      ],
+      [
+        "XF Wireless Investments",
+        "314240",
+        "ADD"
+      ],
+      [
+        "AT&T Mobility",
+        "314260",
+        "ADD"
+      ],
+      [
+        "AT&T Mobility",
+        "314270",
+        "ADD"
+      ],
+      [
+        "Pollen Mobile LLC",
+        "314280",
+        "ADD"
+      ],
+      [
+        "Wave",
+        "314290",
+        "ADD"
+      ],
+      [
+        "Terranet",
+        "314310",
+        "ADD"
+      ],
+      [
+        "Agri-Valley Communications, Inc",
+        "314320",
+        "ADD"
+      ],
+      [
+        "Nova Labs Inc.",
+        "314330",
+        "ADD"
+      ],
+      [
+        "E-MARCONI LLC",
+        "314340",
+        "ADD"
+      ],
+      [
+        "Evergy",
+        "314350",
+        "ADD"
+      ],
+      [
+        "Oceus Networks, LLC",
+        "314360",
+        "ADD"
+      ],
+      [
+        "Texas A&M University",
+        "314370",
+        "ADD"
+      ],
+      [
+        "Circle Computer Resources, Inc.",
+        "314380",
+        "ADD"
+      ],
+      [
+        "AT&T",
+        "314390",
+        "ADD"
+      ],
+      [
+        "Cellular South Inc. dba C Spire",
+        "314400",
+        "ADD"
+      ],
+      [
+        "Peeringhub Inc",
+        "314410",
+        "ADD"
+      ],
+      [
+        "Cox Communications, Inc",
+        "314420",
+        "ADD"
+      ],
+      [
+        "Highway9 Networks, Inc.",
+        "314430",
+        "ADD"
+      ],
+      [
+        "Tecore Global Services, LLC",
+        "314440",
+        "ADD"
+      ],
+      [
+        "Mile High Networks LLC",
+        "316700",
+        "ADD"
+      ],
+      [
+        "PTI Pacifica, Inc.",
+        "310110",
+        "LIR"
+      ],
+      [
+        "T-Mobile USA",
+        "310120",
+        "LIR"
+      ],
+      [
+        "Eseye",
+        "310460",
+        "LIR"
+      ],
+      [
+        "PTI Pacifica, Inc.",
+        "310480",
+        "LIR"
+      ],
+      [
+        "T-Mobile",
+        "310530",
+        "LIR"
+      ],
+      [
+        "Choice Wireless",
+        "310630",
+        "LIR"
+      ],
+      [
+        "T-Mobile",
+        "310770",
+        "LIR"
+      ],
+      [
+        "T-Mobile USA",
+        "310830",
+        "LIR"
+      ],
+      [
+        "Tyntec Limited",
+        "310940",
+        "LIR"
+      ],
+      [
+        "PTI Pacifica, Inc.",
+        "311120",
+        "LIR"
+      ],
+      [
+        "T-Mobile",
+        "311260",
+        "LIR"
+      ],
+      [
+        "Verizon Wireless",
+        "311440",
+        "LIR"
+      ],
+      [
+        "T-Mobile USA",
+        "311490",
+        "LIR"
+      ],
+      [
+        "WorldCell Solutions LLC",
+        "311530",
+        "LIR"
+      ],
+      [
+        "Verizon Wireless",
+        "311800",
+        "LIR"
+      ],
+      [
+        "Verizon Wireless",
+        "311810",
+        "LIR"
+      ],
+      [
+        "Ribbon Communications",
+        "311820",
+        "LIR"
+      ],
+      [
+        "T-Mobile USA",
+        "311870",
+        "LIR"
+      ],
+      [
+        "T-Mobile USA",
+        "311880",
+        "LIR"
+      ],
+      [
+        "T-Mobile",
+        "311882",
+        "LIR"
+      ],
+      [
+        "T-Mobile USA",
+        "311940",
+        "LIR"
+      ],
+      [
+        "T-Mobile USA",
+        "312190",
+        "LIR"
+      ],
+      [
+        "T-Mobile USA",
+        "312250",
+        "LIR"
+      ],
+      [
+        "WorldCell Solutions LLC",
+        "312260",
+        "LIR"
+      ],
+      [
+        "T-Mobile USA",
+        "312530",
+        "LIR"
+      ],
+      [
+        "Google LLC",
+        "312580",
+        "LIR"
+      ],
+      [
+        "AT&T Mobility",
+        "313030",
+        "LIR"
+      ],
+      [
+        "Southern California Edison",
+        "313300",
+        "LIR"
+      ],
+      [
+        "Anterix Inc.",
+        "313410",
+        "LIR"
+      ],
+      [
+        "Mobi",
+        "313460",
+        "LIR"
+      ],
+      [
+        "Puerto Rico Telephone Company",
+        "313510",
+        "LIR"
+      ],
+      [
+        "Point Broadband Fiber Holding, LLC",
+        "313610",
+        "LIR"
+      ],
+      [
+        "Omniprophis Corporation",
+        "313620",
+        "LIR"
+      ],
+      [
+        "Extenet Systems",
+        "313710",
+        "LIR"
+      ],
+      [
+        "RTO Wireless",
+        "313740",
+        "LIR"
+      ],
+      [
+        "CellTex Networks, LLC",
+        "313750",
+        "LIR"
+      ],
+      [
+        "Hologram",
+        "313760",
+        "LIR"
       ]
     ],
     "Uruguay": [
@@ -3193,6 +4095,18 @@
         "AM Wireless Uruguay S.A. (Claro)",
         "74810",
         "LIR"
+      ],
+      [
+        "ENALUR S.A.",
+        "74815",
+        "ADD"
+      ]
+    ],
+    "Venezuela (Bolivarian Republic of)": [
+      [
+        "PATRIACELL C.A.",
+        "73408",
+        "ADD"
       ]
     ],
     "Viet Nam": [

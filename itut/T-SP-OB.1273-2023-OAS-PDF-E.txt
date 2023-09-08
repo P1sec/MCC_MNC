@@ -1,0 +1,531 @@
+                       ITU Operational Bulletin
+                                                       www.itu.int/itu-t/bulletin
+
+       No. 1273             1.VIII.2023                 (Information received by 14 July 2023) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                               Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                               3
+Approval of ITU-T Recommendations ............................................................................................................                    4
+Assignment of Signalling Area/Network Codes (SANC): Note from TSB ........................................................                                        4
+Data Transmission Service(Recommendation ITU-T X.121 (10/2000)) :
+     United States (Federal Communications Commission, Washington) .......................................................                                        5
+Telephone Service:
+     Denmark (Agency for Data Supply and Infrastructure, Copenhagen) ......................................................                                       7
+Service Restrictions ........................................................................................................................................     8
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                8
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                               9
+List of ITU Carrier Codes .................................................................................................................................      10
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                     11
+List of International Signalling Point Codes (ISPC) .........................................................................................                    12
+List of Data Network Identification Codes (DNIC) ..........................................................................................                      13
+
+
+
+
+                                                                                                                                www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1274            15.VIII.2023           28.VII.2023
+               1275              1.IX.2023            11.VIII.2023
+               1276             15.IX.2023            31.VIII.2023
+               1277              1.X.2023              15.IX.2023
+               1278             15.X.2023              29.IX.2023
+               1279              1.XI.2023             13.X.2023
+               1280             15.XI.2023             1.XI.2023
+               1281             1.XII.2023             15.XI.2023
+               1282             15.XII.2023            30.XI.2023
+               1283              1.I.2024              8.XII.2023
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                  Approval of ITU-T Recommendations
+By AAP-32, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T J.152 (07/2023): Requirements for cable television services to use 5G radio system
+–       ITU-T J.224 (07/2023): Fifth-generation transmission systems for interactive cable television services - IP
+        cable modems
+–       ITU-T J.225 (07/2023): Fourth-generation transmission systems for interactive cable television services -
+        IP cable modems
+–       ITU-T J.299 (07/2023): Functional requirements for remote management of cable set-top box by auto
+        configuration server
+–       ITU-T J.1036 (07/2023): Factual subscriber-base reporting and protected content delivery in conditional
+        access system - Requirements
+–       ITU-T J.1112 (07/2023): Functional Requirements for IP-based Digital Video Convergence Service
+–       ITU-T J.1305 (07/2023): Requirements of microservice architecture for audio-visual media in the
+        converged media cloud
+–       ITU-T J.1306 (07/2023): Specification of microservice architecture for audio-visual media in the converged
+        media cloud
+–       ITU-T J.1612 (07/2023): The Architecture for Smart Home Gateway
+–       ITU-T Q.3063 (2022) Cor. 1 (07/2023)
+–       ITU-T Q.4140 (07/2023): Signalling requirements for service deployment in computing power network
+–       ITU-T Q.5006 (07/2023): Signalling requirements for hierarchical network slicing service
+–       ITU-T Q.5026 (07/2023): Signalling Requirements and Protocol for Providing Network-oriented Data
+        Integrity Verification Service based on Blockchain in IMT-2020 network
+–       ITU-T Q.5027 (07/2023): Protocol for IMT-2020 network integration with Time Sensitive Network
+
+
+
+
+                    Assignment of Signalling Area/Network Codes (SANC)
+                          (Recommendation ITU-T Q.708 (03/99))
+
+Note from TSB
+At the request of the Administration of France, the Director of TSB has assigned the following signalling
+area/network code (SANC) for use in the international part of the signalling system No. 7 network of this
+country/geographical area, in accordance with Recommendation ITU-T Q.708 (03/99):
+
+                      Country/geographical area or signalling network                 SANC
+
+                      France                                                          7-202
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                  Data Transmission Service
+                            (Recommendation ITU-T X.121 (10/2000))
+                             International numbering plan for public data networks
+
+United States
+Communication of 6.VII.2023:
+The Federal Communications Commission, Washington, announces the assignment of Data Network
+Identification Code (DNIC) 310 0 to the network “EMARCONI”.
+Accordingly, the following Data Network Identification Codes (DNIC) and network names are in use in United
+States:
+
+
+        Country/Area              DNIC No.                  Name of network to which a DNIC is allocated
+                1                     2                                             3
+
+
+ ÉTATS-UNIS                         310 0     EMARCONI
+ UNITED STATES                      310 1     PTN-1 Western Union Packet Switching Network
+ ESTADOS UNIDOS                     310 2     MCI Public Data Network (ResponseNet)
+                                    310 3     ITT UDTS Network
+                                    310 4     MCI Public Data Network (International Gateway)
+                                    310 5     WUI Leased Channel Network
+                                    310 6     Tymnet Network
+                                    310 7     ITT Datel Network
+                                    310 8     ITT Short Term Voice/Data Transmission Network
+                                    310 9     RCAG DATEL II
+                                    311 0     Telenet Communications Corporation
+                                    311 1     RCAG DATEL I (Switched Alternate Voice-Data Service)
+                                    311 2     Western Union Teletex Service
+                                    311 3     RCAG Remote Global Computer Access Service (Low Speed)
+                                    311 4     Western Union Infomaster
+                                    311 5     Graphnet Interactive Network
+                                    311 6     Graphnet Store and Forward Network
+                                    311 7     WUI Telex Network
+                                    311 8     Graphnet Data Network
+                                    311 9     TRT Packet Switching Network (IPSS)
+                                    312 0     ITT Low Speed Network
+                                    312 1     FTCC Circuit Switched Network
+                                    312 2     FTCC Telex
+                                    312 3     FTCC Domestic Packet Switched Transmission (PST) Service
+                                    312 4     FTCC International PST Service
+                                    312 5     UNINET
+                                    312 6     ADP Autonet
+                                    312 7     GTE Telenet Communications Corporation
+                                    312 8     TRT Mail/Telex Network
+                                    312 9     TRT Circuit Switch Data (ICSS)
+                                    313 0     TRT Digital Data Network
+                                    313 1     RCAG Telex Network
+                                    313 2     Compuserve Network Services
+                                    313 3     RCAG XNET Service
+                                    313 4     AT+T/ACCUNET Packet Switched Capability
+                                    313 5     ALASCOM/ALASKANET Service
+
+        Country/Area          DNIC No.                     Name of network to which a DNIC is allocated
+                1                 2                                                  3
+
+
+                                313 6        Geisco Data Network
+                                313 7        International Information Network Services – INFONET Service
+
+                                313 8        Fedex International Transmission Corporation – International
+                                             Document Transmission Service
+                                313 9        KDD America, Inc. – Public Data Network
+                                314 0        Southern New England Telephone Company – Public Packet Network
+                                314 1        Bell Atlantic Telephone Companies – Advance Service
+                                314 2        Bellsouth Corporation – Pulselink Service
+                                314 3        Ameritech Operating Companies – Public Packet Data Networks
+                                314 4        Nynex Telephone Companies – Nyex Infopath Service
+                                314 5        Pacific Telesis Public Packet Switching Service
+                                314 6        Southwestern Bell Telephone Co. – Microlink II Public Packet Switching Service
+                                314 7        U.S. West, Inc. – Public Packet Switching Service
+                                314 8        United States Telephone Association – to be shared by local exchange
+                                             telephone companies
+                                314 9        Cable & Wireless Communications, Inc. – Public Network
+                                315 0        Globenet, Inc. – Globenet Network Packet Switching Service
+                                315 1        Cable & Wireless Communications, Inc. – Public Network
+                                315 2        GTE Hawaiian Telephone Company, Inc. – Public Data Network
+                                315 3        JAIS USA-NET Public Packet Switching Service
+                                315 4        Nomura Computer Systems America, Inc. – NCC-A VAN public packet
+                                             switching service
+                                315 5        Aeronautical Radio, Inc. – GLOBALINK
+                                315 6        American Airlines, Inc. – AANET
+                                315 7        COMSAT Mobile Communications – C-LINK
+                                315 8        Schlumberger Information Network (SINET)
+                                315 9        Westinghouse Communications – Westinghouse Packet Network
+                                316 0        Network Users Group, Ltd. – WDI NET packet
+                                316 1        United States Department of State, Diplomatic Telecommunications Service
+                                             Black Packet Switched Data Network
+                                316 2        Transaction Network Services, Inc. – TNS Public Packet-switched Network
+                                316 3        Konnect, LLC – International data network
+                                316 6        U.S. Department of Treasury Wide Area Data Network
+                                316 8        BT North America packet-switched data network
+                                316 9        Tenzing Communications Inc. – Inflight Network
+
+
+
+For further information, please contact:
+         Federal Communications Commission
+         45 L Street, NE
+         WASHINGTON, D.C. 20554
+         United States
+         Tel: +1 888 225 5322
+         Fax: +1 866 418 0232
+         URL: www.fcc.gov
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/inr/nnp
+
+Denmark (country code +45)
+Communication of 14.VII.2023:
+The Agency for Data Supply and Infrastructure, Copenhagen, announces the following updates to the national
+numbering plan of Denmark:
+
+•     Withdrawals
+
+    Type                          Numbering resource                          Provider         Date of
+                                                                                               withdrawal
+    Fixed communication           65999fgh                                    TDC Net A/S      30 June 2023
+
+
+
+
+•     Assignments
+
+    Type                        Numbering resource                            Provider         Date of
+                                                                                               assignment
+    Mobile communication        3590efgh                                      Telavox ApS      17 April 2023
+
+    Mobile communication        91304fgh, 6640efgh, 66220fgh, 77110fgh,       Maxtel.dk ApS    11 May 2023
+                                66201fgh, 77102fgh, 66332fgh, 66338fgh,
+                                92296fgh, 24729fgh, 29191fgh, 29755fgh,
+                                29971fgh, 29961fgh, 29950fgh, 29952fgh,
+                                51651fgh, 61210fgh, 61520fgh, 61533fgh,
+                                61571fgh, 61581fgh
+
+    NSPC                        NSPC1-0-1 [ID: Copenhagen01_NSPC]             Onomondo ApS     23 May 2023
+                                NSPC1-0-10 [ID: Copenhagen02_NSPC]
+                                NSPC1-0-100 [ID: Copenhagen03_NSPC]
+                                NSPC1-0-101 [ID: Copenhagen04_NSPC]
+                                NSPC1-0-102 [ID: Copenhagen05_NSPC]
+                                NSPC1-0-103 [ID: Copenhagen06_NSPC]
+                                NSPC1-0-104 [ID: Copenhagen07_NSPC]
+                                NSPC1-0-105 [ID: Copenhagen08_NSPC]
+
+
+Contact:
+           Agency for Data Supply and Infrastructure
+           8 Rentemestervej
+           2400 COPENHAGEN NV
+           Denmark
+           Tel:    +45 7254 5500
+           E-mail: tele@sdfi.dk
+           URL:    www.sdfi.dk
+
+
+
+
+                                       Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+  Country/geographical area      OB
+
+ Seychelles              1006 (p.13)
+ Slovakia                1007 (p.12)
+ Malaysia                1013 (p.5)
+ Thailand                1034 (p.5)
+ São Tomé and Principe   1039 (p.14)
+ Uruguay                 1039 (p.14)
+ Hong Kong, China        1068 (p.4)
+ Ukraine                 1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                              Abbreviations used
+                                ADD    Insert                    PAR      Paragraph
+                                COL    Column                    REP      Replace
+                                LIR    Read                      SUP      Delete
+                                P      Page(s)
+
+
+
+
+                         List of Issuer Identifier Numbers for
+                 the International Telecommunication Charge Card
+           (in accordance with Recommendation ITU-T E.118 (05/2006))
+                            (Position on 1 December 2018)
+                            (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                             (Amendment No. 87)
+
+
+
+Germany     LIR
+
+
+Country/              Company Name/Address                     Issuer       Contact
+Geographical area                                            Identifier
+                                                              Number
+Germany               Telekom Deutschland GmbH               89 49 01       Ingo Schnatz
+                      Friedrich-Ebert-Allee 140                             Deutsche Telekom Technik GmbH
+                      53113 BONN                                            Landgrabenweg 151
+                                                                            53227 BONN
+                                                                            Tel:     +49 228 181 64511
+                                                                            E-mail: ingo.schnatz@telekom.de
+Germany               Telekom Deutschland GmbH               89 49 02       Ingo Schnatz
+                      Friedrich-Ebert-Allee 140                             Deutsche Telekom Technik GmbH
+                      53113 BONN                                            Landgrabenweg 151
+                                                                            53227 BONN
+                                                                            Tel:     +49 228 181 64511
+                                                                            E-mail: ingo.schnatz@telekom.de
+Germany               Telekom Deutschland GmbH               89 49 03       Ingo Schnatz
+                      Friedrich-Ebert-Allee 140                             Deutsche Telekom Technik GmbH
+                      53113 BONN                                            Landgrabenweg 151
+                                                                            53227 BONN
+                                                                            Tel:     +49 228 181 64511
+                                                                            E-mail: ingo.schnatz@telekom.de
+Germany               Telekom Deutschland GmbH               89 882 28      Ingo Schnatz
+                      Friedrich-Ebert-Allee 140                             Deutsche Telekom Technik GmbH
+                      53113 BONN                                            Landgrabenweg 151
+                                                                            53227 BONN
+                                                                            Tel:     +49 228 181 64511
+                                                                            E-mail: ingo.schnatz@telekom.de
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                         (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                         (Amendment No. 155)
+
+
+ Country or area/ISO code                Company Code           Contact
+  Company Name/Address                    (carrier code)
+
+
+Germany (Federal Republic of) / DEU        SUP
+
+ Zweckverband Ostholstein                  ZVOSTH              Mr Torsten Hindenburg
+ Wagrienring 3 - 13                                            Tel:     +49 4561 399 278
+ 23730 SIERKSDORF                                              Fax:     +49 4561 399 9278
+                                                               E-mail: t.hindenburg@zvo.com
+
+
+
+Germany (Federal Republic of) / DEU        ADD
+
+
+ Zweckverband Ostholstein                    ZVO               Mr Torsten Hindenburg
+ Wagrienring 3 - 13                                            Tel:     +49 4561 399 278
+ 23730 SIERKSDORF                                              Fax:     +49 4561 399 9278
+                                                               E-mail: t.hindenburg@zvo.com
+
+
+
+Germany (Federal Republic of) / DEU        LIR
+
+
+ NetCom BW GmbH                           NCBW14               Dr. Silvia Schick
+ Unterer Brühl 2                                               Tel:       +49 7961 56951 3495
+ 73479 ELLWANGEN                                               E-mail: regulierung@netcom-bw.de
+
+
+
+
+                     List of Signalling Area/Network Codes (SANC)
+                (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                (Position on 1 June 2017)
+                                 (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                 (Amendment No. 25)
+
+
+
+ Numerical order        ADD
+               7-202        France
+
+
+
+ Alphabetical order ADD
+               7-202        France
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 57)
+
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point         Name of the signalling point operator
+
+
+ France ADD
+ 2-201-4       5708         BJT Partners - Paris                        BJT Partners
+ 2-221-5       5869         OVH - SAS                                   OVH
+ 3-232-6       8006         MOBIQUITHINGS - Vitry 3                     MOBIQUITHINGS
+ 4-228-7       10023        TDF - Les Lilas 2                           TDF
+ 6-233-0       14152        BOUYGUES TELECOM - PTS 05 - Plessis         BOUYGUES TELECOM
+ 6-233-1       14153        BOUYGUES TELECOM - PTS 06 - Bobigny         BOUYGUES TELECOM
+
+ France LIR
+ 2-017-3       4235         Vérizon France Mons en Baroeul              Vérizon France
+ 2-022-2       4274         Orange – Paris NEO POP                      Orange
+ 2-023-0       4280         MINT - Paris 2                              MINT
+ 2-202-0       5712         BJT Partners - Vitry sur Seine              BJT Partners
+ 2-221-2       5866         MINT - Paris                                MINT
+
+ Spain SUP
+ 2-031-3       4347         Madrid                                      COLT TECHNOLOGY SERVICES,S.A. UNIPERSONAL
+ 2-241-2       6026         Barcelona                                   COLT TECHNOLOGY SERVICES,S.A. UNIPERSONAL
+ 4-235-4       10076                                                    COLT TECHNOLOGY SERVICES,S.A. UNIPERSONAL
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                      List of Data Network Identification Codes (DNIC)
+                   (According to Recommendation ITU-T X.121(10/2000))
+                                  (Position on 1 April 2011)
+                            (Annex to ITU Operational Bulletin No. 977 – 1.IV.2011)
+                                            (Amendment No. 12)
+
+United States ADD
+
+
+
+        Country/Area              DNIC No.             Name of network to which a DNIC is allocated
+
+               1                      2                                        3
+
+
+ ÉTATS-UNIS                         310 0      EMARCONI
+ UNITED STATES
+ ESTADOS UNIDOS
+
+
+
+
+See also pages 5 and 6 of the present ITU Operational Bulletin No. 1273 of 1.VIII.2023.
+
+
+
+

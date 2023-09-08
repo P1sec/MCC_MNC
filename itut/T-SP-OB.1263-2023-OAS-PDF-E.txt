@@ -1,0 +1,830 @@
+                               ITU Operational Bulletin
+                                                                 www.itu.int/itu-t/bulletin
+
+              No. 1263               1.III.2023                  (Information received by 14 February 2023) ISSN 1564-5223 (Online)
+        Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+        Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+        Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+        E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                         Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                    3
+Approval and deletion of ITU-T Recommendations........................................................................................                                  4
+Note from TSB .................................................................................................................................................         5
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Note from TSB ........................................................................................................................                  6
+Telephone Service:
+     Bahrain (Telecommunications Regulatory Authority (TRA), Manama) .....................................................                                              7
+     Liberia (Liberia Telecommunications Authority (LTA), Paynesville) ...........................................................                                     10
+     Oman (Oman Telecommunications Regulatory Authority (TRA), Ruwi)....................................................                                               11
+     Uzbekistan (Telecommunication Management Center of the Republic of Uzbekistan, Tashkent)............                                                              12
+Testing Laboratories recognized by ITU ..........................................................................................................                      14
+Other communication:
+     Austria .......................................................................................................................................................   14
+Service Restrictions .........................................................................................................................................         15
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                    15
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                    16
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................             17
+List of ITU Carrier Codes..................................................................................................................................            18
+List of International Signalling Point Codes (ISPC) ..........................................................................................                         19
+National Numbering Plan ................................................................................................................................               19
+
+
+
+
+                                                                                                                                             www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1264             15.III.2023            28.II. 2023
+               1265              1.IV.2023             15.III.2023
+               1266             15.IV.2023             31.III.2023
+               1267              1.V.2023              12.IV.2023
+               1268             15.V.2023              30.IV.2023
+               1269              1.VI.2023             12.V.2023
+               1270             15.VI.2023             1.VI.2023
+               1271             1.VII.2023             15.VI.2023
+               1272             15.VII.2023            30.VI.2023
+               1273             1.VIII.2023           14.VII.2023
+               1274            15.VIII.2023           28.VII.2023
+               1275              1.IX.2023            11.VIII.2023
+               1276             15.IX.2023            31.VIII.2023
+               1277              1.X.2023              15.IX.2023
+               1278             15.X.2023              29.IX.2023
+               1279              1.XI.2023             13.X.2023
+               1280             15.XI.2023             1.XI.2023
+               1281             1.XII.2023             15.XI.2023
+               1282             15.XII.2023            30.XI.2023
+               1283              1.I.2024              8.XII.2023
+
+
+
+
+                                                GENERAL INFORMATION
+                                Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on 1
+      November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-T
+      Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on 15
+      May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1 May
+      2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                       Approval and deletion of ITU-T Recommendations
+By AAP-22, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.8152.1/Y.1375.1 (2021) Amd. 1 (02/2023): Operation, administration, maintenance (OAM) management
+      information and data models for the MPLS-TP network element - Amendment 1
+–     ITU-T Q.3647 (02/2023): Signalling requirements for emergency service in IMS roaming environment
+–     ITU-T Q.4070 (02/2023): Test suite for interoperability testing of virtualized broadband network gateway
+–     ITU-T Q.5004 (02/2023): Signalling architecture of Lite IMS for IMT-2020 network and beyond
+–     ITU-T Q.5005 (02/2023): Requirement, framework and protocols for signalling network analysis and optimization
+      in IMT-2020
+–     ITU-T T.807 (V2) (02/2023): Information technology – JPEG 2000 image coding system: Secure JPEG 2000
+–     ITU-T T.816 (V1) (02/2023): Information technology - JPEG 2000 image coding system: Extensions for coding of
+      discontinuous media
+
+By TSB Circular 74 of 7 February 2023, it was announced that the following ITU-T Recommendations were deleted in
+accordance with the procedures outlined in Resolution 1:
+–     ITU T K.43 (07/2009): Immunity requirements for telecommunication network equipment
+–     ITU T K.48 (09/2006): EMC requirements for telecommunication equipment – Product family Recommendation
+–     ITU T K.88 (11/2011): EMC requirements for next generation network equipment
+
+By TSB Circular 75 of 10 February 2023, it was announced that the following ITU-T Recommendations were approved in
+accordance with the procedures outlined in Resolution 1:
+–     ITU-T Y.4601 (02/2023): Requirements and capability framework of a digital twin for smart firefighting
+–     ITU-T Y.4500.3 (02/2023): oneM2M – Security solutions
+
+
+
+
+Note from TSB
+Global numbers used for the European eCall service
+Following the agreement reached at the meeting of ITU-T Study Group 2, which is the leading study group on numbering,
+naming, addressing, identification and routing, at its meeting of 4 to 13 July 2018, it is noted that:
+“Several number ranges under non geographic country codes are used for eCall, the pan European emergency system for
+vehicles. These numbers have been assigned by the ITU and they have been available for use in association with eCall
+service.
+These numbers are used as calling party numbers when the device automatically calls the emergency number in the
+event of an accident. They generally use 15 digit formats. From 31 March 2018, all new type cars sold in Europe must
+have eCall capability.
+In order for the eCall system to operate properly and for the emergency services (e.g. call centres and intervention
+teams) to dial back the phone numbers used by the eCall systems, it is crucial that the eCall ranges be opened in all
+networks and that the CLI (Calling Line Identification) for these calls is passed between operators in a correct and
+diallable format according to the relevant ITU recommendations.
+Given the criticality of the service, we want to alert the assignees and all stakeholders on the need for these numbers to
+be opened and routed on public networks and in particular those in Europe.
+The ECC recommendation (17)04 “Numbering for eCall” (https://www.ecodocdb.dk/document/1019) also provides more
+information on numbering options for eCall.”
+The ITU has been notified of the following ranges as being used for eCall: 883 130, 882 39, 882 37 and 883 390. Other
+operators using global resources for eCall may also inform the ITU to request similar publications.
+Contacts:
+883 130 assigned to Orange: contact Philippe Fouquart,Orange, Philippe.fouquart@orange.com.
+882 39 assigned to Vodafone Group: contact MacDougall Robert, Vodafone Group, Robert.MacDougall@vodafone.com.
+882 37 assigned to AT&T: contact Mike Corkerry, AT&T, Mike.Corkerry@intl.att.com.
+883 390 assigned to Airnity: contact Eduardo Mejia, Airnity, eduardo.mejia@airnity.com
+
+
+
+
+          International Identification Plan for Public Networks and Subscriptions
+                         (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                                 Identification codes for International Mobile Networks
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC) have been
+assigned.
+
+                                                   Mobile Country Code (MCC) and            Date of assignment
+                      Network
+                                                    Mobile Network Code (MNC)
+     Satelio IoT Services S.L.                                  901 97                            3.II.2023
+
+
+
+
+                                               Telephone Service
+                                          (Recommendation ITU-T E.164)
+                                                    url: www.itu.int/itu-t/inr/nnp
+
+Bahrain (country code +973)
+Communication of 8.II.2023:
+The Telecommunications Regulatory Authority (TRA), Manama, announces the updated ITU-T E.164 National Numbering
+Plan for Bahrain.
+                               Presentation of national ITU-T E.164 numbering plan
+                                               for country code 973
+a)       Overview:
+       The minimum number length (excluding the country code) is 3 digits.
+       The maximum number length (excluding the country code) is 8 digits.
+
+b)        Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+          numbering plan:
+          https://www.tra.org.bh/en/category/numbering
+
+c)        Link to the real-time database reflecting ported ITU-T E.164 numbers (if any):
+          Not applicable
+
+d)        Detail of numbering plan:
+
+         NDC (National
+                               N(S)N Number Length
+      Destination Code) or
+     leading digits of N(S)N                                 Usage of E.164 number                Additional information
+                               Maximum      Minimum
+     (National (Significant)
+                                length       length
+            Number)
+ 13131000 - 13131999                  8         8          Fixed                           Bahrain Telecommunications Company
+ 17000000 - 17999999                  8         8          Fixed                           Bahrain Telecommunications Company
+ 32000000 - 32099999                  8         8          Mobile                          Bahrain Telecommunications Company
+ 32100000 - 32199999                  8         8          Mobile                          Bahrain Telecommunications Company
+ 32200000 - 32299999                  8         8          Mobile                          Bahrain Telecommunications Company
+ 32300000 - 32399999                  8         8          Mobile                          Bahrain Telecommunications Company
+ 38000000 - 38499999                  8         8          Mobile                          Bahrain Telecommunications Company
+ 38700000 - 38799999                  8         8          Mobile                          Bahrain Telecommunications Company
+ 38800000 - 38899999                  8         8          Mobile                          Bahrain Telecommunications Company
+ 38900000 - 38999999                  8         8          Mobile                          Bahrain Telecommunications Company
+ 39000000 - 39999999                  8         8          Mobile                          Bahrain Telecommunications Company
+ 64410000 - 64419999                  8         8          Universal numbers (mobile)      Bahrain Telecommunications Company
+ 66700000 - 66769999                  8         8          Universal numbers (mobile)      Bahrain Telecommunications Company
+ 66770000 - 66799999                  8         8          Universal numbers (Fixed)       Bahrain Telecommunications Company
+ 80000000 - 80009999                  8         8          Special services                Bahrain Telecommunications Company
+ 80040000 - 80040999                  8         8          Special services                Bahrain Telecommunications Company
+ 80112000 - 80112999                  8         8          Special services                Bahrain Telecommunications Company
+ 90000000 - 90009999                  8         8          Premium rate numbers            Bahrain Telecommunications Company
+ 13300000 - 13399999                  8         8          Fixed                           Etisalcom Bahrain Company W.L.L
+ 80030000 - 80039999                  8         8          Special services                Etisalcom Bahrain Company W.L.L
+ 16500000 - 16520999                  8         8          Fixed                           Infonas WLL
+ 16522000 - 16522999                  8         8          Fixed                           Infonas WLL
+ 16528000 - 16528999                  8         8          Fixed                           Infonas WLL
+ 16530000 - 16530999                  8         8          Fixed                           Infonas WLL
+ 16533000 - 16533999                  8         8          Fixed                           Infonas WLL
+ 16540000 - 16540999                  8         8          Fixed                           Infonas WLL
+ 16544000 - 16544999                  8         8          Fixed                           Infonas WLL
+ 16548000 - 16548999                  8         8          Fixed                           Infonas WLL
+ 16550000 - 16551999                  8         8          Fixed                           Infonas WLL
+ 16555000 - 16557999                  8         8          Fixed                           Infonas WLL
+
+    NDC (National
+                          N(S)N Number Length
+ Destination Code) or
+leading digits of N(S)N                           Usage of E.164 number             Additional information
+                          Maximum   Minimum
+(National (Significant)
+                           length    length
+       Number)
+16560000 - 16560999          8          8       Fixed                       Infonas WLL
+16564000 - 16566999          8          8       Fixed                       Infonas WLL
+16568000 - 16568999          8          8       Fixed                       Infonas WLL
+16570000 - 16570999          8          8       Fixed                       Infonas WLL
+16576000 - 16577999          8          8       Fixed                       Infonas WLL
+16580000 - 16580999          8          8       Fixed                       Infonas WLL
+16588000 - 16588999          8          8       Fixed                       Infonas WLL
+16590000 - 16590999          8          8       Fixed                       Infonas WLL
+16599000 - 16599999          8          8       Fixed                       Infonas WLL
+80080000 - 80081999          8          8       Special services            Infonas WLL
+80088000 - 80088999          8          8       Special services            Infonas WLL
+16100000 - 16103999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16105000 - 16105999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16108000 - 16108999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16160000 - 16161999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16163000 - 16163999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16166000 - 16168999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16191000 - 16192999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16195000 - 16199999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16600000 - 16601999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16605000 - 16605999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16609000 - 16616999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16619000 - 16639999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16643000 - 16643999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16646000 - 16646999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16653000 - 16655999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16658000 - 16672999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16674000 - 16681999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16683000 - 16683999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16686000 - 16686999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16688000 - 16688999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16691000 - 16691999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+16699000 - 16699999          8          8       Fixed                       Kalaam Telecom Bahrain B.S.C Closed
+66000000 - 66004999          8          8       Universal numbers (Fixed)   Kalaam Telecom Bahrain B.S.C Closed
+66006000 - 66007999          8          8       Universal numbers (Fixed)   Kalaam Telecom Bahrain B.S.C Closed
+66886000 - 66886999          8          8       Universal numbers (Fixed)   Kalaam Telecom Bahrain B.S.C Closed
+66888000 - 66888999          8          8       Universal numbers (Fixed)   Kalaam Telecom Bahrain B.S.C Closed
+80010000 - 80014999          8          8       Special services            Kalaam Telecom Bahrain B.S.C Closed
+80018000 - 80019999          8          8       Special services            Kalaam Telecom Bahrain B.S.C Closed
+80060000 - 80069999          8          8       Special services            Kalaam Telecom Bahrain B.S.C Closed
+16000000 - 16039999          8          8       Fixed                       Nuetel Communications S.P.C
+16060000 - 16079999          8          8       Fixed                       Nuetel Communications S.P.C
+80020000 - 80029999          8          8       Special services            Nuetel Communications S.P.C
+90010000 - 90010999          8          8       Premium rate numbers        Nuetel Communications S.P.C
+69660000 - 69669999          8          8       Universal numbers (Fixed)   Rapid Telecommunications W.L.L
+69690000 - 69699999          8          8       Universal numbers (Fixed)   Rapid Telecommunications W.L.L
+69960000 - 69969999          8          8       Universal numbers (Fixed)   Rapid Telecommunications W.L.L
+69990000 - 69999999          8          8       Universal numbers (Fixed)   Rapid Telecommunications W.L.L
+80888000 - 80888999          8          8       Special services            Rapid Telecommunications W.L.L
+13100000 - 13109999          8          8       Fixed                       stc Bahrain B.S.C. Closed
+13110000 - 13119999          8          8       Fixed                       stc Bahrain B.S.C. Closed
+77000000 - 77999999          8          8       Universal numbers (Fixed)   stc Bahrain B.S.C. Closed
+80090000 - 80099999          8          8       Special services            stc Bahrain B.S.C. Closed
+80100000 - 80100999          8          8       Special services            stc Bahrain B.S.C. Closed
+87000000 - 87000999          8          8       Special services            stc Bahrain B.S.C. Closed
+87700000 - 87700999          8          8       Special services            stc Bahrain B.S.C. Closed
+
+     NDC (National
+                             N(S)N Number Length
+  Destination Code) or
+ leading digits of N(S)N                             Usage of E.164 number              Additional information
+                             Maximum    Minimum
+ (National (Significant)
+                              length     length
+        Number)
+ 33000000 - 33999999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 34000000 - 34199999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 34200000 - 34299999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 34300000 - 34349999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 34350000 - 34599999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 34600000 - 34699999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 35000000 - 35199999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 35300000 - 35399999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 35400000 - 35499999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 35500000 - 35599999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 35600000 - 35699999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 35900000 - 35999999              8        8       Mobile                       stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 63000000 - 63009999              8        8       Universal numbers (mobile)   stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 63330000 - 63339999              8        8       Universal numbers (mobile)   stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 63610000 - 63619999              8        8       Universal numbers (mobile)   stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 63660000 - 63669999              8        8       Universal numbers (mobile)   stc Bahrain B.S.C. Closed Bahrain B.S.C.
+                                                                                Closed
+ 16171000 - 16171999              8        8       Fixed                        Viacloud W.L.L.
+ 65000000 - 65009999              8        8       Universal numbers (Fixed)    Viacloud W.L.L.
+ 80408000 - 80408999              8        8       Special services             Viacloud W.L.L.
+ 13600000 - 13699999              8        8       Fixed                        Zain Bahrain B.S.C. Closed
+ 36000000 - 36999999              8        8       Mobile                       Zain Bahrain B.S.C. Closed
+ 37000000 - 37999999              8        8       Mobile                       Zain Bahrain B.S.C. Closed
+ 66300000 - 66309999              8        8       Universal numbers (mobile)   Zain Bahrain B.S.C. Closed
+ 66310000 - 66329999              8        8       Universal numbers (Fixed)    Zain Bahrain B.S.C. Closed
+ 66330000 - 66399999              8        8       Universal numbers (mobile)   Zain Bahrain B.S.C. Closed
+ 66600000 - 66699999              8        8       Universal numbers (mobile)   Zain Bahrain B.S.C. Closed
+ 66900000 - 66999999              8        8       Universal numbers (mobile)   Zain Bahrain B.S.C. Closed
+ 80070000 - 80079999              8        8       Special services             Zain Bahrain B.S.C. Closed
+
+Contact:
+           TRA BAHRAIN
+           Mohammed Abdulla Ramzan Alnoaimi
+           Manager, Information & Communication Technology
+           P.O. Box 10353
+           Manama - Bahrain
+           Tel: +973 17 520 000
+           Fax: +973 17 532 125
+           E-mail: numbering@tra.org.bh
+           URL: www.tra.org.bh
+
+Liberia (country code +231)
+Communication of 8.II.2023:
+The Liberia Telecommunications Authority (LTA), Paynesville, announces updates to the national numbering plan for
+Liberia.
+Orange Liberia number block (77) 2XX XXXX is activated.
+K3 Telecoms Liberia Incorporated number block (33) 333 XXXX is deactivated.
+Liberia uses a closed number scheme.
+The updated national numbering plan is as follows:
+
+ Operator                                      Numbering series            Usage of             Max.      Min.
+                                                                      ITU-T E.164 number       Length    Length
+ Lonestar Cell MTN                             (55) 5XX XXXX         Mobile                       9         9
+ Lonestar Cell MTN                             (88) 0XX XXXX         Mobile                       9         9
+ Lonestar Cell MTN                             (88) 1XX XXXX         Mobile                       9         9
+ Lonestar Cell MTN                             (88) 6XX XXXX         Mobile                       9         9
+ Lonestar Cell MTN                             (88) 7XX XXXX         Mobile                       9         9
+ Lonestar Cell MTN                             (88) 8XX XXXX         Mobile                       9         9
+ Orange, Liberia                               (77) 0XX XXXX         Mobile                       9         9
+ Orange, Liberia                               (77) 2XX XXXX         Mobile                       9         9
+ Orange, Liberia                               (77) 5XX XXXX         Mobile                       9         9
+ Orange, Liberia                               (77) 6XX XXXX         Mobile                       9         9
+ Orange, Liberia                               (77) 7XX XXXX         Mobile                       9         9
+ Orange, Liberia                               (77) 8XX XXXX         Mobile                       9         9
+ Orange, Liberia                               (77) 9XX XXXX         Mobile                       9         9
+ Liberia Telecommunications Corporation        (22) 0XX XXXX         Mobile                       9         9
+ Atlantic Reality & Investment Corporation     (33) 202 XXXX         Premium rate services        9         9
+
+Contact:
+           Liberia Telecommunications Authority (LTA)
+           Menetamba Road
+           Cooper’s Beach Community
+           1001 Paynesville
+           Liberia
+           Email: info@lta.gov.lr
+           URL: www.lta.gov.lr
+
+
+
+
+Oman (country code +968)
+Communication of 1.II.2023:
+The Oman Telecommunications Regulatory Authority (TRA), Ruwi, announces the following update to the National
+Numbering Plan (NNP) of Oman:
+
+            NDC                N(S)N number length
+   (National Destination
+                                                                Usage of
+   Code) or leading digits                                                              Additional information
+                              Maximum    Minimum           ITU-T E.164 number
+     of N(S)N (National
+   (Significant) Number)
+           901X XXXX               8         8       Mobile service                   Omantel Mobile
+              to
+           909X XXXX
+           91XXXXXX                8         8       Mobile service                   Omantel Mobile
+           92XXXXXX                8         8       Mobile service                   Omantel Mobile
+           93XXXXXX                8         8       Mobile service                   Omantel Mobile
+           94XXXXXX                8         8       Mobile service                   Ooredoo
+           95XXXXXX                8         8       Mobile service                   Ooredoo
+           96XXXXXX                8         8       Mobile service                   Ooredoo
+           97XXXXXX                8         8       Mobile service                   Ooredoo
+           98XXXXXX                8         8       Mobile service                   Omantel Mobile
+           99XXXXXX                8         8       Mobile service                   Omantel Mobile
+           71XXXXXX                8         8       Mobile service                   Omantel Mobile
+           72XXXXXX                8         8       Mobile service                   Omantel Mobile
+           770XXXXX                8         8       Mobile service                   Vodafone
+           771XXXXX                8         8       Mobile service                   Vodafone
+           772XXXXX                8         8       Mobile service                   Vodafone
+           773XXXXX                8         8       Mobile service                   Vodafone
+           774XXXXX                8         8       Mobile service                   Vodafone
+           775XXXXX                8         8       Mobile service                   Vodafone
+           78XXXXXX                8         8       Mobile service                   Ooredoo
+           79XXXXXX                8         8       Mobile service                   Ooredoo
+           21XXXXXX                8         8       Fixed service                    Ooredoo/Omantel/Awaser
+           22XXXXXX                8         8       Fixed service                    Ooredoo/Omantel/Awaser
+           23XXXXXX                8         8       Fixed service – currently only   Dhofar & Al Wusta
+                                                     one fixed operator (Omantel)
+           24XXXXXX                8         8       Fixed service – currently only   Muscat
+                                                     one fixed operator (Omantel)
+           25XXXXXX                8         8       Fixed service – currently only   A’Dakhliyah, Al Sharqiya &
+                                                     one fixed operator (Omantel)     A’Dhahira
+           26XXXXXX                8         8       Fixed service – currently only   Al Batinah & Musandam
+                                                     one fixed operator (Omantel)
+Contact:
+      Mr Omar ALQatabi
+      Senior Executive Manager – Telecom Sector
+      Oman Telecommunications Regulatory Authority (TRA)
+      P.O. Box 579
+      RUWI, 112
+      Sultanate of Oman
+      Tel:     +968 24222163
+      Fax:     +968 24222081
+      E-mail: ir@tra.gov.om
+      URL:     www.tra.gov.om
+
+
+Uzbekistan (country code +998)
+Communication of 10.II.2023
+The Telecommunication Management Center of the Republic of Uzbekistan, Tashkent, announces the updating National
+numbering plan of the Republic of Uzbekistan as follows:
+
+General Information
+         Capital: Tashkent
+         Time zone: UTC +05.00
+
+International dialing format: 00 (for outgoing calls from Uzbekistan)
+Country Code: +998
+
+a)    Overview:
+         The minimum number length (excluding the country code) is 9 digits
+         The maximum number length (excluding the country code) is 9 digits
+
+b)    Detail of numbering plan:
+
+     NDC or          N(S)N number
+     leading             length                                                         Additional information
+                                                  Usage of E.164 number
+     digits of   Maximum      Minimum                                                 (regions and service types)
+      N(S)N       length        length
+        33           7             7         Non-geographic number for        HUMANS
+                                             mobile, GSM
+        50             7           7         Non-geographic number for        UCELL
+                                             mobile, GSM
+        55             7           7         Non-geographic number for SIP    UZTELECOM
+        61             7           7         Geographic number for PSTN       Nukus city and Republic of
+                                                                              Karakalpakstan
+        62             7           7         Geographic number for PSTN       Urgench city and Horezm region
+        65             7           7         Geographic number for PSTN       Buhara city and Buhara region
+        66             7           7         Geographic number for PSTN       Samarkand city and Samarkand region
+        67             7           7         Geographic number for PSTN       Gulistan city and Syrdarya region
+        69             7           7         Geographic number for PSTN       Namangan city and Namangan region
+        70             7           7         Geographic number for PSTN       Tashkent region
+        71             7           7         Geographic number for PSTN       Tashkent city
+        72             7           7         Geographic number for PSTN       Djizak city and Djizak region
+        73             7           7         Geographic number for PSTN       Fergana city and Fergana region
+        74             7           7         Geographic number for PSTN       Andijan city and Andijan region
+        75             7           7         Geographic number for PSTN       Karshi city and Kashkadarya region
+        76             7           7         Geographic number for PSTN       Termez city and Surkhandarya region
+        77             7           7         Non-geographic number for        UZMOBILE
+                                             mobile, GSM
+        78             7           7         Non-geographic number for        Other operators and providers of a fixed
+                                             service providers of a fixed     network
+                                             network
+        79             7           7         Geographic number for PSTN       Navoi city and Navoi region
+        88             7           7         Non-geographic number for        MOBIUZ
+                                             mobile, GSM
+        90             7           7         Non-geographic number for        BEELINE
+                                             mobile, GSM
+        91             7           7         Non-geographic number for        BEELINE
+                                             mobile, GSM
+        93             7           7         Non-geographic number for        UCELL
+                                             mobile, GSM
+        94             7           7         Non-geographic number for        UCELL
+                                             mobile, GSM
+        95             7           7         Non-geographic number for        UZMOBILE
+                                             mobile, CDMA & GSM
+   NDC or             N(S)N number
+   leading                length                                                       Additional information
+                                                    Usage of E.164 number
+   digits of      Maximum      Minimum                                               (regions and service types)
+    N(S)N          length        length
+      97              7             7         Non-geographic number for         MOBIUZ
+                                              mobile, GSM
+      98               7             7        Non-geographic number for         PERFECTUM MOBILE
+                                              mobile, CDMA
+      99               7             7        Non-geographic number for         UZMOBILE
+                                              mobile, GSM
+
+Contact:
+           The Telecommunication Management Center of the Republic of Uzbekistan
+           Address: 18A, Sebzor massif, Olmazor district
+           Tashkent city, 100047
+           Tel: +998 71 2402772
+           E-mail:tmc@rtmc.uz
+           URL: www.rtmc.uz
+
+Regulator:
+           The Ministry of Digital Technologies of the Republic of Uzbekistan
+           Address: 4, Amir Temur Avenue, Tashkent city, 100047
+           Tel: +998 71 2384107,
+           Fax: +998 71 2398782
+           E-mail: info@mitc.uz
+           URL: www.mitc.uz
+
+
+
+
+                                 Testing Laboratories recognized by ITU
+According to the ITU-T Guideline on “Testing Laboratories recognition procedure” (2022) and based on the application
+received as of 07 February 2023, the following Testing Laboratory, which fulfils the criteria defined in the clause 9 of the
+above-mentioned ITU-T Guideline, was registered in the ITU Testing Laboratory Database (https://itu.int/go/tldb):
+
+
+                                                                                Scope of Accreditation
+         Testing Laboratory                     Country
+                                                                              (ITU-T Recommendations)
+
+ China Electronics Standardization      China                  P.800, P.805, P.830
+ Institute CESI Laboratory
+
+
+
+Any queries can be addressed to conformity@itu.int. More details are available on ITU C&I Portal at:
+https://itu.int/go/citest.
+
+
+
+
+                                             Other communication
+
+Austria
+Communication of 01.II.2023:
+On the occasion of the Marconi-Day 2023, the Austrian Administration authorizes an Austrian amateur station to use the
+special call sign OE23M from 21 to 23 April 2023.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+                                 ADD    Insert                      PAR    Paragraph
+                                 COL    Column                      REP    Replace
+                                 LIR    Read                        SUP    Delete
+                                 P      Page(s)
+
+
+
+                          List of Issuer Identifier Numbers for
+                  the International Telecommunication Charge Card
+            (in accordance with Recommendation ITU-T E.118 (05/2006))
+                             (Position on 1 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                              (Amendment No. 78)
+Czech Republic LIR (read)
+      Country/               Company Name/Address               Issuer Identifier                     Contact
+ Geographical area                                                  Number
+ Czech Republic         Nordic Telecom Regional s.r.o.             89 420 04          Viktor Vosecký
+                        Za Brumlovkou 266/2                                           Za Brumlovkou 266/2
+                        PRAHA 4 – MICHLE                                              PRAHA 4 – MICHLE
+                                                                                      E-mail: viktor.vosecky@nordictelecom.cz
+ Czech Republic         O2 Czech Republic a.s.                     89 420 05          Petra Dandová
+                        Za Brumlovkou 266/2                                           Za Brumlovkou 266/2
+                        PRAHA 4 – MICHLE                                              PRAHA 4 – MICHLE
+                                                                                      E-mail: petra.dandova@o2.cz
+ Czech Republic         O2 Czech Republic a.s.                     89 420 20          Petra Dandová
+                        Za Brumlovkou 266/2                                           Za Brumlovkou 266/2
+                        PRAHA 4 – MICHLE                                              PRAHA 4 – MICHLE
+                                                                                      E-mail: petra.dandova@o2.cz
+
+
+Sweden           SUP
+      Country/                Company Name/Address              Issuer Identifier                     Contact
+  Geographical area                                                 Number
+ Sweden                     RebTel Networks AB                     89 46 31           Linda Cullfors
+                            Jakobsbergsgatan 16                                       Jakobsbergsgatan 16
+                            SE-111 44 STOCKHOLM                                       SE-111 44 STOCKHOLM
+                                                                                      Tel: +46 70 330 60 67
+                                                                                      E-mail: linda.cullfors@rebtel.com
+
+United Kingdom     ADD
+    Country/       Company Name/Address              Issuer                         Contact                 Effective
+  geographical                                     Identifier                                                date of
+      area                                          Number                                                    usage
+ United            Lebara Mobile Limited           89 44 16        Mr Gavin Miller                          1.III.2023
+ Kingdom           7th Floor, Import                               7th Floor, Import Building
+                   Building                                        2 Clove Crescent,
+                   2 Clove Crescent,                               LONDON E14 2BE
+                   LONDON E14 2BE                                  Tel: +447831263314
+                                                                   E-mail: ITU-Enquiries@lebara.com
+
+
+
+Mobile Network Codes (MNC) for the international identification plan
+              for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016))
+                 (Position on 15 December 2018)
+
+                        (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                         (Amendment No. 91)
+
+
+    Country/Geographical area                      MCC+MNC *            Operator/Network
+    Czech Rep. ADD
+                                                         230 11         incrate s.r.o.
+    Czech Rep. LIR
+                                                         230 04         Nordic Telecom Regional s.r.o.
+    Sweden SUP
+                                                         240 31         RebTel Networks AB
+    International Mobile, shared code ADD*
+                                                         901 97         Satelio IoT Services S.L.
+
+
+____________
+
+*           MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+            MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+* See the present ITU Operational Bulletin No. 1263 of 1.III.2023, page 6
+
+
+
+
+                              List of ITU Carrier Codes
+              (According to Recommendation ITU-T M.1400 (03/2013))
+                          (Position on 15 September 2014)
+                          (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                          (Amendment No. 145)
+
+
+ Country or area/ISO code                         Company Code            Contact
+  Company Name/Address                             (carrier code)
+
+
+Germany (Federal Republic of) / DEU         ADD
+
+
+ medl GmbH                                           MEDL               Mr Joerg Hanitz
+ Burgstrasse 1                                                          Tel.: +49 208 4501 438
+ D-45476 Muelheim a.d. Ruhr                                             Email: joerg.hanitz@medl.de
+
+
+ Callone GmbH                                        CALL1              Mr Bjoern Bendig
+ Posthofstrasse 5                                                       Tel: +49 30 92033 500
+ D-14467 POTSDAM                                                        Fax: + 49 30 92033 509
+                                                                        Email: kontakt@callone.de
+
+
+ Comdesk GmbH                                        CDESK              Mr Robert Kuhl
+ Neuenkampsweg 4                                                        Tel.: +49 4121 27521 0
+ D-25337 KOELLN-REISIEK                                                 Fax: +49 4121 27521 100
+                                                                        Email: support@comdesk.de
+
+
+ conology GmbH                                      ARVELO              Mr Willm Tueting
+ Textorstrasse 99                                                       Tel.: +49 175 5209602
+ D-60596 FRANKFURT                                                      Email: willm.tueting@conology.net
+
+
+ Fiber Network WUG GmbH                              FNW18              Mr Marco Kleemann
+ Ringstrasse 19                                                         Tel.: +49 9834 5979885
+ D-91738 PFOFELD                                                        Email: info@fiber-network.de
+
+Germany (Federal Republic of) / DEU         LIR
+
+ RigiNet GmbH                                         RIGI              Mr Stefan Sedlmeir
+ Hauptstrasse 116                                                       Tel: +49 8803 690299
+ D-82380 PEISSENBERG                                                    Fax.: +49 8803 690250
+                                                                        Email: stefan.sedlmeir@peissenberg.de
+
+Germany (Federal Republic of) / DEU         SUP
+
+ Liberty Networks Germany GmbH                       LNGER              Mr Thomas Schidek
+ Subbelrather Strasse 15 a                                              Tel.: +49 151 1142 7457
+ D-50823 COLOGNE                                                        Email: thomas.schidek@libertynetworks.de
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 1 July 2020)
+                                 (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                  (Amendment No. 51)
+
+ Country/ Geographical Area          Unique name of the signalling point   Name of the signalling point operator
+ ISPC          DEC
+
+ Czech Rep. SUP
+ 2-060-1       4577                  MSSBRB2                               T-Mobile Czech Republic a.s.
+ 2-060-2       4578                  MSSRZT1                               T-Mobile Czech Republic a.s.
+ 2-230-1       5937                  MSS HRK 1                             T-Mobile Czech Republic a.s.
+ 2-231-7       5951                  MSS PRC 1                             T-Mobile Czech Republic a.s.
+
+ Spain SUP
+ 7-254-3       16371                 Madrid                                Marin Telecom, S.L.U.
+
+ Spain ADD
+ 7-254-3       16371                 Madrid                                AVATEL TELECOM, S.A.
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                          Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 1.II.2023, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+
+                                      Country/ Geographical area                       Country Code (CC)
+                  Czech Republic                                                               +420
+                  Ghana                                                                        +233
+                  Gibraltar                                                                    +350
+                  Taiwan, China                                                                +886
+
+
+
+

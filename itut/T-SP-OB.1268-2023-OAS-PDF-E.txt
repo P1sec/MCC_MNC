@@ -1,0 +1,661 @@
+                        ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+       No. 1268              15.V.2023                    (Information received by 1 May 2023) ISSN 1564-5223 (Online)
+Place des Nations CH-1211                                 Standardization Bureau (TSB)                                     Radiocommunication Bureau (BR)
+Genève 20 (Switzerland)                                   Tel:     +41 22 730 5211                                         Tel:    +41 22 730 5560
+Tel:      +41 22 730 5111                                 Fax:     +41 22 730 5853                                         Fax:    +41 22 730 5785
+E-mail: itumail@itu.int                                   E-mail: tsbmail@itu.int / tsbtson@itu.int                        E-mail: brmail@itu.int
+
+
+
+
+                                                                  Table of Contents
+                                                                                                                                                                      Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ......................................................................                                     3
+Approval of ITU-T Recommendations ............................................................................................................                          4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010))
+   Note from TSB...........................................................................................................................................             5
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Note from TSB .......................................................................................................................                   5
+Telephone Service:
+     Bhutan (Bhutan InfoComm and Media Authority (BICMA), Thimphu) .....................................................                                                6
+     Uganda (Uganda Communications Commission (UCC), Kampala)............................................................                                               8
+Other communication:
+     Serbia........................................................................................................................................................    10
+Service Restrictions ........................................................................................................................................          11
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ................................................................                                     11
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ..........................................                                             12
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card.............................                                                     12
+List of Recommendation ITU-T E.164 assigned Country Codes .....................................................................                                        13
+Mobile Network Codes (MNC) for the international identification plan for public networks and
+  subscriptions ............................................................................................................................................           14
+List of ITU Carrier Codes.................................................................................................................................             15
+National Numbering Plan ...............................................................................................................................                16
+
+
+
+
+                                                                                                                                     www.itu.int
+               Dates of publication of the next   Including information
+                    Operational Bulletins              received by:
+               1269              1.VI.2023             12.V.2023
+               1270             15.VI.2023             1.VI.2023
+               1271             1.VII.2023             15.VI.2023
+               1272             15.VII.2023            30.VI.2023
+               1273             1.VIII.2023           14.VII.2023
+               1274            15.VIII.2023           28.VII.2023
+               1275              1.IX.2023            11.VIII.2023
+               1276             15.IX.2023            31.VIII.2023
+               1277              1.X.2023              15.IX.2023
+               1278             15.X.2023              29.IX.2023
+               1279              1.XI.2023             13.X.2023
+               1280             15.XI.2023             1.XI.2023
+               1281             1.XII.2023             15.XI.2023
+               1282             15.XII.2023            30.XI.2023
+               1283              1.I.2024              8.XII.2023
+
+
+
+
+                                       GENERAL INFORMATION
+                          Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with
+      optional provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each
+      Administration to its Amateur and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and
+      subscriptions (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218
+      (05/2004)) (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212
+      (09/2016)) (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T
+      E.164 (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September
+      2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010))
+      (Position on 1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement
+      to ITU-T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications
+      operation) (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)
+      (In accordance with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995))
+      (Position on 15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000))
+      (Position on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121
+      (10/2000)) (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400
+      series Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position
+      on 1 May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                             Approval of ITU-T Recommendations
+By AAP-27, it was announced that the following ITU-T Recommendations were approved, in accordance with
+the procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T F.749.6 (04/2023): Requirements of vehicle information for automated driving in vehicle gateway
+      platforms
+–     ITU-T X.1219 (04/2023): Functional requirements for a secured process to evaluate technical
+      vulnerabilities
+–     ITU-T X.1277.2 (04/2023): Universal authentication framework (UAF) protocol specification
+–     ITU-T X.1278.2 (04/2023): Client to authenticator protocol
+–     ITU-T X.1412 (04/2023): Security requirements for smart contract management based on the distributed
+      ledger technology
+–     ITU-T F.780.1 (V3) (04/2023): Framework for telemedicine systems using ultra-high definition imaging
+–     ITU-T F.780.2 (V2) (04/2023): Accessibility of telehealth services
+–     ITU-T G.9962 (2018) Amd. 2: Unified high-speed wire-line based home networking transceivers -
+      Management Specification: Amendment 2
+–     ITU-T M.3020 (04/2023): Management interface specification methodology
+–     ITU-T M.3366 (04/2023): Requirements for management of blockchain system
+–     ITU-T M.3367 (04/2023): Requirements for robot-based on-site smart patrol of telecommunication
+      network
+–     ITU-T M.3383 (04/2023): Requirements for Log Analysis in telecom management with AI
+–     ITU-T M.3384 (04/2023): Intelligence levels of AI enhanced telecom operation and management (IL-
+      AITOM)
+–     ITU-T M.3385 (04/2023): Intelligence levels evaluation framework of AI enhanced telecom operation
+      and management
+
+
+
+
+            The International Public Telecommunication Numbering Plan
+                     (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                 Identification codes for international networks
+
+Associated with shared country code 883 for international networks, the following three-digit identification code
+has been assigned:
+
+                                                               Country Code and         Date of assignment
+         Applicant                    Network
+                                                              Identification Code
+
+
+         Webbing                      Webbing                     +883 470                    1.V.2023
+
+
+
+
+     International Identification Plan for Public Networks and Subscriptions
+                    (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                             Identification codes for International Mobile Networks
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC)
+have been assigned.
+
+                                                Mobile Country Code (MCC) and            Date of assignment
+                Network
+                                                 Mobile Network Code (MNC)
+
+Athalos Global Services BV                                  901 99                            19.IV.2023
+
+
+Webbing                                                     901 01                            1.V.2023
+
+
+
+
+                                            Telephone Service
+                                       (Recommendation ITU-T E.164)
+                                                url: www.itu.int/itu-t/inr/nnp
+ Bhutan (country code +975)
+ Communication of 1.V.2023:
+ The Bhutan InfoComm and Media Authority (BICMA), Thimphu, announces the following update to national
+ numbering plan in Bhutan:
+                               Description of introduction of new resource for
+                           national E.164 numbering plan for country code +975:
+
+     NDC (national             N(S)N number length
+  destination code) or
+                                                                           Usage of                       Time and date of
+leading digits of N(S)N       Maximum       Minimum                   ITU-T E.164 number                    introduction
+ (national (significant)       length        length
+        number)
+17                                 8            8         Non-Geographic. It’s a mobile number           2018
+77                                 8            8         Non-Geographic. It’s a mobile number           2018
+19                                12           12         Non-geographic. It’s a SIM-based IoT           February 21, 2023
+                                                          numbering scheme for Bhutan
+                                                          (see additional info below)
+79                                12           12         Non-geographic. It’s a SIM-based IoT           February 21, 2023
+                                                          numbering scheme for Bhutan
+                                                          (see additional info below)
+
+ Additional Information:
+
+
+      Country                  Network Identification Code                    M2M Identifier                Device Number
+        Code                            (2 digits)                        (Application based Code)             (8 digits)
+      (3 digits)                                                                  (2 digits)
+
+        (975)           "19" for devices using BTL (Bhutan Telecom                    XX                       YYYYYYYY
+                                  Limited) SIM-based IoT                         "00" to "99"                "00000000" to
+                                                                                                              "99999999"
+                        "79" for devices using TICL (Tashi InfoComm
+                                   Limited) SIM-based IoT
+
+ The two digits from "00" to "99" shall be used for the M2M Identifier based on the application. It shall be used
+ strictly based on the following applications mentioned in the table below while issuing the IoT SIMs to the
+ users. For instance, if it is for Smart power metering using BTL SIM, the M2M Identifier shall be "01", thus the
+ SIM numbering shall be "975 19 01 YYYYYYYY"
+
+     Sectors/Industry Verticals                    M2M Identifier                        IoT Applications
+                                                 (Application Based
+                                                       Code)
+
+     Automotive/Transportation/Logistics                  00                Vehicle tracking, Traffic control,
+                                                                            Navigation, Infotainment, Fleet
+                                                                            management, Asset tracking,
+                                                                            Manufacturing, Logistics, etc.
+
+     Utilities/Energy                                     01                Smart power metering, Smart grid,
+                                                                            Electric line monitoring, Smart water
+                                                                            metering, pipeline monitoring, etc.
+
+     Telecom                                              02                Data storage and management, Asset
+                                                                            monitoring
+
+ Sectors/Industry Verticals                 M2M Identifier                 IoT Applications
+                                          (Application Based
+                                                Code)
+
+ Healthcare                                      03            e-health, Remote diagnostics, Medication
+                                                               reminders, Tele-medicine, wearable
+                                                               health devices, etc.
+
+ Financial/ Retail                               04            Point of sale (POS), ATM, Vending
+                                                               machines, Digital signage, and Handheld
+                                                               terminals, etc.
+
+ Public Safety                                   05            Highway, Bridge, Traffic management,
+                                                               Homeland security, Police, Fire, and
+                                                               Emergency services, Fire alarm, home
+                                                               security monitoring etc.
+
+ Smart City                                      06            Intelligent transport System, Intelligent
+                                                               waste management, Street Light control
+                                                               system, Water distribution, Smart Parking,
+                                                               etc.
+
+ Agriculture                                     07            Farm management and real time farm
+                                                               monitoring etc,
+
+ Others                                          …..           The operators shall use additional M2M
+                                                               identifiers if not mentioned in above.
+                                                               However, before the operator uses the
+                                                               new M2M Identifier Code, the operator
+                                                               has to consult the Authority.
+
+                                                               Once one of the operators is allowed to
+                                                               use additional M2M Identifiers, the same
+                                                               M2M Identifier code has to be used by
+                                                               the other operator for same/similar
+                                                               services.
+
+
+Link to national database:
+https://www.bicma.gov.bt/bicmanew/data/publications/rules-regulations-
+guidelines/National_Numbering_Plan_2018.pdf
+https://www.bicma.gov.bt/bicmanew/wp-content/uploads/2023/03/Mobile-NetworkSIM-based-IoT-
+Numbering-Plan-of-Bhutan.pdf
+
+
+
+Contact:
+           Bhutan InfoComm and Regulatory Authority (BICMA)
+           P.O Box 1072
+           THIMPHU
+           BHUTAN
+           Tel: +975 2 321506/+975 2 321507
+           E-mail:       bicma@bicma.bt; spectrum@bicma.bt
+           URL:          www.bicma.gov.bt
+
+
+
+
+Uganda (country code +256)
+Communication of 20.IV.2023:
+The Uganda Communications Commission (UCC), Kampala, announces the following National Numbering Plan
+of Uganda.
+                     ITU-T E.164 NATIONAL NUMBERING PLAN FOR COUNTRY CODE 256
+
+a)     Overview
+       The minimum number length (excluding the country code) is 9 digits
+       The maximum number length (excluding the country code) is 9 digits
+
+b)     Details of numbering scheme
+
+     NDC (National        N(S)N Number Length
+  Destination Code) or
+                                                                Usage of
+    leading digits of    Maximum       Minimum                                               Additional information
+                                                          ITU-T E.164 Number
+    N(S)N (National       Length        Length
+ (Significant) Number)
+ 200                           9           9        Fixed telephony services for       Network fully operational
+ 201                                                Airtel Uganda Limited
+ 20240                         9           9        Fixed telephony services for       Network fully operational
+                                                    Liquid Telecom Limited
+ 20306                         9           9        Fixed telephony services for       Network fully operational
+ 20307                                              Sombha Solutions store Limited
+ 2032                          9           9        Fixed telephony services for       Network fully operational
+                                                    Echotel
+ 2050                          9           9        Fixed telephony services for       Network fully operational
+ 2051                                               Roke Investment International
+ 2052                                               Limited
+ 2053
+ 2054
+ 20611                         9           9        Fixed telephony services for       Network operational
+                                                    Hamilton Telecom
+ 206300                        9           9        Fixed telephony services for       Network fully operational
+ 206301                                             Simbanet Uganda Limited
+ 206302
+ 206303
+ 206304
+ 207                           9           9        Fixed telephony services for       Network fully operational
+                                                    Airtel Uganda Limited
+ 3                             9           9        Fixed telephony services for       Network is fully operational
+                                                    MTN Uganda Limited
+ 4                             9           9        Fixed telephony services for       Network is fully operational
+                                                    Uganda Telecommunication
+                                                    Corporation Limited
+ 700                           9           9        Mobile telephony services for      Network is fully operational
+ 701                                                Airtel Uganda Limited
+ 702
+ 703
+ 704
+ 705
+ 706
+ 707
+ 708
+ 709
+
+
+
+
+    NDC (National          N(S)N Number Length
+ Destination Code) or
+                                                            Usage of
+   leading digits of       Maximum    Minimum                                         Additional information
+                                                      ITU-T E.164 Number
+   N(S)N (National          Length     Length
+(Significant) Number)
+710                           9           9      Mobile telephony services for   Network is fully operational
+711                                              Uganda Telecommunication
+712                                              Corporation Limited
+713
+714
+715
+716
+717
+718
+719
+720                           9           9      Mobile telephony services for   Network is fully operational
+                                                 Smile Communications (U) Ltd
+7240                          9           9      Mobile telephony services for   Network not yet operational
+                                                 Hamilton Limited
+7260                          9           9      Mobile telephony services for   Network is fully operational
+                                                 Tangerine Limited
+740                           9           9      Mobile telephony services for   Network is fully operational
+741                                              Airtel Uganda Limited
+742
+743
+750                           9           9      Mobile telephony services for   Network is fully operational
+751                                              Airtel Uganda Limited
+752
+753
+754
+755
+756
+757
+758
+759
+760                           9           9      Mobile telephony services for   Network is fully operational
+761                                              MTN Uganda Limited
+762
+763
+770                           9           9      Mobile telephony services for   Network is fully operational
+771                                              MTN Uganda Limited
+772
+773
+774
+775
+776
+777
+778
+779
+780                           9           9      Mobile telephony services for   Network is fully operational
+781                                              MTN Uganda Limited
+782
+783
+784
+785
+786
+787
+788
+789
+Contact:
+      Ms Irene Kaggwa Sewankambo
+      Ag. Executive Director
+      Uganda Communications Commission (UCC)
+      Plot 42-44 Spring Road, Bugolobi
+      P.O. Box 7376, Kampala, Uganda
+      Tel:     +256 41 433 9000
+      Fax:     +256 41 434 8832
+      E-mail: ucc@ucc.co.ug
+      URL:     www.ucc.co.ug
+
+
+
+
+                                       Other communication
+
+Serbia
+Communications of 28.IV.2023:
+On the occasion of the jubilee of the foundation of the Amateur Radio Union of Serbia, the Serbian
+Administration authorizes radio stations of the Amateur Radio Union of Serbia to use the special call sign
+YU75SRS from 15 April to 31 December 2023.
+On the occasion of the 26th IARU R1 General Conference, the Serbian Administration authorizes a radio stations
+of the Amateur Radio Union of Serbia to use the special call sign YT26IARU from 15 April to 31 December 2023.
+
+
+
+
+                                         Service Restrictions
+                                See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+ Country/geographical area       OB
+ Seychelles                1006 (p.13)
+ Slovakia                  1007 (p.12)
+ Malaysia                  1013 (p.5)
+ Thailand                  1034 (p.5)
+ São Tomé and Principe     1039 (p.14)
+ Uruguay                   1039 (p.14)
+ Hong Kong, China          1068 (p.4)
+ Ukraine                   1148 (p.5)
+
+
+
+
+                                       Call-Back
+               and alternative calling procedures (Res. 21 Rev. PP-06)
+                             See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                    AMENDMENTS TO SERVICE PUBLICATIONS
+                                            Abbreviations used
+                              ADD    Insert                       PAR   Paragraph
+                              COL    Column                       REP   Replace
+                              LIR    Read                         SUP   Delete
+                              P      Page(s)
+
+
+
+
+                         List of Ship Stations and Maritime Mobile
+                                Service Identity Assignments
+                                            (List V)
+                                        Edition of 2023
+
+                                               Section VI
+
+
+ADD
+
+  BU03     Network Integrity Assurance Technologies Sdn Bhd (NiAT) Unit No.28 & 29,
+           Block C, 1st Floor, Muhibbah Complex II, Jalan Gadong, BE 3919,
+           Bandar Seri Begawan Negara Brunei Darussalam. BRUNEI DARUSSALAM.
+           E-mail: info@niat.com.bn, wong.tecksion@niat.com.bn,
+           Tel: +673 2384660, Fax: +673 2382551,
+           Contact person: Wong Teck Sion.
+
+
+
+
+                              List of Issuer Identifier Numbers for
+                       the International Telecommunication Charge Card
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                 (Position on 1 December 2018)
+                          (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                           (Amendment No. 83)
+
+
+France    ADD
+
+
+    Country/          Company Name/Address             Issuer                       Contact                  Effective
+  geographical                                       Identifier                                               date of
+      area                                            Number                                                  usage
+
+ France             Netcom Group                     89 33 04       Farid ZOUHRI                            18.IV.2023
+                    41, rue Delizy                                  41, rue Delizy
+                    93500 PANTIN                                    93500 PANTIN
+                                                                    Tel:    +33 666384016
+                                                                    E-mail: f.zouhri@netcom-group.fr
+
+
+
+
+               List of Recommendation ITU-T E.164 assigned Country Codes
+                 (Complement to Recommendation ITU-T E.164 (11/2010))
+                            (Position on 15 December 2016)
+                                (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                 (Amendment No. 35)
+
+ Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+
+
+p        Associated with shared country code 883, the following three-digit identification code reservation or
+         assignment has been made for the international networks of:
+
+Note p)      +883 470       ADD*
+
+                                                                                   Country Code and
+                  Applicant                                     Network                                        Status
+                                                                                  Identification Code
+
+    Webbing                                      Webbing                              +883 470               Assigned
+
+* 1.V.2023
+
+__________
+
+See page 5 of the present Operational Bulletin No. 1268 of 15.V.2023.
+
+
+
+
+       Mobile Network Codes (MNC) for the international identification plan
+                     for public networks and subscriptions
+             (According to Recommendation ITU-T E.212 (09/2016))
+                         (Position on 15 December 2018)
+
+                       (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                        (Amendment No. 95)
+
+
+  Country/Geographical area           MCC+MNC              Operator/Network
+
+  Canada ADD
+
+                                            302 741        Rogers Communications Canada Inc.
+
+  Canada LIR
+
+                                            302 740        Rogers Communications Canada Inc.
+
+  International Mobile,
+  shared code ADD*
+                                            901 01         Webbing
+
+                                            901 99         Athalos Global Services BV
+
+____________
+
+   MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+   MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+* See the present ITU Operational Bulletin No. 1268 of 15.V.2023, page 5
+
+
+
+
+                        List of ITU Carrier Codes
+         (According to Recommendation ITU-T M.1400 (03/2013))
+                    (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 150)
+
+
+ Country or area/ISO code                         Company Code              Contact
+  Company Name/Address                             (carrier code)
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+
+ BBV Franken GmbH                                    BBV004               Mrs Angelika Schmitz
+ Robert-Bosch-Strasse 32                                                  Tel.: +49 6103 3742 413
+ D-63303 DREIEICH                                                         Fax: +49 6103 3742 401
+                                                                          Email: angelika.schmitz@bbv-deutschland.de
+
+ envia TEL GmbH                                      FLETEL               Mr Peter Zech
+ Bulk-Account                                                             Tel.: +49 355 68 1214
+ Friedrich-Ebert-Strasse 26                                               Fax: +49 355 68 2500
+ D-04416 MARKKLEEBERG                                                     Email: peter.zech@enviatel.de
+
+ NetDüsseldorf GmbH                                  NETDUE               Mr Christian Nopper
+ c/o NetCologne GmbH                                                      Tel.: +49 178 8888147
+ Am Coloneum 9                                                            Fax: +49 221 2222 7633
+ D-50826 COLOGNE                                                          Email: christian.nopper@netcologne.com
+
+ RIKOM GmbH                                          RIKOM                Mr Heiko Richardt
+ Hermann-Petersilge-Strasse 10                                            Tel.: +49 36741 683683
+ D-07422 BAD BLANKENBURG                                                  Fax: +49 36741 683684
+                                                                          Email: service@rikom-gmbh.de
+
+ Toolkit Systems UG                                   TKIT                Mr Denis Mathis Walter Brenner
+ (haftungsbeschränkt)                                                     Tel.: +49 761 88794980
+ Sonnenrainweg 1                                                          Email: noc@tool-kit.net
+ D-73563 MOEGGLINGEN
+
+
+
+
+                                 National Numbering Plan
+                  (According to Recommendation ITU-T E.129 (01/2013))
+                                  Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an
+explanation on their webpage concerning the national numbering plan as well as their contact points, so that the
+information, which will be made available freely to all administrations/ROAs and service providers, can be posted
+on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int),
+administrations are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are
+reminded that they will be responsible for the timely update of this information.
+From 15.IV.2023, the following countries/geographical areas have updated their national numbering plan on our
+site:
+
+                         Country/ Geographical area                     Country Code (CC)
+
+                 Qatar                                                         +974
+
+
+
+
