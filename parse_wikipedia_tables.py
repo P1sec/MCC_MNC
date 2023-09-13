@@ -379,6 +379,8 @@ def parse_table_mnc(T_MNC):
     country_infos = read_entry_mnc_title(title)
     #
     for i in range(1, len(T_MNC)):
+        if len(T_MNC[i]) < 6:
+            continue
         rec = read_entry_mnc(T_MNC, i)
         rec['country_name'], rec['country_url'], rec['country_sub'], rec['codes_alpha_2'] = \
             country_infos
@@ -445,113 +447,130 @@ def parse_table_mnc_all():
 # International phone number prefixes
 URL_MSISDN = "https://en.wikipedia.org/wiki/List_of_country_calling_codes"
 
-# regexp to match "+123: AA"-like pattern
-RE_WIKI_MSISDN_PREF = re.compile('\+[0-9 ]{1,}')
+
+def parse_table_msisdn_pref_over(T):
+    # parse the table from the "overview" section, with {prefix: CC2 code, url prefix, url country}
+    D = {}
+    #
+    # 2nd line: +1 prefix US + CA
+    e        = T[2][1][0]
+    pref     = e[0].text.strip()
+    pref_url = URL_PREF + e[0].values()[0].strip()
+    assert( pref == '1' and len(pref_url) > len(URL_PREF) )
+    D['1'] = []
+    for c in e[3:5]:
+        cc2       = c.text.strip()
+        _cucn     = c.values()
+        cntr_url  = URL_PREF + _cucn[0].strip()
+        cntr_name = _cucn[-1].strip()
+        assert( len(cc2) == 2 and len(cntr_url) > len(URL_PREF) and cntr_name )
+        D['1'].append( (cc2, cntr_name, cntr_url, pref_url) )
+    D['1'].sort(key=lambda x:x[0])
+    #
+    # 2nd line: +1XYZ sub-prefixes North-America
+    for e in T[3][2:]:
+        if not len(e):
+            continue
+        e = e[0]
+        for i in range(0, len(e)):
+            if not e[i].text:
+                if pref not in D:
+                    # required for DO 1829 and 1849
+                    D[pref]   = [(cc2, cntr_name, cntr_url, pref_url)]
+            elif e[i].text.startswith('1'):
+                # num prefix
+                pref      = ''.join([c for c in e[i].text if c in '0123456789'])
+                pref_url  = URL_PREF + e[i].values()[0].strip()
+                assert( len(pref) >= 1 and len(pref_url) > len(URL_PREF) )
+            elif e[i].text[0].isascii():
+                # CC2
+                cc2       = e[i].text.strip()
+                _cucn     = e[i].values()
+                cntr_url  = URL_PREF + _cucn[0].strip()
+                cntr_name = _cucn[-1].strip()
+                assert( len(cc2) == 2 and len(cntr_url) > len(URL_PREF) and cntr_name )
+                assert( pref not in D )
+                D[pref]   = [(cc2, cntr_name, cntr_url, pref_url)]
+            else:
+                assert()
+    #
+    # All the remaining lines
+    # 7x Russian line should have a distinct layout
+    for L in T[4:]:
+        if not len(L):
+            continue
+        if (L[0].text is None or not L[0].text[0].isdigit()) and pref != '7':
+            continue
+        for e in L:
+            if len(e) < 2 or not e[0].text:
+                continue
+            pref     = ''.join([c for c in e[0].text if c in '0123456789'])
+            pref_url = URL_PREF + e[0].values()[0].strip()
+            assert( len(pref) >= 1 and len(pref_url) > len(URL_PREF) )
+            #
+            vals = []
+            for c in e[1:]:
+                if c.text is None:
+                    continue
+                cc2 = c.text.strip()
+                if len(cc2) != 2 or not cc2.isascii():
+                    continue
+                _cucn     = c.values()
+                cntr_url  = URL_PREF + _cucn[0].strip()
+                cntr_name = _cucn[-1].strip()
+                assert( len(cntr_url) > len(URL_PREF) and cntr_name )
+                vals.append( (cc2, cntr_name, cntr_url, pref_url) )
+            assert( pref not in D )
+            vals.sort(key=lambda x:x[0])
+            D[pref] = vals
+    #
+    return D
+
+# from simple 1 to 3 digits string to extended prefixes e.g., 374 (47, 97)
+RE_WIKI_MSISDN_PREF = re.compile('([1-9]{1}[0-9]{0,2})(?: \(([0-9]{1,}(?:, {0,1}[0-9]{1,}){0,})\)){0,1}')
+
+def parse_table_msisdn_pref_alphaord(T):
+    # parse the table from the "Alphabetical order" section, with {country: prefix)
+    D = {}
+    #
+    for L in T[1:]:
+        name, prefs, utc, dst = tuple(map(str.strip, ''.join(L.itertext()).split('\n\n')))
+        m = RE_WIKI_MSISDN_PREF.match(prefs)
+        assert(m)
+        pref, pref_exts = m.groups()
+        if pref_exts:
+            D[name] = tuple([pref + ext for ext in sorted(map(str.strip, pref_exts.split(',')))])
+        else:
+            D[name] = (pref, )
+    #
+    return D
 
 
-def _get_cc_url(e):
-    ccs = set()
-    if len(e):
-        for se in e:
-            ccs.update( _get_cc_url(se) )
-    elif e.text:
-        cc  = e.text.strip()
-        assert( cc.isupper() and len(cc) == 2 )
-        name, url = _get_country_url(e)
-        if name is None or url is None:
-            assert()
-        ccs.add( (cc, name, url) )
-    return ccs
+def parse_table_msisdn_pref_locnocount(T):
+    # parse the 2 tables from the "Locations with no country code" section, with {location name: prefix, location url, country, country url}
+    D = {}
+    #
+    for L in T[1:]:
+        e    = explore_text(L[0])
+        name = e.text.strip()
+        url  = URL_PREF + e.values()[0].strip()
+        pref = L[1].text.strip()
+        cntr = explore_text(L[2]).text.strip()
+        assert( name not in D and len(pref) and pref.isdigit() and cntr )
+        D[name] = (pref, cntr, url)
+    #
+    return D
 
 
 def parse_table_msisdn_pref():
     T   = import_html_doc(URL_MSISDN).xpath('//table')
     #
-    # 1) extract the dict of {msisdn prefix: CC2}
-    D_P = {}
-    T_P = T[0][0]
-    #
-    # 2nd line: +1 prefix (North America)
-    ccs  = set()
-    for e in T_P[2][1][0][2:]:
-        if not e.text:
-            continue
-        cc   = e.text.strip()
-        url  = URL_PREF + e.values()[0].strip()
-        name = e.values()[-1].strip()
-        if cc:
-            ccs.add( (cc, name, url) )
-    D_P['1'] = ccs
-    #
-    # 3rd line: +1 XYZ prefix
-    for e in T_P[3]:
-        if len(e) and len(e[0]):
-            pref, ccs = None, set()
-            for se in e[0]:
-                if se.text and RE_WIKI_MSISDN_PREF.match(se.text):
-                    if pref is not None and ccs:
-                        D_P[pref] = ccs
-                        ccs = set()
-                    pref = se.text.strip()[1:].replace(' ', '')
-                    assert(pref.isdigit())
-                elif se.text:
-                    ccs.update( _get_cc_url(se) )
-            if pref is not None and ccs:
-                D_P[pref] = ccs
-    # 
-    # crappy table formatting, missing Dominican prefixes:
-    if '1829' not in D_P:
-        D_P['1829'] = [('DO', 'Dominican Republic', 'https://en.wikipedia.org/wiki/dominican_republic')]
-    if '1849' not in D_P:
-        D_P['1849'] = [('DO', 'Dominican Republic', 'https://en.wikipedia.org/wiki/dominican_republic')]
-    #
-    # other prefixes
-    for i, L in enumerate(T_P[3:]):
-        for j, e in enumerate(L):
-            if len(e) > 1:
-                try:
-                    pref = e[0].text.strip()
-                except Exception:
-                    print('> invalid MSISDN prefix entry: %s' % ''.join(e[0].itertext()).strip())
-                else:
-                    assert(RE_WIKI_MSISDN_PREF.match(pref))
-                    pref = pref[1:].replace(' ', '')
-                    D_P[pref] = _get_cc_url(e[1:])
-    #
-    # convert set to list
-    for pref, ccs in D_P.items():
-        D_P[pref] = list(sorted(ccs))
-    #
-    # 2) extract the dict of {country: MSISDN prefix}
-    D_C = {}
-    T_C = T[1][0]
-    #
-    for L in T_C[1:]:
-        fields = tuple(map(str.strip, ''.join(L.itertext()).split('\n\n')))
-        name, prefstr = fields[0:2]
-        off, pref = 0, []
-        m = RE_WIKI_MSISDN_PREF.search(prefstr)
-        while m is not None:
-            # some countries have several prefixes, often coma-separated
-            pref.append( m.group().replace(' ', '')[1:] )
-            off += m.end()
-            m = RE_WIKI_MSISDN_PREF.search(prefstr[off:])
-        D_C[name] = pref
-    #
-    # 3) extract the dict of {location with no country code: MSISDN prefix}
-    D_T = {}
-    T_T = T[2][0]
-    #
-    for L in T_T[1:]:
-        e     = explore_text(L[0])
-        name  = e.text.strip()
-        url   = URL_PREF + e.values()[0].strip()
-        pref  = RE_WIKI_MSISDN_PREF.search(''.join(L[1].itertext())).group().replace(' ', '')[1:]
-        count = explore_text(L[2]).text.strip()
-        assert( name not in D_T )
-        D_T[name] = (pref, count, url)
-    #
-    return D_P, D_C, D_T
+    # extract the dict of {MSISDN prefix: country infos} from the 1st table
+    # extract the dict of {country: MSISDN prefix} from the 2nd table
+    # extract the dict of {location with no country code: MSISDN prefix} from the 3rd table
+    return parse_table_msisdn_pref_over(T[0][0]), \
+           parse_table_msisdn_pref_alphaord(T[1][0]), \
+           parse_table_msisdn_pref_locnocount(T[2][0])
 
 
 #------------------------------------------------------------------------------#

@@ -7,18 +7,6 @@
   },
   [
     {
-      "border_len_km": 382,
-      "border_len_mi": 237,
-      "country_name": "Abkhazia",
-      "country_sub": [],
-      "country_url": "https://en.wikipedia.org/wiki/Abkhazia",
-      "neigh": [
-        "Georgia",
-        "Russia"
-      ],
-      "neigh_num": 2
-    },
-    {
       "border_len_km": 5529,
       "border_len_mi": 3436,
       "country_name": "Afghanistan",
@@ -895,11 +883,9 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Georgia_(country)",
       "neigh": [
-        "Abkhazia",
         "Armenia",
         "Azerbaijan",
         "Russia",
-        "South Ossetia",
         "Turkey"
       ],
       "neigh_num": 4
@@ -2281,18 +2267,6 @@
         "North Korea"
       ],
       "neigh_num": 1
-    },
-    {
-      "border_len_km": 466,
-      "border_len_mi": 290,
-      "country_name": "South Ossetia",
-      "country_sub": [],
-      "country_url": "https://en.wikipedia.org/wiki/South_Ossetia",
-      "neigh": [
-        "Georgia",
-        "Russia"
-      ],
-      "neigh_num": 2
     },
     {
       "border_len_km": 4797,

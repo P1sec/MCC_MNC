@@ -49,12 +49,6 @@
     "Australia": [
       "61"
     ],
-    "Australian Antarctic Territory": [
-      "6721"
-    ],
-    "Australian External Territories": [
-      "672"
-    ],
     "Austria": [
       "43"
     ],
@@ -72,9 +66,6 @@
     ],
     "Barbados": [
       "1246"
-    ],
-    "Barbuda": [
-      "1268"
     ],
     "Belarus": [
       "375"
@@ -109,7 +100,7 @@
     "Brazil": [
       "55"
     ],
-    "British Indian Ocean Territory": [
+    "British Indian Ocean Territory (Diego Garcia)": [
       "246"
     ],
     "British Virgin Islands": [
@@ -152,9 +143,6 @@
     ],
     "Chad": [
       "235"
-    ],
-    "Chatham Island, New Zealand": [
-      "64"
     ],
     "Chile": [
       "56"
@@ -203,9 +191,6 @@
     ],
     "Denmark": [
       "45"
-    ],
-    "Diego Garcia": [
-      "246"
     ],
     "Djibouti": [
       "253"
@@ -369,8 +354,7 @@
       "800"
     ],
     "International Networks": [
-      "882",
-      "883"
+      "882"
     ],
     "International Premium Rate Service": [
       "979"
@@ -423,8 +407,8 @@
       "962"
     ],
     "Kazakhstan": [
-      "997",
-      "7"
+      "76",
+      "77"
     ],
     "Kenya": [
       "254"
@@ -516,9 +500,6 @@
     ],
     "Micronesia, Federated States of": [
       "691"
-    ],
-    "Midway Island, USA": [
-      "1808"
     ],
     "Moldova": [
       "373"
@@ -633,7 +614,7 @@
     ],
     "Puerto Rico": [
       "1787",
-      "1939"
+      "1930"
     ],
     "Qatar": [
       "974"
@@ -764,9 +745,6 @@
     "Tanzania": [
       "255"
     ],
-    "Telecommunications for Disaster Relief by OCHA": [
-      "888"
-    ],
     "Thailand": [
       "66"
     ],
@@ -825,9 +803,6 @@
     "United States": [
       "1"
     ],
-    "Universal Personal Telecommunications (UPT)": [
-      "878"
-    ],
     "Uruguay": [
       "598"
     ],
@@ -838,8 +813,7 @@
       "678"
     ],
     "Vatican City State (Holy See)": [
-      "3906698",
-      "379"
+      "3906698"
     ],
     "Venezuela": [
       "58"
