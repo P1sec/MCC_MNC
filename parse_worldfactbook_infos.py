@@ -60,6 +60,8 @@ def import_json_doc(url):
 # parsing CIA World Factbook country information
 #------------------------------------------------------------------------------#
 
+DEBUG = True
+
 # old URLs, not valid anymore since January 2021
 #URL_FACTBOOK = 'https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html'
 #URL_PREF     = 'https://www.cia.gov/library/publications/the-world-factbook/geos/'
@@ -68,7 +70,22 @@ URL_FACTBOOK  = 'https://www.cia.gov/the-world-factbook/page-data/references/cou
 URL_PREF      = 'https://www.cia.gov/the-world-factbook/countries/'
 URL_PREF_JSON = 'https://www.cia.gov/the-world-factbook/page-data/countries/'
 
+# this is a LUT for special cases, where the country name from the country codes does not correspond
+# to the country name in the rest of the WFB database
+WFB_COUNTRY_LUT = {
+    'Baker Island' : 'united-states-pacific-island-wildlife-refuges',
+    'Howland Island' : 'united-states-pacific-island-wildlife-refuges',
+    'Jarvis Island' : 'united-states-pacific-island-wildlife-refuges',
+    'Johnston Atoll' : 'united-states-pacific-island-wildlife-refuges',
+    'Kingman Reef' : 'united-states-pacific-island-wildlife-refuges',
+    'Midway Islands' : 'united-states-pacific-island-wildlife-refuges',
+    'Palmyra Atoll' : 'united-states-pacific-island-wildlife-refuges',
+    'Virgin Islands (US)' : 'virgin-islands',
+    'South Georgia and the Islands' : 'south-georgia-and-south-sandwich-islands',
+    }
 
+
+# model for the base dict extracted from the WFB
 REC_COUNTRY  = {
     'name'  : '',
     'url'   : '',
@@ -80,13 +97,6 @@ REC_COUNTRY  = {
     'stan'  : '', 
     'tld'   : '',
     'cmt'   : ''
-    }
-
-
-# this is a LUT for special case, where the country name from the country codes does not correspond
-# to the country name in the rest of the WFB database
-WFB_COUNTRY_LUT = {
-    'South Georgia and the Islands' : 'south-georgia-and-south-sandwich-islands',
     }
 
 # regexp to change crappy char in country name to - as used within url of the WFB
@@ -104,7 +114,7 @@ def country_name_to_url(s):
 def parse_table_country_all():
     J = import_json_doc(URL_FACTBOOK)
     try:
-        T = json.loads(J['result']['data']['page']['json'])['country_codes']
+        T = J['result']['data']['appendix']['entries']
     except Exception as err:
         raise(Exception('> invalid json for WFB country data codes: %r' % err))
     #
@@ -112,18 +122,51 @@ def parse_table_country_all():
     #
     for L in T:
         rec = dict(REC_COUNTRY)
-        rec['name'] = L['entity']
-        rec['genc'] = L['genc'].upper() if L['genc'] is not None and len(L['genc']) in {2, 3, 4} else ''
-        rec['cc2']  = L['iso_code_1'].upper() if L['iso_code_1'] is not None and len(L['iso_code_1']) == 2 else ''
-        rec['cc3']  = L['iso_code_2'].upper() if L['iso_code_2'] is not None and len(L['iso_code_2']) == 3 else ''
-        rec['ccn']  = L['iso_code_3'].upper() if L['iso_code_3'] is not None and len(L['iso_code_3']) == 3 else ''
-        rec['stan'] = L['stanag_code'].upper() if L['stanag_code'] is not None and len(L['stanag_code']) == 3 else ''
-        rec['tld']  = L['internet_code'].lower() if L['internet_code'] is not None and len(L['internet_code']) >= 3 else ''
-        rec['cmt']  = L['comment'] if L['comment'] else ''
+        for f in L['fields']:
+            if f['attribute'] == 'name':
+                rec['name'] = f['value']
+            elif f['attribute'] == 'gencCode':
+                v = f['value'].upper().strip()
+                if len(v) in {2, 3, 4} and v.isalpha():
+                    rec['genc'] = v
+                else:
+                    if DEBUG:
+                        print('%s, GENC: %s' % (rec['name'], v))
+                    rec['genc'] = ''
+            elif f['attribute'] == 'isoCode':
+                v = tuple(map(str.strip, f['value'].upper().split('|')))
+                if len(v) == 3 and len(v[0]) == 2 and v[0].isalpha() and len(v[1]) == 3 and v[1].isalpha() \
+                and len(v[2]) == 3 and v[2].isdigit():
+                    rec['cc2'], rec['cc3'], rec['ccn'] = v
+                else:
+                    if DEBUG:
+                        print('%s, ISO: %r' % (rec['name'], v))
+                    rec['cc2'], rec['cc3'], rec['ccn'] = '', '', ''
+            elif f['attribute'] == 'stanagCode':
+                v = f['value'].upper().strip()
+                if len(v) == 3 and v.isalpha():
+                    rec['stan'] = v
+                else:
+                    if DEBUG:
+                        print('%s, Stanag: %s' % (rec['name'], v))
+                    rec['stan'] = ''
+            elif f['attribute'] == 'internetCode':
+                v = f['value'].lower().strip()
+                if v[0:1] == '.' and len(v) >= 3:
+                    rec['tld'] = v
+                else:
+                    if DEBUG:
+                        print('%s, TLD: %s' % (rec['name'], v))
+                    rec['tld'] = ''
+            elif f['attribute'] == 'comment':
+                if f['value']:
+                    rec['cmt'] = f['value'].strip()
+                else:
+                    rec['cmt'] = ''
         #
         # build the country URL from the country name
-        cntr_name   = country_name_to_url(L['entity'])
-        rec['url']  = URL_PREF + cntr_name
+        cntr_name   = country_name_to_url(rec['name'])
+        rec['url']  = URL_PREF + cntr_name + '/'
         rec['json'] = URL_PREF_JSON + cntr_name + '/page-data.json'
         #
         rec['infos'] = parse_json_country(rec['json'])
@@ -148,7 +191,8 @@ def parse_json_country(url):
         if err:
             time.sleep(2)
         try:
-            J = json.loads(import_json_doc(url)['result']['data']['country']['json'])
+            J = import_json_doc(url)['result']['data']
+            # J['country'], J['fields']
         except Exception as exc:
             err += 1
     if J is None:
@@ -160,7 +204,7 @@ def parse_json_country(url):
     return D
 
 
-# JSON section title, and sub-section id
+# JSON section title, and sub-section id, from 2023/02/14
 # structure of titles and ids:
 #
 # - Introduction
@@ -339,9 +383,10 @@ def parse_json_country(url):
 #   - refugees-and-internally-displaced-persons
 #   - illicit-drugs
 
+
+# Common and generic stripping and extraction routines
+
 RE_NOTE  = re.compile('[nN]ote\s{0,}:')
-
-
 RE_SPACE = re.compile('\s{1,}')
 
 def _strip_str(s):
@@ -362,6 +407,12 @@ def _strip_html_brem(s):
     return s.strip()
 
 
+def _extract_uint(s):
+    return int(s.strip().replace(',', '').replace('.', ''))
+
+
+# Dedicated extraction routines
+
 def _extract_geo_mult(s):
     r = []
     for ssub in s.split(';'):
@@ -372,9 +423,9 @@ def _extract_geo_mult(s):
     return r
 
 
-def _extract_area(l):
+def _extract_area(txt):
     r = {}
-    for s in l:
+    for s in map(str.strip, txt.split('<br><br>')):
         try:
             name, s = map(_strip_str, s.split(':', 1))
         except ValueError:
@@ -399,7 +450,7 @@ RE_BORD = re.compile('(?:regional ){0,1}border(?:s){0,1}(?: countries| sovereign
 
 def _extract_bound(l):
     r = {'bord': {}}
-    for s in l:
+    for s in map(str.strip, l.split('<br><br>')):
         if 'border' in s:
             m = RE_BORD.match(s)
             if m:
@@ -421,11 +472,13 @@ def _extract_bound(l):
                 if num is not None and int(num) != len(r['bord']):
                     #assert()
                     print('> boundary number mismatch: %s / %r' % (num, r['bord']))
-        elif 'total' in s:
+        elif 'total':
             dist = s.split(':', 1)[1].strip().replace(',', '')
             m = RE_DIST.match(dist)
             if m and 'len' not in r:
                 r['len'] = int(m.group(1))
+        else:
+            print('> unprocessed boundary declaration: %s' % s)
     _consolidate_bound(r)
     return r
 
@@ -461,11 +514,18 @@ def _extract_value(s):
     if m:
         v = float(m.group(1).replace(',', ''))
         if m.group(2):
-            return int(v * 1000000)
+            num = int(v * 1000000)
         else:
-            return int(v)
+            num = int(v)
     else:
-        return 0
+        num = 0
+    s = s[m.end():].lstrip()
+    m = RE_YEAR.search(s)
+    if m:
+        year = int(m.group(1))
+        return {'num': num, 'year': year}
+    else:
+        return {'num': num}
 
 
 def _extract_country_name(l):
@@ -484,23 +544,25 @@ def _extract_country_name(l):
 
 RE_TIME_DIFF = re.compile('UTC\s{0,}[\-\+\.0-9]{0,}')
 
-def _extract_capital(l):
+def _extract_capital(s):
     r = {}
-    for s in l:
-        if s.startswith('name'):
-            r['name'] = _strip_str(s.split(':', 1)[1])
-        elif s.startswith('time diff'):
-            m = RE_TIME_DIFF.match(s.split(':', 1)[1].strip())
+    for l in map(str.strip, s.split('<br><br>')):
+        if l.lower().startswith('name'):
+            r['name'] = _strip_str(l.split(':', 1)[1])
+        elif l.lower().startswith('geographic coord'):
+            r['coord'] = _strip_str(l.split(':', 1)[1])
+        elif l.lower().startswith('time diff'):
+            m = RE_TIME_DIFF.match(l.split(':', 1)[1].strip())
             if m:
                 r['time_diff'] = m.group()
-        elif s.startswith('geographic coord'):
-            r['coord'] = _strip_str(s.split(':', 1)[1])
     return r
 
 
-def _extract_total_value(l):
-    for s in l:
-        if s.startswith('total'):
+def _extract_total_value(s):
+    if '<br><br>' in s:
+        lines = s.split('<br><br>')
+    for l in lines:
+        if l.startswith('total'):
             return _extract_value(s.split(':', 1)[1].strip())
     return ''
 
@@ -517,9 +579,9 @@ def _extract_tel_year(s):
         year = 0
     return [p for p in map(_strip_str, s.split(';')) if p] + [year]
 
-def _extract_tel(l):
+def _extract_tel(txt):
     r = {}
-    for s in l:
+    for s in map(str.strip, txt.split('<br><br>')):
         # it seems some "&rsquo;" expr remains in textual description
         s = s.replace('&rsquo;', '\'') 
         if s.startswith('general assess'):
@@ -534,14 +596,17 @@ def _extract_tel(l):
                 r['code'] = m.group(1).replace('-', '')
             r['intl'] = _extract_tel_year(s)
         else:
-            name, s = map(str.strip, s.split(':', 1))
-            r[name] = _extract_tel_year(s)
+            try:
+                name, s = map(str.strip, s.split(':', 1))
+                r[name] = _extract_tel_year(s)
+            except Exception:
+                pass
     return r
 
 
 def _extract_ports(l):
     r = {}
-    for s in l:
+    for s in map(str.strip, l.split('<br><br>')):
         # TODO: we need to strip <em></em>
         if s.startswith('major seaport'):
             r['seaport']   = _strip_html_brem(_strip_str(s.split(':', 1)[1]))
@@ -552,40 +617,63 @@ def _extract_ports(l):
     return r
 
 
+def _extract_airports(s):
+    r = {}
+    if '<br><br>' in s:
+        s = s.split('<br><br>', 1)[0]
+    if s[0:1].isdigit():
+        # we have a number
+        m = RE_YEAR.search(s)
+        if m:
+            # number and date
+            r['year'] = int(m.group(1))
+            r['num'] = int(s[:m.start()].strip())
+        else:
+            # only number
+            r['num'] = int(s.strip())
+    return r
+
+
 COUNTRY_SECTIONS = {
-    'Geography': {
-        'geographic-coordinates'    : ('coord',         _extract_geo_mult),
-        'map-references'            : ('region',        _extract_geo_mult),
-        'area'                      : ('area',          _extract_area),
-        'land-boundaries'           : ('boundaries',    _extract_bound),
-        'coastline'                 : ('coastline',     _extract_value),
-        },
-    'People and Society': {
-        'population'                : ('population',    _extract_value),
-        },
-    'Government': {
-        'country-name'              : ('country_name',  _extract_country_name),
-        'capital'                   : ('capital',       _extract_capital),
-        },
-    'Communications': {
-        'telephones-fixed-lines'        : ('subs_fixed',        _extract_total_value),
-        'telephones-mobile-cellular'    : ('subs_mobile',       _extract_total_value),
-        'telecommunication-systems'     : ('telecom',           _extract_tel),
-        'internet-users'                : ('users_internet',    _extract_total_value),
-        'broadband-fixed-subscriptions' : ('subs_broadband',    _extract_total_value),
-        },
-    'Transportation': {
-        'airports'                  : ('airports',      _extract_total_value),
-        'ports-and-terminals'       : ('ports',         _extract_ports),
-        }
+    # 2023/09/15: new flat data model
+    'Geographic coordinates':           ('coord',           _extract_geo_mult),
+    'Airports - with paved runways':    ('airports_paved',  _extract_airports),
+    'Capital':                          ('capital',         _extract_capital),
+    'Coastline':                        ('coastline',       _extract_value),
+    'Land boundaries':                  ('boundaries',      _extract_bound),
+    'Ports and terminals':              ('ports',           _extract_ports),
+    'Telecommunication systems':        ('telecom',         _extract_tel),
+    'Country name':                     ('country_name',    _extract_country_name),
+    'Map references':                   ('region',          _extract_geo_mult),
+    'Population':                       ('population',      _extract_value),
+    'Internet users':                   ('users_internet',  _extract_total_value),
+    'Area':                             ('area',            _extract_area),
+    'Airports':                         ('airports',        _extract_airports),
+    'Telephones - mobile cellular':     ('subs_mobile',     _extract_total_value),
+    'Broadband - fixed subscriptions':  ('subs_broadband',  _extract_total_value),
+    'Telephones - fixed lines':         ('subs_fixed',      _extract_total_value),
+    #
+    # other items of interest:
+    #'Major urban areas - population'
+    #'Disputes - international'
+    #'Merchant marine'
+    #'Railways'
     }
 
+'''
+ 'ports': {},
+ 'country_name': {},
+'''
 
 RE_HTML_CMT   = re.compile('<\!--.*-->')
 RE_HTML_SPAN  = re.compile('<span\s.*>')
 RE_HTML_STYLE = re.compile('</{0,1}(strong|p)>')
-RE_HTML_GLYPH = re.compile('&[a-zA-Z];')
- 
+RE_HTML_GLYPH = re.compile('\&[a-zA-Z]{1,};')
+TXT_HTML_TR   = {
+    '&ldquo;': '“',
+    '&rdquo;': '”',
+    }
+
 def _strip_html(s):
     ret = RE_HTML_CMT.sub(' ', s)
     ret = RE_HTML_SPAN.sub(' ', ret)
@@ -594,6 +682,9 @@ def _strip_html(s):
           .replace('&amp;', '&')\
           .strip()
     ret = re.sub('\s{1,}', ' ', ret)
+    for html, glyph  in TXT_HTML_TR.items():
+        if html in ret:
+            ret = ret.replace(html, glyph)
     m = RE_HTML_GLYPH.search(ret)
     if m:
         print('> found more HTML expr: %s' % m.group())
@@ -601,26 +692,21 @@ def _strip_html(s):
 
 
 def _extract_sections(J, D):
-    for section in J['categories']:
-        if section['title'] in COUNTRY_SECTIONS:
-            subsel = COUNTRY_SECTIONS[section['title']]
-            for subsection in section['fields']:
-                if subsection['id'] in subsel:
-                    selname, cb = subsel[subsection['id']]
-                    #print('- %s' % subsection['id'])
-                    #
-                    if 'subfields_raw' in subsection:
-                        subs = list(map(str.strip, subsection['subfields_raw'].split(', ')))
-                        cont = list(map(_strip_html, subsection['content'].split('<br><br>')))
-                        D[selname] = cb(cont)
-                        #print('  - subs: %s' % ', '.join(subs))
-                        #print('  - cont:')
-                        #for c in cont:
-                        #    print('    - %s' % c)
-                    else:
-                        cont = _strip_html(subsection['content'])
-                        D[selname] = cb(cont)
-                        #print('  - cont: %s' % cont)
+    # go over all the "nodes" in "fields"
+    for node in J['fields']['nodes']:
+        if node['name'] in COUNTRY_SECTIONS:
+            fname, cb = COUNTRY_SECTIONS[node['name']]
+            data = _strip_html(node['data'])
+            if DEBUG:
+                print('- %s: %s' % (fname, data))
+            D[fname] = cb(data)
+    #
+    # consolidate airports and airports_paved
+    if 'airports_paved' in D and D['airports_paved']:
+        if 'airports' not in D:
+            assert()
+        D['airports']['paved'] = D['airports_paved']['num']
+        del D['airports_paved']
 
 
 #------------------------------------------------------------------------------#
