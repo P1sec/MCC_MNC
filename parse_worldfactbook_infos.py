@@ -125,6 +125,8 @@ def parse_table_country_all():
         for f in L['fields']:
             if f['attribute'] == 'name':
                 rec['name'] = f['value']
+                if DEBUG:
+                    print('processing for %s' % f['value'])
             elif f['attribute'] == 'gencCode':
                 v = f['value'].upper().strip()
                 if len(v) in {2, 3, 4} and v.isalpha():
@@ -179,6 +181,8 @@ def parse_table_country_all():
             raise(Exception('> duplicate entry for country %s' % rec['name']))
         else:
             D[rec['name']] = rec
+        if DEBUG:
+            print(80*'-')
     #
     return D
 
@@ -472,7 +476,7 @@ def _extract_bound(l):
                 if num is not None and int(num) != len(r['bord']):
                     #assert()
                     print('> boundary number mismatch: %s / %r' % (num, r['bord']))
-        elif 'total':
+        elif 'total' in s:
             dist = s.split(':', 1)[1].strip().replace(',', '')
             m = RE_DIST.match(dist)
             if m and 'len' not in r:
@@ -506,7 +510,13 @@ def _consolidate_bound(r):
 RE_INTEG_VAL = re.compile('([0-9\.,]{1,})(\s{1,}million){0,1}')
 
 def _extract_value(s):
-    s = s.strip()
+    r = {}
+    s = _strip_str(s)
+    # the year could eventually comes 1st or last, so we process it and strip it 1st
+    m = RE_YEAR.search(s)
+    if m:
+        r['year'] = int(m.group(1))
+        s = str.strip(s[:m.start()] + s[m.end():])
     if s[:6].lower() == 'approx':
         # remove 1st word
         s = s.split(' ', 1)[1].strip()
@@ -514,31 +524,25 @@ def _extract_value(s):
     if m:
         v = float(m.group(1).replace(',', ''))
         if m.group(2):
-            num = int(v * 1000000)
+            r['num'] = int(v * 1000000)
         else:
-            num = int(v)
+            r['num'] = int(v)
     else:
-        num = 0
-    s = s[m.end():].lstrip()
-    m = RE_YEAR.search(s)
-    if m:
-        year = int(m.group(1))
-        return {'num': num, 'year': year}
-    else:
-        return {'num': num}
+        r['num'] = 0
+    return r
 
 
-def _extract_country_name(l):
+def _extract_country_name(s):
     r = {}
-    for s in l:
-        if s.startswith('conventional short'):
-            r['conv_short']  = _strip_str(s.split(':', 1)[1])
-        elif s.startswith('conventional long'):
-            r['conv_long']   = _strip_str(s.split(':', 1)[1])
-        elif s.startswith('local short'):
-            r['local_short'] = _strip_str(s.split(':', 1)[1])
-        elif s.startswith('local long'):
-            r['local_long']  = _strip_str(s.split(':', 1)[1])
+    for l in map(str.strip, s.split('<br><br>')):
+        if l.startswith('conventional short'):
+            r['conv_short']  = _strip_str(l.split(':', 1)[1])
+        elif l.startswith('conventional long'):
+            r['conv_long']   = _strip_str(l.split(':', 1)[1])
+        elif l.startswith('local short'):
+            r['local_short'] = _strip_str(l.split(':', 1)[1])
+        elif l.startswith('local long'):
+            r['local_long']  = _strip_str(l.split(':', 1)[1])
     return r
 
 
@@ -568,13 +572,13 @@ def _extract_total_value(s):
 
 
 RE_COUNTRY_CODE = re.compile('^country code - ([0-9\-]{1,5})')
-RE_YEAR         = re.compile('\(\s{0,}(20[0-9]{2})\s{0,}(est\.{0,1}){0,1}\)$')
+RE_YEAR         = re.compile('\(\s{0,}(20[0-9]{2})\s{0,}(est\.{0,1}){0,1}\s{0,}\)')
 
 def _extract_tel_year(s):
     m = RE_YEAR.search(s)
     if m:
         year = int(m.group(1))
-        s = s[:m.start()].strip()
+        s = s[:m.start()].rstrip()
     else:
         year = 0
     return [p for p in map(_strip_str, s.split(';')) if p] + [year]
@@ -623,14 +627,7 @@ def _extract_airports(s):
         s = s.split('<br><br>', 1)[0]
     if s[0:1].isdigit():
         # we have a number
-        m = RE_YEAR.search(s)
-        if m:
-            # number and date
-            r['year'] = int(m.group(1))
-            r['num'] = int(s[:m.start()].strip())
-        else:
-            # only number
-            r['num'] = int(s.strip())
+        return _extract_value(s)
     return r
 
 
@@ -660,10 +657,6 @@ COUNTRY_SECTIONS = {
     #'Railways'
     }
 
-'''
- 'ports': {},
- 'country_name': {},
-'''
 
 RE_HTML_CMT   = re.compile('<\!--.*-->')
 RE_HTML_SPAN  = re.compile('<span\s.*>')
