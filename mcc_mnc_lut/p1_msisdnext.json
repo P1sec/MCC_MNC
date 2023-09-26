@@ -7,35 +7,12 @@
   },
   {
     "1": [
-      "American Samoa",
       "Amundsen\u2013Scott South Pole Station",
-      "Anguilla",
-      "Antigua and Barbuda",
-      "Barbados",
-      "Bermuda",
-      "British Virgin Islands",
       "Byrd Station",
       "Canada",
-      "Cayman Islands",
-      "Dominica",
-      "Dominican Republic",
-      "Grenada",
-      "Guam",
-      "Jamaica",
       "McMurdo Station",
-      "Montserrat",
-      "Northern Mariana Islands",
       "Palmer Station",
-      "Puerto Rico",
-      "Saint Kitts and Nevis",
-      "Saint Lucia",
-      "Saint Vincent and the Grenadines",
-      "Sint Maarten",
-      "The Bahamas",
-      "Trinidad and Tobago",
-      "Turks and Caicos Islands",
-      "United States",
-      "United States Virgin Islands"
+      "United States"
     ],
     "1242": [
       "The Bahamas"
@@ -47,8 +24,7 @@
       "Anguilla"
     ],
     "1268": [
-      "Antigua and Barbuda",
-      "Barbuda"
+      "Antigua and Barbuda"
     ],
     "1284": [
       "British Virgin Islands"
@@ -99,7 +75,6 @@
       "Puerto Rico"
     ],
     "1808": [
-      "Midway Island",
       "Wake Island"
     ],
     "1809": [
@@ -120,6 +95,9 @@
     ],
     "1876": [
       "Jamaica"
+    ],
+    "1930": [
+      "Puerto Rico"
     ],
     "1939": [
       "Puerto Rico"
@@ -401,8 +379,7 @@
       "Transnistria"
     ],
     "374": [
-      "Armenia",
-      "Nagorno-Karabakh"
+      "Armenia"
     ],
     "37447": [
       "Nagorno-Karabakh"
@@ -688,7 +665,6 @@
       "Philippines"
     ],
     "64": [
-      "Chatham Island",
       "New Zealand",
       "Pitcairn Islands",
       "Scott Base"
@@ -704,16 +680,12 @@
     ],
     "672": [
       "Antarctica",
-      "Australian External Territories",
       "Casey Station",
       "Davis Station",
       "Heard Island and McDonald Islands",
       "Macquarie Island Station",
       "Mawson Station",
       "Norfolk Island"
-    ],
-    "6721": [
-      "Australian Antarctic Territory"
     ],
     "6723": [
       "Norfolk Island"
@@ -777,7 +749,6 @@
     ],
     "7": [
       "Bellingshausen Station",
-      "Kazakhstan",
       "Leningradskaya Station",
       "Mirny Station",
       "Molodyozhnaya Station",
@@ -850,9 +821,6 @@
     "870": [
       "Inmarsat SNAC"
     ],
-    "878": [
-      "Universal Personal Telecommunications (UPT)"
-    ],
     "880": [
       "Bangladesh"
     ],
@@ -892,14 +860,8 @@
     "88216": [
       "Thuraya (Mobile Satellite service)"
     ],
-    "883": [
-      "International Networks"
-    ],
     "886": [
       "Taiwan"
-    ],
-    "888": [
-      "Telecommunications for Disaster Relief by OCHA"
     ],
     "90": [
       "Northern Cyprus",

@@ -34,7 +34,7 @@ __all__ = [
     'MSISDN',   # dict of MSISDN prefix: list of countries
     'MSISDNEXT', # dict of MSISDN prefix: list of countries and extra-territories
     'CC2',      # dict of CC2: country info
-    'CNTR',     # dict of country: country info (almost identical to CC2 dict, but different key)
+    'CNTR',     # dict of country: country info (values identical to CC2 dict, but different key)
     'TERR',     # dict of territory (incl. country): neighbour info
     ]
 
@@ -377,7 +377,7 @@ def gen_dict_msisdn():
     for pref, listinf in WIKIP_MSISDN.items():
         if pref not in R:
             R[pref] = set()
-        for cc2, name, url in listinf:
+        for cc2, name, url, urlpref in listinf:
             R[pref].add(name)
     #
     for name, listpref in WIKIP_COUNTRY.items():
@@ -464,12 +464,13 @@ def gen_dict_cc2():
     #
     for cc2, infos in sorted(WIKIP_ISO3166.items()):
         D = {
-            'cc2'    : cc2,
-            'name'   : infos['country_name'],
-            'url'    : infos['country_url'],
-            'mcc'    : set(),
-            'mccmnc' : set(),
-            'msisdn' : set(),
+            'cc2'       : cc2,
+            'name'      : infos['country_name'],
+            'url'       : infos['country_url'],
+            'mcc'       : set(),
+            'mccmnc'    : set(),
+            'msisdn'    : [],
+            'msisdn_url': [],
             }
         #
         # 1) populate mccmnc
@@ -580,12 +581,23 @@ def gen_dict_cc2():
             'tel'     : tel,
             }
         #
-        # 4) populate msisdn
-        for pref, terrs in MSISDN.items():
-            for terr in terrs:
-                if terr == D['name'] or terr in nameset:
-                    D['msisdn'].add(pref)
-        D['msisdn'] = list(sorted(D['msisdn']))
+        # 4) populate msisdn, use the most precise information available from 
+        # WIKIP_MSISDN first
+        for pref, listinf in WIKIP_MSISDN.items():
+            for w_cc2, cntr, url, urlpref in listinf:
+                if w_cc2 == cc2 and pref not in D['msisdn']:
+                    D['msisdn'].append(pref)
+                    if urlpref not in D['msisdn_url']:
+                        D['msisdn_url'].append(urlpref)
+        if not D['msisdn']:
+            # only lookup the extended MSISDN dict if required
+            for pref, terrs in MSISDN.items():
+                for terr in terrs:
+                    if terr == D['name'] or terr in nameset:
+                        if pref not in D['msisdn']:
+                            D['msisdn'].append(pref)
+        if not D['msisdn'] and cc2 not in CC2_ALIAS:
+            print('> MSISDN prefix: prefix not found for %s, %s' % (cc2, D['name']))
         #
         R[cc2] = D
     #

@@ -114,6 +114,8 @@ COUNTRY_SPEC = {
         'sub_cc2'       : ['AB'],
         },
     #
+    # Warning, those 2 next territories (Abkhazia and Nagorno-Karabakh) looks quite disputed as of 2023/09
+    # as they were removed from certain Wikipedia tables
     'Abkhazia': {
         'cc2' : 'AB',
         'url' : 'https://en.wikipedia.org/wiki/Abkhazia',

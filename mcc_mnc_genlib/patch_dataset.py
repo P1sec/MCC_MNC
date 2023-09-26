@@ -355,7 +355,7 @@ def patch_wikip_iso3166():
     #
     # 1bis) add more entries, extracted from the international telephone numbering listing
     for pref, infos in sorted(WIKIP_MSISDN.items()):
-        for cc2, name, url in sorted(infos):
+        for cc2, name, url, urlpref in sorted(infos):
             if cc2 not in WIKIP_ISO3166:
                 r = dict(REC_ISO3166)
                 r['code_alpha_2']  = cc2
@@ -746,8 +746,8 @@ def patch_wikip_msisdn():
     #
     for pref, infos in sorted(WIKIP_MSISDN.items()):
         assert( pref.isdigit() )
-        for (cc2, name, url) in infos:
-            new, update = (cc2, name, url), False
+        for (cc2, name, url, urlpref) in infos:
+            new, upd = (cc2, name, url, urlpref), False
             #
             # actually all missing CC2 are already added into ISO3166 dict
             # see patch_wikip_iso3166(), step 1bis)
@@ -755,15 +755,17 @@ def patch_wikip_msisdn():
             #    print('>>> MSISDN +%s, CC2 %s not in ISO3166 dict' % (pref, cc2))
             #
             if name != WIKIP_ISO3166[cc2]['country_name']:
-                new, update = (new[0], WIKIP_ISO3166[cc2]['country_name'], new[2]), True
+                new = (new[0], WIKIP_ISO3166[cc2]['country_name'], new[2], new[3])
+                upd = True
                 print('> country name changed from %s to %s, MSISDN +%s'\
                       % (name, new[1], pref))
             #
             if url != WIKIP_ISO3166[cc2]['country_url']:
-                new, update = (new[0], new[1], WIKIP_ISO3166[cc2]['country_url']), True
+                new = (new[0], new[1], WIKIP_ISO3166[cc2]['country_url'], new[3])
+                upd = True
             #
-            if update:
-                ind = infos.index( (cc2, name, url) )
+            if upd:
+                ind = infos.index( (cc2, name, url, urlpref) )
                 del infos[ind]
                 infos.insert(ind, new)
 

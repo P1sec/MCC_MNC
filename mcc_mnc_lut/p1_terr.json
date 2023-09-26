@@ -10,10 +10,7 @@
       "cc2": "AB",
       "dep": "GE",
       "neigh": {
-        "bord": [
-          "Georgia",
-          "Russia"
-        ],
+        "bord": [],
         "less100": [],
         "less30": []
       }
@@ -652,6 +649,7 @@
       "cc2": "CA",
       "neigh": {
         "bord": [
+          "Denmark",
           "Greenland",
           "United States"
         ],
@@ -955,6 +953,7 @@
       "cc2": "DK",
       "neigh": {
         "bord": [
+          "Canada",
           "Germany"
         ],
         "less100": [
@@ -1301,11 +1300,9 @@
       "cc2": "GE",
       "neigh": {
         "bord": [
-          "Abkhazia",
           "Armenia",
           "Azerbaijan",
           "Russia",
-          "South Ossetia",
           "Turkey"
         ],
         "less100": [],
@@ -2688,7 +2685,6 @@
       "cc2": "RU",
       "neigh": {
         "bord": [
-          "Abkhazia",
           "Azerbaijan",
           "Belarus",
           "China",
@@ -2702,7 +2698,6 @@
           "North Korea",
           "Norway",
           "Poland",
-          "South Ossetia",
           "Ukraine"
         ],
         "less100": [
@@ -3149,10 +3144,7 @@
       "cc2": null,
       "dep": "GE",
       "neigh": {
-        "bord": [
-          "Georgia",
-          "Russia"
-        ],
+        "bord": [],
         "less100": [],
         "less30": []
       }
