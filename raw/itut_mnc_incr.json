@@ -540,6 +540,11 @@
         "Sp/f Tosa",
         "28803",
         "SUP"
+      ],
+      [
+        "Faroese Telecom",
+        "28810",
+        "ADD"
       ]
     ],
     "France": [
@@ -2284,6 +2289,11 @@
       [
         "EuTel AB",
         "24022",
+        "SUP"
+      ],
+      [
+        "ComHem AB",
+        "24011",
         "SUP"
       ]
     ],
@@ -4067,6 +4077,41 @@
       [
         "Hologram",
         "313760",
+        "LIR"
+      ],
+      [
+        "World Mobile Networks, Inc",
+        "310420",
+        "ADD"
+      ],
+      [
+        "NUWAVE Communications, Inc.",
+        "314450",
+        "ADD"
+      ],
+      [
+        "Texas A&M University",
+        "314460",
+        "ADD"
+      ],
+      [
+        "Manhattan Telecommunications Corporation LLC",
+        "314470",
+        "ADD"
+      ],
+      [
+        "Xcel Energy Services Inc.",
+        "314480",
+        "ADD"
+      ],
+      [
+        "Utah Education and Telehealth Network (UETN)",
+        "314490",
+        "ADD"
+      ],
+      [
+        "Boldyn Networks Transit US LLC",
+        "313560",
         "LIR"
       ]
     ],

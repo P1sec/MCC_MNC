@@ -3100,8 +3100,8 @@ WIKIP_MNC = \
            'notes': 'Dedicated network for safety communication, not for public users.',
            'operator': 'Căile Ferate Române',
            'status': 'unknown'},
-         { 'bands': 'UMTS 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G '
-                    '3500',
+         { 'bands': 'UMTS 900 / LTE 700 / LTE 800 / LTE 900 / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G '
+                    '2100 / 5G 3500',
            'brand': 'Swisscom',
            'codes_alpha_2': ['CH'],
            'country_name': 'Switzerland',
@@ -9062,9 +9062,9 @@ WIKIP_MNC = \
            'country_url': 'https://en.wikipedia.org/wiki/Germany',
            'mcc': '262',
            'mnc': '07',
-           'notes': 'Merged with E-Plus Mobilfunk in 2014 and uses MNC 262-03 since 2016',
+           'notes': 'Merged with E-Plus Mobilfunk in 2014',
            'operator': 'Telefónica Germany GmbH & Co. oHG',
-           'status': 'unknown'},
+           'status': 'operational'},
          { 'bands': 'GSM 900 / GSM 1800 / UMTS 2100',
            'brand': 'O2',
            'codes_alpha_2': ['DE'],

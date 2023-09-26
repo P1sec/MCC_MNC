@@ -60,7 +60,7 @@ def import_json_doc(url):
 # parsing CIA World Factbook country information
 #------------------------------------------------------------------------------#
 
-DEBUG = True
+DEBUG = False
 
 # old URLs, not valid anymore since January 2021
 #URL_FACTBOOK = 'https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html'
@@ -663,19 +663,28 @@ RE_HTML_SPAN  = re.compile('<span\s.*>')
 RE_HTML_STYLE = re.compile('</{0,1}(strong|p)>')
 RE_HTML_GLYPH = re.compile('\&[a-zA-Z]{1,};')
 TXT_HTML_TR   = {
-    '&ldquo;': '“',
-    '&rdquo;': '”',
+    '&ldquo;'   : '“',
+    '&rdquo;'   : '”',
+    '&lsquo;'   : '‘',
+    '&rsquo;'   : '’',
+    '&mdash;'   : '—',
+    '&ndash;'   : '–',
+    '&ocirc;'   : 'ô',
+    '&iacute;'  : 'í',
+    '&Oacute;'  : 'Ó',
+    '&uacute;'  : 'ú',
+    '&nbsp;'    : ' ',
+    '&amp;'     : '&',
+    '&deg;'     : '°',
     }
+
 
 def _strip_html(s):
     ret = RE_HTML_CMT.sub(' ', s)
     ret = RE_HTML_SPAN.sub(' ', ret)
-    ret = RE_HTML_STYLE.sub(' ', ret)\
-          .replace('&nbsp;', ' ')\
-          .replace('&amp;', '&')\
-          .strip()
+    ret = RE_HTML_STYLE.sub(' ', ret).strip()
     ret = re.sub('\s{1,}', ' ', ret)
-    for html, glyph  in TXT_HTML_TR.items():
+    for html, glyph in TXT_HTML_TR.items():
         if html in ret:
             ret = ret.replace(html, glyph)
     m = RE_HTML_GLYPH.search(ret)
