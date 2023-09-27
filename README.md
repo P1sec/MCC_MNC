@@ -101,7 +101,6 @@ Specifically for the minimum distance between countries, here are valuable sourc
 - https://zenodo.org/record/46822 for sea-distances only
   - with related information provided here:
     https://halshs.archives-ouvertes.fr/halshs-01288748/document
-- https://www.transtats.bts.gov/Distance.asp for distances between airports
 
 Some other sources may be found online; additionally, it seems the R programming language has nice geography-related packages.
 
