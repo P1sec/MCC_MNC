@@ -1,0 +1,745 @@
+                               ITU Operational Bulletin
+                                                                 www.itu.int/itu-t/bulletin
+
+              No. 1292               15.V.2024                   (Information received by 1 May 2024) ISSN 1564-5223 (Online)
+        Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+        Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+        Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+        E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                         Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                    3
+Approval of ITU-T Recommendations .............................................................................................................                         4
+Telephone Service:
+     Benin (Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP-BENIN),
+        Cotonou) ..............................................................................................................................................         5
+     Kyrgyzstan (Service on Regulation and Supervision in Communication Industry under
+        the Ministry of Digital Development of the Kyrgyz Republic, Bishkek) ................................................                                          11
+Other communication:
+     Serbia.........................................................................................................................................................   12
+     Austria .......................................................................................................................................................   12
+Service Restrictions .........................................................................................................................................         13
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                    13
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers ....................................................................................................................                 14
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................              15
+List of ITU Carrier Codes ..................................................................................................................................           16
+List of International Signalling Point Codes (ISPC) ..........................................................................................                         17
+National Numbering Plan ................................................................................................................................               19
+
+
+
+
+                                                                                                                                             www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1293              1.VI.2024             15.V.2024
+               1294             15.VI.2024             31.V.2024
+               1295             1.VII.2024             14.VI.2024
+               1296             15.VII.2024            28.VI.2024
+               1297             1.VIII.2024           15.VII.2024
+               1298            15.VIII.2024           26.VII.2024
+               1299              1.IX.2024            15.VIII.2024
+               1300             15.IX.2024            30.VIII.2024
+               1301              1.X.2024              13.IX.2024
+               1302             15.X.2024              30.IX.2024
+               1303              1.XI.2024             15.X.2024
+               1304             15.XI.2024             31.X.2024
+               1305             1.XII.2024             15.XI.2024
+               1306             15.XII.2024            29.XI.2024
+               1307              1.I.2025              6.XII.2024
+
+
+
+
+                                                GENERAL INFORMATION
+                                Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 July 2020)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on 1
+      November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-T
+      Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on 15
+      May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1 May
+      2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                 Approval of ITU-T Recommendations
+By AAP-50, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.798 (2023) Amd. 1 (04/2024)
+–     ITU-T X.1144 (04/2024): eXtensible Access Control Markup Language (XACML) 3.1
+–     ITU-T X.1455 (04/2024): Security measure for smart residential community
+–     ITU-T X.1713 (04/2024): Security requirements for the protection of quantum key distribution nodes
+–     ITU-T X.1715 (2022) Amd. 1 (04/2024)
+–     ITU-T X.1771 (04/2024): Security guidelines for combining de-identified data using trusted third party
+–     ITU-T X.2011 (04/2024): Security Guidelines for Digital Twin Network
+–     ITU-T Y.2250 (04/2024): Requirements and Framework of Human-oriented Message Service for Smart Learning in
+      Future Network
+–     ITU-T Y.3073 (04/2024): Framework for service chaining in information-centric networking
+–     ITU-T Y.3129 (04/2024): Requirements and framework for stateless fair queuing in large scale networks including
+      IMT-2020 and beyond
+–     ITU-T Y.3142 (04/2024): Requirements and framework for AI/ML-based network design optimization in future
+      networks including IMT-2020
+–     ITU-T Y.3162 (04/2024): Evaluating intelligence capability for network slice management and orchestration in IMT-
+      2020 network and beyond
+–     ITU-T Y.3186 (04/2024): Requirements and framework for distributed joint learning to enable machine learning in
+      future networks including IMT-2020
+–     ITU-T Y.3207 (04/2024): Fixed, mobile and satellite convergence - Integrated network control architecture
+      framework for IMT-2020 networks and beyond
+–     ITU-T Y.3658 (04/2024): Big Data Driven Networking- Functional requirements and functional architecture of
+      network programmability
+–     ITU-T Y.3820 (04/2024): Quantum Key Distribution Network Interworking - Software Defined Networking Control
+–     ITU-T Y.3821 (04/2024): Quantum key distribution networks - requirements for resilience
+
+
+
+
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                                   url: www.itu.int/itu-t/inr/nnp
+
+Benin (country code +229)
+Communication of 24.IV.2024:
+The Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP-BENIN), Cotonou, announces, for
+30 November 2024 at 0000 hours (UTC+1), the migration of the current national numbering plan of eight (8) digits in
+format ABPQMCDU to a new plan of ten (10) digits in format EZABPQMCDU.
+In accordance with Recommendation ITU-T E.129, tables 9.1, 9.2, 9.3, A.1 et B.1 related respectively to introduction of
+new resource, deletion of resource, number change, important numbers related to emergency services and other services
+of social value and implementation of number portability, are available below, including the description of short numbers
+for access to value-added services and number portability routing codes.
+
+                           Table 9.3 – Description of change for existing (allocated) numbers
+                                  for national numbering plan for country code +229
+
+  Communicated     National (significant) number       Usage of ITU-T               Parallel running       Operator       Proposed
+  date and time               (N(S)N)                  E.164 number                                                       wording of
+    of change      Old number       New number                                Begins             Ends                   announcement
+ 2024-08-31-       20XXXXXX       0120XXXXXX                                                               SBIN
+ 23:00 (UTC)                                          Long numbers for
+                   21XXXXXX       0121XXXXXX                                                               SBIN
+                                                      access to
+                   22XXXXXX       0122XXXXXX          electronic                                           SBIN
+                   23XXXXXX       0123XXXXXX          communication                                        SBIN
+                                                      services (fixed)
+                   24XXXXXX       0124XXXXXX                                                               SBIN
+                   25XXXXXX       0125XXXXXX          Long numbers for                                     N/A
+                   26XXXXXX       0126XXXXXX          access to                                            N/A
+                   27XXXXXX       0127XXXXXX          electronic                                           N/A
+                                                      communication
+                   28XXXXXX       0128XXXXXX          services                                             N/A
+                   29XXXXXX       0129XXXXXX          (fixed and mobile)                                   N/A
+                   40XXXXXX       0140XXXXXX                                                               SBIN
+                   41XXXXXX       0141XXXXXX                                                               SBIN
+                   42XXXXXX       0142XXXXXX                                                               MTN         The number
+                   43XXXXXX       0143XXXXXX                                                                           you have dialled
+                                                                                                           SBIN
+                                                                                                                       has been
+                   44XXXXXX       0144XXXXXX                                                               SBIN        changed.
+                   45XXXXXX       0145XXXXXX                               2024-11-29-       2024-12-29-
+                                                                                                           MOOV        Please redial
+                                                                           23:00 (UTC)       23:00 (UTC)
+                   46XXXXXX       0146XXXXXX                                                                           using the prefix
+                                                                                                           MTN
+                                                                                                                       01 followed by
+                   47XXXXXX       0147XXXXXX                                                               SBIN        the phone
+                   48XXXXXX       0148XXXXXX                                                               N/A         number.
+                                                      Long numbers for
+                   49XXXXXX       0149XXXXXX                                                               N/A
+                                                      access to
+                   50XXXXXX       0150XXXXXX          electronic                                           MTN
+                   51XXXXXX       0151XXXXXX          communication
+                                                                                                           MTN
+                                                      services (mobile)
+                   52XXXXXX       0152XXXXXX                                                               MTN
+                   53XXXXXX       0153XXXXXX                                                               MTN
+                   54XXXXXX       0154XXXXXX                                                               MTN
+                   55XXXXXX       0155XXXXXX                                                               MOOV
+                   56XXXXXX       0156XXXXXX                                                               MTN
+                   57XXXXXX       0157XXXXXX                                                               MTN
+                   58XXXXXX       0158XXXXXX                                                               MOOV
+                   59XXXXXX       0159XXXXXX                                                               MTN
+                   60XXXXXX       0160XXXXXX                                                               MOOV
+
+                     61XXXXXX      0161XXXXXX                                                        MTN
+                     62XXXXXX      0162XXXXXX                                                        MTN
+                     63XXXXXX      0163XXXXXX                                                        MOOV
+                     64XXXXXX      0164XXXXXX                                                        MOOV
+                     65XXXXXX      0165XXXXXX                                                        MOOV
+                     66XXXXXX      0166XXXXXX                                                        MTN
+                     67XXXXXX      0167XXXXXX                                                        MTN
+                     68XXXXXX      0168XXXXXX                                                        MOOV
+                     69XXXXXX      0169XXXXXX                                                        MTN
+                     90XXXXXX      0190XXXXXX                                                        MTN
+                     91XXXXXX      0191XXXXXX                                                        MTN
+                     92XXXXXX      0192XXXXXX                                                        N/A
+                     93XXXXXX      0193XXXXXX                                                        N/A
+                     94XXXXXX      0194XXXXXX                                                        MOOV
+                     95XXXXXX      0195XXXXXX                                                        MOOV
+                     96XXXXXX      0196XXXXXX                                                        MTN
+                     97XXXXXX      0197XXXXXX                                                        MTN
+                     98XXXXXX      0198XXXXXX                                                        MOOV
+                     99XXXXXX      0199XXXXXX                                                        MOOV
+
+Notes:
+X can be any digit between 0 and 9
+N/A: spare
+It is important to note that, in the number series 0ZXXXXXXXX, it is mandatory to dial the leading zero digit "0" when calling
+from abroad. International dialling format for the number series: +229 0ZXXXXXXXX
+
+
+
+       Table 9.1 – Description of introduction of new resources for national numbering plan for country code +229
+
+  National destination code               N(S)N length                 Usage of                Date and time of
+  (NDC) or leading digits of     Maximum            Minimum       ITU-T E.164 number             introduction
+    national (significant)        length             length
+       number (N(S)N)
+ 0100XXXXXX                          10                  10
+ 0101XXXXXX                          10                  10
+ 0102XXXXXX                          10                  10
+ 0103XXXXXX                          10                  10
+ 0104XXXXXX                          10                  10
+ 0105XXXXXX                          10                  10
+ 0106XXXXXX                          10                  10
+ 0107XXXXXX                          10                  10
+ 0108XXXXXX                          10                  10     Long numbers for
+ 0109XXXXXX                          10                  10     access to electronic
+                                                                                          2024-11-29-23:00 (UTC)
+                                                                communication services
+ 0110XXXXXX                          10                  10     (fixed and mobile)
+ 0111XXXXXX                          10                  10
+ 0112XXXXXX                          10                  10
+ 0113XXXXXX                          10                  10
+ 0114XXXXXX                          10                  10
+ 0115XXXXXX                          10                  10
+ 0116XXXXXX                          10                  10
+ 0117XXXXXX                          10                  10
+ 0118XXXXXX                          10                  10
+
+
+ 0119XXXXXX                           10             10
+ 0130XXXXXX                           10             10
+ 0131XXXXXX                           10             10
+ 0132XXXXXX                           10             10
+ 0133XXXXXX                           10             10
+ 0134XXXXXX                           10             10
+ 0135XXXXXX                           10             10
+ 0136XXXXXX                           10             10
+ 0137XXXXXX                           10             10
+ 0138XXXXXX                           10             10
+ 0139XXXXXX                           10             10
+ 0170XXXXXX                           10             10
+ 0171XXXXXX                           10             10
+ 0172XXXXXX                           10             10
+ 0173XXXXXX                           10             10
+ 0174XXXXXX                           10             10
+ 0175XXXXXX                           10             10
+ 0176XXXXXX                           10             10
+ 0177XXXXXX                           10             10
+ 0178XXXXXX                           10             10
+ 0179XXXXXX                           10             10
+ 0180XXXXXX                           10             10
+ 0181XXXXXX                           10             10
+ 0182XXXXXX                           10             10
+ 0183XXXXXX                           10             10
+ 0184XXXXXX                           10             10
+ 0185XXXXXX                           10             10
+ 0186XXXXXX                           10             10
+ 0187XXXXXX                           10             10
+ 0188XXXXXX                           10             10
+ 0189XXXXXX                           10             10
+ 02XXXXXXXX                           10             10
+ 03XXXXXXXX                           10             10
+ 04XXXXXXXX                           10             10
+ 05XXXXXXXX                           10             10
+ 06XXXXXXXX                           10             10
+ 07XXXXXXXX                           10             10
+ 08XXXXXXXX                           10             10
+ 09XXXXXXXX                           10             10
+ 2XXXXXXXXX                           10             10
+ 4XXXXXXXXX                           10             10
+ 5XXXXXXXXX                           10             10
+ 6XXXXXXXXX                           10             10
+ 8XXXXXXXXX                           10             10
+ 9XXXXXXXXX                           10             10
+
+Notes:
+X can be any digit between 0 and 9
+Clarification on the service (fixed or mobile) for each number series specified upon allocation.
+
+
+
+                                         Table 9.2 – Description of deletion of resource
+                                       for national numbering plan for country code +229
+
+ National destination code (NDC) or                       Usage of                          Date and time of deletion
+      leading digits of national                     ITU-T E.164 number
+    (significant) number (N(S)N)
+ 8XXXXXXX                                Long numbers of eight (8) digits for access     2024-11-29-23:00 (UTC)
+                                         to value-added services and service
+                                         providers
+ 0X or 0XY (where X ≠ 0)                 Carrier selection prefix, …                     2024-11-29-23:00 (UTC)
+
+
+X and Y can be any digit between 0 and 9
+
+
+
+                           Table A.1 – Description of important numbers related to emergency services
+                                                 and other services of social value
+
+  Important                          Service                       Allocated or        ITU-T E.164 number or            Note
+   number                                                            assigned           national-only number
+ 105             Ministry of the Digital and Digitalization       Assigned        National-only number            Assigned
+                                                                                                                  01/12/2021
+ 112             Emergency medical services of Benin              Assigned        National-only number            Assigned
+                                                                                                                  30/03/2010
+ 114             Emergency service                                Assigned        National-only number            Assigned
+                 (Institut National de la Femme)                                                                  11/04/2022
+ 115             Office of the President of the Republic          Assigned        National-only number            Assigned
+                                                                                                                  22/07/2011
+ 116             Republican Police                                Assigned        National-only number            Assigned
+                                                                                                                  19/07/2013
+ 117             Republican Police                                Assigned        National-only number
+
+ 118             Fire service                                     Assigned        National-only number
+
+ 131             ARCEP BENIN                                      Assigned        National-only number            Assigned
+                                                                                                                  02/03/2015
+ 132             United Nations Office at Benin                   Assigned        National-only number            Assigned
+                                                                                                                  22/10/2015
+ 136             Emergency service (Ministry of Health)           Assigned        National-only number            Assigned
+                                                                                                                  26/09/2018
+ 137             National Agency for the Promotion of             Assigned        National-only number            Assigned
+                 Heritage and Development of Tourism                                                              19/04/2017
+ 138             Emergency service                                Assigned        National-only number            Assigned
+                 (Ministry of Social Affairs and Microfinance)                                                    20/08/2018
+ 150             Personal-Data Protection Authority               Assigned        National-only number            Assigned
+                                                                                                                  22/06/2022
+ 155             Office of the President of the Republic          Assigned        National-only number            Assigned
+                                                                                                                  24/11/2022
+ 160             Emergency service (Juvenile Squad)               Assigned        National-only number
+
+ 166             Emergency service                                Assigned        National-only number            Assigned
+                 (Ministry of the Interior and Public Security)                                                   14/07/2016
+ 189             Word Food Programme (WFP)                        Assigned        National-only number            Assigned
+                                                                                                                  22/02/2023
+
+
+
+
+              Table B.1 – Description of the implementation of number portability (NP) of ITU-T E.164 numbers
+                                            in the national numbering plan (NNP)
+
+                                 Geographic      Non-geographic numbers                   Mobile numbers
+                                  numbers        other than mobile
+                                                 numbers (e.g., premium
+                                                 rate services, freephone
+                                                 services)
+State of number portability           N/A                  N/A              Functional: 28 September 2018
+(NP)
+Regulatory obligation for             N/A                  N/A              Yes
+operators to implement NP
+Type of NP implementation             N/A                  N/A              ACQ (All Call Query)
+NP database solution (if              N/A                  N/A              Centralized database approach
+any)
+Limitations                           N/A                  N/A              None (no limitation)
+Specifications available on           N/A                  N/A              https://arcep.bj/wp-
+website                                                                     content/uploads/2019/05/DEC2016-025-
+                                                                            fixant-les-lignes-directrices-et-
+                                                                            modalite%CC%81s-de-mise-en-oeuvre-de-la-
+                                                                            portabilite%CC%81-des-
+                                                                            nume%CC%81ros.pdf
+
+                                                                            https://arcep.bj/wp-
+                                                                            content/uploads/2018/12/N%C2%B0222-
+                                                                            2018-ARCEP-BENIN.pdf
+Contact information for               N/A                  N/A              ARCEP BENIN
+national administration/                                                    +229 21 31 01 65
+numbering plan                                                              01 BP 2034 Cotonou
+administrator (NPA)
+                                                                            contacs@arcep.bj
+Central reference database            N/A                  N/A              PORTING BENIN SARL
+(CRDB) (if any) managed/                                                    +229 60 30 53 53
+operated by PORTING                                                         +229 69 79 23 23
+BENIN SARL
+                                                                            contact@portingbenin.bj
+
+
+
+
+Other information:
+
+1. Description of number portability routing codes
+
+      Important                      Service                     Total    ITU-T E.164 number or            Note
+       number                                                  number      national-only number
+                                                               assigned
+ 3W                     Number portability routing code   3               National-only number    Number portability
+                                                                                                  routing codes are made
+                                                                                                  available to operators
+                                                                                                  by ARCEP BENIN
+
+W can be any digit between 0 and 9
+
+
+
+2. Description of numbers for access to value-added services
+
+      Important                      Service                     Total    ITU-T E.164 number or            Note
+       number                                                  number      national-only number
+                                                               assigned
+ 7XYZ                   Value-added services              76              National-only number    Numbers for
+                                                                                                  value-added services
+                                                                                                  are assigned to service
+                                                                                                  providers registered
+                                                                                                  with ARCEP BENIN
+
+X, Y are Z can be any digit between 0 and 9
+
+
+
+
+Contact:
+           Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP-BENIN)
+           01 BP 2034 COTONOU
+           Benin
+           Tel:     +229 21 31 01 65
+           Fax:     +229 21 31 00 67
+           E-mail: contacts@arcep.bj
+           URL:     www.arcep.bj
+
+
+
+
+Kyrgyzstan (country code +996)
+Communication of 29.IV.2024:
+The Service on Regulation and Supervision in Communication Industry under the Ministry of Digital Development of the
+Kyrgyz Republic, Bishkek, announces update to the national numbering plan.
+
+            Description of introduction of new resource for national E.164 numbering plan for country code 996:
+
+        NDC (national          N(S)N number length
+     destination code) or
+                                                                      Usage of                    Time and date of
+   leading digits of N(S)N    Maximum       Minimum              ITU-T E.164 number                 introduction
+    (national (significant)    length        length
+           number)
+              62                  9             9        Non-geographic number –                    16 April 2024
+                                                         Mobile telephony services                   (City Soft)
+                                                         +996 (62 3 200 000-62 3 499 999)
+
+
+Contacts:
+         Service on Regulation and Supervision in Communication Industry
+         under the Ministry of Digital Development of the Kyrgyz Republic
+         119 Akhunbaev str.
+         BISHKEK 720005
+         Kyrgyzstan
+         Tel:     +996 312 544450
+         Fax:     +996 312 544105
+         E-mail: m.zelenenko@nas.gov.kg
+         URL:     https://nas.gov.kg/dp/resurs-numeracii-ot-2024/
+
+         City Soft – Interconnection business and roaming department
+         E-mail: ka@citysoft.pro
+
+
+
+
+                                             Other communication
+Serbia
+Communications of 15.IV.2024:
+On the occasion of the promotion of the "Parks on the Air (POTA) program", the Serbian Administration authorizes radio
+stations of the Amateur Radio Union of Vojvodina to use the special call signs YU7POTA and YT7POTA from 1 May 2024
+to 1 May 2025.
+On the occasion of the promotion of the "Youngsters on the Air (YOTA) program", the Serbian Administration authorizes
+radio stations of the Amateur Radio Union of Vojvodina to use the special call sign YU7YOTA from 1 May 2024
+to 1 May 2025.
+
+Austria
+Communications of 30.IV.2024:
+On the occasion of the "Internationaler ME/CFS Monat/International Month of Myalgic encephalomyelitis/chronic fatigue
+syndrome (ME/CFS)", the Austrian Administration authorizes an Austrian amateur station to use the special call signs
+OE3MECFS from 1 to 31 May 2024.
+On the occasion of the "150 Jahre Favoriten Wiener Gemeindebezirk/150th Anniversary Favoriten as 10th Distrcit of the
+City of Vienna", the Austrian Administration authorizes an Austrian amateur station to use the special call signs OE150FAV
+from 1 May to 31 October 2024.
+
+
+
+
+                                                Service Restrictions
+                                          See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area         OB
+ Seychelles                      1006 (p.13)
+ Slovakia                        1007 (p.12)
+ Malaysia                        1013 (p.5)
+ Thailand                        1034 (p.5)
+ São Tomé and Principe           1039 (p.14)
+ Uruguay                         1039 (p.14)
+ Hong Kong, China                1068 (p.4)
+ Ukraine                         1148 (p.5)
+ Türkiye                         1286 (p.17)
+ Bangladesh                      1287 (p.16)
+
+
+
+
+                                              Call-Back
+                      and alternative calling procedures (Res. 21 Rev. PP-06)
+                                       See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                        AMENDMENTS TO SERVICE PUBLICATIONS
+                                                 Abbreviations used
+                               ADD    Insert                    PAR   Paragraph
+                               COL    Column                    REP   Replace
+                               LIR    Read                      SUP   Delete
+                               P      Page(s)
+
+
+
+
+                               List of Issuer Identifier Numbers
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                               (Position on 31 December 2023)
+                                (Annex to ITU Operational Bulletin No. 1283 – 1.I.2024)
+                                                (Amendment No. 5)
+
+United Kingdom    ADD
+
+     Country/        Company Name/Address            Issuer     Contact                                         Effective
+  geographical                                     Identifier                                                    date of
+       area                                         Number                                                       usage
+ United Kingdom      Tango Networks UK Ltd         89 44 25     John Murray                                     1.V.2024
+                     1200 Century Way                           1200 Century Way
+                     Thorpe Park Business Park                  Thorpe Park Business Park
+                     LEEDS, LS15 8ZA                            LEEDS, LS15 8ZA
+                                                                Tel: +44 7979755161
+                                                                E-mail: johnmurray@tango-networks.com
+
+
+
+
+           Mobile Network Codes (MNC) for the international identification plan
+                          for public networks and subscriptions
+                  (According to Recommendation ITU-T E.212 (09/2016))
+                             (Position on 15 November 2023)
+                                   (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                    (Amendment No. 9)
+
+
+Country/Geographical area                  MCC+MNC                Operator/Network
+Canada ADD
+                                                 302 911          Halton Regional Police Service
+Chile ADD
+                                                  730 24          CLARO CHILE SpA
+                                                  730 29          Entel PCS Telecomunicaciones S.A.
+Georgia ADD
+                                                  282 17          "TMTECH" LTD
+Hungary SUP
+                                                  216 02          MVM NET Ltd.
+Hungary ADD
+                                                  216 02          HM EI Zrt.
+
+
+
+
+____________
+  MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+  MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                     List of ITU Carrier Codes
+                     (According to Recommendation ITU-T M.1400 (03/2013))
+                                 (Position on 15 September 2014)
+                                 (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                 (Amendment No. 170)
+
+
+ Country or area/ISO code                        Company Code              Contact
+  Company Name/Address                            (carrier code)
+
+
+
+
+Germany (Federal Republic of) / DEU           ADD
+ Destiny Global Infra Services                        DSTNYG               Mr Samuel De Wever
+ Belgicastraat 17                                                          Tel.: +32 2 401 97 50
+ B-1930 ZAVENTEM                                                           Email: Samuel.DeWever@dstny.com
+ Belgium
+
+ GERTH TELECOM GmbH                                   GERTEL               Mr Fabian Gerth
+ Himberger Strasse 10                                                      Tel.:   +49 2224 898980
+ D-53604 BAD HONNEF                                                        Fax: +49 2224 8989899
+                                                                           Email: info@gerth-telecom.de
+
+ Stadtwerke Dorfen GmbH                                SWDO                Mr Patrick Keilhacker
+ Haager Straße 31                                                          Tel.: +49 8081 93170
+ D-84405 DORFEN                                                            Fax: +49 8081 931790
+                                                                           Email: portierung@stadtwerke-dorfen.de
+
+
+
+
+                       List of International Signalling Point Codes (ISPC)
+                    (According to Recommendation ITU-T Q.708 (03/1999))
+                                     (Position on 1 July 2020)
+                                  (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                   (Amendment No. 71)
+
+Country/
+Geographical Area
+ISPC       DEC        Unique name of the signalling point           Name of the signalling point operator
+
+Germany SUP
+2-038-4    4404       Düsseldorf                                    Ventelo GmbH
+2-123-5    5085       Düsseldorf                                    Ventelo GmbH
+2-242-4    6036       Frankfurt                                     Ventelo GmbH
+2-242-5    6037       Frankfurt                                     Ventelo GmbH
+2-245-5    6061       Frankfurt                                     Ventelo GmbH
+2-247-7    6079       Mannheim                                      Ventelo GmbH
+2-251-7    6111       Düsseldorf                                    Ventelo GmbH
+2-252-2    6114       Essen                                         Ventelo GmbH
+2-252-3    6115       Hannover                                      Ventelo GmbH
+2-252-4    6116       Leinfelden-Echterdingen                       Ventelo GmbH
+4-244-5    10149      Hannover                                      Limitless Mobile GmbH
+
+Germany ADD
+2-226-0    5904       CMI_STP_FRA2                                  China Mobile International (UK) Limited
+5-240-3    12163      ENGY_Frankfurt                                eNgY Solutions GmbH
+
+Germany LIR
+2-247-0    6072       Hamburg                                       thyssenkrupp Technologies Beteiligungen GmbH
+4-246-3    10163      Frankfurt                                     Alo Vatan Telefondienste GmbH
+
+United States SUP
+3-025-3    6347       Albuquerque                                   AT&T
+3-037-2    6442       White Plains, NY                              AT&T
+3-037-4    6444       Sherman Oaks, CA                              AT&T
+3-045-6    6510       Jersey City (1), NJ                           Qwest Communications International Corp
+3-045-7    6511       Jersey City (2), NJ                           Qwest Communications International Corp
+3-046-0    6512       Atlanta, GA                                   Qwest Communications International Corp
+3-046-1    6513       Sunnyvale, CA                                 Qwest Communications International Corp
+3-046-2    6514       Dublin, OH                                    Qwest Communications International Corp
+3-046-3    6515       Houston, TX                                   Qwest Communications International Corp
+3-046-4    6516       Dublin, OH                                    Qwest Communications International Corp
+3-046-5    6517       Houston, TX                                   Qwest Communications International Corp
+3-055-7    6591       Jackson Heights, NY                           Savontel Communications
+3-181-7    7599       Los Angeles, CA                               Unified Worldwide Transport, LLC
+3-183-5    7613       Atlanta, GA                                   AT&T
+3-202-7    7767       Sunnyvale, CA                                 Qwest Communications Corporation
+3-203-0    7768       Los Angeles, CA                               Qwest Communications Corporation
+3-203-1    7769       Houston, TX                                   Qwest Communications Corporation
+3-203-2    7770       Los Angeles, CA                               MiNO Wireless USA, Inc
+3-203-3    7771       Los Angeles (2), CA                           MiNO Wireless USA, Inc
+3-203-4    7772       Los Angeles (3), CA                           MiNO Wireless USA, Inc
+3-203-5    7773       Los Angeles (4), CA                           MiNO Wireless USA, Inc
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point   Name of the signalling point operator
+
+ United States LIR
+ 3-020-3       6307         Atlanta, GA                           AT&T Corp
+ 3-020-7       6311         Sacramento, CA                        AT&T Corp
+ 3-023-3       6331         White Plains, NY                      AT&T Corp
+ 3-037-0       6440         Pittsburgh, PA                        AT&T Corp
+ 3-037-1       6441         Atlanta, GA                           AT&T Corp
+ 3-037-3       6443         White Plains, NY                      AT&T Corp
+ 3-037-5       6445         Atlanta, GA                           AT&T Corp
+ 3-057-3       6603         New York, NY                          AT&T Corp
+ 3-057-5       6605         New York, NY                          AT&T Corp
+ 3-058-5       6613         Houston, TX                           AT&T Corp
+ 3-058-6       6614         San Diego, CA                         AT&T Corp
+ 3-182-3       7603         San Diego, CA                         AT&T Corp
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                    National Numbering Plan
+                     (According to Recommendation ITU-T E.129 (01/2013))
+                                       Web: www.itu.int/itu-t/inr/nnp/index.html
+
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which will
+be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations are
+kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will be
+responsible for the timely update of this information.
+From 15.IV.2024, the following countries/geographical areas have updated their national numbering plan on our site:
+
+                              Country/ Geographical area                    Country Code (CC)
+                    Micronesia                                                     +691
+                    Turkmenistan                                                   +993
+
+
+
+

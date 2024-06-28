@@ -1,0 +1,1297 @@
+                               ITU Operational Bulletin
+                                                                 www.itu.int/itu-t/bulletin
+
+              No. 1291               1.V.2024                    (Information received by 15 April 2024) ISSN 1564-5223 (Online)
+        Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+        Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+        Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+        E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                         Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                    3
+Approval of ITU-T Recommendations .............................................................................................................                         4
+Assignment of Signalling Area/Network Codes (SANC): Note from TSB .........................................................                                             5
+Telephone Service:
+     Armenia (Ministry of High-Tech Industry, Yerevan) ..................................................................................                               6
+     Guyana (Telecommunications Agency, Georgetown) ...............................................................................                                    18
+     Kyrgyzstan (Service on Regulation and Supervision in Communication Industry under the Ministry
+        of Digital Development of the Kyrgyz Republic, Bishkek) ....................................................................                                   21
+Other communication:
+     Austria .......................................................................................................................................................   22
+Service Restrictions .........................................................................................................................................         23
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                    23
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers .....................................................................................................................                24
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................             25
+List of ITU Carrier Codes ..................................................................................................................................           26
+List of Signalling Area/Network Codes (SANC) ................................................................................................                          27
+List of International Signalling Point Codes (ISPC) ..........................................................................................                         28
+National Numbering Plan ................................................................................................................................               30
+
+
+
+
+                                                                                                                                             www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1292             15.V.2024               1.V.2024
+               1293              1.VI.2024             15.V.2024
+               1294             15.VI.2024             31.V.2024
+               1295             1.VII.2024             14.VI.2024
+               1296             15.VII.2024            28.VI.2024
+               1297             1.VIII.2024           15.VII.2024
+               1298            15.VIII.2024           26.VII.2024
+               1299              1.IX.2024            15.VIII.2024
+               1300             15.IX.2024            30.VIII.2024
+               1301              1.X.2024              13.IX.2024
+               1302             15.X.2024              30.IX.2024
+               1303              1.XI.2024             15.X.2024
+               1304             15.XI.2024             31.X.2024
+               1305             1.XII.2024             15.XI.2024
+               1306             15.XII.2024            29.XI.2024
+               1307              1.I.2025              6.XII.2024
+
+
+
+
+                                                GENERAL INFORMATION
+                                Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 July 2020)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on 1
+      November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-T
+      Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on 15
+      May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1 May
+      2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                 Approval of ITU-T Recommendations
+By AAP-49, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.709.20 (04/2024): Overview of fine grain OTN
+
+By TSB Circular 194 of 21 March 2024, it was announced that the following ITU-T Recommendations were approved in
+accordance with the procedures outlined in Resolution 1:
+–     ITU-T X.1352 (2022) Amd. 1 (03/2024): Amendment of X.1352: Security requirements for Internet of things
+      devices and gateways
+–     ITU-T X.1150 (03/2024): Security assurance framework for digital financial services
+–     ITU-T X.1280 (03/2024): Framework for out-of-band server authentication using mobile devices
+–     ITU-T X.1281 (03/2024): Open Standard Identity APIs (OSIA) specification version 6.1.0
+–     ITU-T X.1373 (03/2024): Secure software update capability for intelligent transportation system communication
+      devices
+
+
+
+
+                          Assignment of Signalling Area/Network Codes (SANC)
+                               (Recommendation ITU-T Q.708 (03/1999))
+
+Note from TSB
+At the request of the Administration of Georgia, the Director of TSB has assigned the following signalling area/network
+code (SANC) for use in the international part of the signalling system No. 7 network of this country/geographical area, in
+accordance with Recommendation ITU-T Q.708 (03/1999):
+
+                                    Country/geographical area or signalling network             SANC
+
+                                    Georgia                                                     5-222
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                                          Telephone Service
+                                     (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/inr/nnp
+Armenia (country code +374)
+Communication of 11.IV.2024:
+The Ministry of High-Tech Industry, Yerevan, announces the updated version of National Numbering Plan of Armenia.
+
+                                                                     Existing N(S)N
+  Marz name     Destination
+                                             Additional
+  (Province)    name               NDC                                  Inter-regional destination code + SN
+                                               digits
+                                                                              Geographic numbers for
+                                                                              fixed telephony services
+                                                              Telecom                                          Crossnet
+                                                                                            GNC-Alfa
+                                                              Armenia          Ucom
+                                                               (Team)
+                                                                                          (Rostelecom)
+
+
+                                                          2xxxxx,
+                                                          3xxxxx,
+                                                          4xxxxx,
+                                                          5xxxxx,
+                                    10           -
+                                                          6xxxxx,
+                                                          7xxxxx,
+                                                          8xxxxx,
+                                                          9xxxxx
+                                                                              2xxxxx,
+                                                                              3xxxxx,
+                                                                              4xxxxx,
+                                                                              5xxxxx,
+                                    11           -
+                                                                              6xxxxx,
+                                                                              7xxxxx,
+                                                                              8xxxxx,
+                Telephone                                                     9xxxxx
+   Yerevan
+                Exchanges                                                                 2xxxxx,
+                                                                                          3xxxxx,
+                                                                                          4xxxxx,
+                                                                                          5xxxxx,
+                                    12           -
+                                                                                          6xxxxx,
+                                                                                          7xxxxx,
+                                                                                          8xxxxx,
+                                                                                          9xxxxx
+                                                                                                         2xxxxx,
+                                                                                                         3xxxxx,
+                                                                                                         4xxxxx,
+                                                                                                         5xxxxx,
+                                    15           -
+                                                                                                         6xxxxx,
+                                                                                                         7xxxxx,
+                                                                                                         8xxxxx,
+                                                                                                         9xxxxx
+
+
+
+
+                                                               Existing N(S)N
+Marz name    Destination
+                                         Additional
+(Province)   name                  NDC                             Inter-regional destination code + SN
+                                           digits
+                                                                        Geographic numbers for
+                                                                        fixed telephony services
+                                                         Telecom                                          Crossnet
+                                                                                       GNC-Alfa
+                                                         Armenia          Ucom
+                                                          (Team)                     (Rostelecom)
+
+
+                                                      2xxxx, 3xxxx,
+             Abovyan                                  4xxxx, 7xxxx,
+                                                      9xxxx
+             Arzni                                    94xxx             5xxxx        81xxx
+                                   222       -
+             Arinj                                    98xxx
+             Geghashen                                97xxx
+             Abovyan
+             CDMA                                     6xxxx
+                                                                        70xxx,       810xx,
+                                                                        71xxx,       811xx,
+                                                      2xxxx, 3xxxx,
+             Hrazdan                                                    72xxx,       812xx,
+                                                      4xxxx, 9xxxx
+                                                                        73xxx,       813xx,
+                                                                        74xxx        814xx
+                                                                        75xxx,       815xx,
+                                   223       -
+                                                                        76xxx,       816xx,
+             Tsaghkadzor                              5xxxx             77xxx,       817xx,
+                                                                        78xxx,       818xx,
+ Kotayk                                                                 79xxx        819xx
+             Hrazdan
+             CDMA                                     6xxxx
+                                                      2xxxx, 4xxxx,
+             Charentsavan                                               3xxxx        81xxx
+                                                      7xxxx
+                                   226       -
+             Charentsavan
+                                                      6xxxx
+             CDMA
+                                                                                     810xx,
+                                                                                     811xx,
+                                                      2xxxx, 3xxxx,
+             Eghvard                                                                 812xx,
+                                                      5xxxx, 9xxxx
+                                                                                     813xx,
+                                                                                     814xx
+                                                                        7xxxx
+                                                                                     815xx,
+                                   224       -
+                                                                                     816xx,
+             Nor-Hachn                                4xxxx                          817xx,
+                                                                                     818xx,
+                                                                                     819xx
+             Eghvard
+             CDMA                                     6xxxx
+
+
+
+
+                                                       Existing N(S)N
+Marz name    Destination
+                                 Additional
+(Province)   name          NDC                             Inter-regional destination code + SN
+                                   digits
+                                                                Geographic numbers for
+                                                                fixed telephony services
+                                                 Telecom                                          Crossnet
+                                                                               GNC-Alfa
+                                                 Armenia          Ucom
+                                                  (Team)                     (Rostelecom)
+
+
+                                                                             810xx,
+                                                                             811xx,
+                                                                             812xx,
+                                              4xxxx, 5xxxx,
+             Echmiadzin                                         2xxxx        813xx,
+                                              9xxxx
+                                                                             814xx,
+                                                                             815xx,
+                           231       -
+                                                                             816xx
+                                                                             817xx,
+             Zvartnots                        7xxxx             3xxxx        818xx,
+                                                                             819xx
+             Echmiadzin
+             CDMA                             6xxxx
+                                                                40xxx,       810xx,
+                                                                41xxx,       811xx,
+                                                                42xxx,       812xx,
+                                              2xxxx, 5xxxx,
+             Armavir                                            43xxx,       813xx,
+                                              7xxxx, 9xxxx
+ Armavir                                                        44xxx,       814xx,
+                                                                45xxx,       815xx,
+                                                                46xxx        816xx
+             Metsamor                         3xxxx
+                           237       -
+             v. Armavir                       71xxx
+             Bambakashat                      79xxx             47xxx,       817xx,
+                                                                48xxx,       818xx,
+             Mrgashat                         72xxx             49xxx        819xx
+             Nalbandyan                       92xxx
+             Tandzyt                          96xxx
+             Armavir
+                                              6xxxx
+             CDMA
+                                              2xxxx, 7xxxx,
+             Baghramian
+                                              9xxxx             3xxxx        81xxx
+             Myasnikian    233       -        74xxx
+             Baghramian
+                                              6xxxx
+             CDMA
+
+
+
+
+                                                                  Existing N(S)N
+Marz name       Destination
+                                            Additional
+(Province)      name                  NDC                             Inter-regional destination code + SN
+                                              digits
+                                                                           Geographic numbers for
+                                                                           fixed telephony services
+                                                            Telecom                                          Crossnet
+                                                                                          GNC-Alfa
+                                                            Armenia          Ucom
+                                                             (Team)                     (Rostelecom)
+
+
+                                                                           70xxx,       510xx,
+                                                                           71xxx,       511xx,
+                Vedi                                     2xxxx, 3xxxx,     72xxx,       512xx,
+                                                         4xxxx, 8xxxx,     73xxx,       513xx,
+                                                         9xxxx             74xxx        514xx
+                Ararat                                                     75xxx,       515xx,
+                                      234       -                          76xxx,       516xx,
+                                                                           77xxx,       517xx,
+                Urtsadzor                                86xxx             78xxx,       518xx,
+                                                                           79xxx        519xx
+  Ararat        Vedi CDMA
+                                                         6xxxx
+                Ararat CDMA
+                                                         2xxxx, 5xxxx,
+                Artashat
+                                                         7xxxx, 9xxxx      3xxxx        81xxx
+                Norashen              235       -        92xxx, 93xxx
+                Artashat
+                                                         6xxxx
+                CDMA
+                                                         2xxxx, 3xxxx,
+                Masis                                                      5xxxx        81xxx
+                                      236       -        4xxxx, 9xxxx
+                Masis CDMA                               6xxxx
+
+
+
+
+                                                        Existing N(S)N
+Marz name    Destination
+                                  Additional
+(Province)   name           NDC                             Inter-regional destination code + SN
+                                    digits
+                                                                 Geographic numbers for
+                                                                 fixed telephony services
+                                                  Telecom                                          Crossnet
+                                                                                GNC-Alfa
+                                                  Armenia          Ucom
+                                                   (Team)                     (Rostelecom)
+
+
+                                               2xxxx, 3xxxx,
+             Ashtarak
+                                               9xxxx
+                                                                 4xxxx        81xxx
+             Byurakan                          94xxx
+                            232       -
+             Ohanavan                          90xxx
+             Ashtarak
+                                               6xxxx
+             CDMA
+                                               2xxxx, 3xxxx,
+             Talin                             7xxxx,
+                                               9xxxx
+             Aragats                           95xxx             4xxxx        81xxx
+                            249       -
+             Katnaghbyur                       73xxx
+Aragatsotn   Mastara                           97xxx
+             Talin CDMA                        6xxxx
+                                               2xxxx, 3xxxx,
+             Aparan
+                                               9xxxx
+                                                                 4xxxx        81xxx
+             Artavan        252       -        95xxx
+             Quchak                            91xxx
+             Aparan CDMA                       6xxxx
+             Tsaghkahovit             0        2xxx
+             Tsaghkahovit
+                                               2xxxx             3xxxx        81xxx
+             region         257
+                                      -
+             Tsaghkahovit
+                                               6xxxx
+             CDMA
+
+
+
+
+                                                                  Existing N(S)N
+Marz name       Destination
+                                            Additional
+(Province)      name                  NDC                             Inter-regional destination code + SN
+                                              digits
+                                                                           Geographic numbers for
+                                                                           fixed telephony services
+                                                            Telecom                                          Crossnet
+                                                                                          GNC-Alfa
+                                                            Armenia          Ucom
+                                                             (Team)                     (Rostelecom)
+
+
+                                                                                        850xx,
+                                                                                        851xx,
+                                                                                        852xx,
+                                                                                        853xx,
+                                                         2xxxx, 3xxxx,
+                Gyumri                                                     9xxxx        854xx,
+                                                         4xxxx, 5xxxx
+                                                                                        855xx,
+                                                                                        856xx,
+                                      312       -                                       857xx,
+                                                                                        858xx
+                                                                           80xxx,
+                                                                           81xxx,
+                Akhurian
+                                                         7xxxx             82xxx,       859xx
+                region
+                                                                           83xxx,
+                                                                           84xxx
+                Gyumri CDMA                              6xxxx
+                Ashotsk
+                                                                           4xxxx        81xxx
+  Shirak        region                                   2xxxx, 3xxxx
+                                      245       -
+                Ashotsk
+                CDMA                                     6xxxx
+                Amasia
+                                                         2xxxx, 3xxxx      4xxxx        81xxx
+                region                246       -
+                Amasia CDMA                              6xxxx
+                                                         2xxxx, 3xxxx,
+                Maralik
+                                                         4xxxx, 9xxxx      5xxxx        81xxx
+                Sarnaghbyur           242       -        31xxx
+                Maralik
+                                                         6xxxx
+                CDMA
+                                                         2xxxx, 3xxxx,
+                Artik
+                                                         5xxxx, 9xxxx      4xxxx        81xxx
+                                      244       -
+                Panik                                    92xxx
+                Artik CDMA                               6xxxx
+                Arapi                 243      00        5xx, 6xx
+
+
+
+
+                                                         Existing N(S)N
+Marz name    Destination
+                                   Additional
+(Province)   name            NDC                             Inter-regional destination code + SN
+                                     digits
+                                                                  Geographic numbers for
+                                                                  fixed telephony services
+                                                   Telecom                                          Crossnet
+                                                                                 GNC-Alfa
+                                                   Armenia          Ucom
+                                                    (Team)                     (Rostelecom)
+
+
+                                                2xxxx, 3xxxx,
+                                                4xxxx, 5xxxx,
+                                                60xxx, 61xxx,
+             Vanadzor                                             7xxxx        81xxx
+                                                62xxx, 63xxx,
+                             322       -
+                                                64xxx, 65xxx,
+                                                66xxx, 9xxxx
+             Vanadzor
+                                                6xxxx
+             CDMA
+             Spitak region                      2xxxx, 3xxxx      4xxxx        81xxx
+                             255       -
+             Spitak CDMA                        6xxxx
+                                                2xxxx, 3xxxx,
+             Alaverdi
+                                                4xxxx, 5xxxx
+   Lori                                                           7xxxx        81xxx
+             Akhtala                            52xxx
+                             253       -
+             Tumanyan                           57xxx
+             Alaverdi
+                                                6xxxx
+             CDMA
+                                                2xxxx, 7xxxx,
+             Tashir
+                                                9xxxx             3xxxx        81xxx
+                             254       -
+             Metsavan                           94xxx
+             Tashir CDMA                        6xxxx
+                                                2xxxx, 3xxxx,
+             Stepanavan                                           4xxxx        81xxx
+                                                9xxxx
+                             256       -
+             Stepanavan
+                                                6xxxx
+             CDMA
+
+
+
+
+                                                               Existing N(S)N
+Marz name     Destination
+                                         Additional
+(Province)    name                 NDC                             Inter-regional destination code + SN
+                                           digits
+                                                                        Geographic numbers for
+                                                                        fixed telephony services
+                                                         Telecom                                          Crossnet
+                                                                                       GNC-Alfa
+                                                         Armenia          Ucom
+                                                          (Team)                     (Rostelecom)
+
+
+                                                      2xxxx, 3xxxx,
+              Sevan                                                     4xxxx        81xxx
+                                   261       -        9xxxx
+              Sevan CDMA                              6xxxx
+                                                      2xxxx, 4xxxx,
+              Martuni                                 5xxxx, 7xxxx,
+                                                      9xxxx             3xxxx        81xxx
+                                   262       -
+              Vardenik                                52xxx, 53xxx
+              Martuni
+                                                      6xxxx
+              CDMA
+                                                      2xxxx, 3xxxx,
+              Gavar                                                     5xxxx        81xxx
+Gegharkunik                        264       -        4xxxx, 9xxxx
+              Gavar CDMA                              6xxxx
+                                                      2xxxx, 3xxxx,
+              Vardenis                                                  4xxxx        81xxx
+                                                      7xxxx, 9xxxx
+                                   269       -
+              Vardenis
+              CDMA                                    6xxxx
+                                                      2xxxx, 3xxxx,
+              Chambarak
+                                                      9xxxx             4xxxx        81xxx
+              Vahan                265       -        96xxx
+              Chambarak
+                                                      6xxxx
+              CDMA
+
+
+
+
+                                                        Existing N(S)N
+Marz name    Destination
+                                  Additional
+(Province)   name           NDC                             Inter-regional destination code + SN
+                                    digits
+                                                                 Geographic numbers for
+                                                                 fixed telephony services
+                                                  Telecom                                          Crossnet
+                                                                                GNC-Alfa
+                                                  Armenia          Ucom
+                                                   (Team)                     (Rostelecom)
+
+
+                                               3xxxx, 4xxxx,
+             Ijevan
+                                               7xxxx, 9xxxx
+                                                                 2xxxx        81xxx
+             Aygehovit      263       -        74xxx
+             Achajur                           92xxx
+             Ijevan CDMA                       6xxxx
+                                               2xxxx, 5xxxx,
+             Berd
+                                               7xxxx, 9xxxx
+             Mosesgegh                         96xxx             3xxxx        81xxx
+                            267       -
+             Navur                             91xxx
+             Norashen                          97xxx
+             Berd CDMA                         6xxxx
+                                               2xxxx, 5xxxx,
+             Noyemberian
+ Tavush                                        7xxxx, 9xxxx
+             Voskepar                          96xxx             3xxxx        81xxx
+             Koti           266       -        99xxx
+             Koghb                             52xxx, 53xxx
+             Noyemberian
+                                               6xxxx
+             CDMA
+                                               2xxxx, 3xxxx,
+             Dilijan
+                                      -        9xxxx
+                                                                 4xxxx        81xxx
+             Haghartsin                        95xxx
+             Teghut         268                97xxx
+             Dilijan (4
+             digits)                  0        xxxx
+             Dilijan CDMA             -        6xxxx
+
+
+
+
+                                                               Existing N(S)N
+Marz name     Destination
+                                         Additional
+(Province)    name                 NDC                             Inter-regional destination code + SN
+                                           digits
+                                                                        Geographic numbers for
+                                                                        fixed telephony services
+                                                         Telecom                                          Crossnet
+                                                                                       GNC-Alfa
+                                                         Armenia          Ucom
+                                                          (Team)                     (Rostelecom)
+
+
+                                                      2xxxx, 5xxxx,
+              Yeghegnadzor
+                                                      9xxxx
+                                                                        3xxxx        81xxx
+              Malishka                                95xxx
+                                   281       -
+              Shatin                                  99xxx
+              Yeghegnadzor
+                                                      6xxxx
+              CDMA
+Vayots dzor                                           2xxxx, 928xx,
+              Vaik
+                                                      929xx             3xxxx        81xxx
+                                   282       -
+              Vaik region                             9xxxx
+              Vaik CDMA                               6xxxx
+              Jermuk                                  2xxxx, 9xxxx
+                                                                        3xxxx        81xxx
+              Gndevaz              287       -        94xxx
+              Jermuk CDMA                             6xxxx
+
+
+
+
+                                                         Existing N(S)N
+Marz name    Destination
+                                   Additional
+(Province)   name            NDC                             Inter-regional destination code + SN
+                                     digits
+                                                                  Geographic numbers for
+                                                                  fixed telephony services
+                                                   Telecom                                          Crossnet
+                                                                                 GNC-Alfa
+                                                   Armenia          Ucom
+                                                    (Team)                     (Rostelecom)
+
+
+                                                2xxxx, 7xxxx,
+             Sisian region             -                          3xxxx        51xxx
+                                                8xxxx, 9xxxx
+             Sisian          283
+                                       0        xxxx
+             (4 digits)
+             Sisian CDMA               -        6xxxx
+                                                2xxxx, 3xxxx,
+             Goris region                                         5xxxx        81xxx
+                             284       -        4xxxx, 9xxxx
+             Goris CDMA                         6xxxx
+                                                                  40xxx,       810xx,
+                                                                  41xxx,       811xx,
+                                                2xxxx, 5xxxx,
+             Kapan                                                42xxx,       812xx,
+                                                9xxxx
+                                                                  43xxx,       813xx,
+                                                                  44xxx        814xx
+                             285       -                          45xxx,       815xx,
+                                                                  46xxx,       816xx,
+  Syunik
+             Kajaran                            3xxxx             47xxx,       817xx,
+                                                                  48xxx,       818xx,
+                                                                  49xxx        819xx
+             Kapan CDMA                         6xxxx
+                                                                               810xx,
+                                                                               811xx,
+             Meghri                             4xxxx, 9xxxx      3xxxx        812xx,
+                                                                               813xx,
+                                                                               814xx
+             Agarak          286       -        2xxxx                          815xx,
+                                                                               816xx,
+                                                                  5xxxx        817xx,
+             Shvanidzor                         95xxx                          818xx,
+                                                                               819xx
+             Meghri CDMA                        6xxxx
+
+
+
+
+                                                                      Existing N(S)N
+                                             NDC                             SN
+                      Telecom Armenia
+                                             91, 96, 97, 99, 43, 33        xxxxxx
+  Non-geographic      GSM (Team)
+    number for        Viva Armenia GSM
+                                             77, 88, 93, 94, 98            xxxxxx
+  mobile services     (Viva-MTS)
+                      Ucom GSM (Ucom)        41, 44, 55, 95                xxxxxx
+
+                                                                      Existing N(S)N
+                                                              Additional
+                                                NDC                        SN
+                                                                digits
+                      Hi-Tech Gateway                                      351xxx
+                      Web                                                  36xxxx
+                                                                           37xxxx, 40xxxx, 43xxxx, 47xxxx, 48xxxx,
+                      CrossNet
+                                                                           49xxxx
+                      Netsys                                               39xxxx, 63xxxx
+                                                                           38xxxx, 42xxxx, 44xxxx, 50xxxx, 51xxxx,
+                      Ucom
+                                                                           52xxxx, 53xxxx, 54xxxx, 65xxxx
+                                                                           45xxxx, 56xxxx, 57xxxx, 58xxxx, 59xxxx,
+                      Gtel (Griar Telecom)
+                                                                           60xxxx
+                                                                           46xxxx, 71xxxx, 72xxxx, 73xxxx, 74xxxx,
+                      GNC-Alfa
+                                                                           75xxxx
+  Non-geographical
+                                                                           61xxxx, 67xxxx, 68xxxx, 69xxxx, 70xxxx,
+    code for fixed                                 60             -
+                                                                           77/0000-1200,3300-3400,6600-6700,
+ telephony services
+                                                                           7000-9200/,
+                      Viva Armenia
+                                                                           78/0000-0800,7700-8900/,
+                      (Viva-MTS)
+                                                                           80/0000-0100,0800-2400,7770-
+                                                                           8990,9900-9999/,
+                                                                           81/0000-1200,8800-8999/
+                      Hnet                                                 82xxxx
+                      Telecom Armenia                                      83xxxx, 84xxxx, 85xxxx
+                                                                           27xxxx, 62xxxx, 66xxxx, 86xxxx, 87xxxx,
+                      Arpinet
+                                                                           88xxxx, 89xxxx, 90xxxx
+                      FNet                                                 91xxxx
+                      Arm Telecom                                          92/0000-1999/
+
+Contact:
+      Ministry of High-Tech Industry
+      3/3 Vazgen Sargsyan Street
+      0010 YEREVAN
+      Armenia
+      Tel:     +374 10590021
+      E-mail: info@hti.am
+      URL:     www.hti.am
+
+
+
+
+Guyana (country code +592)
+Communication of 12.IV.2024:
+The Telecommunications Agency, Georgetown, announces that the following national destination codes (NDC) and
+subscriber number (SN) ranges are currently assigned to the listed public telecommunications operators for the
+Co-operative Republic of Guyana. Numbers allocated to access emergency/social services are also listed below.
+                                     Presentation of national ITU-T E.164 numbering plan
+                                                     for country code 592
+a)     Overview:
+       The minimum fixed and mobile number length (excluding the country code) is seven (7) digits.
+       The maximum fixed and mobile number length (excluding the country code) is seven (7) digits.
+       International dialling format: +592 NXX XXXX
+b)     National Database (TBD)
+c)     Real-time Database (TBD)
+
+d)
+
+Fixed Network
+
+         National           N(S)N number length
+                                                                                                 SN range
+     destination code      Maximum         Minimum        Operator/Block assignee
+                                                                                                  (XXXX)
+          (NXX)             length          length
+           216                 7               7                                               0000 – 9999
+           217                 7               7                                               0000 – 1999
+           218                 7               7                                               0000 – 9999
+           219                 7               7                                               0000 – 9999
+           220                 7               7           Guyana Telephone and                0000 – 9999
+           221                 7               7             Telegraph Co. Ltd.                2000 – 4999
+           222                 7               7                                               0000 – 9999
+           223                 7               7                                               0000 – 9999
+           225                 7               7                                               0000 – 9999
+           226                 7               7                                               0000 – 9999
+           227                 7               7                                               0000 – 9999
+           228                 7               7                                               0000 – 6999
+           229                 7               7                                               1000 – 8999
+           231                 7               7                                               0000 – 9999
+           232                 7               7                                               0000 – 4999;
+                                                                                               9000 – 9999
+           233                   7             7                                               0000 – 7999
+           234                   7             7           Guyana Telephone and                0000 – 0999
+                                                             Telegraph Co. Ltd.
+           253                   7             7                                               0000 – 5999
+           254                   7             7                                               0000 – 2999
+           255                   7             7                                               0000 – 4999
+           256                   7             7                                               0000 – 5999
+           257                   7             7                                               0000 – 4999
+           258                   7             7                                               0000 – 4999
+           259                   7             7                                               0000 – 4999
+
+
+
+
+    National           N(S)N number length
+                                                                        SN range
+destination code      Maximum     Minimum    Operator/Block assignee
+                                                                         (XXXX)
+     (NXX)             length      length
+      260                 7           7                                0000 – 6999
+      261                 7           7                                0000 – 9999
+      262                 7           7                                0000 – 2999
+      263                 7           7                                0000 – 7999
+      264                 7           7                                0000 – 4999
+      265                 7           7                                0000 – 8999
+      266                 7           7                                0000 – 7999
+      267                 7           7                                0000 – 3999
+      268                 7           7                                0000 – 5999
+      269                 7           7                                0000 – 2999
+      270                 7           7                                0000 – 9999
+      271                 7           7                                0000 – 9999
+      272                 7           7                                0000 – 2999
+      273                 7           7                                1000 – 1999
+      274                 7           7                                0000 – 2999
+      275                 7           7                                0000 – 2999
+      276                 7           7                                0000 – 5999
+      277                 7           7                                0000 – 5999
+      279                 7           7                                0000 – 4999
+      289                 7           7      Guyana Telephone and      0000 – 9999
+      322                 7           7        Telegraph Co. Ltd.      0000 – 6999
+      325                 7           7                                0000 – 6999
+      326                 7           7                                0000 – 5999
+      327                 7           7                                0000 – 2999,
+                                                                       5000 – 7999
+      328                 7           7                                0000 – 9999
+      329                 7           7                                0000 – 1999,
+                                                                       3000 – 6999
+      330                 7           7                                0000 – 4999
+      331                 7           7                                0000 – 4999
+      332                 7           7                                0000 – 4999
+      333                 7           7                                0000 – 9999
+      334                 7           7                                0000 – 2999
+      335                 7           7                                0000 – 1999,
+                                                                       3000 – 4999
+     336                  7           7                                5000 – 9999
+     337                  7           7                                0000 – 6999
+     338                  7           7                                1000 – 5999
+     339                  7           7                                0000 – 6999
+     440                  7           7                                0000 – 3999
+     441                  7           7                                0000 – 3999
+     442                  7           7                                0000 – 4999
+     444                  7           7                                0000 – 9999
+                                             Guyana Telephone and
+     455                  7           7                                0000 – 3999
+                                               Telegraph Co. Ltd.
+     456                  7           7                                0000 – 2999
+   500 – 506              7           7                                0000 – 9999
+
+
+
+       National          N(S)N number length
+                                                                                   SN range
+   destination code     Maximum     Minimum      Operator/Block assignee
+                                                                                    (XXXX)
+        (NXX)            length      length
+         510                7           7         U-Mobile (Cellular) Inc.       0000 – 9999
+         515                7           7            E-Networks Inc.             0000 – 9999
+         771                7           7                                        0000 – 2999,
+                                                                                 4000 – 5999
+         772                7           7                                        0000 – 3999
+         773                7           7         Guyana Telephone and           0000 – 2999
+         774                7           7           Telegraph Co. Ltd.           0000 – 2999,
+                                                                                 4000 – 5999
+         775                7           7                                        0000 – 3999
+         777                7           7                                        0000 – 9999
+         800                7           7         U-Mobile (Cellular) Inc.       0000 – 0009
+         862                7           7                                        1000 – 1999
+         868                7           7                                        0000 – 3999
+                                                  Guyana Telephone and
+         888                7           7                                           8888
+                                                    Telegraph Co. Ltd.
+         899                7           7                                        0000 – 9999
+         900                7           7                                        8000 – 8999
+
+Mobile Network
+       National         N(S)N Number length
+                                                                                  SN range
+   destination code     Maximum Minimum          Operator/Block assignee
+                                                                                   (XXXX)
+        (NXX)            length     length
+      600 – 604             7          7       U-Mobile (Cellular) Inc.          0000 – 9999
+         605                7          7       Quark Communications Inc.         0000 – 0999
+         605                7          7       DNA Enterprise Inc.               1000 – 2999
+         606                7          7       E-Government                      0000 – 0999
+         608                7          7       U-Mobile (Cellular) Inc.          0000 – 0999
+      609 – 629             7          7       Guyana Telephone and              0000 – 9999
+                                               Telegraph Co. Ltd.
+        630                 7           7      U-Mobile (Cellular) Inc.          0000 – 9999
+        631                 7           7      Green Gibraltar Inc.              0000 – 9999
+      632 – 633             7           7      U-Mobile (Cellular) Inc.          0000 – 9999
+        634                 7           7      Guyana Telephone and              0000 – 9999
+                                               Telegraph Co. Ltd.
+        635                 7           7      E-Networks Inc.                   0000 – 9999
+      636 – 637             7           7      U-Mobile (Cellular) Inc.          0000 – 9999
+      638 – 658             7           7      Guyana Telephone and              0000 – 9999
+                                               Telegraph Co. Ltd.
+      659 – 704             7           7      U-Mobile (Cellular) Inc.          0000 – 9999
+      705 – 709             7           7      Guyana Telephone and              0000 – 9999
+                                               Telegraph Co. Ltd.
+      710 – 720             7           7      E-Networks Inc.                   0000 – 9999
+      721 – 722             7           7      U-Mobile (Cellular) Inc.          0000 – 9999
+      725 – 726             7           7      Guyana Telephone and              0000 – 9999
+                                               Telegraph Co. Ltd.
+      730 – 731             7           7      E-Networks Inc.                   0000 – 9999
+         732                 7          7      E-Networks Inc.                   0000 – 9999
+     - Newly assigned ranges
+
+
+
+
+Emergency Services
+
+   Important                                                                                  ITU-T E.164 number or
+                           Service                     Allocated or Assigned
+    number                                                                                     national only number
+
+      911                   Police            Allocated in the national numbering plan        National-only number
+                     (Emergency response)
+      912              Fire / Ambulance       Allocated in the national numbering plan        National-only number
+                     (Emergency response)
+      913                Ambulance            Allocated in the national numbering plan        National-only number
+                     (Emergency response)
+      914             Domestic Violence       Allocated in the national numbering plan        National-only number
+                         (Hotline)
+
+Contact:
+           Telecommunications Agency
+           Director of Telecommunications
+           190 Charlotte Street, Bourda,
+           GEORGETOWN
+           Guyana
+           Tel:     +592 225-3104/226-2233
+           E-mail: odir1@telecoms.gov.gy
+           URL:     www.telecoms.gov.gy
+
+
+Kyrgyzstan (country code +996)
+Communication of 15.IV.2024:
+The Service on Regulation and Supervision in Communication Industry under the Ministry of Digital Development of the
+Kyrgyz Republic, Bishkek, announces update to the national numbering plan.
+
+            Description of introduction of new resource for national E.164 numbering plan for country code 996:
+
+        NDC (national           N(S)N number length
+     destination code) or
+                                                                     Usage of                    Time and date of
+   leading digits of N(S)N     Maximum       Minimum           ITU-T E.164 number                  introduction
+    (national (significant)     length        length
+           number)
+
+              31 2                   9          9        Geographic number –                    10 November 2023
+                                                         Fixed-line services                        (Sity Soft)
+                                                         (+996 312 22 02 XX)
+
+
+Contacts:
+   Service on Regulation and Supervision in Communication Industry
+   under the Ministry of Digital Development of the Kyrgyz Republic
+   119 Akhunbaev str.
+   BISHKEK 720005
+   Kyrgyzstan
+   Tel: +996 312 544450
+   Fax: +996 312 544105
+   E-mail: m.zelenenko@nas.gov.kg
+   URL: http://nas.gov.kg/dp/pri-videl-tel-nom-res/
+
+   Sity Soft LLC – Interconnection business and roaming department
+   E-mail: ka@citysoft.pro
+
+
+
+                                         Other communication
+
+Austria
+Communication of 29.III.2024:
+On the occasion of the UEFA European Football Championship 2024 (UEFA EURO 2024), the Austrian Administration
+authorizes an Austrian amateur station to use the special call sign OE2024EM from 29 March to 29 September 2024.
+
+
+
+
+                                                Service Restrictions
+                                          See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area         OB
+ Seychelles                      1006 (p.13)
+ Slovakia                        1007 (p.12)
+ Malaysia                        1013 (p.5)
+ Thailand                        1034 (p.5)
+ São Tomé and Principe           1039 (p.14)
+ Uruguay                         1039 (p.14)
+ Hong Kong, China                1068 (p.4)
+ Ukraine                         1148 (p.5)
+ Türkiye                         1286 (p.17)
+ Bangladesh                      1287 (p.16)
+
+
+
+
+                                              Call-Back
+                      and alternative calling procedures (Res. 21 Rev. PP-06)
+                                       See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                      AMENDMENTS TO SERVICE PUBLICATIONS
+                                              Abbreviations used
+                           ADD   Insert                     PAR    Paragraph
+                           COL   Column                     REP    Replace
+                           LIR   Read                       SUP    Delete
+                           P     Page(s)
+
+
+
+
+                               List of Issuer Identifier Numbers
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                               (Position on 31 December 2023)
+                            (Annex to ITU Operational Bulletin No. 1283 – 1.I.2024)
+                                            (Amendment No. 4)
+
+
+Germany    LIR
+
+
+      Country/         Company Name/Address             Issuer Identifier   Contact
+  geographical area                                         Number
+ Germany               Sysmocom -                           89 49 44        Technical Support Team,
+                       systems for mobile                                   Sysmocom
+                       communications GmbH                                  Siemensstrasse 26A
+                       Siemensstrasse 26A                                   10551 BERLIN
+                       10551 BERLIN                                         Tel: +49 303609871280
+                                                                            Fax: +49 303609871289
+                                                                            E-mail: support@sysmocom.de
+
+
+
+
+           Mobile Network Codes (MNC) for the international identification plan
+                          for public networks and subscriptions
+                  (According to Recommendation ITU-T E.212 (09/2016))
+                             (Position on 15 November 2023)
+                                   (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                    (Amendment No. 8)
+
+
+Country/Geographical area                MCC+MNC          Operator/Network
+Japan SUP
+                                           441 01         SoftBank Corp.
+Japan ADD
+                                           440 91         NTT DOCOMO, INC.
+                                           440 92         KDDI Corporation
+                                           440 93         SoftBank Corp.
+                                           440 94         Rakuten Mobile Network, Inc.
+                                          441 214         Vroove Inc.
+Spain SUP
+                                           214 28         Consorcio de Telecomunicaciones Avanzadas, S.A.
+Spain ADD
+                                          214 704         AMPER SISTEMAS, S.A.U.
+
+
+____________
+  MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+  MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                     List of ITU Carrier Codes
+                     (According to Recommendation ITU-T M.1400 (03/2013))
+                                 (Position on 15 September 2014)
+                             (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 169)
+
+
+ Country or area/ISO code                       Company Code           Contact
+  Company Name/Address                           (carrier code)
+
+
+Germany (Federal Republic of) / DEU       ADD
+
+ Campus Networks & Events GmbH                       CANEEV            Mr Christian Kroeger
+ Am Studio 2 a                                                         Tel.: +49 30 200043 415
+ D-12489 BERLIN                                                        Fax: +49 30 138827 499
+                                                                       Email: c.kroeger@caneev.de
+
+ CNE-Solutions GmbH                                  CNESOL            Mr Julian Skribek
+ Umgehungsstrasse Nord 1                                               Tel.: +49 6661 70979 0
+ D-36381 SCHLÜCHTERN                                                   Fax: +49 6661 70979 99
+                                                                       Email: portierung@cne-solutions.de
+
+ Ress Kommunikation e.K.                             RESSKM            Mr Michael Ress
+ An den Hecken 3                                                       Tel.: +49 6732 93393 0
+ D-55286 SULZHEIM                                                      Fax: +49 6732 93393 38
+                                                                       Email: service@ress-kom.de
+
+
+
+Germany (Federal Republic of) / DEU       LIR
+
+ questnet GmbH                                     DEU411              Mr René Kockisch
+ Burgstraße 10                                                         Tel:    +49 355 35759 41
+ D-03046 COTTBUS                                                       Fax:    +49 355 35759 10
+                                                                       E-mail: rk@questnet.de
+
+
+
+
+                            List of Signalling Area/Network Codes (SANC)
+                       (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                       (Position on 1 June 2017)
+                                       (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                       (Amendment No. 27)
+
+ Numerical order        ADD
+               5-222        Georgia
+
+
+
+ Alphabetical order ADD
+               5-222        Georgia
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                          List of International Signalling Point Codes (ISPC)
+                       (According to Recommendation ITU-T Q.708 (03/1999))
+                                        (Position on 1 July 2020)
+
+                                  (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                   (Amendment No. 70)
+
+
+Country/
+Geographical Area
+ISPC         DEC        Unique name of the signalling point           Name of the signalling point operator
+
+
+Curaçao SUP
+3-124-3      7139       Curaçao/ANM                                   Antillean Network Management
+3-124-6      7142       Curaçao/GSN                                   GSN International Telecom
+3-125-0      7144       Curaçao/ANM0102                               Antillean Network Management
+3-125-2      7146       Curaçao 1                                     Third Wave Int.
+3-125-3      7147       Curaçao 2                                     Third Wave Int.
+
+Curaçao ADD
+3-124-3      7139       Curaçao/TerraM                                TerraMobile
+
+Georgia SUP
+2-208-3      5763       Tbilisi, Mobile Switching Centre              Geocell Ltd
+2-213-6      5806       Tbilisi, International Exchange               Caucasus Online Ltd
+5-233-1      12105      Tbilisi, Mobile Switching Centre              Silknet JSC
+5-233-3      12107      Tbilisi, Mobile Switching Centre              Mobitel Ltd
+
+Georgia LIR
+2-213-0      5800       Tbilisi, Mobile Switching Centre              Cellfie mobile
+2-213-3      5803       Tbilisi, Tsinamszgvrishvili, International    Silknet JSC
+                        Exchange
+2-213-4      5804       Tbilisi, Bulk SMS server                      Servicebox
+3-246-4      8116       Kutaisi, Mobile Switching Centre              Cellfie mobile
+3-246-6      8118       Tbilisi, Nutsubidze, International Exchange   Silknet JSC
+3-246-7      8119       Tbilisi, MVNO mobile operator STP 1           Unicell Mobile LTD
+5-233-0      12104      Tbilisi, MVNO mobile operator STP 2           Unicell Mobile LTD
+5-233-2      12106      Tbilisi, International Exchange               Geocell Ltd
+5-233-4      12108      Tbilisi, Politkovskaya, PSTN Switch           Akhali Kselebi Ltd
+5-233-5      12109      Tbilisi, Dimitriadi, PSTN Switch              Akhali Kselebi Ltd
+5-233-6      12110      Kutaisi, International Exchange               System Net Ltd
+5-233-7      12111      Tbilisi, Media gateway                        Magticom Ltd
+
+
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point   Name of the signalling point operator
+
+ Liechtenstein SUP
+ 2-000-1       4097         TLI Eschen                            Telecom Liechtenstein AG
+ 2-000-5       4101         iMetrik STP 01                        iMetrik Global (Europe) AG
+ 7-255-1       16377        First Mobile Vaduz 01                 First Mobile AG
+ 7-255-2       16378        First Mobile Vaduz 02                 First Mobile AG
+ 7-255-3       16379        iMetrik HLR                           iMetrik Global (Europe) AG
+
+ Liechtenstein ADD
+ 2-000-2       4098         SMSC 01 Frankfurt                     iBASlS Communications AG
+ 7-210-0       16016        STP1 INAT0 Frankfurt                  SORACOM CORPORATION LTD.
+ 7-210-1       16017        STP2 INAT0 Frankfurt                  SORACOM CORPORATION LTD.
+ 7-210-2       16018        Dublin-STP-1                          Cubic AG
+ 7-210-3       16019        Dublin-STP-2                          Cubic AG
+ 7-210-4       16020        Frankfurt-STP-1                       Cubic AG
+ 7-210-5       16021        Frankfurt-STP-2                       Cubic AG
+
+ Liechtenstein LIR
+ 2-000-0       4096         GMSC 1+2                              Telecom Liechtenstein AG
+ 2-000-3       4099         GMSC 1                                Telecom Liechtenstein AG
+ 2-000-4       4100         GMSC 2                                Telecom Liechtenstein AG
+ 2-000-6       4102         vMSSFLCR                              Salt (Liechtenstein) AG
+ 7-255-0       16376        vMSSFLIX                              Salt (Liechtenstein) AG
+ 7-255-4       16380        For future use                        Cubic AG
+ 7-255-5       16381        For future use                        Cubic AG
+ 7-255-6       16382        For future use                        Cubic AG
+ 7-255-7       16383        For future use                        Cubic AG
+
+ Spain SUP
+ 2-241-5       6029         Manresa                               ALTA TECNOLOGIA EN COMUNICACIONS, S.L.
+
+ Spain LIR
+ 6-244-2       14242        Madrid                                AIRE NETWORKS DEL MEDITERRÁNEO, S.L.
+                                                                  UNIPERSONAL
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                      National Numbering Plan
+                       (According to Recommendation ITU-T E.129 (01/2013))
+                                        Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which will
+be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations are
+kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will be
+responsible for the timely update of this information.
+From 1.IV.2024, the following countries/geographical areas have updated their national numbering plan on our site:
+
+                                Country/ Geographical area                  Country Code (CC)
+                      Georgia                                                       +995
+                      Solomon Islands                                               +677
+
+
+
+

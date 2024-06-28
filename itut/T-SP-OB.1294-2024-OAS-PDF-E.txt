@@ -1,0 +1,966 @@
+                               ITU Operational Bulletin
+                                                                 www.itu.int/itu-t/bulletin
+
+              No. 1294               15.VI.2024                  (Information received by 31 May 2024) ISSN 1564-5223 (Online)
+        Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+        Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+        Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+        E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                         Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                    3
+Approval of ITU-T Recommendations .............................................................................................................                         4
+Telephone Service:
+     Guyana (Telecommunications Agency, Georgetown) ...............................................................................                                     5
+     Liberia (Liberia Telecommunications Authority (LTA), Paynesville) ...........................................................                                      9
+     Seychelles (Seychelles Communications Regulatory Authority, Victoria) ..................................................                                          10
+Other communication:
+     Austria .......................................................................................................................................................   17
+Service Restrictions .........................................................................................................................................         18
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                    18
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ...........................................                                            19
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................              20
+List of ITU Carrier Codes..................................................................................................................................            21
+List of International Signalling Point Codes (ISPC) ..........................................................................................                         22
+National Numbering Plan ................................................................................................................................               22
+
+
+
+
+                                                                                                                                             www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1295             1.VII.2024             14.VI.2024
+               1296             15.VII.2024            28.VI.2024
+               1297             1.VIII.2024           15.VII.2024
+               1298            15.VIII.2024           26.VII.2024
+               1299              1.IX.2024            15.VIII.2024
+               1300             15.IX.2024            30.VIII.2024
+               1301              1.X.2024              13.IX.2024
+               1302             15.X.2024              30.IX.2024
+               1303              1.XI.2024             15.X.2024
+               1304             15.XI.2024             31.X.2024
+               1305             1.XII.2024             15.XI.2024
+               1306             15.XII.2024            29.XI.2024
+               1307              1.I.2025              6.XII.2024
+
+
+
+
+                                                GENERAL INFORMATION
+                                Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 July 2020)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on 1
+      November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-T
+      Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on 15
+      May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1 May
+      2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                  Approval of ITU-T Recommendations
+By AAP-52, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T E.813 (05/2024): Mapping and visualization strategies for the assessment of connectivity
+–     ITU-T G.191 (05/2024): Software tools for speech and audio coding standardization
+–     ITU-T G.1052 (05/2024): Testbed framework for mobile application QoS and QoE evaluation
+–     ITU-T P.10/G.100 (2017) Amd. 2 (05/2024): New definitions for inclusion in Recommendation ITU-T P.10/G.100
+–     ITU-T P.812 (05/2024): Principles of subjective test methods for interactive virtual reality (VR) applications
+–     ITU-T P.833.2 (05/2024): Methodology for the derivation of equipment impairment factors from subjective listening
+      only tests for fullband speech codecs
+–     ITU-T P.863.2 (05/2024): Extension of ITU-T P.863 for multi-dimensional assessment of degradations in telephony
+      speech signals up to fullband
+
+
+
+
+                                             Telephone Service
+                                        (Recommendation ITU-T E.164)
+                                                   url: www.itu.int/itu-t/inr/nnp
+
+Guyana (country code +592)
+Communication of 21.V.2024:
+The Telecommunications Agency, Georgetown, announces that the following national destination codes (NDC) and
+subscriber number (SN) ranges are currently assigned to the listed public telecommunications operators for the
+Co-operative Republic of Guyana. Numbers allocated to access emergency/social services are also listed below.
+
+                                     Presentation of national ITU-T E.164 numbering plan
+                                                     for country code 592
+a)     Overview:
+       The minimum fixed and mobile number length (excluding the country code) is seven (7) digits.
+       The maximum fixed and mobile number length (excluding the country code) is seven (7) digits.
+       International dialling format: +592 NXX XXXX
+b)     National Database (TBD)
+c)     Real-time Database (TBD)
+
+d)
+
+Fixed Network
+
+         National           N(S)N number length
+                                                                                              SN range
+     destination code      Maximum         Minimum           Operator/Block assignee
+                                                                                               (XXXX)
+          (NXX)             length          length
+           216                 7               7                                             0000 – 9999
+           217                 7               7                                             0000 – 1999
+           218                 7               7                                             0000 – 9999
+           219                 7               7                                             0000 – 9999
+           220                 7               7              Guyana Telephone and           0000 – 9999
+           221                 7               7                Telegraph Co. Ltd.           2000 – 4999
+           222                 7               7                                             0000 – 9999
+           223                 7               7                                             0000 – 9999
+           225                 7               7                                             0000 – 9999
+           226                 7               7                                             0000 – 9999
+           227                 7               7                                             0000 – 9999
+           228                 7               7                                             0000 – 6999
+           229                 7               7                                             1000 – 8999
+           231                 7               7                                             0000 – 9999
+           232                 7               7                                             0000 – 4999;
+                                                                                             9000 – 9999
+           233                   7             7                                             0000 – 7999
+           234                   7             7              Guyana Telephone and           0000 – 0999
+                                                                Telegraph Co. Ltd.
+           253                   7             7                                             0000 – 5999
+           254                   7             7                                             0000 – 2999
+           255                   7             7                                             0000 – 4999
+           256                   7             7                                             0000 – 5999
+           257                   7             7                                             0000 – 4999
+           258                   7             7                                             0000 – 4999
+           259                   7             7                                             0000 – 4999
+
+
+    National       N(S)N number length
+                                                                         SN range
+destination code   Maximum    Minimum    Operator/Block assignee
+                                                                          (XXXX)
+     (NXX)          length     length
+      260              7          7                                    0000 – 6999
+      261              7          7                                    0000 – 9999
+      262              7          7                                    0000 – 2999
+      263              7          7                                    0000 – 7999
+      264              7          7                                    0000 – 4999
+      265              7          7                                    0000 – 8999
+      266              7          7                                    0000 – 7999
+      267              7          7                                    0000 – 3999
+      268              7          7                                    0000 – 5999
+      269              7          7                                    0000 – 2999
+      270              7          7                                    0000 – 9999
+      271              7          7                                    0000 – 9999
+      272              7          7                                    0000 – 2999
+      273              7          7                                    1000 – 1999
+      274              7          7                                    0000 – 2999
+      275              7          7                                    0000 – 2999
+      276              7          7                                    0000 – 5999
+      277              7          7                                    0000 – 5999
+      279              7          7                                    0000 – 4999
+      289              7          7      Guyana Telephone and          0000 – 9999
+      322              7          7        Telegraph Co. Ltd.          0000 – 6999
+      325              7          7                                    0000 – 6999
+      326              7          7                                    0000 – 5999
+      327              7          7                                    0000 – 2999,
+                                                                       5000 – 7999
+      328             7           7                                    0000 – 9999
+      329             7           7                                    0000 – 1999,
+                                                                       3000 – 6999
+      330             7           7                                    0000 – 4999
+      331             7           7                                    0000 – 4999
+      332             7           7                                    0000 – 4999
+      333             7           7                                    0000 – 9999
+      334             7           7                                    0000 – 2999
+      335             7           7                                    0000 – 1999,
+                                                                       3000 – 4999
+     336              7           7                                    5000 – 9999
+     337              7           7                                    0000 – 6999
+     338              7           7                                    1000 – 5999
+     339              7           7                                    0000 – 6999
+     440              7           7                                    0000 – 3999
+     441              7           7                                    0000 – 3999
+     442              7           7                                    0000 – 4999
+     444              7           7                                    0000 – 9999
+                                         Guyana Telephone and
+     455              7           7                                    0000 – 3999
+                                           Telegraph Co. Ltd.
+     456              7           7                                    0000 – 2999
+   500 – 506          7           7                                    0000 – 9999
+
+
+
+       National           N(S)N number length
+                                                                               SN range
+   destination code      Maximum     Minimum      Operator/Block assignee
+                                                                                (XXXX)
+        (NXX)             length      length
+         510                 7           7         U-Mobile (Cellular) Inc.   0000 – 9999
+         515                 7           7            E-Networks Inc.         0000 – 9999
+         771                 7           7                                    0000 – 2999,
+                                                                              4000 – 5999
+         772                 7           7                                    0000 – 3999
+         773                 7           7         Guyana Telephone and       0000 – 2999
+         774                 7           7           Telegraph Co. Ltd.       0000 – 2999,
+                                                                              4000 – 5999
+         775                 7           7                                    0000 – 3999
+         777                 7           7                                    0000 – 9999
+         800                 7           7         U-Mobile (Cellular) Inc.   0000 – 0009
+         862                 7           7                                    1000 – 1999
+         868                 7           7                                    0000 – 3999
+                                                   Guyana Telephone and
+         888                 7           7                                       8888
+                                                     Telegraph Co. Ltd.
+         899                 7           7                                    0000 – 9999
+         900                 7           7                                    8000 – 8999
+
+
+Mobile Network
+
+       National          N(S)N Number length
+                                                                               SN range
+   destination code      Maximum     Minimum      Operator/Block assignee
+                                                                                (XXXX)
+        (NXX)             length      length
+      600 – 604              7           7      U-Mobile (Cellular) Inc.      0000 – 9999
+         605                 7           7      Quark Communications Inc.     0000 – 0999
+         605                 7           7      DNA Enterprise Inc.           1000 – 2999
+         606                 7           7      E-Government                  0000 – 0999
+         608                 7           7      U-Mobile (Cellular) Inc.      0000 – 0999
+      609 – 629              7           7      Guyana Telephone and          0000 – 9999
+                                                Telegraph Co. Ltd.
+         630                 7           7      U-Mobile (Cellular) Inc.      0000 – 9999
+         631                 7           7      Green Gibraltar Inc.          0000 – 9999
+      632 – 633              7           7      U-Mobile (Cellular) Inc.      0000 – 9999
+         634                 7           7      Guyana Telephone and          0000 – 9999
+                                                Telegraph Co. Ltd.
+         635                 7           7      E-Networks Inc.               0000 – 9999
+      636 – 637              7           7      U-Mobile (Cellular) Inc.      0000 – 9999
+      638 – 658              7           7      Guyana Telephone and          0000 – 9999
+                                                Telegraph Co. Ltd.
+      659 – 704              7           7      U-Mobile (Cellular) Inc.      0000 – 9999
+      705 – 709              7           7      Guyana Telephone and          0000 – 9999
+                                                Telegraph Co. Ltd.
+      710 – 720              7           7      E-Networks Inc.               0000 – 9999
+      721 – 722              7           7      U-Mobile (Cellular) Inc.      0000 – 9999
+
+
+
+
+        National            N(S)N Number length
+                                                                                              SN range
+    destination code       Maximum        Minimum       Operator/Block assignee
+                                                                                               (XXXX)
+         (NXX)              length         length
+       723 – 724               7              7       U-Mobile (Cellular) Inc.               0000 – 9999
+       725 – 726                7             7       Guyana Telephone and                   0000 – 9999
+                                                      Telegraph Co. Ltd.
+       727 – 729                7             7       Guyana Telephone and                   0000 – 9999
+                                                      Telegraph Co. Ltd.
+       730 – 732                7             7       E-Networks Inc.                        0000 – 9999
+       733 – 742                7             7       E-Networks Inc.                        0000 – 9999
+       743 – 750                7             7       U-Mobile (Cellular) Inc.               0000 – 9999
+       751 – 759                7             7       Guyana Telephone and                   0000 – 9999
+                                                      Telegraph Co. Ltd.
+
+      - Newly assigned ranges
+
+
+Emergency Services
+
+
+  Important                                                                                 ITU-T E.164 number or
+                          Service                      Allocated or Assigned
+   number                                                                                    national only number
+
+      911                 Police              Allocated in the national numbering plan      National-only number
+                   (Emergency response)
+      912            Fire / Ambulance         Allocated in the national numbering plan      National-only number
+                   (Emergency response)
+      913              Ambulance              Allocated in the national numbering plan      National-only number
+                   (Emergency response)
+      914            Domestic Violence        Allocated in the national numbering plan      National-only number
+                        (Hotline)
+
+
+Contact:
+           Telecommunications Agency
+           Director of Telecommunications
+           190 Charlotte Street, Bourda,
+           GEORGETOWN
+           Guyana
+           Tel:      +592 225-3104/226-2233
+           E-mail: odir1@telecoms.gov.gy
+           URL:      www.telecoms.gov.gy
+
+
+
+
+Liberia (country code +231)
+Communication of 31.V.2024:
+The Liberia Telecommunications Authority (LTA), Paynesville, announces updates to the national numbering plan for
+Liberia.
+Liberia uses a closed number scheme.
+New numbering blocks:
+       NDC (National           N(S)N number length
+    Destination Code) or
+                                                                 Usage of               Additional information
+  leading digits or N(S)N     Maximum     Minimum
+                                                           ITU-T E.164 Number                 (Operator)
+   (National (Significant)     length      length
+          Number)
+ 77Y (NDC)                        9           9         Non-geographic number for   Orange Liberia, Inc.
+ Y = (3 & 4)                                            Mobile telephone service
+ (773 XXXXXX)
+ (774 XXXXXX)
+
+Contact:
+           Liberia Telecommunications Authority (LTA)
+           Menetamba Road
+           Cooper’s Beach Community
+           1001 PAYNESVILLE
+           Liberia
+           Email: info@lta.gov.lr
+           URL: www.lta.gov.lr
+
+
+
+
+Seychelles (country code +248)
+Communication of 23.V.2024:
+The Seychelles Communications Regulatory Authority, Victoria, announces the following updated National Numbering Plan
+(NNP) for Seychelles:
+                                        Summary of the National Numbering Plan
+
+
+     Leading Digit                                            Services
+                         International dialling prefix code
+             0           International operator selection
+                         International ISDN access code
+                         Short Dialling Codes (To access customer oriented telecommunication services
+             1
+                         e.g. customer support and directory services)
+             2           Mobile Services (Including Fixed Cellular Services)
+             3           Reserved for future services
+             4           Fixed Services
+             5           Reserved for future Services
+             6           Fixed VoIP1 Services
+             7           Reserved for future Services
+             8           Freephone Services and possible future Services
+                         Premium Rate Services
+                         (Short Codes for VAS2 SMS3/MMS4 and Audiotext Services)
+             9
+                         Emergency Services
+                         (Note: The rest of the “99” range is reserved to protect the integrity of “999”.)
+
+
+
+        Status                                             Description
+     Unallocated         Not allocated to any Operator / Service provider
+      Reserved           Reserved for future services
+ Indicating Operator
+                         Allocated to an Operator / Service provider
+   (e.g. KOKONET)
+          ALL            Allocated to all Operators / Service provider
+
+
+                                                 Digit Length
+ The digit lengths of numbers used for the services are defined in the appropriate columns in the National
+ Numbering Plan. Seychelles utilizes a 7 digit numbering scheme and unless specifically defined otherwise
+ in the appropriate columns, numbers for mobile, fixed, fixed cellular, fixed VoIP and freephone services
+ shall be 7 digits long.
+
+
+
+
+1 VoIPVoice Over Internet Protocol
+2 VAS Value Added Service
+3 SMS Short Message Service
+4 MMS Multimedia Messaging Service
+
+
+               International Codes Assigned by the International Telecommunication Union (ITU) to Seychelles
+
+           International
+                                        Type of Services                                   Remarks
+               Codes
+               6-066
+                                                                     For assignment of International Signalling Point
+               6-067          International Signalling Area - SANC
+                                                                     Codes (ISPC)
+               6-155
+                                                                     For assignment of Data Network Identification Code
+               633            Data Country Code – DCC
+                                                                     (DNIC)
+                                                                     For assignment of Land Mobile Station identities
+               633            Mobile Country Code – MCC              such as the International Mobile Station Identity
+                                                                     (IMSI for international roaming)
+                                                                     For assignment of ship station identities such as
+               664            Maritime Identification Digits - MID
+                                                                     INMARSAT Mobile Service Identity (MMSI)
+                                                                     For call routing purpose in the provision of
+               965            Telex Destination Code
+                                                                     international automatic telex service
+               248            Country Code                           For international call routing to Seychelles
+                                                                     For assignment of IIN for international
+             89248XX          Issuer Identifier Number – IIN
+                                                                     telecommunications charge cards issuers
+                SC            Country Code                           For Public Message Handling Services
+
+
+                                              Number Assignment for Leading Digit 0
+
+          Leading Digits     Digit Length                   Type of Services                      Status       Category
+          00                       2         International Outgoing Code                           ALL            3
+          01                       2         Access Code to International Gateway                 CWS*            2
+          010                      3         ISDN International access code                        ALL            3
+          02                       2         Access Code to International Gateway                 AIRTEL          2
+          0(3-9)                   2         Reserved for future expansion                       Reserved         –
+
+Category 1           Codes which are universally accessible and universally allocated to all operators.
+Category 2           Codes which are universally accessible and allocated to a single operator.
+Category 3           Codes which in general will not be passed across networks and are universally allocated to all operators.
+
+* Refer to Appendix A1 for the full name of all operators
+
+                                              Number Assignment for Leading Digit 1
+
+    Leading Digits       Digit Length                   Type of Services                     Status       Category
+                                          National Operator Assistance/Prepaid IVR5/
+     100                      3                                                               ALL             3
+                                          Administrative Menu for Customer Services
+     101                      3           Voice Mail                                         ALL              3
+     102                      3           Voice Mail                                         CWS              2
+     103                      3           Voice Mail                                         ALL              3
+     104                                  Reserved                                        Unallocated
+     105                                  Reserved                                        Unallocated
+     106                      3           PSTN Prepaid Calling Card (Outer Islands)          ALL              3
+     107                      3           International Prepaid Calling Card                 ALL              3
+     108                      3           PSTN Prepaid Calling Card (Inner Islands)          ALL              3
+     109                      3           Mobile Prepaid Services                            ALL              3
+     110                      3           Mobile Prepaid Services                            ALL              3
+     111                      3           Fire & Rescue Services                             ALL              1
+
+
+5
+    IVR   Interactive Voice Response
+
+
+ Leading Digits      Digit Length                Type of Services                    Status       Category
+  112                     3         Emergency code for all mobile services           ALL              1
+  113                               Reserved                                      Unallocated
+  114                     3         Trafficking in Persons Hotline                   ALL              1
+  115                               Reserved                                      Unallocated
+  116                     3         Child Helpline                                   ALL              1
+  117                     3         PSTN Prepaid Services                            ALL              3
+  118                     3         Elderly & Disabled Helpline                      ALL              1
+  119                               Reserved                                      Unallocated
+  120                     3         Faults Report (Corporate customers)              CWS              2
+  121                     3         Faults report                                    CWS              2
+  122                               Reserved                                      Unallocated
+  123                     3         Customer helpline                                CWS              2
+  12(4-9)                           Reserved                                      Unallocated
+  13(0-2)                           Reserved                                      Unallocated
+  133                     3         Police                                           ALL              1
+  13(4-9)                           Reserved                                      Unallocated
+  140                               Reserved                                      Unallocated
+  141                     3         Medical Information Services                     ALL              1
+  14(2-9)                           Reserved                                      Unallocated
+  150                               Reserved                                      Unallocated
+  151                     3         Medical Emergency Services                       ALL              1
+  15(2-9)                           Reserved                                      Unallocated
+  160                     3         Department of Risk and Disaster
+                                                                                       ALL            1
+                                    Management
+  16(1-9)                 3         Testing                                           ALL             3
+  170                               Reserved                                      Unallocated
+  171                     3         Maintenance Control                               ALL             3
+  17(2-9)                           Reserved                                      Unallocated
+  180                               Reserved                                      Unallocated
+  181                     3         Directory Enquiries                               CWS             2
+  18(2-4)                           Reserved                                      Unallocated
+  185                     3         Directory Enquiries                              AIRTEL           2
+  18(6-7)                           Reserved                                      Unallocated
+  188                     3         Directory Enquiries                           INTELVISION         2
+  189                               Reserved                                      Unallocated
+  19(0-9)                           Reserved                                      Unallocated
+
+Category 1    Codes which are universally accessible and universally allocated to all operators.
+Category 2    Codes which are universally accessible and allocated to a single operator.
+Category 3    Codes which in general will not be passed across networks and are universally allocated to all operators.
+
+
+
+
+                                           Number Assignment for Leading Digit 2
+
+  Leading Digits      Digit Length                       Type of Services                      Status
+    2(0)                               Mobile Services                                      Unallocated
+    21(0-9)                            Mobile Services                                      INTELVISION
+    22(0-9)                            Mobile Services                                      INTELVISION
+    2(3-4)                             Mobile Services                                      Unallocated
+    25(0-4)                            Mobile Services                                          CWS
+    255(0-5)*                          Fixed Cellular                                           CWS
+    255(6-9)                           Mobile Services                                          CWS
+    25(6-9)                            Mobile Services                                          CWS
+    26(0-9)                 7          Mobile Services                                          CWS
+    27(0-7)                            Mobile Services                                         AIRTEL
+    278(0-1)*                          Fixed Cellular                                          AIRTEL
+    2782                               Mobile Services                                         AIRTEL
+    2783*                              Fixed Cellular                                          AIRTEL
+    278(4-9)                           Mobile Services                                         AIRTEL
+    279(0-9)                           Mobile Services                                         AIRTEL
+    28(0-9)                            Mobile Services                                         AIRTEL
+    29(0-9)                            Mobile Services                                      Unallocated
+*Note that fixed cellular services are tariffed as fixed line services.
+
+
+                                           Number Assignment for Leading Digit 3
+
+  Leading Digits      Digit Length                       Type of Services                     Status
+     3(0-9)                            Reserved                                             Unallocated
+
+
+                                           Number Assignment for Leading Digit 4
+
+
+  Leading Digits      Digit Length                       Type of Services                      Status
+
+    4(0-1)                             Fixed Services                                       Unallocated
+    42(0-9)*                           Fixed Services                                           CWS
+    43(0-9)                            Fixed Services                                           CWS
+    44(0-9)                 7          Fixed Services                                       INTELVISION
+    45(0-9)                            Fixed Services                                       Unallocated
+    46(0-9)                            Fixed Services                                          AIRTEL
+    4(7-9)                             Fixed Services                                       Unallocated
+*Note that numbers with the leading digits 4229 are being used to access the Outer Islands and have a different tariff from
+that of fixed line services offered on the Inner Islands (principle group) of Seychelles.
+
+                                           Number Assignment for Leading Digit 5
+
+  Leading Digits      Digit Length                       Type of Services                     Status
+     5(0-9)                            Reserved                                             Unallocated
+
+                                           Number Assignment for Leading Digit 6
+
+  Leading Digits      Digit Length                       Type of Services                     Status
+     6(0-3)                            Fixed VoIP                                           Unallocated
+     64(0-9)                7          Fixed VoIP                                            KOKONET
+     6(5-9)                            Fixed VoIP                                           Unallocated
+
+
+                                       Number Assignment for Leading Digit 7
+
+Leading Digits      Digit Length   Type of Services                                   Status
+     7(0-9)                        Reserved                                            Unallocated
+
+
+                                       Number Assignment for Leading Digit 8
+
+ Leading Digits     Digit Length                    Type of Services                     Status
+   800(0)                          Freephone Services                                    AIRTEL
+   800(1-7)                        Freephone Services                                  Unallocated
+   800(8)                          Freephone Services                                     CWS
+   800(9)                          Freephone Services                                  Unallocated
+   80(1-9)               7         Reserved                                            Unallocated
+   8(1-4)                          Reserved                                            Unallocated
+   85(0-9)                         International Premium Services                         CWS
+   8(6-9)                          Reserved                                            Unallocated
+
+
+                                       Number Assignment for Leading Digit 9
+
+ Leading Digits     Digit Length                      Type of Services                   Status
+   9(0-4)                          Reserved                                            Unallocated
+   95(0-9)                         Reserved                                            Unallocated
+   96(0-9)               4         Short Codes for VAS SMS/MMS Services                 See A.2
+   970                             Reserved                                            Unallocated
+   971                   7         Audiotext Services                                     CWS
+   97(2-9)                         Reserved                                            Unallocated
+   98(0-9)                         Reserved                                            Unallocated
+   99(0-8)                         Reserved                                            Unallocated
+   999                   3         Emergency Services                                     ALL
+
+
+                               Data Network Identification Codes (DNIC) Assignments
+
+     DNIC
+                                             Service                                  Status
+  Assignment
+     6330                                       -                                 Unallocated
+     6331                      Packet Switched Network (INFOLINK)                    CWS
+     6332                                       -                                 Unallocated
+     6333                                       -                                 Unallocated
+     6334                                       -                                 Unallocated
+     6335                                       -                                 Unallocated
+     6336                                       -                                 Unallocated
+     6337                                       -                                 Unallocated
+     6338                                       -                                 Unallocated
+     6339                                       -                                 Unallocated
+
+
+
+
+                          International Signalling Point Code (ISPC) Assignments
+
+    ISPC
+                                      Node/Exchange                                  Status
+Assignment
+  6-066-0                                E10S1                                         CWS
+  6-066-1                            Seychelles MSC                                    CWS
+  6-066-2                         Media Gateway (MGW)                                  CWS
+  6-066-3                            CWS_TH_USC01                                      CWS
+  6-066-4                            INTV-MAHE-01                                  INTELVISION
+  6-066-5                         MEDIA GATEWAY-AIRTEL                                AIRTEL
+  6-066-6                                  TLS                                        AIRTEL
+  6-066-7                                 MSC                                         AIRTEL
+  6-067-0                              KOKONET-0                                    KOKONET
+  6-067-1                           CWS_SLH_USC01                                      CWS
+  6-067-2                               HSS Node                                      AIRTEL
+  6-067-3                               MSC-SC 01                                     AIRTEL
+  6-067-4                                 HLR1                                     INTELVISION
+  6-067-5                                 HLR2                                     INTELVISION
+  6-067-6                                 MSC1                                     INTELVISION
+  6-067-7                                 MSC2                                     INTELVISION
+  6-155-0                                                                          Unallocated
+  6-155-1                                                                          Unallocated
+  6-155-2                                                                          Unallocated
+  6-155-3                                                                          Unallocated
+  6-155-4                                                                          Unallocated
+  6-155-5                                                                          Unallocated
+  6-155-6                                                                          Unallocated
+  6-155-7                                                                          Unallocated
+
+
+                                Issuer Identification Number (IIN) Assignments
+
+    IIN
+                                       Company Name
+Assignment
+ 89 248 01                                   CWS
+ 89 248 10                                  AIRTEL
+ 89 248 05                               INTELVISION
+
+
+               Mobile Country Code (MCC) and Mobile Network Code (MNC) Assignments
+
+MCC - MNC
+                                       Mobile Network                            Mobile Operator
+Assignment
+  633-01                                2G/3G/4G/5G                                    CWS
+  633-05                                 2G/4G/5G                                  INTELVISION
+  633-10                                2G/3G/4G/5G                                   AIRTEL
+
+
+
+
+                                              A.1 Full Name of Operators
+Operators
+
+CWS                   Cable and Wireless (Seychelles) Ltd
+AIRTEL                Airtel (Seychelles) Ltd
+INTELVISION           Intelvision Ltd
+KOKONET               Kokonet Ltd
+
+
+                                     A.2 Short Codes for VAS SMS/MMS Services
+
+  Leading Digits     Digit Length           Type of Services                Status          Category
+ 960                                Cross-Network Services (See A.3)        See A.3          1 or 2
+ 96(1-2)                            Network Specific Services                 ALL              3
+ 963                                Cross-Network Services (See A.3)        See A.3          1 or 2
+                          4
+ 96(4-5)                            Network Specific Services                 ALL              3
+ 966                                Cross-Network Services                 Reserved           N/A
+ 96(7-9)                            Network Specific Services                 ALL              3
+
+
+Category 1    Codes which are universally accessible and universally allocated to all operators.
+Category 2    Codes which are universally accessible and allocated to a single operator.
+Category 3    Codes which in general will not be passed across networks and are universally allocated to all operators.
+
+                              A.3 Short Codes for Cross-Network VAS SMS/MMS Services
+
+     Code                           Type of Services                        Status            Category
+                                          960
+                         Electoral Commissioner’s Office (ECO)
+     9600                                                                    All                  1
+                        Voting Registration Information Service
+                         Seychelles Licensing Authority’s (SLA)
+     9601                                                                    All                  1
+                             Licensing Information Service
+     9602                             Unallocated
+     9603                             Unallocated
+     9604                             Unallocated
+     9605                             Unallocated
+     9606               Seychelles Pension Fund (SPF) Eservice               All                  1
+     9607                             Unallocated
+     9608                             Unallocated
+     9609                             Unallocated
+                                          963
+     9630                             Unallocated
+     9631                             Unallocated
+     9632                             Unallocated
+     9633                             Unallocated
+     9634                             Unallocated
+     9635                             Unallocated
+     9636                             Unallocated
+     9637                             Unallocated
+     9638                             Unallocated
+     9639                             Unallocated
+
+
+
+
+Contact:
+     Seychelles Communications Regulatory Authority
+     3rd Floor, Caravelle House, Manglier Street
+     P.O. Box 737
+     VICTORIA, Mahé
+     Seychelles
+     Tel:       +248 4286600
+     E-mail: communications@scra.sc
+     URL:       www.scra.sc
+
+
+
+
+                                           Other communication
+
+Austria
+Communication of 27.V.2024:
+On the occasion of the 50th anniversary of the "GQRP Club", the Austrian Administration authorizes an Austrian amateur
+station to use the special call signs OE50LOW from 1 to 30 September 2024.
+
+
+
+
+                                          Service Restrictions
+                                  See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                            Call-Back
+                    and alternative calling procedures (Res. 21 Rev. PP-06)
+                               See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                                Abbreviations used
+                            ADD    Insert                     PAR    Paragraph
+                            COL    Column                     REP    Replace
+                            LIR    Read                       SUP    Delete
+                            P      Page(s)
+
+
+
+
+                         List of Ship Stations and Maritime Mobile
+                                Service Identity Assignments
+                                           (List V)
+                                       Edition of 2024
+
+                                                 Section VI
+
+
+SUP
+
+ HO03    International Maritime Radio Accounting S.A. (INMARASA) 2.º Nivel, Edificio Anita, Barrio Abajo,
+         Tegucigalpa, Honduras.
+         E-mail : conarina@david.intertel.hn, Tel : +504 2370308, Fax : +504 2384687,
+         Contact person : Osvaldo Da Costa.
+
+ HO04    C. & M. Shipping Services S. de R.L., Colonia Palmira, Avda. República de Argentina,
+         N.º 1812, Local N.º 3, P. O. Box 5646, Tegucigalpa, Honduras.
+         Tel : +504 2358118, Fax : +504 2356033.
+
+ HO06    International Maritime Radio Accounting Corporation, S. de R. L., 200 mts. al Oeste del Instituto San Miguel,
+         Contiguo al Centro Financiero Banexpo, Colonia Lomas del Guijarro Sur, Tegucigalpa, Honduras.
+         E-mail : cosmos@hondudata.com, Tel : +504 2391799, Fax : +504 2391808.
+
+ HO07    Coindet Maritime Services, S. de R.L. Colonia Palmira Avda. República de Argentina
+         N.º 1812, local N.º 3, Tegucigalpa, Honduras.
+         E-mail : gcoindet@netsys.hn, Tel : +504 2358118, +504 2358119, Fax : +504 2356033,
+         Contact person : Guillermo Coindet Croasdaile.
+
+ HO08    Globe Radio S. de R.L., Col. Alameda entre 10 y 11 calle, Avda. Villeda Morales, Casa 1134,
+         5150 Tegucigalpa, Honduras.
+         Tel : +504 2394649, Fax : +504 2320976.
+
+
+
+
+           Mobile Network Codes (MNC) for the international identification plan
+                          for public networks and subscriptions
+                  (According to Recommendation ITU-T E.212 (09/2016))
+                             (Position on 15 November 2023)
+                                   (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                    (Amendment No. 11)
+
+
+Country/Geographical area            MCC+MNC              Operator/Network
+Portugal     LIR
+                                           268 80         E-Redes - Distribuição de Eletricidade, S.A.
+Switzerland        ADD
+                                           228 72         BSE Software GmbH
+
+
+____________
+  MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+  MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                   List of ITU Carrier Codes
+                   (According to Recommendation ITU-T M.1400 (03/2013))
+                               (Position on 15 September 2014)
+                              (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                              (Amendment No. 171)
+
+
+ Country or area/ISO code                     Company Code              Contact
+  Company Name/Address                         (carrier code)
+
+
+Germany (Federal Republic of) / DEU        ADD
+
+
+ Landwerke M-V Breitband GmbH                      LWMVBB               Mr Tilo Kuehnel
+ Wilhelm-Stolte-Strasse 90                                              Tel.: +49 3981 474 361
+ D-17235 NEUSTRELITZ                                                    Fax: +49 3981 474 482
+                                                                        Email: tilo.kuehnel@rene-mv.de
+
+
+ LINK2AIR GmbH                                       LINK2              Mr Simeon Juelg
+ Im Ettenbach 13 a                                                      Tel.: +49 7805 9181540
+ D-77767 APPENWEIER                                                     Email: sjuelg@link2air.de
+
+
+ Martin Fichtner & Peter Feist GbR                   EDVTO              Mr Peter Feist
+ EDV Team Oberland                                                      Tel.: +49 8042 973306
+ Bachmairgasse 5                                                        Fax: +49 8042 973307
+ D-83661 LENGGRIES                                                      Email: info@edv-team.org
+
+
+ Wisstel GmbH                                       WISTEL              Mr Michael Schnier
+ Unterdorf 44                                                           Tel.: +49 2941 245055
+ D-59558 LIPPSTADT                                                      Fax: +49 2941 245066
+                                                                        Email: info@wisstel.de
+
+
+
+
+                            List of International Signalling Point Codes (ISPC)
+                         (According to Recommendation ITU-T Q.708 (03/1999))
+                                          (Position on 1 July 2020)
+                                       (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                        (Amendment No. 73)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point          Name of the signalling point operator
+
+
+ Portugal SUP
+ 2-139-1       5209         VODAFONE (MAT1FS) LISBOA-MATINHA             Vodafone Portugal - Comunicações Pessoais, S.A.
+
+ Portugal ADD
+ 2-139-1       5209         GSMR-INT1, Lisboa-Braço de Prata             Infraestruturas de Portugal, S.A.
+
+ Switzerland ADD
+ 7-247-3       16315        SOL_BSE                                      BSE Software GmbH
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                         National Numbering Plan
+                          (According to Recommendation ITU-T E.129 (01/2013))
+                                                Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which will
+be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations are
+kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will be
+responsible for the timely update of this information.
+From 15.V.2024, the following countries/geographical areas have updated their national numbering plan on our site:
+
+                                     Country/ Geographical area                      Country Code (CC)
+                        Benin                                                               +229
+
+
+
+

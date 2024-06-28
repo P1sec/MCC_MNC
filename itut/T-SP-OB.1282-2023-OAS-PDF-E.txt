@@ -1,0 +1,692 @@
+                               ITU Operational Bulletin
+                                                                 www.itu.int/itu-t/bulletin
+
+              No. 1282               15.XII.2023                 (Information received by 30 November 2023) ISSN 1564-5223 (Online)
+        Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+        Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+        Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+        E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                         Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                    3
+Approval of ITU-T Recommendations .............................................................................................................                         4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010)):
+   Note from TSB ...........................................................................................................................................            5
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Note from TSB ........................................................................................................................                  5
+Telephone Service:
+     Azerbaijan (Ministry of Digital Development and Transport, Baku) ..........................................................                                        6
+Other communications:
+     Austria .......................................................................................................................................................   13
+Service Restrictions .........................................................................................................................................         14
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                    14
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                    15
+List of Recommendation ITU-T E.164 assigned Country Codes ......................................................................                                       16
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................             16
+List of ITU Carrier Codes..................................................................................................................................            17
+List of International Signalling Point Codes (ISPC) ..........................................................................................                         17
+National Numbering Plan ................................................................................................................................               18
+
+
+
+
+                                                                                                                                             www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1283              1.I.2024              8.XII.2023
+               1284              15.I.2024             20.XII.2023
+               1285              1.II.2024             12.I.2024
+               1286             15.II.2024             31.I.2024
+               1287              1.III.2024            15.II.2024
+               1288             15.III.2024            1.III.2024
+               1289              1.IV.2024             15.III. 2024
+               1290             15.IV.2024             25.III.2024
+               1291              1.V.2024              12.IV.2024
+               1292             15.V.2024               1.V.2024
+               1293              1.VI.2024             15.V.2024
+               1294             15.VI.2024             31.V.2024
+               1295             1.VII.2024             14.VI.2024
+               1296             15.VII.2024            28.VI.2024
+               1297             1.VIII.2024           15.VII.2024
+               1298            15.VIII.2024           26.VII.2024
+               1299              1.IX.2024            15.VIII.2024
+               1300             15.IX.2024            30.VIII.2024
+               1301              1.X.2024              13.IX.2024
+               1302             15.X.2024              30.IX.2024
+               1303              1.XI.2024             15.X.2024
+               1304             15.XI.2024             31.X.2024
+               1305             1.XII.2024             15.XI.2024
+               1306             15.XII.2024            29.XI.2024
+               1307              1.I.2025              6.XII.2024
+
+
+
+
+                                                GENERAL INFORMATION
+                                Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 July 2020)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on 1
+      November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-T
+      Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on 15
+      May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1 May
+      2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                 Approval of ITU-T Recommendations
+By AAP-41, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T Y.3802 (2020) Amd. 1 (11/2023): Quantum key distribution networks - Functional architecture
+–     ITU-T Y.3803 (2020) Amd. 1 (11/2023): Quantum key distribution networks - Key management
+–     ITU-T Y.3804 (2020) Amd. 1 (11/2023): Quantum key distribution networks - Control and management
+–     ITU-T Y.3805 (2021) Amd. 1 (11/2023): Quantum key distribution networks - Software-defined networking control
+–     ITU-T Y.3811 (2022) Amd. 1 (11/2023): Quantum key distribution networks - Functional architecture for quality-of-
+      service assurance
+–     ITU-T Y.3814 (2023) Amd. 1 (11/2023): Quantum key distribution networks - Functional requirements and
+      architecture for machine learning enablement
+–     ITU-T Y.4224 (11/2023): Requirements for digital twin federation in smart cities and communities
+–     ITU-T Y.4489 (11/2023): Reference architecture of digital twin federation in smart cities and communities
+–     ITU-T Y.4490 (11/2023): Framework of monitoring of water system for smart fire protection
+–     ITU-T Y.4491 (11/2023): Framework of blockchain-based self-organization networking in IoT environments
+–     ITU-T Y.4492 (11/2023): Decentralized IoT communication architecture based on information centric networking
+      and blockchain
+–     ITU-T Y.4493 (11/2023): Autonomic operations support protocols in the Internet of things
+–     ITU-T Y.4494 (11/2023): Reference architecture of collaborative decentralized machine learning for intelligent IoT
+      services
+–     ITU-T Y.4495 (11/2023): Requirements and a reference model of data for smart greenhouse service
+–     ITU-T Y.4605 (11/2023): Information exchange model for digital twin federation in smart cities and communities
+–     ITU-T Y.4606 (11/2023): Requirements and functional model of data management system for smart greenhouse
+      service
+
+
+
+
+                 The International Public Telecommunication Numbering Plan
+                          (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                      Identification codes for international networks
+
+Associated with shared country code 883 for international networks, the following three-digit identification code has been
+withdrawn:
+
+                                                                       Country Code and          Date of withdrawal
+           Applicant                        Network
+                                                                      Identification Code
+
+  HMD Global Oy                         HMD Global Oy                      +883 450                  30.XI.2023
+
+
+
+
+          International Identification Plan for Public Networks and Subscriptions
+                         (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                                 Identification codes for International Mobile Networks
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been
+withdrawn.
+
+                                                      Mobile Country Code (MCC) and            Date of withdrawal
+                   Network
+                                                       Mobile Network Code (MNC)
+
+  HMD Global Oy                                                   901 95                            30.XI.2023
+
+
+
+
+                                              Telephone Service
+                                         (Recommendation ITU-T E.164)
+                                              url: www.itu.int/itu-t/inr/nnp
+
+Azerbaijan (country code +994)
+Communication of 7.XI.2023:
+The Ministry of Digital Development and Transport, Baku, announces the following updated National Numbering Plan of
+the Republic of Azerbaijan:
+a)     Overview:
+          The minimum number length (excluding the country code) is        9 digits
+          The maximum number length (excluding the country code) is        9 digits
+b)     Detail of numbering scheme:
+
+
+         NDC (National          N(S)N number length
+      Destination Code) or
+                                                                                                 Additional information
+     leading digits of N(S)N   Maximum      Minimum              Usage of E.164 number
+                                                                                               (regions and service types)
+     (National (Significant)    length       length
+            Number)
+ 12 (NDC)                            9         9         Geographic number for PSTN            Baku
+ 18 (NDC)                            9         9         Geographic number for PSTN            Sumgayit
+ 2020 (NDC)                          9         9         Geographic number for PSTN            Barda
+ 2021 (NDC)                          9         9         Geographic number for PSTN            Ujar
+ 2022 (NDC)                          9         9         Geographic number for PSTN            Aghsu
+ 2023 (NDC)                          9         9         Geographic number for PSTN            Aghdash
+ 2024 (NDC)                          9         9         Geographic number for PSTN            Gobustan
+ 2025 (NDC)                          9         9         Geographic number for PSTN            Kurdamir
+ 2026 (NDC)                          9         9         Geographic number for PSTN            Shamakhi
+ 2027 (NDC)                          9         9         Geographic number for PSTN            Goychay
+ 2028 (NDC)                          9         9         Geographic number for PSTN            Ismayilli
+ 2029 (NDC)                          9         9         Geographic number for PSTN            Zardab
+ 2120, 21428 (NDC)                   9         9         Geographic number for PSTN            Hajigabul
+ 2121 (NDC)                          9         9         Geographic number for PSTN            Shirvan
+ 2122 (NDC)                          9         9         Geographic number for PSTN            Beylagan
+ 2123 (NDC)                          9         9         Geographic number for PSTN            Sabirabad
+ 2124 (NDC)                          9         9         Geographic number for PSTN            Imishli
+ 2125 (NDC)                          9         9         Geographic number for PSTN            Salyan
+ 2126 (NDC)                          9         9         Geographic number for PSTN            Neftchala
+ 2127 (NDC)                          9         9         Geographic number for PSTN            Aghjabadi
+ 2128 (NDC)                          9         9         Geographic number for PSTN            Saatli
+ 2225, 2226, 22428 (NDC)             9         9         Geographic number for PSTN            Ganja
+ 2220 (NDC)                          9         9         Geographic number for PSTN            Goygol
+ 2221 (NDC)                          9         9         Geographic number for PSTN            Dashkasan
+
+
+     NDC (National           N(S)N number length
+  Destination Code) or
+                                                                                   Additional information
+ leading digits of N(S)N   Maximum      Minimum          Usage of E.164 number
+                                                                                 (regions and service types)
+ (National (Significant)    length       length
+        Number)
+2222 (NDC)                      9          9       Geographic number for PSTN    Aghstafa
+2223 (NDC)                      9          9       Geographic number for PSTN    Tartar
+2224 (NDC)                      9          9       Geographic number for PSTN    Goranboy
+2227 (NDC)                      9          9       Geographic number for PSTN    Samukh
+2229 (NDC)                      9          9       Geographic number for PSTN    Gazakh
+2230 (NDC)                      9          9       Geographic number for PSTN    Shamkir
+2231 (NDC)                      9          9       Geographic number for PSTN    Tovuz
+2232 (NDC)                      9          9       Geographic number for PSTN    Gadabey
+2233, 22428 (NDC)               9          9       Geographic number for PSTN    Yevlakh
+2235 (NDC)                      9          9       Geographic number for PSTN    Naftalan
+2330 (NDC)                      9          9       Geographic number for PSTN    Siyazan
+2331 (NDC)                      9          9       Geographic number for PSTN    Khizi
+2332 (NDC)                      9          9       Geographic number for PSTN    Khachmaz
+2333 (NDC)                      9          9       Geographic number for PSTN    Guba
+2335 (NDC)                      9          9       Geographic number for PSTN    Shabran
+2338 (NDC)                      9          9       Geographic number for PSTN    Gusar
+2420 (NDC)                      9          9       Geographic number for PSTN    Gabala
+2421 (NDC)                      9          9       Geographic number for PSTN    Oghuz
+2422 (NDC)                      9          9       Geographic number for PSTN    Zagatala
+2424 (NDC)                      9          9       Geographic number for PSTN    Shaki
+2425 (NDC)                      9          9       Geographic number for PSTN    Gakh
+2427 (NDC)                      9          9       Geographic number for PSTN    Mingachevir
+2429 (NDC)                      9          9       Geographic number for PSTN    Balakan
+2520 (NDC)                      9          9       Geographic number for PSTN    Yardimli
+2521 (NDC)                      9          9       Geographic number for PSTN    Masalli
+2522 (NDC)                      9          9       Geographic number for PSTN    Astara
+2524 (NDC)                      9          9       Geographic number for PSTN    Jalilabad
+2525 (NDC)                      9          9       Geographic number for PSTN    Lankaran
+2527 (NDC)                      9          9       Geographic number for PSTN    Lerik
+2529 (NDC)                      9          9       Geographic number for PSTN    Bilasuvar
+2620 (NDC)                      9          9       Geographic number for PSTN    Khojali
+2621 (NDC)                      9          9       Geographic number for PSTN    Lachin
+2622 (NDC)                      9          9       Geographic number for PSTN    Khankendi
+2623 (NDC)                      9          9       Geographic number for PSTN    Gubadli
+2625 (NDC)                      9          9       Geographic number for PSTN    Zangilan
+
+
+     NDC (National          N(S)N number length
+  Destination Code) or
+                                                                                        Additional information
+ leading digits of N(S)N   Maximum     Minimum          Usage of E.164 number
+                                                                                      (regions and service types)
+ (National (Significant)    length      length
+        Number)
+2626 (NDC)                    9           9       Geographic number for PSTN          Shusha
+2627 (NDC)                    9           9       Geographic number for PSTN          Kalbajar
+2629 (NDC)                    9           9       Geographic number for PSTN          Khojavand
+2631(NDC)                     9           9       Geographic number for PSTN          Fuzuli
+2632 (NDC)                    9           9       Geographic number for PSTN          Aghdam
+2638(NDC)                     9           9       Geographic number for PSTN          Jabrayil
+36544 (NDC)                                       Geographic number for PSTN          Nakhchivan city
+                              9           9
+36550 (NDC)
+36541 (NDC)                   9           9       Geographic number for PSTN          Babak
+36542, 36552 (NDC)            9           9       Geographic number for PSTN          Sharur
+36543 (NDC)                   9           9       Geographic number for PSTN          Shahbuz
+36546 (NDC)                   9           9       Geographic number for PSTN          Julfa
+36547 (NDC)                   9           9       Geographic number for PSTN          Ordubad
+36548 (NDC)                   9           9       Geographic number for PSTN          Kangarli
+36549 (NDC)                   9           9       Geographic number for PSTN          Sadarak
+                                                  Non-geographic number for mobile    “Azercell Telecom” LLC
+50, 51, 10 (NDC)              9           9
+                                                  GSM
+                                                  Non-geographic number for mobile    “Bakcell” LLC
+55, 99 (NDC)                  9           9
+                                                  GSM
+                                                  Non-geographic number for mobile    “Azerfon” LLC
+70, 77 (NDC)                  9           9
+                                                  GSM
+                                                  Non-geographic number for mobile,   “Naxtel” LLC
+60 (NDC)                      9           9
+                                                  GSM
+88 (NDC)                      9           9       Non-geographic number for PSTN      “Avirtel” LLC
+46 (NDC)                      9           9       Non-geographic number for PSTN      “Delta Telecom Ltd” LLC
+12109 (NDC)                   9           9       Non-geographic number for PSTN      Information Operator
+                                                                                      Assistance
+
+
+
+
+                                            Test numbers:
+
+                Name                            Test numbers
+
+
+                                           BAKU CITY – 12
+                                                +994 12 370 21 99
+                                                +994 12 440 21 99
+                                                +994 12 564 21 99
+1               Baku                            +994 88 235 14 79
+                                                +994 12 404 12 12
+                                                +994 12 200 00 24
+                                                +994 12 342 21 99
+
+
+                                         SUMGAYIT CITY – 18
+1               Sumgayit                        +994 18 644 21 99
+
+
+                                REGION CONNECTED TO BAKU SWITCH – 20
+1               Barda                           + 994 20 205 21 99
+2               Ujar                            + 994 20 213 21 99
+3               Aghsu                           + 994 20 226 21 99
+4               Aghdash                         + 994 20 235 21 99
+5               Gobustan                        + 994 20 245 21 99
+6               Kurdamir                        + 994 20 255 21 99
+7               Shamakhi                        + 994 20 265 21 99
+8               Goychay                         + 994 20 274 21 99
+9               Ismayilli                       + 994 20 285 10 00
+10              Zardab                          + 994 20 296 42 99
+
+
+
+                                        SHIRVAN REGION – 21
+                                                + 994 21 204 21 99
+1                Hajigabul
+                                                + 994 21 428 00 20
+2                Shirvan                        + 994 21 215 21 99
+3                Beylagan                       + 994 21 225 21 99
+4                Sabirabad                      + 994 21 235 69 99
+5                Imishli                        + 994 21 246 60 01
+6                Salyan                         + 994 21 255 21 99
+7                Neftchala                      + 994 21 263 21 99
+8                Aghjabedi                      + 994 21 275 21 99
+9                Saatli                         + 994 21 285 21 99
+
+
+                                  GANJA REGION – 22
+                                        + 994 22 257 21 99
+1                   Ganja
+                                        + 994 22 428 70 99
+2                   Goygol              + 994 22 205 24 19
+3                   Dashkasan           + 994 22 215 55 99
+4                   Aghstafa            + 994 22 225 21 99
+5                   Tartar              + 994 22 236 21 99
+6                   Goranboy            + 994 22 245 21 99
+7                   Samukh              + 994 22 275 21 99
+8                   Gazakh              + 994 22 295 21 99
+9                   Shamkir             + 994 22 305 21 90
+10                  Tovuz               + 994 22 315 00 00
+11                  Gadabey             + 994 22 326 01 71
+                                        + 994 22 336 21 99
+12                  Yevlakh
+                                        + 994 22 428 26 41
+13                  Naftalan            + 994 22 352 21 99
+                                  GUBA REGION – 23
+1                   Siyazan             + 994 23 304 21 99
+2                   Khizi               + 994 23 315 00 00
+3                   Khachmaz            + 994 23 325 21 99
+4                   Guba                + 994 23 335 21 99
+5                   Shabran             + 994 23 353 21 99
+6                   Gusar               + 994 23 385 21 99
+                                  SHAKI REGION – 24
+1                   Gabala              + 994 24 205 21 99
+2                   Oghuz               + 994 24 215 12 99
+3                   Zagatala            + 994 24 225 21 99
+4                   Shaki               + 994 24 244 21 99
+6                   Gakh                + 994 24 255 21 99
+5                   Mingachevir         + 994 24 274 21 99
+7                   Balakan             + 994 24 295 21 99
+
+
+
+
+                                         LANKARAN REGION – 25
+1              Yardimli                          + 994 25 206 21 99
+2              Masalli                           + 994 25 215 21 99
+3              Astara                            + 994 25 225 21 99
+4              Jalilabad                         + 994 25 245 21 99
+5              Lankaran                          + 994 25 255 21 99
+6              Lerik                             + 994 25 274 60 30
+7              Bilasuvar                         + 994 25 295 21 99
+
+
+                                KARABAKH AND EAST ZANGEZUR REGION – 26
+1              Khojali                           +994 26 205 21 99
+2              Lachin                            +994 26 215 21 99, +994 26 212 21 99
+3              Khankendi                         +994 26 225 21 99
+4              Gubadli                           +994 26 235 21 99
+5              Zangilan                          +994 26 255 21 99
+6              Shusha                            +994 26 266 21 99
+7              Kalbajar                          + 994 26 275 21 99
+8              Khojavand                         +994 26 295 21 99
+9              Fuzuli                            + 994 26 315 50 00
+10             Aghdam                            + 994 26 325 06 32
+11             Jabrayil                          + 994 26 384 37 99
+
+
+                                       NAKHCHIVAN REGION – 36
+                                                 + 994 36 544 63 00
+1              Nakhchivan
+                                                 + 994 36 550 99 19
+2              Babak                             + 994 36 541 30 99
+                                                 + 994 36 542 25 99
+3              Sharur
+                                                 + 994 36 552 44 00
+4              Shahbuz                           + 994 36 543 00 99
+5              Julfa                             + 994 36 546 01 99
+6              Ordubad                           + 994 36 547 00 99
+7              Kangarli                          + 994 36 548 07 00
+8              Sadarak                           + 994 36 549 00 00
+
+
+
+
+                                             MOBILE operators:
+
+                  Mobile operator           Country code         Mobile code   Test number
+    1             AZERCELL_GSM              994                  50, 51, 10    +994 50 225 1111
+                                                                               +994 50 680 00 01
+                                                                               +994 50 211 04 98
+    2             BAKCELL_GSM               994                  55, 99        +994 55 210 0001
+                                                                               +994 55 590 9027
+    3             AZERFON_GSM               994                  70,77         +994 70 200 0613
+                                                                               +994 70 201 0877
+
+    4             NAKHTEL_GSM               994                  60            +994 60 606 02 99
+                                                                               +994 60 220 00 51
+                                                                               +994 60 220 00 34
+                                                                               +994 60 220 00 20
+
+
+                                              REGION – PSTN
+
+    1             “Delta Telecom Ltd” LLC   994                  46            +994 46 450 00 03
+
+
+Contact:
+        Ministry of Digital Development and Transport
+        77, Zarifa Aliyeva str.,
+        AZ 1000 BAKU
+        Azerbaijan
+        Tel:     +994 12 598 5858
+        E-mail: mincom@mincom.gov.az; office@mincom.gov.az
+        URL:     www.mincom.gov.az
+
+
+
+
+                                            Other communications
+
+Austria
+Communication of 17.XI.2023:
+“On the occasion of the 45th anniversary of the negative plebiscite about the atomic power plant Zwentendorf the Austrian
+Administration authorizes an Austrian amateur station to use the special call sign OE45NO from the 1st of September 2024
+to the 30th of November 2024.”
+Communication of 27.XI.2023:
+“On the occasion of the 205th anniversary of the first performance of the Christmas carol “Silent Night! Holy Night!” the
+Austrian Administration authorizes an Austrian amateur station to use the special call sign OE205XMAS from the 23rd of
+December 2023 to the 6 th of January 2024.”
+Communication of 27.XI.2023:
+“On the occasion of the YOTA Month 2023 of the IARU-R1 the Austrian Administration authorizes an Austrian amateur
+station to use the special call sign OE0YOTA from the 1 st to the 31st of December 2023.”
+
+
+
+
+                                           Service Restrictions
+                                     See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+     Country/geographical area       OB
+
+Seychelles              1006 (p.13)
+Slovakia                1007 (p.12)
+Malaysia                1013 (p.5)
+Thailand                1034 (p.5)
+São Tomé and Principe   1039 (p.14)
+Uruguay                 1039 (p.14)
+Hong Kong, China        1068 (p.4)
+Ukraine                 1148 (p.5)
+
+
+
+
+                                           Call-Back
+                   and alternative calling procedures (Res. 21 Rev. PP-06)
+                                 See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                        AMENDMENTS TO SERVICE PUBLICATIONS
+                                                Abbreviations used
+                              ADD    Insert                     PAR   Paragraph
+                              COL    Column                     REP   Replace
+                              LIR    Read                       SUP   Delete
+                              P      Page(s)
+
+
+
+
+                              List of Issuer Identifier Numbers for
+                      the International Telecommunication Charge Card
+                (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                 (Position on 1 December 2018)
+                              (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                               (Amendment No. 90)
+
+France          ADD
+
+   Country/           Company Name/Address           Issuer                       Contact              Effective
+ Geographical                                      Identifier                                            date
+     area                                           Number                                             of usage
+ France           Agence des Communications        89 33 18      ACMOSS (Agence des                    1.I.2024
+                  Mobiles Opérationnelles de                     Communications Mobiles
+                  Sécurité et de Secours                         Opérationnelles de Sécurité et de
+                  Tour Liberty                                   Secours)
+                  17 Place des Reflets                           Tour Liberty - Place Beauvau
+                  92400 COURBEVOIE                               75800 PARIS CEDEX
+                                                                 E-mail : rrf@interieur.gouv.fr
+
+
+
+
+                     List of Recommendation ITU-T E.164 assigned Country Codes
+                       (Complement to Recommendation ITU-T E.164 (11/2010))
+                                  (Position on 15 December 2016)
+                                       (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                        (Amendment No. 37)
+
+       Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+
+
+p       Associated with shared country code 883, the following three-digit identification code reservation or assignment
+        has been made for the international networks of:
+
+Note p)      +883 450       SUP*
+
+                                                                                               Country Code and
+                  Applicant                                      Network                                                  Status
+                                                                                              Identification Code
+
+    HMD Global Oy                                HMD Global Oy                                    +883 450             Withdrawn
+
+* 30.XI.2023
+
+__________
+
+See page 5 of the present ITU Operational Bulletin No. 1282 of 15.XII.2023.
+
+
+
+
+             Mobile Network Codes (MNC) for the international identification plan
+                            for public networks and subscriptions
+                    (According to Recommendation ITU-T E.212 (09/2016))
+                               (Position on 15 November 2023)
+                                        (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                         (Amendment No. 1)
+
+
+Country/Geographical area                            MCC+MNC                  Operator/Network
+Australia      ADD
+                                                            505 58            Wi-Sky (NSW) Pty Ltd
+Sweden         ADD
+                                                            240 50            eRate Sverige AB
+International Mobile,
+shared code SUP*
+                                                            901 95            HMD Global Oy
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+* See the present ITU Operational Bulletin No. 1282 of 15.XII.2023, page 5.
+
+
+
+
+                                        List of ITU Carrier Codes
+                        (According to Recommendation ITU-T M.1400 (03/2013))
+                                    (Position on 15 September 2014)
+                                       (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                       (Amendment No. 161)
+
+
+ Country or area/ISO code                                    Company Code                Contact
+  Company Name/Address                                        (carrier code)
+
+Germany (Federal Republic of) / DEU                     ADD
+
+ NET@vision Gesellschaft für                                      NAV001                 Mr Carsten Furcht
+ Informationstechnologie mbH                                                             Tel.: +49 551 5217600
+ Bahnhofstrasse 28                                                                       Fax: +49 551 5217666
+ D-37124 ROSDORF                                                                         Email: einkauf@netatvision.de
+
+
+
+
+                            List of International Signalling Point Codes (ISPC)
+                         (According to Recommendation ITU-T Q.708 (03/1999))
+                                          (Position on 1 July 2020)
+                                       (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                        (Amendment No. 63)
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point                Name of the signalling point operator
+
+
+ Ireland SUP
+ 2-146-5       5269         East Wall Dublin                                   Colt Technology Services Limited
+                                                                               (formerly Colt Telecommunications)
+ 2-146-6       5270         East Wall Dublin                                   Colt Technology Services Limited
+                                                                               (formerly Colt Telecommunications)
+
+ Sweden SUP
+ 2-194-1       5649         Stockholm COLT SWE1 (Stockholm)                    Colt Technology Services AB
+
+ Sweden ADD
+ 2-080-6       4742         TMT1                                               TMT Analysis Limited
+ 2-081-7       4751         TMT2                                               TMT Analysis Limited
+ 2-082-5       4757         TMT3                                               TMT Analysis Limited
+ 2-082-7       4759         TMT4                                               TMT Analysis Limited
+
+ Uruguay SUP
+ 7-096-3       15107        MSC-GSM/Montevideo 1                               Administración Nacional de Telecomunicaciones (ANTEL)
+ 7-096-4       15108        MSC-GSM/Montevideo 2                               Administración Nacional de Telecomunicaciones (ANTEL)
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                      National Numbering Plan
+                       (According to Recommendation ITU-T E.129 (01/2013))
+                                        Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which will
+be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations are
+kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will be
+responsible for the timely update of this information.
+From 15.XI.2023, the following countries/geographical areas have updated their national numbering plan on our site:
+
+                                Country/ Geographical area                  Country Code (CC)
+                      Nigeria                                                       +234
+
+
+
+

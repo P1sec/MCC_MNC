@@ -1,0 +1,999 @@
+                               ITU Operational Bulletin
+                                                               www.itu.int/itu-t/bulletin
+
+              No. 1286              15.II.2024                 (Information received by 1 February 2024) ISSN 1564-5223 (Online)
+        Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+        Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+        Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+        E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                       Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin ................................................................................................                    3
+Approval of ITU-T Recommendations .............................................................................................................                   4
+Assignment of Signalling Area/Network Codes (SANC): Note from TSB .........................................................                                       4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164
+   (11/2010)): Note from TSB ........................................................................................................................             5
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212
+    (09/2016)): Note from TSB ........................................................................................................................            5
+Telephone Service:
+       Cuba (Ministerio de Comunicaciones, La Habana) ..................................................................................                          6
+       Denmark (Agency for Data Supply and Infrastructure, Copenhagen).....................................................                                       8
+       Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) ...................                                                     12
+       United Kingdom (Office of Communications (Ofcom), London)..............................................................                                   13
+Testing Laboratories recognized by ITU ..........................................................................................................                17
+Service Restrictions:
+       Türkiye (Information and Communication Technologies Authority (BTK), Ankara) ................................                                             17
+Service Restrictions .........................................................................................................................................   18
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                              18
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ...........................................                                      19
+List of Recommendation ITU-T E.164 assigned Country Codes ......................................................................                                 20
+Network Codes (MNC) for the international identification plan for public networks
+   and subscriptions ......................................................................................................................................      21
+List of ITU Carrier Codes..................................................................................................................................      22
+List of Signalling Area/Network Codes (SANC) ................................................................................................                    22
+List of International Signalling Point Codes (ISPC) ..........................................................................................                   23
+National Numbering Plan ................................................................................................................................         24
+
+
+
+                                                                                                                                        www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1287              1.III.2024            15.II.2024
+               1288             15.III.2024            1.III.2024
+               1289              1.IV.2024             15.III.2024
+               1290             15.IV.2024             25.III.2024
+               1291              1.V.2024              12.IV.2024
+               1292             15.V.2024               1.V.2024
+               1293              1.VI.2024             15.V.2024
+               1294             15.VI.2024             31.V.2024
+               1295             1.VII.2024             14.VI.2024
+               1296             15.VII.2024            28.VI.2024
+               1297             1.VIII.2024           15.VII.2024
+               1298            15.VIII.2024           26.VII.2024
+               1299              1.IX.2024            15.VIII.2024
+               1300             15.IX.2024            30.VIII.2024
+               1301              1.X.2024              13.IX.2024
+               1302             15.X.2024              30.IX.2024
+               1303              1.XI.2024             15.X.2024
+               1304             15.XI.2024             31.X.2024
+               1305             1.XII.2024             15.XI.2024
+               1306             15.XII.2024            29.XI.2024
+               1307              1.I.2025              6.XII.2024
+
+
+
+
+                                                GENERAL INFORMATION
+                                Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 July 2020)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on 1
+      November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-T
+      Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on 15
+      May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1 May
+      2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                        Approval of ITU-T Recommendations
+By AAP-44, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T G.874 (2020) Amd. 2 (01/2024)
+
+
+
+
+                          Assignment of Signalling Area/Network Codes (SANC)
+                               (Recommendation ITU-T Q.708 (03/1999))
+
+Note from TSB
+At the request of the Administration of Ireland, the Director of TSB has assigned the following signalling area/network code
+(SANC) for use in the international part of the signalling system No. 7 network of this country/geographical area, in
+accordance with Recommendation ITU-T Q.708 (03/1999):
+
+                                    Country/geographical area or signalling network              SANC
+
+                                    Ireland                                                      5-212
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                The International Public Telecommunication Numbering Plan
+                         (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                      Identification codes for international networks
+
+Associated with shared country code 882 for international networks, the following two-digit identification code has been
+assigned:
+
+                                                                      Country Code and         Date of assignment
+           Applicant                         Network
+                                                                     Identification Code
+
+
+ China Telecommunications        China Telecommunications                  +882 52                  1.II.2024
+ Corporation                     Corporation
+
+
+
+
+          International Identification Plan for Public Networks and Subscriptions
+                         (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                                 Identification codes for International Mobile Networks
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC) have been
+assigned.
+
+                                                    Mobile Country Code (MCC) and           Date of assignment
+                       Network
+                                                     Mobile Network Code (MNC)
+
+     SpaceX                                                      901 08                          1.II.2024
+
+
+     China Telecommunications Corporation                        901 09                          1.II.2024
+
+
+
+
+                                            Telephone Service
+                                       (Recommendation ITU-T E.164)
+                                                 url: www.itu.int/itu-t/inr/nnp
+Cuba (country code +53)
+Communication of 19.I.2024:
+The Ministerio de Comunicaciones, La Habana, announces the updated national numbering plan of Cuba:
+a)       Overview
+         Minimum number length (excluding country code): eight (8) digits
+           Maximum number length (excluding country code): eight (8) digits
+b)       Details of numbering scheme
+
+
+               NDC              Length of number
+     (National destination           N(S)N
+                                                                 Usage of
+     code) or leading digits                                                           Additional information
+                               Maximum Minimum                E.164 number
+        of N(S)N (national
+                                length  length
+      (significant) number)
+             21 (NDC)             8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Guantánamo
+           22 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Santiago de Cuba
+           23 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Granma
+           24 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Holguín
+           31 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Las Tunas
+           32 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Camagüey
+           33 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Ciego de Ávila
+           41 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Sancti Spíritus
+           42 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Villa Clara
+           43 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Cienfuegos
+           45 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Matanzas
+           46 (NDC)               8          8        Geographic numbers for      Area code for the Special
+                                                      fixed telephony services    Municipality Isla de la Juventud
+           47 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Mayabeque
+           48 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Pinar del Río
+           49 (NDC)               8          8        Geographic numbers for      Area code for the province of
+                                                      fixed telephony services    Artemisa
+            5 (NDC)               8          8        Non-geographic number       Mobile telephony services
+                                                      (Find Me Anywhere)
+           62 (NDC)               8          8        Non-geographic number       Fixed wireless service
+                                                      (Find Me Anywhere)
+           63 (NDC)               8          8        Non-geographic number       Mobile telephony services
+                                                      (Find Me Anywhere)
+           64 (NDC)               8          8        Non-geographic number       Mobile telephony services
+                                                      (Find Me Anywhere)
+
+             NDC               Length of number
+  (National destination             N(S)N
+                                                              Usage of
+  code) or leading digits                                                           Additional information
+                             Maximum Minimum               E.164 number
+     of N(S)N (national
+                              length  length
+   (significant) number)
+           7 (NDC)               8          8       Geographic numbers for     Area code for the province of
+                                                    fixed telephony services   La Habana
+
+
+Contact:
+           Ing. Wilfredo López Rodríguez
+           Director of Regulations
+           Ministerio de Comunicaciones
+           Avenida Independencia y 19 de mayo. Plaza de la Revolución
+           LA HABANA, CP 10600
+           Cuba
+           Tel: +53 7 882 8193
+           E-mail: wilfredo.lopez@mincom.gob.cu
+
+
+
+
+Denmark (country code +45)
+Communication of 23.I.2024:
+The Agency for Data Supply and Infrastructure, Copenhagen, announces the following updates to the national numbering
+plan of Denmark:
+•     Withdrawals
+
+    Type                      Numbering resource                         Provider              Date of withdrawal
+
+    Fixed communication       65486fgh, 65650fgh, 45366fgh, 45358fgh,    TDC Net A/S           29 September 2023
+                              86790fgh, 86791fgh, 86792fgh, 86793fgh,
+                              86794fgh, 86796fgh, 86797fgh, 86798fgh,
+                              86799fgh, 99117fgh, 46448fgh, 46541fgh,
+                              54785fgh, 76102fgh, 6663efgh, 6666efgh,
+                              6667efgh, 66680fgh, 66681fgh, 66682fgh,
+                              66683fgh, 66684fgh, 66685fgh, 66686fgh,
+                              66687fgh, 6669efgh, 62240fgh, 66626fgh,
+                              66627fgh, 66628fgh, 66629fgh, 66650fgh,
+                              66651fgh, 66652fgh, 66653fgh, 66654fgh,
+                              66655fgh, 66656fgh, 66657fgh, 66659fgh,
+                              76949fgh, 89118fgh, 89208fgh, 89209fgh,
+                              89217fgh, 54674fgh, 54675fgh, 63513fgh,
+                              89540fgh, 89541fgh, 89542fgh
+
+    Fixed communication       96857fgh, 87353fgh, 87355fgh, 59639fgh,    TDC Net A/S           31 December 2023
+                              59212fgh, 59218fgh, 86764fgh, 74272fgh,
+                              44219fgh, 44696fgh, 44697fgh, 65996fgh,
+                              43753fgh, 99207fgh, 46471fgh, 46912fgh,
+                              46992fgh, 32154fgh, 35242fgh, 87537fgh,
+                              62246fgh, 33430fgh, 39428fgh, 66640fgh,
+                              38326fgh, 38520fgh, 38759fgh, 57857fgh,
+                              58228fgh, 56347fgh, 89389fgh, 44394fgh,
+                              45232fgh, 43826fgh, 43841fgh, 39137fgh,
+                              38256fgh, 63972fgh
+
+
+    Type                      Numbering resource                         Provider              Date of withdrawal
+
+    Freephone numbers         8061efgh, 8063efgh                         TDC Net A/S           29 September 2023
+
+
+    Type                      Numbering resource                         Provider              Date of withdrawal
+
+    Pre-selection             1070                                       ACN Danmark A/S       23 November 2023
+    code for operator
+
+
+    Type                      Numbering resource                         Provider              Date of withdrawal
+
+                              93312fgh, 93313fgh, 93314fgh, 93315fgh,    ACN Danmark A/S       23 November 2023
+                              93316fgh, 93317fgh, 93318fgh, 93319fgh
+    Mobile communication
+                              7175efgh, 7194efgh, 7195efgh               Telenor A/S           31 December 2023
+
+
+
+
+Type                    Numbering resource                       Provider                  Date of withdrawal
+
+                        ISPC2-078-1, ISPC2-079-4                 Telia Danmark filial af   25 August 2023
+ISPC
+                        ISPC2-076-0, ISPC2-076-2                 TDC Net A/S               30 September 2023
+
+
+Type                    Numbering resource                       Provider                  Date of withdrawal
+
+NSPC                    NSPC1-5-2, NSPC1-5-16, NSPC1-5-20,       TDC Net A/S               29 September 2023
+                        NSPC1-6-1, NSPC1-6-5, NSPC1-6-12,
+                        NSPC1-6-24, NSPC1-6-25, NSPC1-6-39,
+                        NSPC0-4-32, NSPC0-4-40, NSPC0-5-1,
+                        NSPC0-5-4, NSPC0-5-12, NSPC0-5-16,
+                        NSPC0-5-24, NSPC0-6-1, NSPC0-6-12,
+                        NSPC6-2-2, NSPC6-2-11, NSPC6-4-1,
+                        NSPC6-4-4, NSPC6-4-5,NSPC6-4-67,
+                        NSPC6-4-68, NSPC6-4-73, NSPC6-4-74,
+                        NSPC6-4-76, NSPC6-4-77, NSPC6-4-78,
+                        NSPC6-4-79, NSPC6-4-81, NSPC6-4-88,
+                        NSPC6-4-90, NSPC6-4-91, NSPC6-4-92,
+                        NSPC6-4-93, NSPC6-4-94, NSPC6-4-95,
+                        NSPC6-4-101, NSPC6-4-102, NSPC6-4-103,
+                        NSPC6-4-106, NSPC6-4-107, NSPC6-4-108,
+                        NSPC6-4-111, NSPC6-4-112, NSPC6-4-114,
+                        NSPC6-4-115, NSPC6-4-118, NSPC6-4-119,
+                        NSPC6-4-120, NSPC6-4-121, NSPC6-4-124,
+                        NSPC6-4-125, NSPC6-4-127 NSPC6-5-0,
+                        NSPC6-5-1, NSPC5-5-1, NSPC5-6-3,
+                        NSPC5-7-1, NSPC3-4-41, NSPC3-5-0,
+                        NSPC0-1-1, NSPC0-1-12, NSPC0-1-32,
+                        NSPC0-2-2, NSPC0-2-11, NSPC0-2-12,
+                        NSPC0-2-13, NSPC0-2-14, NSPC0-2-32,
+                        NSPC0-2-101, NSPC0-3-1, NSPC0-3-9,
+                        NSPC0-7-1, NSPC0-7-3, NSPC0-7-5,
+                        NSPC0-7-15, NSPC0-7-16, NSPC0-7-17,
+                        NSPC0-7-18, NSPC0-7-19, NSPC0-7-20,
+                        NSPC0-7-21, NSPC0-7-22, NSPC0-7-24,
+                        NSPC0-7-25, NSPC0-7-26, NSPC0-7-27,
+                        NSPC0-7-28, NSPC0-7-33, NSPC0-7-34,
+                        NSPC0-7-36, NSPC0-7-37, NSPC0-7-44,
+                        NSPC0-7-55, NSPC0-7-56, NSPC0-7-57,
+                        NSPC2-6-1, NSPC2-6-24, NSPC2-6-32,
+                        NSPC2-6-36, NSPC2-1-1, NSPC2-1-20,
+                        NSPC2-1-24, NSPC2-1-28, NSPC7-3-1,
+                        NSPC7-3-2, NSPC7-3-3, NSPC7-3-37,
+                        NSPC7-3-41, NSPC7-3-44, NSPC7-4-1,
+                        NSPC7-4-2, NSPC7-5-1, NSPC7-5-2,
+                        NSPC1-1-1, NSPC1-1-2, NSPC1-1-5,
+                        NSPC1-1-13, NSPC1-1-21, NSPC1-1-22,
+                        NSPC1-1-24, NSPC1-1-28, NSPC1-1-46,
+                        NSPC1-1-49, NSPC1-1-53, NSPC1-1-54,
+                        NSPC1-1-60, NSPC1-1-61, NSPC1-1-64,
+                        NSPC1-1-65, NSPC1-1-66, NSPC1-1-67,
+                        NSPC1-1-68, NSPC1-1-69, NSPC1-1-95,
+                        NSPC1-1-98, NSPC1-1-104, NSPC1-1-106,
+                        NSPC1-1-108, NSPC1-1-109, NSPC1-1-110,
+                        NSPC1-1-111, NSPC1-1-112, NSPC1-2-2,
+                        NSPC1-2-20, NSPC1-3-1, NSPC1-3-12,
+
+    Type                   Numbering resource                         Provider                  Date of withdrawal
+                           NSPC1-3-17, NSPC1-3-20, NSPC5-1-0,
+                           NSPC5-1-1, NSPC5-1-2, NSPC5-1-4,
+                           NSPC5-1-8, NSPC5-4-1, NSPC5-4-2,
+                           NSPC5-4-4, NSPC5-8-1, NSPC6-5-3,
+                           NSPC6-6-1, NSPC6-7-1, NSPC6-8-1,
+                           NSPC3-6-1, NSPC3-1-2, NSPC3-1-3,
+                           NSPC3-1-4, NSPC3-1-5, NSPC3-1-82,
+                           NSPC3-2-21, NSPC3-2-22, NSPC7-6-1,
+                           NSPC7-6-2, NSPC7-6-3, NSPC7-7-1,
+                           NSPC7-7-2, NSPC7-8-1, NSPC7-8-3,
+                           NSPC7-2-1, NSPC7-2-5, NSPC2-2-2,
+                           NSPC2-2-28, NSPC2-2-40, NSPC2-2-48,
+                           NSPC2-3-1, NSPC2-3-2, NSPC2-4-1,
+                           NSPC2-4-2, NSPC2-4-12, NSPC2-4-16,
+                           NSPC2-4-20, NSPC6-1-0, NSPC6-1-1,
+                           NSPC6-1-2, NSPC6-1-28, NSPC6-1-29
+
+    NSPC                   NSPC4-10-0, NSPC4-10-1, NSPC4-10-3,        Telia Danmark filial af   6 November 2023
+                           NSPC4-10-4, NSPC4-10-5, NSPC4-10-6,
+                           NSPC4-10-7, NSPC4-10-8, NSPC4-10-9,
+                           NSPC4-10-10, NSPC4-10-11, NSPC4-10-12,
+                           NSPC4-10-13, NSPC4-10-14, NSPC4-10-15,
+                           NSPC4-10-18, NSPC4-6-0, NSPC4-6-2,
+                           NSPC4-6-3, NSPC4-6-4, NSPC4-6-5,
+                           NSPC4-6-6, NSPC4-6-7, NSPC4-6-8,
+                           NSPC4-6-9, NSPC4-6-10, NSPC4-6-11,
+                           NSPC4-6-12, NSPC4-6-13, NSPC4-6-14,
+                           NSPC4-6-15, NSPC4-6-16, NSPC4-6-17,
+                           NSPC4-6-18, NSPC4-6-19, NSPC4-6-20,
+                           NSPC4-6-21, NSPC4-6-22, NSPC4-6-23,
+                           NSPC4-6-24, NSPC4-6-25, NSPC4-6-26,
+                           NSPC4-6-27, NSPC4-6-28, NSPC4-6-29
+
+
+•     Assignments
+
+    Type                   Numbering resource                    Provider                       Date of assignment
+
+    Fixed communication    6666efgh                              mifon familie                  6 October 2023
+
+
+
+    Type                   Numbering resource                    Provider                       Date of assignment
+
+    Mobile communication   6096efgh, 6097efgh                    Wireless Logic Nordic A/S      4 July 2023
+
+                           5566efgh                              Uni-tel A/S                    11 September 2023
+
+                           92298fgh                              YATECO OÜ                      6 October 2023
+
+                           6650efgh, 6677efgh, 7717efgh,         Lebara Mobile Denmark          13 October 2023
+                           7722efgh, 7880efgh, 7888efgh,         Limited
+                           3660efgh, 3666efgh, 4990efgh,
+                           4999efgh
+
+
+    Type                   Numbering resource                    Provider                       Date of assignment
+
+    MNC                    MNC19                                 YATECO OÜ                      6 October 2023
+
+
+ Type                        Numbering resource                  Provider                    Date of assignment
+
+ 12 digit M2M numbers        37100630ijkl, 37100631ijkl,         Wireless Logic Nordic A/S   27 July 2023
+                             37100632ijkl, 37100633ijkl,
+                             37100634ijkl
+
+                             37105424ijkl                        MOBISIGNAL GmbH             20 November 2023
+
+
+
+ Type              Numbering ressource       ID                     Provider                 Date of assignment
+ NSPC              NSPC1-6-52                ARRM8                  TDC NET A/S              08 September 2023
+                   NSPC1-0-106               Copenhagen09_NSPC      Onomondo ApS             10 November 2023
+                   NSPC1-0-107               Copenhagen10_NSPC      Onomondo ApS             10 November 2023
+                   NSPC1-0-108               Copenhagen11_NSPC      Onomondo ApS             10 November 2023
+                   NSPC1-0-109               Copenhagen12_NSPC      Onomondo ApS             10 November 2023
+                   NSPC1-0-11                Copenhagen13_NSPC      Onomondo ApS             10 November 2023
+                   NSPC1-0-110               Copenhagen14_NSPC      Onomondo ApS             10 November 2023
+                   NSPC1-0-111               Copenhagen15_NSPC      Onomondo ApS             10 November 2023
+                   NSPC1-0-112               Copenhagen16_NSPC      Onomondo ApS             10 November 2023
+                   NSPC1-0-113               Copenhagen17_NSPC      Onomondo ApS             10 November 2023
+                   NSPC1-0-114               Copenhagen18_NSPC      Onomondo ApS             10 November 2023
+
+
+Contact:
+        Agency for Data Supply and Infrastructure
+        8 Rentemestervej
+        2400 COPENHAGEN NV
+        Denmark
+        Tel: +45 7254 5500
+        E-mail: tele@sdfi.dk
+        URL: www.sdfi.dk
+
+
+
+
+Morocco (country code +212)
+Communication of 30.I.2024:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following updates to
+the national telephone-numbering plan of Morocco.
+
+                                           Description of introduction of new resource
+                                    for national E.164 numbering plan for country code +212:
+
+•      new NDCs below have recently been introduced as follows:
+
+          NDC (national          N(S)N number length
+       destination code) or
+     leading digits of N(S)N    Maximum      Minimum          Usage of E.164 number            Additional information
+      (national (significant)    length       length
+             number)
+               723                 9             9           Mobile services 2G/3G/4G      Wana Corporate1
+
+               724                 9             9           Mobile services 2G/3G/4G      Wana Corporate
+
+1
+    : INWI
+
+Contact:
+             Agence Nationale de Réglementation des Télécommunications (ANRT)
+             Centre d'affaires
+             Boulevard Ar-Riad, Hay Riad
+             B.P. 2939
+             RABAT 10100
+             Morocco
+             Tel: +212 5 37 71 85 64
+             Fax:
+             E-mail:       numerotation@anrt.ma
+             URL:          www.anrt.ma
+
+
+
+
+United Kingdom (country code +44)
+Communication of 18.I.2024:
+The Office of Communications (Ofcom), London, announces that the following number ranges for mobile services have
+been allocated to communications providers in the United Kingdom (country code +44).
+
+a. Overview
+The minimum mobile number length (excluding the country code) is      10 digits
+The maximum mobile number length (excluding the country code) is      10 digits
+
+International dialling format for mobile numbers:
++44 71 XXXX XXXX
++44 72 XXXX XXXX
++44 73 XXXX XXXX
++44 74 XXXX XXXX
++44 75 XXXX XXXX
++44 77 XXXX XXXX
++44 78 XXXX XXXX
++44 79 XXXX XXXX
+
+b. Details of additional number ranges
+
+
+ Number Block          Communication Provider                  Number Description              Allocation Date
+ 7343 0           LEBARA MOBILE LIMITED              S7 Radiopaging and Mobile number -        31/05/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7343 1           LEBARA MOBILE LIMITED              S7 Radiopaging and Mobile number -        31/05/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7343 2           LEBARA MOBILE LIMITED              S7 Radiopaging and Mobile number -        31/05/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7343 3           LEBARA MOBILE LIMITED              S7 Radiopaging and Mobile number -        31/05/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7343 4           LEBARA MOBILE LIMITED              S7 Radiopaging and Mobile number -        31/05/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7343 5           LEBARA MOBILE LIMITED              S7 Radiopaging and Mobile number -        31/05/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7343 6           LEBARA MOBILE LIMITED              S7 Radiopaging and Mobile number -        31/05/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7343 7           LEBARA MOBILE LIMITED              S7 Radiopaging and Mobile number -        31/05/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7343 8           LEBARA MOBILE LIMITED              S7 Radiopaging and Mobile number -        31/05/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7343 9           LEBARA MOBILE LIMITED              S7 Radiopaging and Mobile number -        31/05/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7349 0           Vodafone Limited                   S7 Radiopaging and Mobile number -        14/12/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7349 1           Vodafone Limited                   S7 Radiopaging and Mobile number -        14/12/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7349 2           Vodafone Limited                   S7 Radiopaging and Mobile number -        14/12/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7349 3           Vodafone Limited                   S7 Radiopaging and Mobile number -        14/12/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7349 4           Vodafone Limited                   S7 Radiopaging and Mobile number -        14/12/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+ 7349 5           Vodafone Limited                   S7 Radiopaging and Mobile number -        14/12/2023
+                                                     Mobile Numbers (071-075 and 077-079)
+Number Block        Communication Provider            Number Description             Allocation Date
+7349 6          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7349 7          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7349 8          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7349 9          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7350 0          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7350 1          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7350 2          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7350 3          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7350 4          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7350 5          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7350 6          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7350 7          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7350 8          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7350 9          Vodafone Limited             S7 Radiopaging and Mobile number -      14/12/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7351 0          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7351 1          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7351 2          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7351 3          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7351 4          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7351 5          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7351 6          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7351 7          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7351 8          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7351 9          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7352 0          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+7352 1          Vodafone Limited             S7 Radiopaging and Mobile number -      30/11/2023
+                                             Mobile Numbers (071-075 and 077-079)
+
+Number Block        Communication Provider                 Number Description            Allocation Date
+7352 2          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7352 3          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7352 4          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7352 5          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7352 6          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7352 7          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7352 8          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7352 9          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7353 0          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7353 1          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7353 2          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7353 3          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7353 4          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7353 5          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7353 6          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7353 7          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7353 8          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7353 9          Vodafone Limited                  S7 Radiopaging and Mobile number -     30/11/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7356 6          WIRELESS LOGIC LIMITED            S7 Radiopaging and Mobile number -     05/04/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7364 4          CIRCLES MVNE International B.V.   S7 Radiopaging and Mobile number -     31/07/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7369 1          Telet Research (N.I.) Limited     S7 Radiopaging and Mobile number -     08/02/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7369 7          WAVE MOBILE LTD                   S7 Radiopaging and Mobile number -     10/01/2024
+                                                  Mobile Numbers (071-075 and 077-079)
+7408 0          TP GLOBAL OPERATIONS LIMITED      S7 Radiopaging and Mobile number -     18/07/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7408 1          TP GLOBAL OPERATIONS LIMITED      S7 Radiopaging and Mobile number -     18/07/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7408 2          TP GLOBAL OPERATIONS LIMITED      S7 Radiopaging and Mobile number -     18/07/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+7408 6          TP GLOBAL OPERATIONS LIMITED      S7 Radiopaging and Mobile number -     18/07/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+
+ Number Block          Communication Provider              Number Description             Allocation Date
+ 7408 8            TP GLOBAL OPERATIONS LIMITED   S7 Radiopaging and Mobile number -      18/07/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+ 7408 9            TP GLOBAL OPERATIONS LIMITED   S7 Radiopaging and Mobile number -      18/07/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+ 7417 8            TP GLOBAL OPERATIONS LIMITED   S7 Radiopaging and Mobile number -      18/07/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+ 7559 4            TP GLOBAL OPERATIONS LIMITED   S7 Radiopaging and Mobile number -      18/07/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+ 7978 8            TP GLOBAL OPERATIONS LIMITED   S7 Radiopaging and Mobile number -      18/07/2023
+                                                  Mobile Numbers (071-075 and 077-079)
+
+Contact:
+           Office of Communications - Ofcom
+           Riverside House
+           2a Southwark Bridge Road
+           LONDON SE1 9HA
+           United Kingdom
+           Tel:         +44 2079813000
+           Fax:         +44 2079813990
+           E-mail:      numbering@ofcom.org.uk
+           URL          www.ofcom.org.uk
+
+
+
+
+                                 Testing Laboratories recognized by ITU
+
+According to the ITU-T Guideline on “Testing Laboratories recognition procedure” (2022) and based on the application
+received as of 23 January 2024, the following Testing Laboratory, which fulfils the criteria defined in the clause 9 of the
+above-mentioned ITU-T Guideline, was registered in the ITU Testing Laboratory Database (https://itu.int/go/tldb):
+
+
+                                                          Scope of Accreditation
+ Testing Laboratory                   Country
+                                                          (ITU-T Recommendations)
+
+ STL OF Quality Testing               India               ITU-T G.650.1, G.650.3, G.652, G.654, G.655,
+ Laboratory                                               G.656, G.657
+
+
+
+Any queries can be addressed to conformity@itu.int. More details are available on ITU C&I Portal at:
+https://itu.int/go/citest.
+
+
+
+
+                                                Service Restrictions
+                                        See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Türkiye
+Communication of 30.I.2024:
+The Information and Communication Technologies Authority (BTK), Ankara, announces the following updated service
+restrictions for Türkiye:
+
+The radiotelegraphy service is no longer provided.
+
+
+Contact:
+      Bilgi Teknolojileri ve İletişim Kurumu (BTK)
+      Information and Communication Technologies Authority (BTK)
+      Eskişehir Yolu 10. Km No:276
+      06430 ÇANKAYA/ANKARA
+      Türkiye
+      URL: www.btk.gov.tr
+
+
+
+
+                                          Service Restrictions
+                                  See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+
+
+
+
+                                            Call-Back
+                    and alternative calling procedures (Res. 21 Rev. PP-06)
+                               See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                     AMENDMENTS TO SERVICE PUBLICATIONS
+                                              Abbreviations used
+                            ADD    Insert                   PAR    Paragraph
+                            COL    Column                   REP    Replace
+                            LIR    Read                     SUP    Delete
+                            P      Page(s)
+
+
+
+
+                           List of Ship Stations and Maritime Mobile
+                                   Service Identity Assignments
+                                              (List V)
+                                          Edition of 2023
+
+                                                 Section VI
+
+
+ADD
+
+ DP09    MediaMobil Communication GmbH, Haferwende 14, 28357 Bremen, Germany.
+         E-mail : a.nil@mediamobil.de, Tel : +49 421 944 024 286, Fax : +49 421 944 024 260,
+         Contact person : Andreas Nil.
+
+ GR02    MGT ELECTRONICS MGT ELECTRONICS SINGLE MEMBER PRIVATE COMPANY,
+         34, Sachtouri Street,18537, Piraeus, Greece.
+         E-mail : helpdesk@mgtelectronics.gr, Tel : +30 210 4222829,
+         Contact Person / legal representative : Michail Tzanidakis.
+
+
+
+
+                     List of Recommendation ITU-T E.164 assigned Country Codes
+                       (Complement to Recommendation ITU-T E.164 (11/2010))
+                                  (Position on 15 December 2016)
+                                       (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                        (Amendment No. 38)
+
+       Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+
+
+o       Associated with shared country code 882, the following two-digit identification code reservations or assignments
+        have been made for the international networks of:
+
+
+Note o)      +882 52        ADD*
+
+                                                                                   Country Code and
+                Applicant                                   Network                                              Status
+                                                                                  Identification Code
+
+    China Telecommunications                 China Telecommunications                 +882 52                  Assigned
+    Corporation                              Corporation
+
+* 1.II.2024
+
+__________
+
+See page 5 of the present Operational Bulletin No. 1286 of 15.II.2024.
+
+
+
+
+                  Network Codes (MNC) for the international identification plan
+                             for public networks and subscriptions
+                     (According to Recommendation ITU-T E.212 (09/2016))
+                                (Position on 15 November 2023)
+                                   (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                    (Amendment No. 4)
+
+
+Country/Geographical area            MCC+MNC              Operator/Network
+Canada      ADD
+                                           302 351        MPVWIFI Inc.
+Denmark       ADD
+                                           238 19         YATECO OÜ
+New Zealand       ADD
+                                           530 12         Broadband & Internet New Zealand Limited
+United Kingdom        ADD
+                                           234 05         Spitfire Network Services Limited
+                                           234 79         UK Telecoms Lab (UKTL)
+                                           234 87         LEBARA MOBILE LIMITED
+United Kingdom        LIR
+                                           234 04         WAVE MOBILE LTD
+                                           234 18         WIRELESS LOGIC LIMITED
+                                           234 74         CIRCLES MVNE International B.V.
+International Mobile,
+shared code ADD*
+                                           901 08         SpaceX
+                                           901 09         China Telecommunications Corporation
+
+
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+* See the present ITU Operational Bulletin No. 1286 of 15.II.2024, page 5.
+
+
+
+
+                                       List of ITU Carrier Codes
+                       (According to Recommendation ITU-T M.1400 (03/2013))
+                                   (Position on 15 September 2014)
+                                      (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                      (Amendment No. 164)
+
+
+ Country or area/ISO code                              Company Code              Contact
+  Company Name/Address                                  (carrier code)
+
+
+Germany (Federal Republic of) / DEU                  ADD
+
+ WTG communication GmbH                                      WTGCOM               Mr. Jan Bechtloff
+ Willy-Brandt-Weg 11                                                              Tel.: +49 251 39930
+ D-48155 MUENSTER                                                                 Email: backoffice-ms@wtg.com
+
+
+ Blue Sky Operations GmbH                                     BSO23               Mr Lukas Lange
+ Honenberg 27                                                                     Tel.: +49 152 01445123
+ D-21398 NEETZE                                                                   Email: info@blue-sky-ops.de
+
+
+
+
+                            List of Signalling Area/Network Codes (SANC)
+                       (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                       (Position on 1 June 2017)
+
+                                       (Annex to ITU Operational Bulletin No. 1125 – 1.VI.2017)
+                                                       (Amendment No. 26)
+
+ Numerical order        ADD
+               5-212        Ireland
+
+
+
+ Alphabetical order ADD
+               5-212        Ireland
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                            List of International Signalling Point Codes (ISPC)
+                         (According to Recommendation ITU-T Q.708 (03/1999))
+                                          (Position on 1 July 2020)
+                                       (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                        (Amendment No. 66)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point          Name of the signalling point operator
+
+
+ Denmark SUP
+ 2-076-0       4704         Copenhagen - Copenhagen dnc                  TDC A/S
+ 2-076-2       4706         Copenhagen - Albertslund dnc                 TDC A/S
+ 2-078-1       4721         Copenhagen - Ejby LS                         TeliaSonera AB
+ 2-079-4       4732         Copenhagen - Orestaden LS                    TeliaSonera AB
+
+ Namibia SUP
+ 6-098-7       13079        DemshiNAM                                    Demshi Investments CC
+
+ United Kingdom ADD
+ 6-242-6       14230        telet-stp-1                                  Telet Research (N.I.) Limited
+ 6-254-4       14324        telet-stp-2                                  Telet Research (N.I.) Limited
+ 7-229-0       16168        THE1                                         ESEYE LIMITED
+ 7-229-1       16169        THE2                                         ESEYE LIMITED
+ 7-237-0       16232        TB1.E03                                      Sky UK Limited
+
+ United Kingdom LIR
+ 2-190-2       5618         Titan                                        CIRCLES MVNE International B.V.
+ 2-210-4       5780         Titan                                        CIRCLES MVNE International B.V.
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                      National Numbering Plan
+                       (According to Recommendation ITU-T E.129 (01/2013))
+                                          Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which will
+be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations are
+kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will be
+responsible for the timely update of this information.
+From 15.I.2024, the following countries/geographical areas have updated their national numbering plan on our site:
+
+                                  Country/ Geographical area                 Country Code (CC)
+                      Mauritius                                                       +230
+
+
+
+
