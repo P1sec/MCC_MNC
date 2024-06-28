@@ -111,7 +111,7 @@ def country_name_to_url(s):
             ret = ret[:-1].strip()
         return ret
 
-def parse_table_country_all():
+def parse_table_country_all(start_idx=0):
     J = import_json_doc(URL_FACTBOOK)
     try:
         T = J['result']['data']['appendix']['entries']
@@ -120,7 +120,7 @@ def parse_table_country_all():
     #
     D   = {} 
     #
-    for L in T:
+    for L in T[start_idx:]:
         rec = dict(REC_COUNTRY)
         for f in L['fields']:
             if f['attribute'] == 'name':
@@ -565,6 +565,8 @@ def _extract_capital(s):
 def _extract_total_value(s):
     if '<br><br>' in s:
         lines = s.split('<br><br>')
+    else:
+        lines = s
     for l in lines:
         if l.startswith('total'):
             return _extract_value(s.split(':', 1)[1].strip())
