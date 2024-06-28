@@ -605,17 +605,22 @@ REC_BORDERS = {
 BORDER_ISSUE = {'Afghanistan', 'China', 'Georgia', 'India', 'Israel', 'Russia', }
 
 
-_stripbordref = lambda s: re.sub('\s{1,}', ' ', re.sub(r'\(.*?\)|\[.*?\]', ' ', s).strip())
+def _stripbordref(s):
+    n = re.sub('\s{1,}', ' ', re.sub(r'\(.*?\)|\[.*?\]', ' ', s).strip())
+    if ':' in n:
+        n = n.split(':')[0].rstrip()
+    if ' 0.' in n:
+        n = n.split(' 0.')[0].rstrip()
+    if n in CRAPPY_BORDERS:
+        n = CRAPPY_BORDERS[n]
+    return n
+
 
 def _get_bord(e):
     b = set()
     for s in map(str.strip, ''.join(e.itertext()).split('\xa0')):
         if s and s[0].isupper():
             name = _stripbordref(s)
-            if ':' in name:
-                name = name.split(':')[0].strip()
-            if name in CRAPPY_BORDERS:
-                name = CRAPPY_BORDERS[name]
             b.add(name)
     return list(sorted(b))
 
@@ -667,7 +672,7 @@ def read_entry_borders(T, off):
 
 def parse_table_borders():
     T   = import_html_doc(URL_BORDERS).xpath('//table')
-    T_B = T[0][0]
+    T_B = T[1][0]
     L   = []
     cns = set()
     for i in range(2, len(T_B)):
@@ -677,6 +682,7 @@ def parse_table_borders():
         else:
             cns.add(rec['country_name'])
         L.append(rec)
+    assert(L)
     L.sort(key=lambda r: r['country_name'])
     return L
 
@@ -702,7 +708,7 @@ def get_wiki_infos():
         print('parse_table_mnc_all: unable to download and / or parse Wikipedia HTML tables ; exception: %r' % err)
         return None, None, None, None, None, None, None
     try:
-        D_pref, D_count, D_terr = parse_table_msisdn_pref()
+        D_count, D_pref, D_terr = parse_table_msisdn_pref()
     except Exception as err:
         print('parse_table_msisdn_pref: unable to download and / or parse Wikipedia HTML tables ; exception: %r' % err)
         return None, None, None, None, None, None, None
