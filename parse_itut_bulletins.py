@@ -80,6 +80,9 @@ BULL_FREQ = {
     2018 : list(range(1139, 1163)),
     2019 : list(range(1163, 1187)),
     2020 : list(range(1187, 1211)),
+    2021 : list(range(1211, 1235)),
+    2022 : list(range(1235, 1259)),
+    2023 : list(range(1259, 1283)),
     }
 
 
@@ -112,7 +115,8 @@ def dl_bull(bnum=1111, byear=2016, dbg=True, rmpdf=True):
     try:
         resp = urllib.request.urlopen(url)
     except urllib.error.HTTPError as err:
-        #print('> unable to download bulletin %.4i for year %.4i' % (bnum, byear))
+        if dbg:
+            print('> unable to download bulletin %.4i for year %.4i' % (bnum, byear))
         fnsub = 'T-SP-OB.%i-%i-PDF-E.pdf' % (bnum, byear)
         url   = ITUT_BULL_URL_PREF + fnsub
         try:
