@@ -99,6 +99,7 @@ SOVEREIGNITY_LUT = {
     'france'            : 'FR',
     'british crown'     : 'GB', # this is not exactly true, however...
     'china'             : 'CN',
+    'un member'         : 'UN member',
     'un member state'   : 'UN member',
     'un observer'       : 'UN observer',
     'un observer state' : 'UN observer',
@@ -449,11 +450,11 @@ URL_MSISDN = "https://en.wikipedia.org/wiki/List_of_country_calling_codes"
 
 
 def parse_table_msisdn_pref_over(T):
-    # parse the table from the "overview" section, with {prefix: CC2 code, url prefix, url country}
+    # parse the table from the "Summary" section, with {prefix: CC2 code, url prefix, url country}
     D = {}
     #
     # 2nd line: +1 prefix US + CA
-    e        = T[2][1][0]
+    e        = T[2][1]
     pref     = e[0].text.strip()
     pref_url = URL_PREF + e[0].values()[0].strip()
     assert( pref == '1' and len(pref_url) > len(URL_PREF) )
@@ -533,7 +534,7 @@ def parse_table_msisdn_pref_alphaord(T):
     # parse the table from the "Alphabetical order" section, with {country: prefix)
     D = {}
     #
-    for L in T[1:]:
+    for L in T[2:]:
         name, prefs, utc, dst = tuple(map(str.strip, ''.join(L.itertext()).split('\n\n')))
         m = RE_WIKI_MSISDN_PREF.match(prefs)
         assert(m)
@@ -568,8 +569,8 @@ def parse_table_msisdn_pref():
     # extract the dict of {MSISDN prefix: country infos} from the 1st table
     # extract the dict of {country: MSISDN prefix} from the 2nd table
     # extract the dict of {location with no country code: MSISDN prefix} from the 3rd table
-    return parse_table_msisdn_pref_over(T[0][0]), \
-           parse_table_msisdn_pref_alphaord(T[1][0]), \
+    return parse_table_msisdn_pref_alphaord(T[0][0]), \
+           parse_table_msisdn_pref_over(T[1][0]), \
            parse_table_msisdn_pref_locnocount(T[2][0])
 
 
