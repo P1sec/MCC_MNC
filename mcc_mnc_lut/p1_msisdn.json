@@ -92,9 +92,6 @@
     "1876": [
       "Jamaica"
     ],
-    "1930": [
-      "Puerto Rico"
-    ],
     "1939": [
       "Puerto Rico"
     ],
@@ -371,12 +368,6 @@
     "374": [
       "Armenia"
     ],
-    "37447": [
-      "Nagorno-Karabakh"
-    ],
-    "37497": [
-      "Nagorno-Karabakh"
-    ],
     "375": [
       "Belarus"
     ],
@@ -638,7 +629,6 @@
     ],
     "672": [
       "Antarctica",
-      "Heard Island and McDonald Islands",
       "Norfolk Island"
     ],
     "6723": [
@@ -702,12 +692,19 @@
       "Marshall Islands"
     ],
     "7": [
+      "Kazakhstan",
+      "Russia"
+    ],
+    "71": [
       "Russia"
     ],
     "73": [
       "Russia"
     ],
     "74": [
+      "Russia"
+    ],
+    "75": [
       "Russia"
     ],
     "76": [
@@ -719,8 +716,20 @@
     "78": [
       "Russia"
     ],
+    "7840": [
+      "Abkhazia"
+    ],
+    "7850": [
+      "South Ossetia"
+    ],
     "79": [
       "Russia"
+    ],
+    "7929": [
+      "South Ossetia"
+    ],
+    "7940": [
+      "Abkhazia"
     ],
     "800": [
       "International Freephone Service (UIFN)"
@@ -801,7 +810,6 @@
       "Taiwan"
     ],
     "90": [
-      "Northern Cyprus",
       "Turkey"
     ],
     "90392": [
@@ -856,7 +864,8 @@
       "United Arab Emirates"
     ],
     "972": [
-      "Israel"
+      "Israel",
+      "State of Palestine"
     ],
     "973": [
       "Bahrain"
@@ -891,14 +900,8 @@
     "995": [
       "Georgia"
     ],
-    "99534": [
-      "South Ossetia"
-    ],
     "996": [
       "Kyrgyzstan"
-    ],
-    "997": [
-      "Kazakhstan"
     ],
     "998": [
       "Uzbekistan"
