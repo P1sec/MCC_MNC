@@ -24,3 +24,4 @@ https://www.submarinecablemap.com/
 
 Add the Google Android MNO db:
 https://android.googlesource.com/platform/packages/providers/TelephonyProvider/+/main/assets/latest_carrier_id/carrier_list.textpb
+https://android.googlesource.com/platform/packages/apps/CarrierConfig/+/refs/heads/main/assets/
