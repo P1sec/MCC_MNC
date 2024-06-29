@@ -12,12 +12,6 @@
         "Canada",
         "https://en.wikipedia.org/wiki/Canada",
         "https://en.wikipedia.org/wiki/List_of_NANP_area_codes"
-      ],
-      [
-        "US",
-        "United States",
-        "https://en.wikipedia.org/wiki/United_States",
-        "https://en.wikipedia.org/wiki/List_of_NANP_area_codes"
       ]
     ],
     "1242": [
@@ -986,14 +980,7 @@
         "https://en.wikipedia.org/wiki/%2B382"
       ]
     ],
-    "383": [
-      [
-        "XK",
-        "Kosovo",
-        "https://en.wikipedia.org/wiki/Kosovo",
-        "https://en.wikipedia.org/wiki/%2B383"
-      ]
-    ],
+    "383": [],
     "385": [
       [
         "HR",
@@ -1093,25 +1080,25 @@
         "GB",
         "United Kingdom",
         "https://en.wikipedia.org/wiki/United_Kingdom",
-        "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Kingdom"
+        "https://en.wikipedia.org/wiki/%2B44"
       ],
       [
         "GG",
         "Guernsey",
         "https://en.wikipedia.org/wiki/Guernsey",
-        "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Kingdom"
+        "https://en.wikipedia.org/wiki/%2B44"
       ],
       [
         "IM",
         "Isle of Man",
         "https://en.wikipedia.org/wiki/Isle_of_Man",
-        "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Kingdom"
+        "https://en.wikipedia.org/wiki/%2B44"
       ],
       [
         "JE",
         "Jersey",
         "https://en.wikipedia.org/wiki/Jersey",
-        "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Kingdom"
+        "https://en.wikipedia.org/wiki/%2B44"
       ]
     ],
     "45": [
@@ -1405,13 +1392,13 @@
         "BQ",
         "Caribbean Netherlands",
         "https://en.wikipedia.org/wiki/Caribbean_Netherlands",
-        "https://en.wikipedia.org/wiki/Telephone_numbers_in_Cura%C3%A7ao_and_the_Caribbean_Netherlands"
+        "https://en.wikipedia.org/wiki/%2B599"
       ],
       [
         "CW",
         "Cura\u00e7ao",
         "https://en.wikipedia.org/wiki/Cura%C3%A7ao",
-        "https://en.wikipedia.org/wiki/Telephone_numbers_in_Cura%C3%A7ao_and_the_Caribbean_Netherlands"
+        "https://en.wikipedia.org/wiki/%2B599"
       ]
     ],
     "60": [
@@ -1501,12 +1488,6 @@
         "AQ",
         "Australian Antarctic Territory",
         "https://en.wikipedia.org/wiki/Australian_Antarctic_Territory",
-        "https://en.wikipedia.org/wiki/Telephone_numbers_in_Oceania"
-      ],
-      [
-        "HM",
-        "Heard Island and McDonald Islands",
-        "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands",
         "https://en.wikipedia.org/wiki/Telephone_numbers_in_Oceania"
       ],
       [
@@ -1670,10 +1651,24 @@
     ],
     "7": [
       [
+        "KZ",
+        "Kazakhstan",
+        "https://en.wikipedia.org/wiki/Kazakhstan",
+        "https://en.wikipedia.org/wiki/%2B7"
+      ],
+      [
         "RU",
         "Russia",
         "https://en.wikipedia.org/wiki/Russia",
         "https://en.wikipedia.org/wiki/%2B7"
+      ]
+    ],
+    "71": [
+      [
+        "RU",
+        "Russia",
+        "https://en.wikipedia.org/wiki/Russia",
+        "https://en.wikipedia.org/wiki/Telephone_numbers_in_Russia"
       ]
     ],
     "73": [
@@ -1685,6 +1680,14 @@
       ]
     ],
     "74": [
+      [
+        "RU",
+        "Russia",
+        "https://en.wikipedia.org/wiki/Russia",
+        "https://en.wikipedia.org/wiki/Telephone_numbers_in_Russia"
+      ]
+    ],
+    "75": [
       [
         "RU",
         "Russia",
@@ -1801,7 +1804,7 @@
         "BD",
         "Bangladesh",
         "https://en.wikipedia.org/wiki/Bangladesh",
-        "https://en.wikipedia.org/wiki/Telephone_numbers_in_Bangladesh"
+        "https://en.wikipedia.org/wiki/%2B880"
       ]
     ],
     "886": [
@@ -1813,12 +1816,6 @@
       ]
     ],
     "90": [
-      [
-        "CT",
-        "Northern Cyprus",
-        "https://en.wikipedia.org/wiki/Northern_Cyprus",
-        "https://en.wikipedia.org/wiki/%2B90"
-      ],
       [
         "TR",
         "Turkey",
@@ -1959,7 +1956,13 @@
         "IL",
         "Israel",
         "https://en.wikipedia.org/wiki/Israel",
-        "https://en.wikipedia.org/wiki/Telephone_numbers_in_Israel"
+        "https://en.wikipedia.org/wiki/%2B972"
+      ],
+      [
+        "PS",
+        "State of Palestine",
+        "https://en.wikipedia.org/wiki/State_of_Palestine",
+        "https://en.wikipedia.org/wiki/%2B972"
       ]
     ],
     "973": [
@@ -2048,14 +2051,6 @@
         "Kyrgyzstan",
         "https://en.wikipedia.org/wiki/Kyrgyzstan",
         "https://en.wikipedia.org/wiki/%2B996"
-      ]
-    ],
-    "997": [
-      [
-        "KZ",
-        "Kazakhstan",
-        "https://en.wikipedia.org/wiki/Kazakhstan",
-        "https://en.wikipedia.org/wiki/%2B997"
       ]
     ],
     "998": [

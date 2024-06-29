@@ -107,11 +107,11 @@
     },
     {
       "authority": "",
-      "code_alpha_2": "XK",
+      "code_alpha_2": "RS-KM",
       "country_name": "Kosovo",
       "country_url": "https://en.wikipedia.org/wiki/Kosovo",
       "mcc": "221",
-      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Kosovo_\u2013_XK",
+      "mcc_url": "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Kosovo_\u2013_RS-KM",
       "notes": ""
     },
     {
@@ -493,7 +493,7 @@
       "notes": ""
     },
     {
-      "authority": "Amt f\u00fcr Kommunikation (AK)",
+      "authority": "Office for Communications / Amt f\u00fcr Kommunikation (AK)",
       "code_alpha_2": "LI",
       "country_name": "Liechtenstein",
       "country_url": "https://en.wikipedia.org/wiki/Liechtenstein",
@@ -1843,7 +1843,7 @@
       "notes": ""
     },
     {
-      "authority": "",
+      "authority": "Seychelles Communications Regulatory Authority (SCRA)",
       "code_alpha_2": "SC",
       "country_name": "Seychelles",
       "country_url": "https://en.wikipedia.org/wiki/Seychelles",

@@ -36,8 +36,8 @@
       "code_alpha_2": "AF",
       "code_alpha_3": "AFG",
       "code_num": "004",
-      "country_name": "Islamic Republic of Afghanistan",
-      "country_url": "https://en.wikipedia.org/wiki/Islamic_Republic_of_Afghanistan",
+      "country_name": "Afghanistan",
+      "country_url": "https://en.wikipedia.org/wiki/Afghanistan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AF",
       "sovereignity": "UN member",
       "state_name": "The Islamic Republic of Afghanistan"
@@ -112,7 +112,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Antarctica",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AQ",
       "sovereignity": "Antarctica",
-      "state_name": "All land and ice shelves south of the"
+      "state_name": "Antarctica (all land and ice shelves south of the"
     },
     "AR": {
       "cc_tld": ".ar",

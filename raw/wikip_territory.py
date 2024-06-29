@@ -31,7 +31,7 @@ WIKIP_TERRITORY = \
   'Gabriel de Castilla Spanish Antarctic Station': ( '34',
                                                      'Spain',
                                                      'https://en.wikipedia.org/wiki/Gabriel_de_Castilla_Spanish_Antarctic_Station'),
-  'Georg-von-Neumayer-Station': ('49', 'Germany', 'https://en.wikipedia.org/wiki/Georg-von-Neumayer-Station'),
+  'Georg von Neumayer Station': ('49', 'Germany', 'https://en.wikipedia.org/wiki/Georg_von_Neumayer_Station'),
   'Gonzalez Videla Station': ('56', 'Chile', 'https://en.wikipedia.org/wiki/Gonzalez_Videla_Station'),
   'Great Wall Station': ('86', 'China', 'https://en.wikipedia.org/wiki/Great_Wall_Station'),
   'Halley Research Station': ('44', 'United Kingdom', 'https://en.wikipedia.org/wiki/Halley_Research_Station'),
