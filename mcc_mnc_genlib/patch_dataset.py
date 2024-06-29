@@ -459,7 +459,7 @@ for name, infos in COUNTRY_SPEC.items():
 # Wikipedia territory borders list
 #------------------------------------------------------------------------------#
 
-# territory name that needs to be deleted
+# territory name that needs to be deleted
 BORD_COUNTRY_DEL = [
     #
     # Special administrative regions of China:

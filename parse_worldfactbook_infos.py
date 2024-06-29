@@ -60,7 +60,7 @@ def import_json_doc(url):
 # parsing CIA World Factbook country information
 #------------------------------------------------------------------------------#
 
-DEBUG = 1
+DEBUG = 0
 
 # old URLs, not valid anymore since January 2021
 #URL_FACTBOOK = 'https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html'

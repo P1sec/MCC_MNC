@@ -1,9 +1,6 @@
 # ITU-T bulletins
 
-Parses incremental changes to ISPC starting from bulletin 1200, and create an incremental change on top of the 1199 extract.
-'''
-grep -Ei "^[[:blank:]]{0,}ISPC[[:blank:]]{1,}DEC[[:blank:]]{1,}Unique name of the signalling point[[:blank:]]{1,}Name of the signalling point operator[[:blank:]]{0,}$" itut/*.txt
-'''
+Parses incremental changes to MCC - MNC in bulletins > 1162, and create an incremental change on top of the 1162 extract.
 
 
 # Additional sources
@@ -23,3 +20,7 @@ All submarine cables and landing points:
 https://www.submarinecablemap.com/
 
 
+## MCC - MNC
+
+Add the Google Android MNO db:
+https://android.googlesource.com/platform/packages/providers/TelephonyProvider/+/main/assets/latest_carrier_id/carrier_list.textpb
