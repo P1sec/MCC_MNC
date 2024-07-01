@@ -99,6 +99,7 @@ SOVEREIGNITY_LUT = {
     'france'            : 'FR',
     'british crown'     : 'GB', # this is not exactly true, however...
     'china'             : 'CN',
+    'un member'         : 'UN member',
     'un member state'   : 'UN member',
     'un observer'       : 'UN observer',
     'un observer state' : 'UN observer',
@@ -449,11 +450,11 @@ URL_MSISDN = "https://en.wikipedia.org/wiki/List_of_country_calling_codes"
 
 
 def parse_table_msisdn_pref_over(T):
-    # parse the table from the "overview" section, with {prefix: CC2 code, url prefix, url country}
+    # parse the table from the "Summary" section, with {prefix: CC2 code, url prefix, url country}
     D = {}
     #
     # 2nd line: +1 prefix US + CA
-    e        = T[2][1][0]
+    e        = T[2][1]
     pref     = e[0].text.strip()
     pref_url = URL_PREF + e[0].values()[0].strip()
     assert( pref == '1' and len(pref_url) > len(URL_PREF) )
@@ -533,7 +534,7 @@ def parse_table_msisdn_pref_alphaord(T):
     # parse the table from the "Alphabetical order" section, with {country: prefix)
     D = {}
     #
-    for L in T[1:]:
+    for L in T[2:]:
         name, prefs, utc, dst = tuple(map(str.strip, ''.join(L.itertext()).split('\n\n')))
         m = RE_WIKI_MSISDN_PREF.match(prefs)
         assert(m)
@@ -568,8 +569,8 @@ def parse_table_msisdn_pref():
     # extract the dict of {MSISDN prefix: country infos} from the 1st table
     # extract the dict of {country: MSISDN prefix} from the 2nd table
     # extract the dict of {location with no country code: MSISDN prefix} from the 3rd table
-    return parse_table_msisdn_pref_over(T[0][0]), \
-           parse_table_msisdn_pref_alphaord(T[1][0]), \
+    return parse_table_msisdn_pref_alphaord(T[0][0]), \
+           parse_table_msisdn_pref_over(T[1][0]), \
            parse_table_msisdn_pref_locnocount(T[2][0])
 
 
@@ -604,17 +605,22 @@ REC_BORDERS = {
 BORDER_ISSUE = {'Afghanistan', 'China', 'Georgia', 'India', 'Israel', 'Russia', }
 
 
-_stripbordref = lambda s: re.sub('\s{1,}', ' ', re.sub(r'\(.*?\)|\[.*?\]', ' ', s).strip())
+def _stripbordref(s):
+    n = re.sub('\s{1,}', ' ', re.sub(r'\(.*?\)|\[.*?\]', ' ', s).strip())
+    if ':' in n:
+        n = n.split(':')[0].rstrip()
+    if ' 0.' in n:
+        n = n.split(' 0.')[0].rstrip()
+    if n in CRAPPY_BORDERS:
+        n = CRAPPY_BORDERS[n]
+    return n
+
 
 def _get_bord(e):
     b = set()
     for s in map(str.strip, ''.join(e.itertext()).split('\xa0')):
         if s and s[0].isupper():
             name = _stripbordref(s)
-            if ':' in name:
-                name = name.split(':')[0].strip()
-            if name in CRAPPY_BORDERS:
-                name = CRAPPY_BORDERS[name]
             b.add(name)
     return list(sorted(b))
 
@@ -666,7 +672,7 @@ def read_entry_borders(T, off):
 
 def parse_table_borders():
     T   = import_html_doc(URL_BORDERS).xpath('//table')
-    T_B = T[0][0]
+    T_B = T[1][0]
     L   = []
     cns = set()
     for i in range(2, len(T_B)):
@@ -676,6 +682,7 @@ def parse_table_borders():
         else:
             cns.add(rec['country_name'])
         L.append(rec)
+    assert(L)
     L.sort(key=lambda r: r['country_name'])
     return L
 
@@ -701,7 +708,7 @@ def get_wiki_infos():
         print('parse_table_mnc_all: unable to download and / or parse Wikipedia HTML tables ; exception: %r' % err)
         return None, None, None, None, None, None, None
     try:
-        D_pref, D_count, D_terr = parse_table_msisdn_pref()
+        D_count, D_pref, D_terr = parse_table_msisdn_pref()
     except Exception as err:
         print('parse_table_msisdn_pref: unable to download and / or parse Wikipedia HTML tables ; exception: %r' % err)
         return None, None, None, None, None, None, None

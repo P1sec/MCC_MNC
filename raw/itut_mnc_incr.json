@@ -100,6 +100,21 @@
         "UE Access Pty Ltd",
         "50590",
         "LIR"
+      ],
+      [
+        "CiFi Pty Ltd",
+        "50557",
+        "ADD"
+      ],
+      [
+        "Wi-Sky (NSW) Pty Ltd",
+        "50558",
+        "ADD"
+      ],
+      [
+        "Starlink Internet Services Pte Ltd",
+        "50559",
+        "ADD"
       ]
     ],
     "Bahrain": [
@@ -356,12 +371,47 @@
         "Halton Regional Police",
         "302910",
         "LIR"
+      ],
+      [
+        "Bell Mobility.",
+        "302250",
+        "LIR"
+      ],
+      [
+        "MPVWIFI Inc.",
+        "302351",
+        "ADD"
+      ],
+      [
+        "Lytton Area Wireless Society",
+        "302352",
+        "ADD"
+      ],
+      [
+        "Sugar Mobile Inc.",
+        "302160",
+        "ADD"
+      ],
+      [
+        "SpeedFI Inc.",
+        "302353",
+        "ADD"
+      ],
+      [
+        "Halton Regional Police Service",
+        "302911",
+        "ADD"
       ]
     ],
     "Cayman Islands": [
       [
         "WestTel Ltd., trading as Logic",
         "346001",
+        "ADD"
+      ],
+      [
+        "Paradise Mobile Limited",
+        "346007",
         "ADD"
       ]
     ],
@@ -374,6 +424,23 @@
       [
         "Cibeles Telecom S.A.",
         "73027",
+        "ADD"
+      ],
+      [
+        "CLARO CHILE SpA",
+        "73024",
+        "ADD"
+      ],
+      [
+        "Entel PCS Telecomunicaciones S.A.",
+        "73029",
+        "ADD"
+      ]
+    ],
+    "Costa Rica": [
+      [
+        "RADIOGRAFICA COSTARRICENSE S.A.",
+        "71220",
         "ADD"
       ]
     ],
@@ -424,6 +491,26 @@
         "Nordic Telecom Regional s.r.o.",
         "23004",
         "LIR"
+      ],
+      [
+        "incrate s.r.o.",
+        "23011",
+        "SUP"
+      ],
+      [
+        "DataCell s.r.o.",
+        "23010",
+        "ADD"
+      ],
+      [
+        "O2 Czech Republic a.s.",
+        "23022",
+        "ADD"
+      ],
+      [
+        "\u0160koda Auto a.s.",
+        "23053",
+        "ADD"
       ]
     ],
     "Denmark": [
@@ -446,6 +533,11 @@
         "Telenor",
         "23877",
         "SUP"
+      ],
+      [
+        "YATECO O\u00dc",
+        "23819",
+        "ADD"
       ]
     ],
     "Estonia": [
@@ -532,6 +624,31 @@
       [
         "Mediafon Carrier Services O\u00dc",
         "24830",
+        "ADD"
+      ],
+      [
+        "YATECO O\u00dc",
+        "24831",
+        "ADD"
+      ],
+      [
+        "Narayana O\u00dc",
+        "24832",
+        "ADD"
+      ],
+      [
+        "SkyTel O\u00dc",
+        "24829",
+        "SUP"
+      ],
+      [
+        "Crowdfaster O\u00dc",
+        "24833",
+        "ADD"
+      ],
+      [
+        "Nettora Systems O\u00dc",
+        "24834",
         "ADD"
       ]
     ],
@@ -761,6 +878,21 @@
         "\"Servicebox\" LTD",
         "28215",
         "ADD"
+      ],
+      [
+        "\"Unicell Mobile\"LTD",
+        "28216",
+        "ADD"
+      ],
+      [
+        "Icecell Telecom LLC",
+        "28266",
+        "ADD"
+      ],
+      [
+        "\"TMTECH\" LTD",
+        "28217",
+        "ADD"
       ]
     ],
     "Gibraltar": [
@@ -862,6 +994,16 @@
       [
         "Yettel Hungary Ltd.",
         "21620",
+        "ADD"
+      ],
+      [
+        "Pro-M PrCo. Ltd.",
+        "21604",
+        "ADD"
+      ],
+      [
+        "HM EI Zrt.",
+        "21602",
         "ADD"
       ]
     ],
@@ -1149,6 +1291,46 @@
       [
         "GlobalmatiX AG",
         "90102",
+        "ADD"
+      ],
+      [
+        "BBIX Singapore Pte. Ltd.",
+        "90104",
+        "ADD"
+      ],
+      [
+        "HMD Global Oy",
+        "90195",
+        "SUP"
+      ],
+      [
+        "NTT Ltd.",
+        "90107",
+        "ADD"
+      ],
+      [
+        "SpaceX",
+        "90108",
+        "ADD"
+      ],
+      [
+        "China Telecommunications Corporation",
+        "90109",
+        "ADD"
+      ],
+      [
+        "Voxbone SA",
+        "90124",
+        "SUP"
+      ],
+      [
+        "Truphone Limited",
+        "90190",
+        "SUP"
+      ],
+      [
+        "Omnispace LLC",
+        "90110",
         "ADD"
       ]
     ],
@@ -1525,6 +1707,41 @@
         "Okinawa Cellular Telephone Company",
         "44078",
         "SUP"
+      ],
+      [
+        "Hokkaido Telecommunication Network Co., Inc..",
+        "441213",
+        "ADD"
+      ],
+      [
+        "SoftBank Corp.",
+        "44101",
+        "SUP"
+      ],
+      [
+        "NTT DOCOMO, INC.",
+        "44091",
+        "ADD"
+      ],
+      [
+        "KDDI Corporation",
+        "44092",
+        "ADD"
+      ],
+      [
+        "SoftBank Corp.",
+        "44093",
+        "ADD"
+      ],
+      [
+        "Rakuten Mobile Network, Inc.",
+        "44094",
+        "ADD"
+      ],
+      [
+        "Vroove Inc.",
+        "441214",
+        "ADD"
       ]
     ],
     "Kenya": [
@@ -1564,6 +1781,11 @@
         "Dukagjini Telecommunications LLC",
         "22107",
         "ADD"
+      ],
+      [
+        "Dardafon.Net LLC",
+        "22106",
+        "SUP"
       ]
     ],
     "Lao P.D.R.": [
@@ -1731,12 +1953,34 @@
         "VIASAT TECNOLOG\u00cdA, S.A. DE C.V.",
         "334190",
         "ADD"
+      ],
+      [
+        "VIRGIN MOBILE M\u00c9XICO, S. DE R.L. DE C.V.",
+        "334200",
+        "ADD"
+      ],
+      [
+        "AT&T COMERCIALIZACI\u00d3N M\u00d3VIL, S. DE R.L. DE C.V.",
+        "334040",
+        "LIR"
+      ],
+      [
+        "ALESTRA SERVICIOS M\u00d3VILES, S.A. DE C.V.",
+        "334130",
+        "LIR"
       ]
     ],
     "Namibia": [
       [
         "Capricorn Connect",
         "64907",
+        "ADD"
+      ]
+    ],
+    "Nauru": [
+      [
+        "Nauru Telikom Corporation",
+        "53603",
         "ADD"
       ]
     ],
@@ -1897,6 +2141,31 @@
         "Dense Air New Zealand Ltd",
         "53007",
         "ADD"
+      ],
+      [
+        "Interim M\u0101ori Spectrum Commission",
+        "53011",
+        "ADD"
+      ],
+      [
+        "One New Zealand Group Limited",
+        "53001",
+        "LIR"
+      ],
+      [
+        "One New Zealand Group Limited",
+        "53004",
+        "LIR"
+      ],
+      [
+        "Broadband & Internet New Zealand Limited",
+        "53012",
+        "ADD"
+      ],
+      [
+        "One New Zealand Group Limited",
+        "53013",
+        "ADD"
       ]
     ],
     "North Macedonia": [
@@ -1944,6 +2213,43 @@
         "ADD"
       ]
     ],
+    "Portugal": [
+      [
+        "Digi Portugal, Lda.",
+        "26802",
+        "ADD"
+      ],
+      [
+        "Sumamovil Portugal, S.A.",
+        "26807",
+        "ADD"
+      ],
+      [
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A.",
+        "26808",
+        "ADD"
+      ],
+      [
+        "Vodafone Portugal - Comunica\u00e7\u00f5es Pessoais, S.A.",
+        "26891",
+        "ADD"
+      ],
+      [
+        "Vodafone Portugal - Comunica\u00e7\u00f5es Pessoais, S.A.",
+        "26892",
+        "ADD"
+      ],
+      [
+        "NOS Comunica\u00e7\u00f5es, S.A.",
+        "26893",
+        "ADD"
+      ],
+      [
+        "E-Redes - Distribui\u00e7\u00e3o de Eletricidade, S.A.",
+        "26880",
+        "LIR"
+      ]
+    ],
     "Rwanda": [
       [
         "AIRTEL RWANDA Ltd",
@@ -1968,6 +2274,63 @@
         "Intelvision Ltd",
         "63305",
         "ADD"
+      ]
+    ],
+    "Singapore": [
+      [
+        "Grid Communications Limited",
+        "52504",
+        "ADD"
+      ],
+      [
+        "StarHub Mobile Pte Ltd",
+        "52506",
+        "ADD"
+      ],
+      [
+        "StarHub Mobile Pte Ltd",
+        "52507",
+        "ADD"
+      ],
+      [
+        "M1 Limited",
+        "52511",
+        "ADD"
+      ],
+      [
+        "5G Test Bed",
+        "525200",
+        "ADD"
+      ],
+      [
+        "5G EP Twin Networks",
+        "525201",
+        "ADD"
+      ],
+      [
+        "5G EP Twin Networks",
+        "525202",
+        "ADD"
+      ],
+      [
+        "5G EP Twin Networks",
+        "525203",
+        "ADD"
+      ],
+      [
+        "5G EP Twin Networks",
+        "525204",
+        "ADD"
+      ],
+      [
+        "Simba Telecom Pte Ltd",
+        "52510",
+        "LIR"
+      ],
+      [
+        "Grid Communications Limited",
+        "52512",
+        "LIR"
       ]
     ],
     "Slovenia": [
@@ -2144,6 +2507,51 @@
         "ENDESA DISTRIBUCI\u00d3N EL\u00c9CTRICA, S.L.",
         "214701",
         "ADD"
+      ],
+      [
+        "XFERA M\u00d3VILES, S.A. UNIPERSONAL",
+        "21425",
+        "SUP"
+      ],
+      [
+        "FOOTBALLERISTA MOBILE SPAIN, S.A. UNIPERSONAL",
+        "21413",
+        "ADD"
+      ],
+      [
+        "PROCONO, S.A.",
+        "21415",
+        "ADD"
+      ],
+      [
+        "UNIVERSIDAD DE M\u00c1LAGA",
+        "214702",
+        "ADD"
+      ],
+      [
+        "ENDESA GENERACI\u00d3N, S.A.",
+        "214703",
+        "ADD"
+      ],
+      [
+        "Consorcio de Telecomunicaciones Avanzadas, S.A.",
+        "21428",
+        "SUP"
+      ],
+      [
+        "AMPER SISTEMAS, S.A.U.",
+        "214704",
+        "ADD"
+      ],
+      [
+        "ENTIDAD P\u00daBLICA EMPRESARIAL ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS",
+        "214705",
+        "ADD"
+      ],
+      [
+        "GOBIERNO VASCO",
+        "214706",
+        "ADD"
       ]
     ],
     "Sri Lanka": [
@@ -2295,6 +2703,16 @@
         "ComHem AB",
         "24011",
         "SUP"
+      ],
+      [
+        "eRate Sverige AB",
+        "24050",
+        "ADD"
+      ],
+      [
+        "YATECO O\u00dc",
+        "24051",
+        "ADD"
       ]
     ],
     "Switzerland": [
@@ -2356,6 +2774,21 @@
       [
         "Spusu AG",
         "22871",
+        "ADD"
+      ],
+      [
+        "Vectone Mobile Limited, London",
+        "22859",
+        "SUP"
+      ],
+      [
+        "Nexphone AG",
+        "22865",
+        "ADD"
+      ],
+      [
+        "BSE Software GmbH",
+        "22872",
         "ADD"
       ]
     ],
@@ -2487,6 +2920,11 @@
         "Hamilton Telecom Limited",
         "64120",
         "SUP"
+      ],
+      [
+        "Talkio Mobile Limited.",
+        "64108",
+        "ADD"
       ]
     ],
     "Ukraine": [
@@ -2700,6 +3138,36 @@
       [
         "Vodafone Limited",
         "23591",
+        "LIR"
+      ],
+      [
+        "Spitfire Network Services Limited",
+        "23405",
+        "ADD"
+      ],
+      [
+        "UK Telecoms Lab (UKTL)",
+        "23479",
+        "ADD"
+      ],
+      [
+        "LEBARA MOBILE LIMITED",
+        "23487",
+        "ADD"
+      ],
+      [
+        "WAVE MOBILE LTD",
+        "23404",
+        "LIR"
+      ],
+      [
+        "WIRELESS LOGIC LIMITED",
+        "23418",
+        "LIR"
+      ],
+      [
+        "CIRCLES MVNE International B.V.",
+        "23474",
         "LIR"
       ]
     ],
@@ -4113,6 +4581,71 @@
         "Boldyn Networks Transit US LLC",
         "313560",
         "LIR"
+      ],
+      [
+        "AT&T Mobility",
+        "310030",
+        "SUP"
+      ],
+      [
+        "West Central Wireless",
+        "310860",
+        "SUP"
+      ],
+      [
+        "West Central Wireless",
+        "311000",
+        "SUP"
+      ],
+      [
+        "LigTel Communications",
+        "311980",
+        "SUP"
+      ],
+      [
+        "Great Plains Communications, Inc",
+        "312550",
+        "SUP"
+      ],
+      [
+        "PREMIER HOLDINGS, LLC",
+        "312990",
+        "SUP"
+      ],
+      [
+        "Aetheros Inc",
+        "314500",
+        "ADD"
+      ],
+      [
+        "SI Wireless LLC",
+        "314510",
+        "ADD"
+      ],
+      [
+        "Oklahoma Gas & Electric Company (OG&E)",
+        "314520",
+        "ADD"
+      ],
+      [
+        "Agile Networks",
+        "314530",
+        "ADD"
+      ],
+      [
+        "RGTN USA, Inc.",
+        "314540",
+        "ADD"
+      ],
+      [
+        "Cross Wireless LLC dba Bravado Wireless",
+        "313010",
+        "LIR"
+      ],
+      [
+        "Texas A&M University \u2013 ITEC",
+        "314370",
+        "LIR"
       ]
     ],
     "Uruguay": [
@@ -4201,6 +4734,11 @@
         "MTN Zambia Limited",
         "64502",
         "LIR"
+      ],
+      [
+        "Beeline Telecoms Limited",
+        "64504",
+        "ADD"
       ]
     ]
   }

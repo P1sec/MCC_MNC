@@ -1,0 +1,418 @@
+                               ITU Operational Bulletin
+                                                               www.itu.int/itu-t/bulletin
+
+              No. 1277              1.X.2023                   (Information received by 19 September 2023) ISSN 1564-5223 (Online)
+        Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+        Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+        Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+        E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                       Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                              3
+Approval of ITU-T Recommendations .............................................................................................................                   4
+The International Public Telecommunication Numbering Plan: Note from TSB .............................................                                            5
+International Identification Plan for Public Networks and Subscriptions: Note from TSB .............................                                              5
+Telephone Service:
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) .....................                                                      6
+Service Restrictions .........................................................................................................................................    7
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                               7
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ...........................................                                       8
+List of Recommendation ITU-T E.164 assigned Country Codes ......................................................................                                  9
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................        9
+List of International Signalling Point Codes (ISPC) ..........................................................................................                   10
+National Numbering Plan ................................................................................................................................         10
+
+
+
+
+                                                                                                                                        www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1278             15.X.2023              29.IX.2023
+               1279              1.XI.2023             13.X.2023
+               1280             15.XI.2023             1.XI.2023
+               1281             1.XII.2023             15.XI.2023
+               1282             15.XII.2023            30.XI.2023
+               1283              1.I.2024              8.XII.2023
+
+
+
+
+                                                GENERAL INFORMATION
+                                Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on 1
+      November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-T
+      Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on 15
+      May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1 May
+      2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                 Approval of ITU-T Recommendations
+By AAP-36, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T F.740.3 (09/2023): Metadata for digital representation of cultural relics/artworks using augmented reality
+–     ITU-T F.740.4 (09/2023): Metadata for image aesthetics assessment with aesthetic attributes in mobile terminal
+      computational photography systems
+–     ITU-T F.740.5 (09/2023): Data collection and annotation requirements for automatic white balance (AWB)
+      enhancement in mobile terminal for digital culture
+–     ITU-T F.740.6 (09/2023): Reference framework and requirements for Internet protocol multimedia subsystem
+      early media and extension service systems
+–     ITU-T F.740.7 (09/2023): Reference architecture and requirements for mobile terminal computational
+      photography systems
+–     ITU-T F.744.5 (09/2023): Requirements for content delivery networks based on P2P technology
+–     ITU-T F.747.13 (09/2023): Requirements and reference framework of cloud-edge collaboration in industrial
+      machine vision systems
+–     ITU-T F.748.22 (09/2023): Functional architecture for feature-based distributed intelligent systems
+–     ITU-T F.748.25 (09/2023): Requirements for speech interaction of intelligent customer services
+–     ITU-T F.751.9 (09/2023): Trusted execution environment based confidential computing on distributed ledger
+      technology systems
+–     ITU-T F.751.10 (09/2023): Framework and requirements for DLT-based digital collection services
+–     ITU-T F.751.11 (09/2023): Performance test suite for distributed ledger technology systems
+–     ITU-T F.751.12 (09/2023): Formal verification framework for smart contract on distributed ledger technology
+–     ITU-T F.751.13 (09/2023): Framework and requirements for distributed ledger technology-based distributed
+      power trading systems
+–     ITU-T F.780.4 (09/2023): Reference framework, requirements and scenarios for telemedicine systems
+–     ITU-T G.798 (09/2023): Characteristics of optical transport network hierarchy equipment functional blocks
+–     ITU-T H.265 (V9) (09/2023): High efficiency video coding
+–     ITU-T H.266.1 (V2) (09/2023): Conformance specification for ITU-T H.266 versatile video coding
+–     ITU-T H.430.3 (V2) (09/2023): Service scenario of immersive live experience (ILE)
+–     ITU-T H.430.6 (09/2023): Media transport protocols, signalling information of haptic transmission for immersive
+      live experience (ILE) systems
+–     ITU-T H.430.7 (09/2023): Requirements of interactive immersive services
+–     ITU-T H.644.6 (09/2023): Architecture for video distribution systems
+–     ITU-T H.644.7 (09/2023): Functional architecture for media processing services
+–     ITU-T H.705.1 (09/2023): Layered specification for the IPTV service platform functional architecture based on
+      open service capabilities
+–     ITU-T H.705.2 (09/2023): Requirements for live streaming systems based on QUIC
+–     ITU-T H.862.6 (09/2023): Functional requirements for counselling services based on artificial emotional
+      intelligence
+      – ITU-T K.153 (09/2023): Guidance on Determining the Compliance Boundaries (the exclusion zones) of radio
+      transmitter installations
+–     ITU-T T.873 (V3) (09/2023): Information technology - Digital compression and coding of continuous-tone still
+      images: Reference software
+
+
+
+
+                 The International Public Telecommunication Numbering Plan
+                          (Recommendation ITU-T E.164 (11/2010))
+Note from TSB
+
+                                      Identification codes for international networks
+
+Associated with shared country code 883 for international networks, the following three-digit identification code has been
+assigned:
+
+                                                                     Country Code and           Date of assignment
+          Applicant                       Network
+                                                                    Identification Code
+
+
+ BBIX Singapore Pte. Ltd.         BBIX Singapore Pte. Ltd.                +883 480                   19.IX.2023
+
+
+
+
+          International Identification Plan for Public Networks and Subscriptions
+                         (Recommendation ITU-T E.212 (09/2016))
+
+Note from TSB
+                                 Identification codes for International Mobile Networks
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC) have been
+assigned.
+
+                                                    Mobile Country Code (MCC) and            Date of assignment
+                      Network
+                                                     Mobile Network Code (MNC)
+
+     BBIX Singapore Pte. Ltd.                                    901 04                           19.IX.2023
+
+
+
+
+                                             Telephone Service
+                                        (Recommendation ITU-T E.164)
+                                                 url: www.itu.int/itu-t/inr/nnp
+Morocco (country code +212)
+Communication of 11.IX.2023:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following updates to
+the national telephone-numbering plan of Morocco.
+
+                                            Description of introduction of new resource
+                                     for national E.164 numbering plan for country code +212:
+
+•     new NDCs below have recently been introduced as follows:
+
+      NDC (national destination       N(S)N number length
+      code) or leading digits of
+                                     Maximum       Minimum           Usage of E.164 number          Additional information
+     N(S)N (national (significant)
+              number)                 length        length
+
+                 52932                   9             9            Fixed telephone networks          Wana Corporate1
+                 52933                   9             9            Fixed telephone networks          Wana Corporate
+                 52934                   9             9            Fixed telephone networks          Wana Corporate
+                 52935                   9             9            Fixed telephone networks          Wana Corporate
+                 52936                   9             9            Fixed telephone networks          Wana Corporate
+                 52937                   9             9            Fixed telephone networks          Wana Corporate
+                 52938                   9             9            Fixed telephone networks          Wana Corporate
+                 52939                   9             9            Fixed telephone networks          Wana Corporate
+                 5294                    9             9            Fixed telephone networks          Wana Corporate
+                 5295                    9             9            Fixed telephone networks          Wana Corporate
+                 5296                    9             9            Fixed telephone networks          Wana Corporate
+                 5297                    9             9            Fixed telephone networks          Wana Corporate
+                 5382                    9             9            Fixed telephone networks          Wana Corporate
+                 5383                    9             9            Fixed telephone networks          Wana Corporate
+                 5384                    9             9            Fixed telephone networks          Wana Corporate
+                 5385                    9             9            Fixed telephone networks          Wana Corporate
+                 5386                    9             9            Fixed telephone networks          Wana Corporate
+                 5387                    9             9            Fixed telephone networks          Wana Corporate
+
+1
+    : INWI
+
+Contact:
+             Agence Nationale de Réglementation des Télécommunications (ANRT)
+             Centre d'affaires
+             Boulevard Ar-Riad, Hay Riad
+             B.P. 2939
+             RABAT 10100
+             Morocco
+             Tel:    +212 5 37 71 85 64
+             E-mail: numerotation@anrt.ma
+             URL:    www.anrt.ma
+
+
+
+
+                                               Service Restrictions
+                                         See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+     Country/geographical area           OB
+
+Seychelles                  1006 (p.13)
+Slovakia                    1007 (p.12)
+Malaysia                    1013 (p.5)
+Thailand                    1034 (p.5)
+São Tomé and Principe       1039 (p.14)
+Uruguay                     1039 (p.14)
+Hong Kong, China            1068 (p.4)
+Ukraine                     1148 (p.5)
+
+
+
+
+                                             Call-Back
+                     and alternative calling procedures (Res. 21 Rev. PP-06)
+                                      See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                        AMENDMENTS TO SERVICE PUBLICATIONS
+                                                  Abbreviations used
+                               ADD    Insert                     PAR   Paragraph
+                               COL    Column                     REP   Replace
+                               LIR    Read                       SUP   Delete
+                               P      Page(s)
+
+
+
+
+                              List of Ship Stations and Maritime Mobile
+                                      Service Identity Assignments
+                                                 (List V)
+                                             Edition of 2023
+
+                                                     Section VI
+
+
+ADD
+
+ KE04       CLOSELINK INVESTMENT (K) LTD, 45770, NAIROBI, KENYA.
+            E-mail: info@closelinkinv.com, Tel : +254724454375,
+            Contact person : Don W. Mulati.
+
+REP
+
+ GR05       Hellenic Radio Services Sat Com SM S.A.,
+            2, Kantharou Street & Akti Miaouli, 18537 Piraeus, Greece.
+            E-mail: athanassios.tzioumas@marlink.com, Tel : +30 210 9400377,
+            Contact Person: Athanassios Tzioumas.
+
+SUP
+
+ RS23       Neptune Shipmanagement Services (Pte.) Ltd., 456 Alexandra Road, #07-00,
+            NOL Building, Singapore 119962, Singapore.
+            E-mail: apl_tsd_itd@apl.com, Tel : +65 63714678, Fax: +65 63716032,
+            Contact Person: Tan Siew Cheng.
+
+ RS30       Pan-United Shipping Pte. Ltd., 7 Temasek Boulevard, #16-01 Suntec Tower One,
+            Singapore 038987, Singapore.
+            E-mail: jimmy.lee@panunited.com.sg, Tel: +65 63057368, Fax: +65 62381301,
+            Contact Person: Jimmy Lee.
+
+ RS31       Hin Leong Trading (Pte.) Ltd., 1 Playfair Road, Singapore 367981, Singapore.
+            Tel: +65 65122588, Fax: +65 65122589,
+            Contact Person: Lim Huey Ching.
+
+
+
+
+                     List of Recommendation ITU-T E.164 assigned Country Codes
+                       (Complement to Recommendation ITU-T E.164 (11/2010))
+                                  (Position on 15 December 2016)
+                                       (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                        (Amendment No. 36)
+
+        Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+
+
+p        Associated with shared country code 883, the following three-digit identification code reservation or assignment
+         has been made for the international networks of:
+
+Note p)      +883 480       ADD*
+
+                                                                                       Country Code and
+                  Applicant                                     Network                                       Status
+                                                                                      Identification Code
+
+    BBIX Singapore Pte. Ltd.                     BBIX Singapore Pte. Ltd.                 +883 480           Assigned
+
+* 19.IX.2023
+
+__________
+
+See page 5 of the present Operational Bulletin No. 1277 of 1.X.2023.
+
+
+
+             Mobile Network Codes (MNC) for the international identification plan
+                            for public networks and subscriptions
+                    (According to Recommendation ITU-T E.212 (09/2016))
+                               (Position on 15 December 2018)
+                             (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                             (Amendment No. 103)
+
+
+      Country/Geographical area                           MCC+MNC *             Operator/Network
+
+      Hungary ADD
+
+                                                                       216 04   Pro-M PrCo. Ltd.
+
+      International Mobile, shared code ADD
+
+                                                                       901 04   BBIX Singapore Pte. Ltd.
+
+
+    ____________
+    *   MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+         MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                            List of International Signalling Point Codes (ISPC)
+                         (According to Recommendation ITU-T Q.708 (03/1999))
+                                          (Position on 1 July 2020)
+                                       (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                        (Amendment No. 59)
+
+
+ Country/ Geographical Area
+ ISPC          DEC                       Unique name of the signalling point     Name of the signalling point operator
+
+
+ Estonia SUP
+ 6-227-5       14109                     Tallinn                                 Nord Connect OÜ
+
+ Estonia ADD
+ 3-244-2       8098                      DOTTEL77                                DOTT Telecom OÜ
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                         National Numbering Plan
+                          (According to Recommendation ITU-T E.129 (01/2013))
+                                                Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which will
+be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations are
+kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will be
+responsible for the timely update of this information.
+From 1.IX.2023, the following countries/geographical areas have updated their national numbering plan on our site:
+
+                          Country/ Geographical area/ Global network               Country Code (CC)
+                        Iridium Satellite                                          +881 6 and +881 7
+
+
+
+

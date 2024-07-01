@@ -60,7 +60,7 @@ def import_json_doc(url):
 # parsing CIA World Factbook country information
 #------------------------------------------------------------------------------#
 
-DEBUG = False
+DEBUG = 0
 
 # old URLs, not valid anymore since January 2021
 #URL_FACTBOOK = 'https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html'
@@ -82,6 +82,9 @@ WFB_COUNTRY_LUT = {
     'Palmyra Atoll' : 'united-states-pacific-island-wildlife-refuges',
     'Virgin Islands (US)' : 'virgin-islands',
     'South Georgia and the Islands' : 'south-georgia-and-south-sandwich-islands',
+    'Akrotiri' : 'akrotiri-and-dhekelia',
+    'Dhekelia' : 'akrotiri-and-dhekelia',
+    'Zaire' : 'democratic-republic-of-the-congo'
     }
 
 
@@ -111,7 +114,7 @@ def country_name_to_url(s):
             ret = ret[:-1].strip()
         return ret
 
-def parse_table_country_all():
+def parse_table_country_all(idx=(0, None)):
     J = import_json_doc(URL_FACTBOOK)
     try:
         T = J['result']['data']['appendix']['entries']
@@ -120,14 +123,14 @@ def parse_table_country_all():
     #
     D   = {} 
     #
-    for L in T:
+    for L in T[idx[0]:idx[1]]:
         rec = dict(REC_COUNTRY)
         for f in L['fields']:
             if f['attribute'] == 'name':
                 rec['name'] = f['value']
                 if DEBUG:
                     print('processing for %s' % f['value'])
-            elif f['attribute'] == 'gencCode':
+            elif f['attribute'] == 'genc':
                 v = f['value'].upper().strip()
                 if len(v) in {2, 3, 4} and v.isalpha():
                     rec['genc'] = v
@@ -135,7 +138,7 @@ def parse_table_country_all():
                     if DEBUG:
                         print('%s, GENC: %s' % (rec['name'], v))
                     rec['genc'] = ''
-            elif f['attribute'] == 'isoCode':
+            elif f['attribute'] == 'iso3166':
                 v = tuple(map(str.strip, f['value'].upper().split('|')))
                 if len(v) == 3 and len(v[0]) == 2 and v[0].isalpha() and len(v[1]) == 3 and v[1].isalpha() \
                 and len(v[2]) == 3 and v[2].isdigit():
@@ -144,7 +147,7 @@ def parse_table_country_all():
                     if DEBUG:
                         print('%s, ISO: %r' % (rec['name'], v))
                     rec['cc2'], rec['cc3'], rec['ccn'] = '', '', ''
-            elif f['attribute'] == 'stanagCode':
+            elif f['attribute'] == 'stanag':
                 v = f['value'].upper().strip()
                 if len(v) == 3 and v.isalpha():
                     rec['stan'] = v
@@ -152,7 +155,7 @@ def parse_table_country_all():
                     if DEBUG:
                         print('%s, Stanag: %s' % (rec['name'], v))
                     rec['stan'] = ''
-            elif f['attribute'] == 'internetCode':
+            elif f['attribute'] == 'internet':
                 v = f['value'].lower().strip()
                 if v[0:1] == '.' and len(v) >= 3:
                     rec['tld'] = v
@@ -177,6 +180,8 @@ def parse_table_country_all():
         else:
             print('> infos extracted for %s' % rec['name'])
         #
+        if DEBUG > 1:
+            print(L, rec)
         if rec['name'] in D:
             raise(Exception('> duplicate entry for country %s' % rec['name']))
         else:
@@ -426,23 +431,57 @@ def _extract_geo_mult(s):
             r.insert(0, _strip_str(ssub))
     return r
 
+# HTML <strong> and <p> are stripped early on all data fields
+#RE_HTML_STRONG = re.compile('</{0,1}strong>')
 
-def _extract_area(txt):
-    r = {}
-    for s in map(str.strip, txt.split('<br><br>')):
+def _extract_mult_kv(txt):
+    r, year = {}, None
+    sep = '<br><br>'
+    if '<br><br>' not in txt:
+        if txt.count('<br /><br />') > 2:
+            sep = '<br /><br />'
+        elif txt.count('<br />') > 2:
+            sep = '<br />'
+    for s in map(str.strip, txt.split(sep)):
+        #s = RE_HTML_STRONG.sub('', s).strip()
         try:
             name, s = map(_strip_str, s.split(':', 1))
         except ValueError:
-            # not a named section
-            assert( 'note' not in r )
-            r['note'] = _strip_str(s)
+            s = _strip_str(s)
+            if s:
+                # not a named section, keep it as note
+                if 'note' in r:
+                    r['note'].append( _strip_str(s) )
+                else:
+                    r['note'] = [_strip_str(s)]
         else:
             m = RE_NOTE.search(s)
             if m:
-                assert( 'note' not in r )
-                r['note'] = s[m.end():].strip()
+                note = s[m.end():].strip()
                 s = s[:m.start()].strip()
-            r[name] = s
+                if 'note' in r:
+                    r['note'].append(note)
+                else:
+                    r['note'] = [note]
+            #
+            if name == 'key ports':
+                r[name] = s
+            elif name == 'note':
+                if 'note' in r:
+                    r['note'].append(s)
+                else:
+                    r['note'] = [s]
+            else:
+                v = _extract_value(s)
+                if 'year' in v:
+                    year = v['year']
+                if v['num'] == 0 and len(s) > 10:
+                    # we have some comments we want to keep
+                    r[name] = s
+                else:
+                    r[name] = v['num']
+    if year:
+        r['year'] = year
     return r
 
 
@@ -511,6 +550,7 @@ RE_INTEG_VAL = re.compile('([0-9\.,]{1,})(\s{1,}million){0,1}')
 
 def _extract_value(s):
     r = {}
+    #s = _strip_str(RE_HTML_STRONG.sub('', s))
     s = _strip_str(s)
     # the year could eventually comes 1st or last, so we process it and strip it 1st
     m = RE_YEAR.search(s)
@@ -529,6 +569,14 @@ def _extract_value(s):
             r['num'] = int(v)
     else:
         r['num'] = 0
+    return r
+
+
+def _extract_coastline(s):
+    r = _extract_value(s)
+    if r['num'] == 0 and len(s) > 20:
+        # some islands have detailed coastlines
+        r = _extract_mult_kv(s)
     return r
 
 
@@ -565,6 +613,8 @@ def _extract_capital(s):
 def _extract_total_value(s):
     if '<br><br>' in s:
         lines = s.split('<br><br>')
+    else:
+        lines = s
     for l in lines:
         if l.startswith('total'):
             return _extract_value(s.split(':', 1)[1].strip())
@@ -608,9 +658,10 @@ def _extract_tel(txt):
     return r
 
 
-def _extract_ports(l):
+def __old_extract_ports(l):
     r = {}
     for s in map(str.strip, l.split('<br><br>')):
+        s = _strip_str(s)
         # TODO: we need to strip <em></em>
         if s.startswith('major seaport'):
             r['seaport']   = _strip_html_brem(_strip_str(s.split(':', 1)[1]))
@@ -621,7 +672,7 @@ def _extract_ports(l):
     return r
 
 
-def _extract_airports(s):
+def _extract_anyports(s):
     r = {}
     if '<br><br>' in s:
         s = s.split('<br><br>', 1)[0]
@@ -634,29 +685,36 @@ def _extract_airports(s):
 COUNTRY_SECTIONS = {
     # 2023/09/15: new flat data model
     'Geographic coordinates':           ('coord',           _extract_geo_mult),
-    'Airports - with paved runways':    ('airports_paved',  _extract_airports),
     'Capital':                          ('capital',         _extract_capital),
-    'Coastline':                        ('coastline',       _extract_value),
+    'Coastline':                        ('coastline',       _extract_coastline),
     'Land boundaries':                  ('boundaries',      _extract_bound),
-    'Ports and terminals':              ('ports',           _extract_ports),
+    'Ports':                            ('ports',           _extract_mult_kv),
     'Telecommunication systems':        ('telecom',         _extract_tel),
     'Country name':                     ('country_name',    _extract_country_name),
     'Map references':                   ('region',          _extract_geo_mult),
-    'Population':                       ('population',      _extract_value),
+    'Population':                       ('population',      _extract_mult_kv),
     'Internet users':                   ('users_internet',  _extract_total_value),
-    'Area':                             ('area',            _extract_area),
-    'Airports':                         ('airports',        _extract_airports),
+    'Area':                             ('area',            _extract_mult_kv),
+    'Airports':                         ('airports',        _extract_anyports),
+    'Heliports':                        ('heliports',       _extract_anyports),
     'Telephones - mobile cellular':     ('subs_mobile',     _extract_total_value),
     'Broadband - fixed subscriptions':  ('subs_broadband',  _extract_total_value),
     'Telephones - fixed lines':         ('subs_fixed',      _extract_total_value),
+    'Roadways':                         ('roadways',        _extract_mult_kv),
     #
     # other items of interest:
     #'Major urban areas - population'
+    #'Languages'
+    #'Median age'
     #'Disputes - international'
     #'Merchant marine'
     #'Railways'
+    #'Pipelines'
+    #'Natural resources'
+    #'Elevation'
+    #'National holiday'
+    #'Broadcast media'
     }
-
 
 RE_HTML_CMT   = re.compile('<\!--.*-->')
 RE_HTML_SPAN  = re.compile('<span\s.*>')
@@ -696,6 +754,8 @@ def _strip_html(s):
 def _extract_sections(J, D):
     # go over all the "nodes" in "fields"
     for node in J['fields']['nodes']:
+        if DEBUG > 1:
+            print('= %s: %r' % (node['name'], node['data']))
         if node['name'] in COUNTRY_SECTIONS:
             fname, cb = COUNTRY_SECTIONS[node['name']]
             data = _strip_html(node['data'])

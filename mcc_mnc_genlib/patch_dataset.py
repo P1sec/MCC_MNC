@@ -219,6 +219,7 @@ COUNTRY_RENAME = {
     'The Former Yugoslav Republic of Macedonia': 'North Macedonia',
     'Bosnia & Herzegov.'        : 'Bosnia and Herzegovina',
     'Metropolitan France'       : 'France',
+    'Macedonia'                 : 'North Macedonia',
     #
     # Middle-East / Asia
     'Burma'                     : 'Myanmar',
@@ -458,7 +459,7 @@ for name, infos in COUNTRY_SPEC.items():
 # Wikipedia territory borders list
 #------------------------------------------------------------------------------#
 
-# territory name that needs to be deleted
+# territory name that needs to be deleted
 BORD_COUNTRY_DEL = [
     #
     # Special administrative regions of China:
@@ -638,6 +639,8 @@ MCC_CC2_LUT = {
     #
     # Abhkazia CC2 is moved to its unofficial 2-letter code
     'GE-AB': 'AB',
+    # Kosovo CC2 is moved to its unofficial 2-letter code
+    'RS-KM' : 'XK'
     }
 
 

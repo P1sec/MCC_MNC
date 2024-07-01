@@ -165,8 +165,10 @@
       "country_name": "Bahrain",
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Bahrain",
-      "neigh": [],
-      "neigh_num": 0
+      "neigh": [
+        "Saudi Arabia"
+      ],
+      "neigh_num": 1
     },
     {
       "border_len_km": 4246,
@@ -852,6 +854,7 @@
         "Andorra",
         "Belgium",
         "Brazil",
+        "Canada",
         "Germany",
         "Italy",
         "Luxembourg",
@@ -861,7 +864,7 @@
         "Suriname",
         "Switzerland"
       ],
-      "neigh_num": 11
+      "neigh_num": 12
     },
     {
       "border_len_km": 2551,
@@ -886,6 +889,7 @@
         "Armenia",
         "Azerbaijan",
         "Russia",
+        "South Ossetia",
         "Turkey"
       ],
       "neigh_num": 4
@@ -2084,6 +2088,17 @@
     {
       "border_len_km": 0,
       "border_len_mi": 0,
+      "country_name": "Saint Pierre and Miquelon",
+      "country_sub": [],
+      "country_url": "https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
+      "neigh": [
+        "Canada"
+      ],
+      "neigh_num": 1
+    },
+    {
+      "border_len_km": 0,
+      "border_len_mi": 0,
       "country_name": "Saint Vincent and the Grenadines",
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
@@ -2117,6 +2132,7 @@
       "country_sub": [],
       "country_url": "https://en.wikipedia.org/wiki/Saudi_Arabia",
       "neigh": [
+        "Bahrain",
         "Iraq",
         "Jordan",
         "Kuwait",
@@ -2125,7 +2141,7 @@
         "United Arab Emirates",
         "Yemen"
       ],
-      "neigh_num": 7
+      "neigh_num": 8
     },
     {
       "border_len_km": 2640,
@@ -2267,6 +2283,18 @@
         "North Korea"
       ],
       "neigh_num": 1
+    },
+    {
+      "border_len_km": 466,
+      "border_len_mi": 290,
+      "country_name": "South Ossetia",
+      "country_sub": [],
+      "country_url": "https://en.wikipedia.org/wiki/South_Ossetia",
+      "neigh": [
+        "Georgia",
+        "Russia"
+      ],
+      "neigh_num": 2
     },
     {
       "border_len_km": 4797,

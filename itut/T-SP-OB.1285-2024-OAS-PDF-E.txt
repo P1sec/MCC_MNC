@@ -1,0 +1,447 @@
+                          ITU Operational Bulletin
+                                                         www.itu.int/itu-t/bulletin
+
+          No. 1285             1.II.2024                  (Information received by 15 January 2024) ISSN 1564-5223 (Online)
+    Place des Nations CH-1211                             Standardization Bureau (TSB)                                Radiocommunication Bureau (BR)
+    Genève 20 (Switzerland)                               Tel:     +41 22 730 5211                                    Tel:    +41 22 730 5560
+    Tel:      +41 22 730 5111                             Fax:     +41 22 730 5853                                    Fax:    +41 22 730 5785
+    E-mail: itumail@itu.int                               E-mail: tsbmail@itu.int / tsbtson@itu.int                   E-mail: brmail@itu.int
+
+
+
+
+                                                                 Table of Contents
+                                                                                                                                                       Page
+GENERAL INFORMATION
+  Lists annexed to the ITU Operational Bulletin ......................................................................................                  3
+  Approval and deletion of ITU-T Recommendations ..............................................................................                         4
+  Service Restrictions .............................................................................................................................    7
+  Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ........................................................                            7
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+  List of Ship Stations and Maritime Mobile Service Identity Assignments (List V) ...................................                                   8
+  List of Issuer Identifier Numbers..........................................................................................................           9
+  Network Codes (MNC) for the international identification plan for public networks
+     and subscriptions ..........................................................................................................................      10
+  List of International Signalling Point Codes (ISPC) ................................................................................                 11
+  National Numbering Plan ....................................................................................................................         12
+
+
+
+
+                                                                                                                               www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1286             15.II.2024             31.I.2024
+               1287              1.III.2024            15.II.2024
+               1288             15.III.2024            1.III.2024
+               1289              1.IV.2024             15.III.2024
+               1290             15.IV.2024             25.III.2024
+               1291              1.V.2024              12.IV.2024
+               1292             15.V.2024               1.V.2024
+               1293              1.VI.2024             15.V.2024
+               1294             15.VI.2024             31.V.2024
+               1295             1.VII.2024             14.VI.2024
+               1296             15.VII.2024            28.VI.2024
+               1297             1.VIII.2024           15.VII.2024
+               1298            15.VIII.2024           26.VII.2024
+               1299              1.IX.2024            15.VIII.2024
+               1300             15.IX.2024            30.VIII.2024
+               1301              1.X.2024              13.IX.2024
+               1302             15.X.2024              30.IX.2024
+               1303              1.XI.2024             15.X.2024
+               1304             15.XI.2024             31.X.2024
+               1305             1.XII.2024             15.XI.2024
+               1306             15.XII.2024            29.XI.2024
+               1307              1.I.2025              6.XII.2024
+
+
+
+
+                                                GENERAL INFORMATION
+                                Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 July 2020)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on 1
+      November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-T
+      Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on 15
+      May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1 May
+      2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                        Approval and deletion of ITU-T Recommendations
+By AAP-43, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T F.742.2 (01/2024): Functional architecture for distance learning services
+–     ITU-T F.748.27 (01/2024): Framework and requirements for the construction of 3D intelligent driven digital
+      human application systems
+–     ITU-T F.749.8 (01/2024): In-vehicle multimedia applets: Framework and functional requirements
+–     ITU-T F.780.5 (01/2024): Requirements, reference framework and use cases for telemonitoring systems in rapid
+      deployment hospitals
+–     ITU-T G.650.1 (01/2024): Definitions and test methods for linear, deterministic attributes of single-mode fibre and
+      cable
+–     ITU-T G.698.5 (01/2024): Multichannel DWDM applications with single-channel optical interfaces in the O-band
+–     ITU-T G.698.6 (01/2024): Multichannel WDM applications with single-channel optical interfaces in the O-band
+–     ITU-T G.781 (01/2024): Synchronization layer functions for frequency synchronization based on the physical layer
+–     ITU-T G.876 (2021) Amd. 1 (01/2024): Management Requirements and Information Model for the optical media
+      network – Amendment 1
+–     ITU-T G.959.1 (01/2024): Optical transport network physical layer interfaces
+–     ITU-T G.8013/Y.1731 (2023) Cor. 1 (01/2024): Operation, administration and maintenance (OAM) functions and
+      mechanisms for Ethernet-based networks – Corrigendum 1
+–     ITU-T G.8021/Y.1341 (2022) Amd. 1 (01/2024): Characteristics of Ethernet transport network equipment
+      functional blocks – Amendment 1
+–     ITU-T G.8023 (2018) Amd. 2 (01/2024): Characteristics of equipment functional blocks supporting Ethernet
+      physical layer and Flex Ethernet interfaces – Amendment 2
+–     ITU-T G.8051/Y.1345 (2020) Cor. 1 (01/2024): Management aspects of the Ethernet transport (ET) capable
+      network element – Corrigendum 1
+–     ITU-T G.8052 (01/2024): Protocol-neutral management information model for the Ethernet transport capable
+      network element
+–     ITU-T G.8121/Y.1381 (2018) Amd. 1 (01/2024): Characteristics of MPLS-TP equipment functional blocks –
+      Amendment 1
+–     ITU-T G.8151/Y.1374 (2020) Amd. 1 (01/2024): Management aspects of the MPLS-TP network element -
+      Amendment 1
+–     ITU-T G.8152 (01/2024): Protocol-neutral management information model for the MPLS-TP network element
+–     ITU-T G.8260 (2022) Amd. 1 (01/2024): Definitions and terminology for synchronization in packet networks –
+      Amendment 1
+–     ITU-T G.8264/Y.1364 (2017) Amd. 2 (01/2024): Distribution of timing information through packet networks –
+      Amendment 2
+–     ITU-T G.8271.1/Y.1366.1 (2022) Amd. 2 (01/2024): Network limits for time synchronization in packet networks
+      with full timing support from the network – Amendment 2
+–     ITU-T G.8272.1 (01/2024): Timing characteristics of enhanced primary reference time clocks
+–     ITU-T G.8272.2 (01/2024): Timing characteristics of coherent network primary reference time clocks
+–     ITU-T G.8275 (01/2024): Architecture and requirements for packet-based time and phase distribution
+–     ITU-T G.8275.1/Y.1369.1 (2022) Amd. 1 (01/2024): Precision time protocol telecom profile for phase/time
+      synchronization with full timing support from the network – Amendment 1
+–     ITU-T G.8275.2/Y.1369.2 (2022) Amd. 1 (01/2024): Precision time protocol telecom profile for phase/time
+      synchronization with partial timing support from the network – Amendment 1
+
+
+–   ITU-T G.8312 (2020) Amd. 2 (01/2024): Interfaces for metro transport networks – Amendment 2
+–   ITU-T G.8350 (2022) Amd. 1 (01/2024): Management and Control of metro transport networks – Amendment 1
+–   ITU-T G.9804.1 (2019) Amd. 2 (01/2024): Higher Speed Passive Optical Networks: Requirements – Amendment 2
+–   ITU-T G.9806 (2020) Amd. 3 (01/2024): Higher-speed bidirectional, single fibre, point-to-point optical access
+    system (HS-PtP) – Amendment 3
+–   ITU-T G.9960 (2023) Amd. 1 (01/2024): Unified high-speed wireline-based home networking transceivers – System
+    architecture and physical layer specification – Amendment 1
+–   ITU-T G.9961 (2023) Amd. 1 (01/2024): Unified high-speed wireline-based home networking transceivers – Data
+    link layer specification – Amendment 1
+–   ITU-T H.431.1 (01/2024): Functional architecture for cloud virtual reality systems
+–   ITU-T H.861.0 (V2) (01/2024): Requirements on communication platform for multimedia brain information
+–   ITU-T H.862.7 (01/2024): Interoperability framework for sleep management services
+–   ITU-T J.1 (01/2024): Terms, definitions and acronyms for television and sound transmission and integrated
+    broadband cable networks
+–   ITU-T J.198.2 (01/2024): Physical layer specification for third-generation HiNoC
+–   ITU-T J.198.3 (01/2024): MAC layer specification for third-generation HiNoC
+–   ITU-T J.1206 (01/2024): The application programming interface of smart TV operating system
+–   ITU-T K.37 (01/2024): Low and high frequency EMC mitigation techniques for telecommunication installations and
+    systems – Basic EMC Recommendation
+–   ITU-T K.38 (01/2024): Radiated emission test procedure for physically large systems
+–   ITU-T K.83 (01/2024): Monitoring of electromagnetic field levels
+–   ITU-T K.91 (01/2024): Guidance for assessment, evaluation and monitoring of human exposure to radio frequency
+    electromagnetic fields
+–   ITU-T K.154 (01/2024): Operating telecommunication facilities using lightning strikes data obtained from Lightning
+    Location Systems
+–   ITU-T L.100 (01/2024): Optical fibre cables for duct and tunnel application
+–   ITU-T L.109 (01/2024): Construction of optical/metallic hybrid cables
+–   ITU-T L.250 (01/2024): Topologies for optical access network
+–   ITU-T L.312 (01/2024): Optical fibre cable maintenance support, monitoring and testing system for optical fibre
+    cable networks carrying high total optical power
+–   ITU-T L.1362 (01/2024): Power management capabilities of the future energy telecommunication network nodes.
+    Enhanced interface for power management in Network Function Virtualization (NFV) environments
+–   ITU-T L.1391 (01/2024): Specification of 5G network sharing and co-construction adapting to climate change
+    mitigation
+–   ITU-T L.1508 (01/2024): Framework for climate change adaptation in coastal cities using ICT and digital
+    technologies
+–   ITU-T M.3173.1 (01/2024): Interface for synergy management of cloud and SDN-based networks – Protocol
+    neutral requirements
+–   ITU-T M.3386 (01/2024): Requirements for the management of network operation cost within AI enhanced
+    Telecom Operation and Management (AITOM) in telecommunication operational aspects
+–   ITU-T Y.2344 (01/2024): Scenarios and requirements of Intent-Based Network for network evolution
+
+
+
+
+By TSB Circular 169 of 5 January 2024, it was announced that the following ITU-T Recommendations were deleted in
+      accordance with the procedures outlined in Resolution 1:
+–     ITU-T P.862 (02/2001): Perceptual evaluation of speech quality (PESQ): An objective method for end-to-end
+      speech quality assessment of narrow-band telephone networks and speech codecs
+–     ITU-T P.862.1 (11/2003): Mapping function for transforming P.862 raw result scores to MOS-LQO
+–     ITU-T P.862.2 (11/2007): Wideband extension to Recommendation P.862 for the assessment of wideband
+      telephone networks and speech codecs
+–     ITU-T P.862.3 (11/2007): Application guide for objective quality measurement based on Recommendations P.862,
+      P.862.1 and P.862.2
+
+
+
+
+                                               Service Restrictions
+                                         See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+     Country/geographical area           OB
+
+Seychelles                  1006 (p.13)
+Slovakia                    1007 (p.12)
+Malaysia                    1013 (p.5)
+Thailand                    1034 (p.5)
+São Tomé and Principe       1039 (p.14)
+Uruguay                     1039 (p.14)
+Hong Kong, China            1068 (p.4)
+Ukraine                     1148 (p.5)
+
+
+
+
+                                             Call-Back
+                     and alternative calling procedures (Res. 21 Rev. PP-06)
+                                      See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                        AMENDMENTS TO SERVICE PUBLICATIONS
+                                                 Abbreviations used
+                              ADD    Insert                    PAR    Paragraph
+                              COL    Column                    REP    Replace
+                              LIR    Read                      SUP    Delete
+                              P      Page(s)
+
+
+
+
+                              List of Ship Stations and Maritime Mobile
+                                      Service Identity Assignments
+                                                 (List V)
+                                             Edition of 2023
+
+                                                    Section VI
+
+
+SUP
+
+ BU02       Telekom Brunei Berhad (TelBru), 1st Floor, TelBru HQ Building, Old Airport Site,
+            Berakas BB3510, Brunei Darussalam.
+            E-mail: sahanisah.metali@telbru.com.bn, Tel.: +673 2322114, Fax: +673 2383800,
+            Contact Person: Dk Hjk Sahanisah Pg Hj Metali, Head of Global Carrier Services,
+            Global Business Unit.
+
+ NA01       Antelcom N.V., P.O. Box 103, Willemstad (Curaçao), Netherlands Antilles.
+            Tel.: +599 9 4631111, Fax: +599 9 4631321, Telex: 1075 irdir na,
+            Contact Person: R. F. Hato.
+
+
+
+
+                                   List of Issuer Identifier Numbers
+                     (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                   (Position on 31 December 2023)
+                                    (Annex to ITU Operational Bulletin No. 1283 – 1.I.2024)
+                                                    (Amendment No. 1)
+
+Switzerland      LIR
+
+    Country/           Company Name/Address                  Issuer      Contact
+  Geographical                                             Identifier
+      area                                                  Number
+
+ Switzerland           Telecom26 AG                        89 41 31      Nicola Berardocco
+                       Bahnhofstrasse 10                                 Bahnhofstrasse 10
+                       6300 ZUG                                          6300 ZUG
+                                                                         Tel.: +41 43 500 42 44
+                                                                         Fax:
+                                                                         E-mail: nicolab@telecom26.ch
+
+Global IIN     LIR
+
+    Country/           Company Name/Address                  Issuer      Contact
+  Geographical                                             Identifier
+      area                                                  Number
+
+ Global                Telecom26 AG                        89 883 06     Nicola Berardocco
+                       Bahnhofstrasse 10                                 Bahnhofstrasse 10
+                       6300 ZUG                                          6300 ZUG
+                       Switzerland                                       Switzerland
+                                                                         Tel.: +41 43 500 42 44
+                                                                         Fax:
+                                                                         E-mail: nicolab@telecom26.ch
+
+
+
+
+                  Network Codes (MNC) for the international identification plan
+                             for public networks and subscriptions
+                     (According to Recommendation ITU-T E.212 (09/2016))
+                                (Position on 15 November 2023)
+                                   (Annex to ITU Operational Bulletin No. 1280 – 15.XI.2023)
+                                                     (Amendment No. 3)
+
+
+Country/Geographical area            MCC+MNC *            Operator/Network
+
+Estonia SUP
+
+                                           248 29         SkyTel OÜ
+
+Estonia ADD
+
+                                           248 33         Crowdfaster OÜ
+
+Nauru ADD
+
+                                           536 03         Nauru Telikom Corporation
+
+
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                       List of International Signalling Point Codes (ISPC)
+                    (According to Recommendation ITU-T Q.708 (03/1999))
+                                     (Position on 1 July 2020)
+                               (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                (Amendment No. 65)
+
+
+Country/
+Geographical Area
+ISPC       DEC        Unique name of the signalling point        Name of the signalling point operator
+
+Albania SUP
+7-219-5 16093         Bleta sh.p.k.                              BLETA ALBANIA
+
+Estonia SUP
+2-092-5 4837          Tallin                                     OU Top Connect
+2-199-3    5691       STP4                                       Top Connect OÜ
+
+Ireland ADD
+5-213-4 11948         CLDMSC3                                    Eircom Limited
+5-213-5    11949      SRLMSC3                                    Eircom Limited
+5-213-6    11950      CWTMSC3                                    Eircom Limited
+
+Ireland LIR
+5-216-2 11970         MSCCL1                                     Eircom Limited
+5-216-3    11971      MSCKW1                                     Eircom Limited
+6-246-1    14257      MSC3                                       Eircom Limited
+
+Spain SUP
+2-238-4 6004          Madrid                                     Cableuropa, S.A.
+2-239-6    6014                                                  Cableuropa, S.A.U.
+2-241-0    6024                                                  Cableuropa, S.A.U.
+
+United States SUP
+3-022-1 6321      Pompano Beach, FL                              Verizon Business Global LLC
+                                                                 (formerly WorldCom, Inc)
+3-022-6    6326       San Antonio, TX                            Verizon Business Global LLC
+                                                                 (formerly WorldCom, Inc)
+3-025-5    6349       Honolulu, HI                               Verizon Hawaii International Inc
+3-028-5    6373       Miami, FL                                  UniPlex Telecom Technologies, Inc
+3-031-6    6398       Honolulu (2), HI                           Verizon Hawaii International Inc
+3-031-7    6399       Honolulu (3), HI                           Verizon Hawaii International Inc
+3-038-5    6453       Miami, FL                                  Go2Tel.com, Inc
+3-039-4    6460       Miami, FL                                  Go2Tel.com, Inc
+3-039-5    6461       Miami, FL                                  Go2Tel.com, Inc
+3-059-1    6617       New York, NY                               Verizon Business Global LLC
+                                                                 (formerly WorldCom, Inc)
+3-183-6    7614       Jersey City, NJ                            SK Telink America, Inc
+3-187-5    7645       Holmdale, NJ                               Sakon, LLC
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point          Name of the signalling point operator
+
+ United States LIR
+ 3-021-4 6316               West Orange, NJ                              Verizon Business Global LLC
+ 3-021-5       6317         Rialto, CA                                   Verizon Business Global LLC
+ 3-021-6       6318         San Antonio, TX                              Verizon Business Global LLC
+ 3-021-7       6319         Pottstown, PA                                Verizon Business Global LLC
+ 3-022-2       6322         Pottstown, PA                                Verizon Business Global LLC
+ 3-032-4       6404         Rialto, CA                                   Verizon Business Global LLC
+ 3-032-5       6405         Pompano Beach, FL                            Verizon Business Global LLC
+ 3-045-1       6505         Richardson, TX                               Verizon Business Global LLC
+ 3-045-3       6507         Pottstown, PA                                Verizon Business Global LLC
+ 3-053-2       6570         Elmsford, NY                                 MCI International, LLC
+ 3-056-0       6592         Rialto, CA                                   Verizon Business Global LLC
+ 3-059-2       6618         San Antonio, TX                              Verizon Business Global LLC
+ 3-182-5       7605         Elmsford, NY                                 Verizon Business Global LLC
+ 3-199-3       7739         Pompano Beach, FL                            Verizon Business Global LLC
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                         National Numbering Plan
+                          (According to Recommendation ITU-T E.129 (01/2013))
+                                                Web: www.itu.int/itu-t/inr/nnp/index.html
+
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which will
+be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations are
+kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will be
+responsible for the timely update of this information.
+From 1.I.2024, the following countries/geographical areas have updated their national numbering plan on our site:
+
+                                    Country/ Geographical area                     Country Code (CC)
+                        Bahrain                                                             +973
+                        Malta                                                               +356
+                        Tanzania                                                            +255
+                        Tonga                                                               +676
+
+
+
+

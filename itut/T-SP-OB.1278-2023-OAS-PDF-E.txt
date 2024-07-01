@@ -1,0 +1,1040 @@
+                               ITU Operational Bulletin
+                                                                 www.itu.int/itu-t/bulletin
+
+              No. 1278               15.X.2023                   (Information received by 29 September 2023) ISSN 1564-5223 (Online)
+        Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+        Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+        Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+        E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                         Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                    3
+Approval of ITU-T Recommendations .............................................................................................................                         4
+Telephone Service:
+     Botswana (Botswana Communications Regulatory Authority (BOCRA), Gaborone).................................                                                         5
+     Mauritius (Information and Communication Technologies Authority (ICTA), Port-Louis).........................                                                      14
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) .....................                                                           15
+     Uganda (Uganda Communications Commission (UCC), Kampala) ............................................................                                             16
+Other communications:
+     Austria .......................................................................................................................................................   19
+Service Restrictions .........................................................................................................................................         20
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                    20
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers for the International Telecommunication Charge Card .............................                                                    21
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................             22
+List of ITU Carrier Codes..................................................................................................................................            23
+List of International Signalling Point Codes (ISPC) ..........................................................................................                         24
+National Numbering Plan ................................................................................................................................               24
+
+
+
+
+                                                                                                                                             www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1279              1.XI.2023             13.X.2023
+               1280             15.XI.2023             1.XI.2023
+               1281             1.XII.2023             15.XI.2023
+               1282             15.XII.2023            30.XI.2023
+               1283              1.I.2024              8.XII.2023
+
+
+
+
+                                                GENERAL INFORMATION
+                                Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1199 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 July 2020)
+1162 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 December 2018)
+1161 List of Issuer Identifier Numbers for the International Telecommunication Charge Card (In accordance with
+      Recommendation ITU-T E.118 (05/2006)) (Position on 1 December 2018)
+1125 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2017)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on 1
+      November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-T
+      Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on 15
+      May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1 May
+      2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)              www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                         www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)               www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                 Approval of ITU-T Recommendations
+By AAP-37, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T H.266 (V3) (09/2023): Versatile video coding
+–     ITU-T H.273 (V3) (09/2023): Coding-independent code points for video signal type identification
+–     ITU-T H.274 (V3) (09/2023): Versatile supplemental enhancement information messages for coded video
+      bitstreams
+–     ITU-T L.1241 (09/2023): Methodologies for evaluating the functionality and performance of power supply unit
+      configured for servers
+–     ITU-T L.1631 (09/2023): Reference model of firefighting infrastructure management system for buildings in
+      sustainable cities
+–     ITU-T Y.2249 (09/2023): Service model for human-centric touring guide with augmented reality
+–     ITU-T Y.3058 (09/2023): Functional architecture for trust enabled service provisioning
+–     ITU-T Y.3060 (09/2023): Autonomous networks - overview on trust
+–     ITU-T Y.3083 (09/2023): Information-centric networking in networks beyond IMT-2020: Reference model of on-
+      site, elastic, and autonomous network
+–     ITU-T Y.3124 (09/2023): Quality of service monitoring requirements and framework for IMT-2020 and beyond
+–     ITU-T Y.3125 (09/2023): QoS assurance requirements and framework for cloud gaming supported by IMT-2020
+      network
+–     ITU-T Y.3204 (09/2023): Fixed, mobile and satellite convergence - Service continuity for IMT-2020 networks and
+      beyond
+–     ITU-T Y.3815 (09/2023): Quantum key distribution networks - overview of resilience
+–     ITU-T Y.3816 (09/2023): Quantum key distribution networks - Functional architecture enhancement of machine
+      learning based quality of service assurance
+–     ITU-T Y.3817 (09/2023): Quantum key distribution networks interworking - Requirements of quality of service
+      assurance
+–     ITU-T Y.3818 (09/2023): Quantum key distribution networks interworking – architecture
+By TSB Circular 140 of 25 September 2023, it was announced that the following ITU-T Recommendations were approved
+in accordance with the procedures outlined in Resolution 1:
+–     ITU-T Y.4223 (09/2023): Common requirements and capabilities of smart cities and communities from IoT and ICT
+      perspectives
+–     ITU-T Y.4604 (09/2023): Metadata for camera sensing information of autonomous mobile IoT devices
+
+
+
+
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                               url: www.itu.int/itu-t/inr/nnp
+Botswana (country code +267)
+Communication of 26.IX.2023:
+The Botswana Communications Regulatory Authority (BOCRA), Gaborone, announces the updated national numbering
+plan of Botswana.
+
+                                            NATIONAL NUMBERING PLAN
+                                                      AND
+                            LIST OF NUMBERING RESOURCE ALLOCATIONS AND ASSIGNMENTS
+
+
+DEFINITIONS
+“Administration of Numbering Resources” means the set of activities associated with the Assignment, Designation, and
+the oversight and monitoring of Numbering Resources, whose Allocation is established in the Numbering Plan.
+“Allocation” means the attribution of the purpose and quantitative capacity of sets of Numbering Resources established
+in Numbering Plan.
+“Assignment” means the allotment of Numbering Resources previously allocated in a Numbering Plan for a given
+telecommunications service provider or end-user.
+“Assignee” means a person (natural or legal) to whom an assignment of numbers is made.
+“End user” means a person who utilizes telecommunications services by assigned numbering resources.
+“Facilities-based Service Provider” means a service provider who owns and operates the telecommunications network
+facilities used in the provision of a specified service.
+“Freephone” means telephone service whereby a subscribing organization can pay for the incoming calls made by its
+clients or customers.
+“National Numbering Plan” means the identification of the framework for allocation of ordinary numbering blocks, carrier
+identification codes, short codes, and other unique numbering resources to different applications and categories of
+resource
+“Primary assignment” means the assignment of numbering resources by the BOCRA to individual companies and service
+providers.
+“Public Land Mobile Network” means a combination of wireless communication services offered by a specific operator in
+a specific country
+“Public Switched Data Networks” means a publicly available network supporting packet-switched data, separate from the
+Public Switched Telephone Network.
+“Public Switched Telephone Network” means is the aggregate of the world's circuit-switched telephone networks that
+are operated by national, regional, or local telephone operators, providing infrastructure and services for public
+telecommunication
+“Secondary assignment” means the assignment of numbering resources by recipients of a primary assignment to their
+customers.
+“Shared calls” means is the sharing of a phone number across multiple devices in different locations
+
+
+
+
+ACRONYMS
+CRA Act              Communications Regulatory Authority Act
+BOCRA                Botswana Communications Regulatory Authority,
+CRASA Communications Regulators Association of Southern Africa.
+CC       Country Code
+DNIC Data Network Interface Codes
+IoT      Internet of Things
+ISPC     International Signalling Point Codes
+M2M Machine to Machine
+MNC Mobile Network Codes
+MCC Mobile Country Code
+MNO Mobile Network Operator
+NCC      Network Colour Codes
+NSPC National Signalling Point Codes
+NNP National Numbering Plan
+PRS      Premium Rate Services
+PLMN Public Land Mobile Network (PLMN)
+PSDN Public Switched Data Network
+PSTN Public Switched Telephone Network (PSTN)
+SADC Southern Africa Development Community
+SPC      Signalling Point Code
+USSD Unstructured Supplementary Service Data
+VANs Value Added Network Service providers
+VoIP Voice Over Internet Protocol
+
+
+
+1. INTRODUCTION
+      1.1 Section 38 of the Communications Regulatory Authority Act of 2012, grants Botswana Communications
+      Regulatory Authority (the Authority or BOCRA) the mandate to maintain a Numbering Plan and other
+      telecommunication numbering resources used in Botswana.
+
+      1.2 In fulfilling this statutory mandate, BOCRA is required to develop a National Numbering Plan (NNP) for the efficient
+      use of the numbering resources of telecommunications services and ensure adherence to the plan regarding the
+      allocations and assignments of the numbering resources to the service providers. To achieve this mandate BOCRA shall:
+
+             1.2.1      Ensure that the National Numbering Plan, where applicable, will ensure that it is compatible with
+                        relevant Numbering Plan Standards and Industry Guidelines, International Agreements, Standards and
+                        Recommendations.
+
+             1.2.2      Manage the National Numbering Plan Allocations and Assignments to ensure that there are enough
+                        numbers available to meet current and reasonably anticipated future demands of services.
+
+             1.2.3      Ensure that there is equity, efficiency and transparency in the allocation and primary assignment of
+                        numbers, and that costs to service providers and consumers are objectively justified.
+
+
+
+
+2. PURPOSE
+The purpose of the National Numbering Plan is to ensure transparent, non-discriminatory and efficient use of numbers.
+This practice assures service providers and end-users of excellent provision and consumption of telecommunications
+services.
+
+
+3. BACKGROUND
+   3.1 BOCRA adopts the principles and procedures, in the form of administration of Numbering Policies, Numbering
+   Plan Code of Conduct and Numbering Database that govern the way numbering resources are allocated and assigned.
+   These administrative mechanisms promote fair and efficient allocation, assignment and use of numbering resources.
+   This shall provide BOCRA and the Service Providers with a management platform and the end users with specific
+   identification of their respective services in relation to the numbering plan.
+
+
+4. NATIONAL NUMBERING PLAN (NNP)
+
+   4.1 The National Numbering Plan is illustrated in Table 1.
+       Table 1 is the matrix for allocation of all numbers i.e., Fixed, Mobile, Short Codes, and other unique numbering
+       resources. These are described in detail in the following sections.
+
+                                          Table 1: The National Numbering Plan
+
+      First digit   Second digit
+                       0           1       2        3         4         5         6      7          8        9
+          0          Int’l    Short international dialling in region                             0800 &
+                                                                                                 08XX
+          1         Short codes
+          2           NG      Geographic numbering (Francistown region)
+          3           NG      Geographic numbering (Gaborone)
+          4           NG      Geographic numbering (Palapye region)
+          5           NG      Geographic numbering (south-east region)
+          6           NG      Geographic numbering (north and west regions)
+          7         Mobile numbering
+          8         Non-geographic numbering (M2M and Mobile)
+          9          PRS           91X                                 Reserved                             99X
+
+Int’l: international access code
+NG: non-geographic numbering
+PRS: premium rate services (non-geographic)
+
+
+
+
+4.2 Unique Numbers and Short Code numbers
+
+      4.2.1      Level 0 - International Access and Freephone Numbers
+                 Levels 0 is used for international access (00), the freephone numbers commencing with 0800 and
+                 shared calls were allocated the 08XX numbering range.
+
+      4.2.2      Levels 1 - Short Codes
+                 Level 1 is used for the Short Codes. Short codes are short telephone numbers classified into three
+                 categories being Types A, B and C. The numbers occupy the 1XX, 1XXX and 1XXXX number blocks i.e.,
+                 three or four- and five-digits long numbers. Refer to Table 2.
+
+
+                                      Table 2: Summary of Types of Short Codes
+
+  Short Code Types               Services and attributes                Length of number digits
+  Type A                         Nationally important services          3 digits long emergency services
+                                 including emergency numbers
+  Type B                         Across net services i.e., accessed     5 digits long:16XXX, 17XXX, 18XX(X) and
+                                 through all public MNOs                19XXX number blocks.
+  Type C                         On-Net services and can have same      10X(X), 11XX, 12X(X).
+                                 number for different services within
+                                 the network.
+
+      4.2.3      Level *1 and *2 - USSD codes.
+                 The levels *1 and *2 are used for the USSD codes which currently occupy the *1XX*XXX# and
+                 *2XX*XXX# numbering blocks.
+
+      4.2.4      Levels 1 and 9 - Emergency Numbers
+                 Level 1 and part of level 9 is used for the emergency numbers. The emergency numbers occupy the
+                 110-116, 99X and 91X numbering blocks. Reference is made to Table 3 below being a list of Emergency
+                 Service Providers.
+
+                                       Table 3: Assigned Emergency Numbers
+
+                   Service Provider                                   Emergency Number
+                   All Emergencies                                    112
+                   ChildLine Botswana                                 116
+                   Emergency Assist                                   991
+                   MedRescue International                            992
+                   Rescue One                                         993
+                   Boitekanelo Medical Services                       994
+                   Okavango Air Rescue                                995
+                   Botswana Fire Department                           998
+                   Ambulance (Ministry of Health)                     997
+                   Police                                             999
+                   MedRescue International                            911
+                   Medflex                                            914
+
+
+      4.2.5      Premium Rate Services
+                 The Premium Rate Services (PRS) in level 09 remains unused and remains reserved for this service.
+
+
+
+
+ 4.3 Fixed Numbers
+
+        4.3.1      Levels 2 to 6: Fixed numbers
+                   Level 2 to 6 are the seven (7) digits long geographical numbers occupying the numbering range from
+                   2XX XXXX to 6XX XXXX respectively providing services to fixed line services. Reference is made to Table
+                   4 below. This, however, excludes the following selected numbers on the second- and third-digit levels
+                   zero e.g., 200 0000, 300 0000, 460 0000, 530 0000, 680 0000 which are reserved.
+
+                                  Table 4: Fixed numbers by the geographical location
+
+Geographical Area                                   Number range                        Zone
+Francistown Area                                    24X XXXX                                      4
+Selebi-Phikwe Area                                  26X XXXX                                      4
+Letlhakane/Orapa Area                               29X XXXX                                      4
+Gaborone Area                                       3XX XXXX                                      1
+Serowe Area                                         46X XXXX                                      3
+Mahalapye Area                                      47X XXXX                                      3
+Palapye Area                                        49X XXXX                                      3
+Ramotswa/Lobatse Area                               53X XXXX                                      2
+Barolong/Ngwaketse Area                             54X XXXX                                      2
+Mochudi Area                                        57X XXXX                                      2
+Jwaneng Area                                        58X XXXX                                      2
+Molepolole Area                                     59X XXXX                                      2
+Kasane Area                                         62X XXXX                                      5
+Ghanzi/Kgalagadi Area                               65X XXXX                                      5
+Maun Area                                           68X XXXX                                      5
+
+
+ 4.4 VOIP NUMBERS
+        4.4.1      Level 7
+                   The level 7 range of 79 XXX XXX is allocated for VoIP numbering services.
+
+ 4.5 MOBILE NUMBERS
+        4.5.1      Level 7 and 8
+                   Levels 7 and part of Level 8 are an eight digits long mobile number range from :
+                   71 XXX XXX to 78 XXX XXX ; and
+                   81 XXX XXX to 85 XXX XXX respectively.
+
+ 4.6 MACHINE TO MACHINE COMMUNICATIONS (M2M)/IOT
+        4.6.1      Level 8
+                   The M2M communications is a 10 digit long numbering range that occupies numbering range from
+                   86 XXXX XXXX to 89 XXXX XXXXX and supports the Internet of Things devices.
+
+
+
+
+5. OTHER NUMBERING RESOURCES
+  5.1   The other numbering resources that enable seamless communications services and these are the known as
+        Codes reference is made to table 5 below. These codes are listed as in the Recommendation ITU-T E.164.
+                                              Table 5: Instrumental Codes
+
+    Important Codes                                    Relevance and Use
+
+    Country Code (CC)                                  267
+    Mobile Country Code (MCC)                          652
+    National Signalling Point Codes                    network interconnection purposes
+    Data Network Interface Code (DNICs)                X25 data networking
+    Network Colour Codes (NCC)                         GSM base station identifiers
+    Mobile Network Code (MNC)                          Public networks
+    International Signalling Point Code (ISPCs)        International signalling and it uses a 3-8-3 ITU format
+                                                       standard.
+
+  5.2   Mobile Network Code
+        There are three (03) Mobile Network Code (MNC) used in the networks of the Mobile Network Operators
+        (MNOs) and these are allocated in accordance with the Recommendation ITU-T E.212. Reference is made to
+        table 6 below.
+
+                                        Table 6: Mobile Network Codes
+                        Mobile Network Codes        Mobile Network Operator
+                                   01                    Mascom Wireless
+                                   02                    Orange Botswana
+                                   04                    BTCL
+
+  5.3   The International Signalling Point Codes
+        These codes are used for the international signalling and are represented using a ITU 3-8-3 format. There are
+        currently 6 spare ISPCs for Botswana. The following are assigned codes to Botswana for use as tabulated below.
+
+                              Table 7: International Signalling Point Codes for Botswana
+        International Signalling Point Code       MNO Assigned
+                (ITU 3-8-3 Format)
+                      6-104-0                     Botswana Telecommunications Corporation Limited (BTCL)
+                      6-104-1                     Botswana Telecommunications Corporation Limited (BTCL)
+                      6-104-2                     Mascom Wireless
+                      6-104-3                     Orange Botswana
+                      6-104-4                     Orange Botswana
+                      6-104-5                     Botswana Telecommunications Corporation Limited (BTCL)
+                      6-104-6                     Botswana Telecommunications Corporation Limited (BTCL)
+                      6-104-7                     Mascom Wireless
+                      6-105-0                     Mascom Wireless
+                      6-105-1                     Mascom Wireless
+                      6-105-2                     Spare
+                      6-105-3                     Spare
+                      6-105-4                     Spare
+                      6-105-5                     Spare
+                      6-105-6                     Spare
+                      6-105-7                     Spare
+
+
+
+
+6. NUMBERING ALLOCATIONS AND ASSIGNMENTS
+
+
+  6.1 Application for Number
+        6.1.1   All operators of a Public Switched Telephone Network (PSTN), Public Land Mobile Network (PLMN), or
+                a Public Switched Data Network(PSDN), providing, or intending to provide within a specified time,
+                publicly available telephone services, and owning and operating a public telecommunication system,
+                are eligible to apply for primary assignments of telephone numbering capacity, subject to satisfying an
+                eligibility criterion specified in the Numbering Policy, Code of Conduct and other relevant standard
+                specifications such as the International Telecommunications Union’s ITU-T Recommendations.
+
+        6.1.2   Non-facilities-based service providers may seek a secondary assignment from an eligible service
+                provider unless the Authority advises otherwise. However, secondary assignments shall be made in an
+                efficient and non-discriminatory manner.
+
+
+
+  6.2 National Number Allocations
+        6.2.1   The table 8 shows the 8 digits active mobile number allocations across all the three MNOs.
+
+                               Table 8: Mobile Number Allocations as of August 2023
+           Mobile Network Operator           Mobile Number Range               Quantity Allocated
+
+           Mascom Wireless                   71 000 000 – 71 999 999           1,000,000
+                                             74 000 000 – 74 299 999           300,000
+                                             74 500 000 – 74 799 999           300,000
+                                             75 400 000 – 75 699 999           300,000
+                                             75 900 000 – 75 999 999           100,000
+                                             76 000 000 – 76 299 999           300,000
+                                             76 600 000 – 76 799 999           200,000
+                                             77 000 000 – 77 199 999           200,000
+                                             77 600 000 – 77 799 999           200,000
+                                             77 800 000 – 77 899 999           100,000
+           Orange Botswana                   72 000 000 – 72 999 999           1,000,000
+                                             74 300 000 – 74 499 999           200,000
+                                             74 800 000 – 74 899 999           100,000
+                                             75 000 000 – 75 399 999           400,000
+                                             75 700 000 – 75 799 999           100,000
+                                             76 300 000 – 76 599 999           300,000
+                                             76 900 000 – 76 999 999           100,000
+                                             77 300 000 – 77 599 999           300,000
+                                             77 900 000 – 77 999 999           100,000
+                                             78 000 000 – 78 199 999           200,000
+                                             78 200 000 – 78 499 999           300,000
+                                             78 500 000 – 78 799 999           300,000
+           Botswana Telecommunications       73 000 000 – 73 999 999           1,000,000
+           Corporation Limited (BTCL)        74 900 000 – 74 999 999           100,000
+                                             75 800 000 – 75 899 999           100,000
+                                             76 800 000 – 76 899 999           100,000
+                                             77 200 000 – 77 299 999           100,000
+
+
+
+
+         6.2.2     The table 9 below shows the 8 digits active VoIP numbering allocations made to both the MNOs and
+                   the VANs:
+                                       Table 9: VoIP Numbers as of August 2023
+
+         Service Provider                         VoIP Number range              Quantity Allocated
+
+         Virtual Business Network Services        79 100 000 – 79 100 999        1,000
+         AfriTel                                  79 101 000 – 79 101 999        1,000
+         Global Broadband Solutions               79 102 000 – 79 102 999        1,000
+         Business Solutions Consultants           79 103 000 – 79 103 999        1,000
+         Dimension Data                           79 104 000 – 79 104 999        1,000
+         OPQ Net                                  79 105 000 – 79 105 999        1,000
+         Mega Internet                            79 106 000 – 79 106 999        1,000
+         Stature (OpenVoice)                      79 107 000 – 79 107 999        2,000
+                                                  79 113 000 – 79 113 999
+         Tsagae Communications                    79 108 000 – 79 108 999        1,000
+         MicroTeck Enterprises                    79 109 000 – 79 109 999        1,000
+         Microla Botswana                         79 110 000 – 79 110 999        1,000
+         Internet Options Botswana                79 111 000 – 79 111 999        1,000
+         FDI Foneworx                             79 112 000 – 79 112 999        1,000
+         MTN Business Solutions                   79 114 000 – 79 114 999        1,000
+         Abari Communications                     79 115 000 – 79 115 999        1,000
+         Mission Communications                   79 116 000 – 79 116 999        1,000
+         ConceroTel                               79 117 000 – 79 117 999        1,000
+         Paratus Africa                           79 118 000 – 79 118 999        1,000
+         Blue Pearl Communications T/A ROI        79 119 000 – 79 119 999        1,000
+         Dapit Ventures T/A GCSat Botswana        79 120 000 – 79 120 999        1,000
+         Bantu Telecom                            79 121 000 – 79 121 999        1,000
+         Paratus Africa                           79 122 000 – 79 123 999        2,000
+         Netway Pty Ltd                           79 124 000 – 79 125 999        2,000
+         Apicom Pty Ltd                           79 126 000 – 79 126 999        1,000
+         Devaki Botswana                          79 127 000 – 79 127 999        1,000
+         Liquid Intelligent Technologies          79 128 000 – 79 128 999        1,000
+         Orange Botswana                          79 200 000 – 79 209 999        20,000
+                                                  79 220 000 – 79 229 999
+         Botswana Telecommunications              79 210 000 – 79 219 999        10,000
+         Corporation Limited (BTCL)
+         Mascom Wireless                          79 230 000 – 79 279 999        50,000
+
+Note non coloured ranges are licensed SAP
+
+
+
+
+            6.2.3   The table 10 below shows the 10 number digits active Machine-to-Machine number allocations:
+                                  Table 10: M2M Number Allocations as of August 2023
+
+     Mobile Network Operator                    M2M Number range                 Quantity Allocated
+
+     Orange Botswana                            89 0000 0000 - 89 0000 9999      10,000
+                                                89 0001 0000 - 89 0001 9999      10,000
+                                                89 0002 0000 - 89 0002 9999      10,000
+                                                89 0003 0000 - 89 0003 9999      10,000
+                                                89 0004 0000 - 89 0004 9999      10,000
+                                                89 0018 0000 - 89 0018 9999      10,000
+                                                89 0019 0000 - 89 0019 9999      10,000
+                                                89 0020 0000 - 89 0020 9999      10,000
+                                                89 0021 0000 - 89 0021 9999      10,000
+                                                89 0022 0000 - 89 0022 9999      10,000
+                                                89 0023 0000 - 89 0023 9999      10,000
+                                                89 0024 0000 - 89 0024 9999      10,000
+                                                89 0025 0000 - 89 0025 9999      10,000
+                                                89 0026 0000 - 89 0026 9999      10,000
+                                                89 0027 0000 - 89 0027 9999      10,000
+                                                89 0028 0000 - 89 0028 9999      10,000
+     Botswana Telecommunications                89 0005 0000 - 89 0005 9999      10,000
+     Corporation Limited (BTCL)                 89 0006 0000 - 89 0006 9999      10,000
+                                                89 0007 0000 - 89 0007 9999      10,000
+                                                89 0008 0000 - 89 0008 9999      10,000
+                                                89 0009 0000 - 89 0009 9999      10,000
+                                                89 0069 0000 - 89 0069 9999      10,000
+     Mascom Wireless                            89 0010 0000 - 89 0010 9999      10,000
+                                                89 0011 0000 - 89 0011 9999      10,000
+                                                89 0012 0000 - 89 0012 9999      10,000
+                                                89 0013 0000 - 89 0013 9999      10,000
+                                                89 0014 0000 - 89 0014 9999      10,000
+                                                89 0015 0000 - 89 0015 9999      10,000
+                                                89 0016 0000 - 89 0016 9999      10,000
+                                                89 0017 0000 - 89 0017 9999      10,000
+
+
+Note ALL Allocations made in blocks of 10,000 numbers
+
+
+            6.2.4   The table 11 below shows the 7 number digits active Fixed number allocations:
+                                  Table 11: Fixed Number Allocations as of August 2023
+Number Blocks                              Orange Botswana            Mascom Wireless          BTCL
+
+2XX XXXX                               -                              60,000                   300,000
+
+3XX XXXX                               -                              60,000                   500,000
+
+4XX XXXX                               -                              30,000                   300,000
+
+5XX XXXX                               -                              60,000                   500,000
+
+6XX XXXX                               -                              30,000                   300,000
+
+Sub-Total                              -                              240,000                  1,900,000
+
+
+
+
+7. CONCLUSION
+   7.1 The National Numbering Plan is a way of ensuring that:
+           7.1.1   The limited numbering resources are used prudently and efficiently and this allows for effective number
+                   management. This exercise enables customers to have access to services using numbers without undue
+                   expense and inconvenience, and to ensure that all service providers have the numbering resources they
+                   need to compete in the rapidly growing telecommunications marketplace with the associated
+                   proliferation of new telecommunications technologies and services; and
+
+           7.1.2   There is equity, efficiency, and transparency in the allocation of numbers as this is done objectively within
+                   the confines of the CRA Act of 2012.
+
+
+Contact:
+      Botswana Communications Regulatory Authority (BOCRA)
+      Plot 50671, Independence Avenue
+      Private Bag 00495
+      GABORONE
+      Botswana
+      Tel:     +267 395 7755
+      Fax:     +267 395 7976
+      E-mail: technical@bocra.org.bw
+      URL:     www.bocra.org.bw
+
+
+
+Mauritius (country code +230)
+Communication of 27.IX.2023:
+The Information and Communication Technologies Authority (ICTA), Port-Louis, announces that a new number range has
+been opened in the Republic of Mauritius by the following mobile operator in September 2023.
+
+
+ Operator                                Usage of ITU-T E.164 number                           Dialling Format
+ Emtel Ltd.                              Non-geographic numbers for                            +230 703X XXXX
+                                         Fixed-Mobile Converged (FMC) services
+
+Contact:
+           Mr J. Louis
+           Information and Communication Technologies Authority (ICTA)
+           Level 12, The Celicourt
+           6, Sir Celicourt Antelme Street
+           PORT LOUIS
+           Mauritius
+           Tel: +230 211 5333/4
+           Fax: +230 211 9444
+           E-mail: info@icta.mu
+           URL: www.icta.mu/telecom-numbering/
+
+
+
+
+Morocco (country code +212)
+Communication of 25.IX.2023:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following updates to
+the national telephone-numbering plan of Morocco.
+
+                                            Description of introduction of new resource
+                                     for national E.164 numbering plan for country code +212:
+
+•     new NDCs below have recently been introduced as follows:
+
+      NDC (national destination         N(S)N number length
+      code) or leading digits of
+                                     Maximum       Minimum         Usage of E.164 number        Additional information
+     N(S)N (national (significant)
+              number)                 length        length
+
+                8098                      9            9                    VoIP                Itissalat Al-Maghrib1
+                8099                      9            9                    VoIP                Itissalat Al-Maghrib
+
+1
+    : MAROC TELECOM
+
+Contact:
+           Agence Nationale de Réglementation des Télécommunications (ANRT)
+           Centre d'affaires
+           Boulevard Ar-Riad, Hay Riad
+           B.P. 2939
+           RABAT 10100
+           Morocco
+           Tel: +212 5 37 71 85 64
+           E-mail: numerotation@anrt.ma
+           URL: www.anrt.ma
+
+
+
+
+Uganda (country code +256)
+Communication of 27.IX.2023:
+The Uganda Communications Commission (UCC), Kampala, announces the following National Numbering Plan of Uganda.
+                           ITU-T E.164 NATIONAL NUMBERING PLAN FOR COUNTRY CODE 256
+
+a)      Overview
+        The minimum number length (excluding the country code) is 9 digits
+        The maximum number length (excluding the country code) is 9 digits
+
+b)      Details of numbering scheme
+
+     NDC (National         N(S)N Number Length
+  Destination Code) or
+                                                                Usage of
+    leading digits of     Maximum       Minimum                                          Additional information
+                                                          ITU-T E.164 Number
+    N(S)N (National        Length        Length
+ (Significant) Number)
+ 200                           9            9       Fixed telephony services for      Network fully operational
+ 201                                                Airtel Uganda Limited
+ 20240                         9            9       Fixed telephony services for      Network fully operational
+                                                    Liquid Intelligent Technologies
+ 2031                          9            9       Fixed telephony services for      Network not yet operational
+                                                    Talkio Mobile Limited
+ 2032                          9            9       Fixed telephony services for      Network fully operational
+                                                    Echotel Proprietary Uganda
+                                                    Limited
+ 2050                          9            9       Fixed telephony services for      Network fully operational
+ 2051                                               Roke Investment International
+ 2052                                               Limited
+ 2053
+ 2054
+ 20611                         9            9       Fixed telephony services for      Network operational
+                                                    Hamilton Telecom Limited
+ 206300                        9            9       Fixed telephony services for      Network fully operational
+ 206301                                             Simbanet Uganda Limited
+ 206302
+ 206303
+ 206304
+ 207                           9            9       Fixed telephony services for      Network fully operational
+                                                    Airtel Uganda Limited
+ 3                             9            9       Fixed telephony services for      Network is fully operational
+                                                    MTN Uganda Limited
+ 4                             9            9       Fixed telephony services for      Network is fully operational
+                                                    Uganda Telecommunication
+                                                    Corporation Limited
+ 700                           9            9       Mobile telephony services for     Network is fully operational
+ 701                                                Airtel Uganda Limited
+ 702
+ 703
+ 704
+ 705
+ 706
+ 707
+ 708
+ 709
+
+
+
+
+    NDC (National        N(S)N Number Length
+ Destination Code) or
+                                                          Usage of
+   leading digits of    Maximum     Minimum                                       Additional information
+                                                    ITU-T E.164 Number
+   N(S)N (National       Length      Length
+(Significant) Number)
+710                         9           9      Mobile telephony services for   Network is fully operational
+711                                            Uganda Telecommunication
+712                                            Corporation Limited
+713
+714
+715
+716
+717
+718
+719
+720                         9           9      Mobile telephony services for   Network is fully operational
+                                               Smile Communications (U) Ltd
+7240                        9           9      Mobile telephony services for   Network not yet operational
+                                               Hamilton Telecom Limited
+7260                        9           9      Mobile telephony services for   Network is fully operational
+                                               Tangerine Limited
+7280                        9           9      Mobile telephony services for   Network not yet operational
+                                               Talkio Mobile Limited
+740                         9           9      Mobile telephony services for   Network is fully operational
+741                                            Airtel Uganda Limited
+742
+743
+744
+750                         9           9      Mobile telephony services for   Network is fully operational
+751                                            Airtel Uganda Limited
+752
+753
+754
+755
+756
+757
+758
+759
+760                         9           9      Mobile telephony services for   Network is fully operational
+761                                            MTN Uganda Limited
+762
+763
+764
+765
+7660
+7661
+7662
+7663
+7664
+770                         9           9      Mobile telephony services for   Network is fully operational
+771                                            MTN Uganda Limited
+772
+773
+774
+775
+776
+777
+778
+779
+
+     NDC (National       N(S)N Number Length
+  Destination Code) or
+                                                          Usage of
+    leading digits of    Maximum    Minimum                                       Additional information
+                                                    ITU-T E.164 Number
+    N(S)N (National       Length     Length
+ (Significant) Number)
+ 780                        9           9      Mobile telephony services for   Network is fully operational
+ 781                                           MTN Uganda Limited
+ 782
+ 783
+ 784
+ 785
+ 786
+ 787
+ 788
+ 789
+
+Contact:
+      Uganda Communications Commission (UCC)
+      Plot 42-44 Spring Road, Bugolobi
+      P.O. Box 7376, Kampala, Uganda
+      Tel:     +256 41 433 9000
+      Fax:     +256 41 434 8832
+      E-mail: ucc@ucc.co.ug
+      URL:     www.ucc.co.ug
+
+
+
+
+                                            Other communications
+
+Austria
+Communication of 19.IX.2023:
+On the occasion of the 37th anniversary of the "European DX Foundation (EUDXF)", the Austrian Administration authorizes
+an Austrian amateur station to use the special call sign OE37EUDYF from 1 to 30 November 2023.
+
+
+Communications of 29.IX.2023:
+On the occasion of the 40th anniversary of the "AMRS Ortsstelle Wolfsberg ADL 084", the Austrian Administration
+authorizes an Austrian amateur station to use the special call sign OE40WO from 4 October 2023 to 4 April 2024.
+On the occasion of the "Bad Ischl - European Capital of Culture 2024", the Austrian Administration authorizes an Austrian
+amateur station to use the special call sign OE24BI from 1 January to 30 June 2024.
+
+
+
+
+                                           Service Restrictions
+                                     See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+
+     Country/geographical area       OB
+
+Seychelles              1006 (p.13)
+Slovakia                1007 (p.12)
+Malaysia                1013 (p.5)
+Thailand                1034 (p.5)
+São Tomé and Principe   1039 (p.14)
+Uruguay                 1039 (p.14)
+Hong Kong, China        1068 (p.4)
+Ukraine                 1148 (p.5)
+
+
+
+
+                                           Call-Back
+                   and alternative calling procedures (Res. 21 Rev. PP-06)
+                                 See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                        AMENDMENTS TO SERVICE PUBLICATIONS
+                                                 Abbreviations used
+                               ADD    Insert                     PAR   Paragraph
+                               COL    Column                     REP   Replace
+                               LIR    Read                       SUP   Delete
+                               P      Page(s)
+
+
+
+
+                                 List of Issuer Identifier Numbers for
+                         the International Telecommunication Charge Card
+                   (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                    (Position on 1 December 2018)
+                               (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                                                (Amendment No. 88)
+
+
+Ireland    ADD
+
+
+      Country/         Company Name/Address           Issuer      Contact                                  Effective
+  Geographical area                                 Identifier                                              date of
+                                                     Number                                                  usage
+ Ireland               Card Centric Ltd             89 353 09     Card Centric Public Relations            1.IX.2023
+                       32 Clanmawr, Shankill                      32 Clanmawr, Shankill
+                       D18Y5W0, DUBLIN 18                         D18Y5W0, DUBLIN 18
+                                                                  Tel:    +353 1 442 8656
+                                                                  E-mail: PR@cardcentric.com
+
+
+
+United States ADD
+
+      Country/         Company Name/Address           Issuer      Contact                                   Effective
+  Geographical area                                 Identifier                                                date
+                                                     Number                                                 of usage
+ United States         Pilot Thomas Logistics       89 1 064      Joey Huerta                              11.IX.2023
+                       1051 Mustang Drive                         Pilot Thomas Logistics,
+                       GRAPEVINE, TX 76051                        P.O. Box 2136
+                                                                  GRAPEVINE, TX 76099
+                                                                  Tel: +1 432 638 8251
+                                                                  Fax: +1 432 571 8099
+                                                                  E-mail: Joey.Huerta@pilotthomas.com
+
+
+
+
+         Mobile Network Codes (MNC) for the international identification plan
+                        for public networks and subscriptions
+                (According to Recommendation ITU-T E.212 (09/2016))
+                           (Position on 15 December 2018)
+                       (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
+                                       (Amendment No. 104)
+
+
+  Country/Geographical area                      MCC+MNC *                  Operator/Network
+
+  Canada LIR
+
+                                                          302 250           Bell Mobility.
+
+  Japan ADD
+
+                                                                            Hokkaido Telecommunication
+                                                          441 213
+                                                                            Network Co., Inc..
+
+  Uganda ADD
+
+                                                          641 08            Talkio Mobile Limited.
+
+
+____________
+*   MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+    MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                    List of ITU Carrier Codes
+                    (According to Recommendation ITU-T M.1400 (03/2013))
+                                (Position on 15 September 2014)
+                               (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                               (Amendment No. 157)
+
+
+ Country or area/ISO code        Company Code                            Contact
+  Company Name/Address           (carrier code)
+
+
+
+Germany (Federal Republic of) / DEU           ADD
+
+ Stadtwerke Saarlouis GmbH                          SWSLS                 Mr Joerg Rink
+ Holzendorffer Strasse 12                                                 Tel: +49 6831 9596 477
+ D-66740 SAARLOUIS                                                        E-mail: rink@swsls.de
+
+
+ DSI GmbH                                           DSINET                Mr Thorsten Hellfach
+ Daten Service Informationssysteme                                        Tel.: +49 351 213220
+ Carolinenstrasse 1                                                       Fax: +49 351 213220
+ D-01097 DRESDEN                                                          Email: info@dsi.net
+
+
+
+Germany (Federal Republic of) / DEU           LIR
+
+ BiTel Gesellschaft fuer                            BITEL                Mr Andreas Merschmann
+ Telekommunikation mbH                                                   Tel: +49 521 51 7764
+ Berliner Strasse 260                                                    E-mail: andreas.merschmann@bitel.de
+ 33330 GUETERSLOH
+
+
+
+
+                            List of International Signalling Point Codes (ISPC)
+                         (According to Recommendation ITU-T Q.708 (03/1999))
+                                          (Position on 1 July 2020)
+
+                                       (Annex to ITU Operational Bulletin No. 1199 – 1.VII.2020)
+                                                        (Amendment No. 60)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point          Name of the signalling point operator
+
+
+ Georgia SUP
+ 3-246-5       8117         Tbilisi, International Exchange              Warid Telecom Georgia Ltd
+
+ Georgia ADD
+ 3-246-5       8117         Tbilisi, Bulk SMS server                     Meta 37 LTD
+
+ Uganda ADD
+ 6-132-6       13350        INTL_GW_PC                                   Talkio Mobile Ltd
+ 6-132-7       13351        INTL_GW_PC_RED                               Talkio Mobile Ltd
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                         National Numbering Plan
+                          (According to Recommendation ITU-T E.129 (01/2013))
+                                                Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which will
+be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations are
+kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will be
+responsible for the timely update of this information.
+From 15.IX.2023, the following countries/geographical areas have updated their national numbering plan on our site:
+
+                                     Country/ Geographical area                     Country Code (CC)
+                        Bahrain                                                              +973
+                        Guyana                                                               +592
+                        Niue                                                                 +683
+
+
+
+
