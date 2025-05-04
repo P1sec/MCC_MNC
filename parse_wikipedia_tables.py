@@ -199,7 +199,7 @@ def parse_table_iso3166():
 
 # MCC and international operators
 URL_MCC     = "https://en.wikipedia.org/wiki/Mobile_country_code"
-# nationa operators
+# national operators
 URL_MNC_EU  = "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)"
 URL_MNC_NA  = "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_3xx_(North_America)"
 URL_MNC_AS  = "https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_4xx_(Asia)"
@@ -307,7 +307,7 @@ def read_entry_mnc_title(e):
     while e is not None:
         title = None
         for i in e:
-            if i.values() and i.values()[0] == 'mw-headline' and '\n' not in ''.join(i.itertext()):
+            if i.tag == 'h2' and '\n' not in ''.join(i.itertext()):
                 title = i
                 break
         if title is not None:
@@ -320,7 +320,7 @@ def read_entry_mnc_title(e):
         raise(Exception('unable to find headline title for MNC country name'))
     elif len(title) == 0:
         # raw title, without link
-        name = title.values()[1].strip()
+        name = title.text.strip()
         return name, '', None, []
     else:
         name, url = _get_country_url(title[0])
@@ -360,7 +360,9 @@ def read_entry_mnc(T_MNC, off):
     rec['operator']     = ''.join(L[3].itertext()).strip()
     rec['status']       = explore_text(L[4]).text.strip().lower()
     rec['bands']        = ''.join(L[5].itertext()).strip()
-    rec['notes']        = _strip_wiki_refnote(_strip_wiki_ref(''.join(L[6].itertext())))
+    rec['notes']        = ''
+    if len(L) == 7:
+        rec['notes']    = _strip_wiki_refnote(_strip_wiki_ref(''.join(L[6].itertext())))
     #
     if len(rec['mcc']) > 3:
         # some HTML tab/ref in wikipedia may add the country name before the MCC
