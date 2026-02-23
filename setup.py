@@ -5,7 +5,7 @@ from setuptools import setup
 
 
 # MCC_MNC Version
-VERSION = "0.2.0"
+VERSION = "1.0.0"
 
 
 # get long description from the README.md
