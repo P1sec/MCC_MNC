@@ -14,7 +14,7 @@ with open(os.path.join(os.path.dirname(__file__), "README.md")) as fd:
 
 
 setup(
-    name="MCC_MNC",
+    name="mcc-mnc-p1",
     version=VERSION,
     packages=[
         "mcc_mnc_lut",
