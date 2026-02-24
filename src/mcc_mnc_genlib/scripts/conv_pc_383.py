@@ -23,7 +23,7 @@
 # *--------------------------------------------------------
 # * File Name : conv_pc_383.py
 # * Created : 2021-04-08
-# * Authors : Benoit Michau 
+# * Authors : Benoit Michau
 # *--------------------------------------------------------
 # */
 
@@ -36,15 +36,18 @@ import sys
 def conv_pc_383(pcval):
     if '-' in pcval:
         pc_comps = pcval.split('-')
-        return (int(pc_comps[0])<<11) + \
-               (int(pc_comps[1])<<3)  + \
-                int(pc_comps[2])
+        return (
+            (int(pc_comps[0]) << 11)
+            + (int(pc_comps[1]) << 3)
+            + int(pc_comps[2])
+        )
     else:
         pcint = int(pcval)
         return '%i-%.3i-%i' % (
-                ((pcint>>11) & 0x7),
-                ((pcint>>3) & 0xff),
-                 (pcint & 0x7) )
+            ((pcint >> 11) & 0x7),
+            ((pcint >> 3) & 0xFF),
+            (pcint & 0x7),
+        )
 
 
 def help():
@@ -69,4 +72,3 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())
-

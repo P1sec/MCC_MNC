@@ -23,31 +23,40 @@
 # *--------------------------------------------------------
 # * File Name : chk_msisdn.py
 # * Created : 2020-09-14
-# * Authors : Benoit Michau 
+# * Authors : Benoit Michau
 # *--------------------------------------------------------
 # */
 
 
 import sys
 import argparse
+
 #
 from mcc_mnc_lut.p1_msisdn import P1_MSISDN
-from mcc_mnc_lut.p1_cntr   import P1_CNTR
+from mcc_mnc_lut.p1_cntr import P1_CNTR
+
 #
-from mcc_mnc_genlib.scripts.chk_cntr  import print_cntr
-from mcc_mnc_genlib.scripts.chk_mnc   import print_mcc
+from mcc_mnc_genlib.scripts.chk_cntr import print_cntr
+from mcc_mnc_genlib.scripts.chk_mnc import print_mcc
 
 
 def main():
-    parser = argparse.ArgumentParser(description=
-        'provides information related to international telephone prefix; '\
-        'if no argument is passed, lists all known MSISDN prefixes')
-    parser.add_argument('MSISDN', nargs='*', help='0 or more digit string for MSISDN')
-    parser.add_argument('-x', action='count', help='provides extended country-related information, set more x for more verbose info')
+    parser = argparse.ArgumentParser(
+        description='provides information related to international telephone prefix; '
+        'if no argument is passed, lists all known MSISDN prefixes'
+    )
+    parser.add_argument(
+        'MSISDN', nargs='*', help='0 or more digit string for MSISDN'
+    )
+    parser.add_argument(
+        '-x',
+        action='count',
+        help='provides extended country-related information, set more x for more verbose info',
+    )
     args = parser.parse_args()
     if not args.x:
         args.x = 0
-    #print(args)
+    # print(args)
     #
     if not args.MSISDN:
         for k in sorted(P1_MSISDN):
@@ -61,11 +70,13 @@ def main():
             found = False
             if msisdn in P1_MSISDN:
                 cntrs = P1_MSISDN[msisdn]
-                print('> +%s: known prefix for countries:\n  %s'\
-                      % (msisdn, ',\n  '.join(cntrs)))
+                print(
+                    '> +%s: known prefix for countries:\n  %s'
+                    % (msisdn, ',\n  '.join(cntrs))
+                )
                 if args.x:
                     for cntr in cntrs:
-                        print_cntr(P1_CNTR[cntr], ext=args.x-1)
+                        print_cntr(P1_CNTR[cntr], ext=args.x - 1)
                         for mcc in P1_CNTR[cntr]['mcc']:
                             print_mcc(mcc, {P1_CNTR[cntr]['cc2']}, indent='  ')
                 print('')
@@ -74,13 +85,21 @@ def main():
                 for i in range(1, len(msisdn)):
                     if msisdn[:-i] in P1_MSISDN:
                         cntrs = P1_MSISDN[msisdn[:-i]]
-                        print('> %s: known prefix +%s for countries:\n  %s'\
-                              % (msisdn, msisdn[:-i], ',\n  '.join(cntrs)))
+                        print(
+                            '> %s: known prefix +%s for countries:\n  %s'
+                            % (msisdn, msisdn[:-i], ',\n  '.join(cntrs))
+                        )
                         if args.x:
                             for cntr in cntrs:
-                                print_cntr(P1_CNTR[cntr], ext=args.x-1, indent='  ')
+                                print_cntr(
+                                    P1_CNTR[cntr], ext=args.x - 1, indent='  '
+                                )
                                 for mcc in P1_CNTR[cntr]['mcc']:
-                                    print_mcc(mcc, {P1_CNTR[cntr]['cc2']}, indent='  ')
+                                    print_mcc(
+                                        mcc,
+                                        {P1_CNTR[cntr]['cc2']},
+                                        indent='  ',
+                                    )
                         print('')
                         found = True
                         break
@@ -92,4 +111,3 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())
-

@@ -23,7 +23,7 @@
 # *--------------------------------------------------------
 # * File Name : parse_worldfactbook_infos.py
 # * Created : 2020-09-14
-# * Authors : Benoit Michau 
+# * Authors : Benoit Michau
 # *--------------------------------------------------------
 # */
 
@@ -41,8 +41,8 @@ from mcc_mnc_genlib.scripts.parse_wikipedia_tables import (
     explore_text,
     generate_json,
     generate_python,
-    _stripbordref
-    )
+    _stripbordref,
+)
 
 
 SCRIPT_DIR = dirname(realpath(__file__))
@@ -56,78 +56,86 @@ def import_json_doc(url):
     if resp.code == 200:
         J = json.load(resp)
     else:
-        raise(Exception('resource %s not available, HTTP code %i' % (url, resp.code)))
+        raise (
+            Exception(
+                'resource %s not available, HTTP code %i' % (url, resp.code)
+            )
+        )
     return J
 
 
-#------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------#
 # parsing CIA World Factbook country information
-#------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------#
 
 DEBUG = 0
 
 # old URLs, not valid anymore since January 2021
-#URL_FACTBOOK = 'https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html'
-#URL_PREF     = 'https://www.cia.gov/library/publications/the-world-factbook/geos/'
+# URL_FACTBOOK = 'https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html'
+# URL_PREF     = 'https://www.cia.gov/library/publications/the-world-factbook/geos/'
 
-URL_FACTBOOK  = 'https://www.cia.gov/the-world-factbook/page-data/references/country-data-codes/page-data.json'
-URL_PREF      = 'https://www.cia.gov/the-world-factbook/countries/'
+URL_FACTBOOK = 'https://www.cia.gov/the-world-factbook/page-data/references/country-data-codes/page-data.json'
+URL_PREF = 'https://www.cia.gov/the-world-factbook/countries/'
 URL_PREF_JSON = 'https://www.cia.gov/the-world-factbook/page-data/countries/'
 
 # this is a LUT for special cases, where the country name from the country codes does not correspond
 # to the country name in the rest of the WFB database
 WFB_COUNTRY_LUT = {
-    'Baker Island' : 'united-states-pacific-island-wildlife-refuges',
-    'Howland Island' : 'united-states-pacific-island-wildlife-refuges',
-    'Jarvis Island' : 'united-states-pacific-island-wildlife-refuges',
-    'Johnston Atoll' : 'united-states-pacific-island-wildlife-refuges',
-    'Kingman Reef' : 'united-states-pacific-island-wildlife-refuges',
-    'Midway Islands' : 'united-states-pacific-island-wildlife-refuges',
-    'Palmyra Atoll' : 'united-states-pacific-island-wildlife-refuges',
-    'Virgin Islands (US)' : 'virgin-islands',
-    'South Georgia and the Islands' : 'south-georgia-and-south-sandwich-islands',
-    'Akrotiri' : 'akrotiri-and-dhekelia',
-    'Dhekelia' : 'akrotiri-and-dhekelia',
-    'Zaire' : 'democratic-republic-of-the-congo'
-    }
+    'Baker Island': 'united-states-pacific-island-wildlife-refuges',
+    'Howland Island': 'united-states-pacific-island-wildlife-refuges',
+    'Jarvis Island': 'united-states-pacific-island-wildlife-refuges',
+    'Johnston Atoll': 'united-states-pacific-island-wildlife-refuges',
+    'Kingman Reef': 'united-states-pacific-island-wildlife-refuges',
+    'Midway Islands': 'united-states-pacific-island-wildlife-refuges',
+    'Palmyra Atoll': 'united-states-pacific-island-wildlife-refuges',
+    'Virgin Islands (US)': 'virgin-islands',
+    'South Georgia and the Islands': 'south-georgia-and-south-sandwich-islands',
+    'Akrotiri': 'akrotiri-and-dhekelia',
+    'Dhekelia': 'akrotiri-and-dhekelia',
+    'Zaire': 'democratic-republic-of-the-congo',
+}
 
 
 # model for the base dict extracted from the WFB
-REC_COUNTRY  = {
-    'name'  : '',
-    'url'   : '',
-    'json'  : '',
-    'genc'  : '',
-    'cc2'   : '',
-    'cc3'   : '',
-    'ccn'   : '',
-    'stan'  : '', 
-    'tld'   : '',
-    'cmt'   : ''
-    }
+REC_COUNTRY = {
+    'name': '',
+    'url': '',
+    'json': '',
+    'genc': '',
+    'cc2': '',
+    'cc3': '',
+    'ccn': '',
+    'stan': '',
+    'tld': '',
+    'cmt': '',
+}
 
 # regexp to change crappy char in country name to - as used within url of the WFB
 RE_WFB_URL = re.compile(r'[\s,\(\)]{1,}')
+
 
 def country_name_to_url(s):
     if s in WFB_COUNTRY_LUT:
         return WFB_COUNTRY_LUT[s]
     else:
-        ret = RE_WFB_URL.sub('-', s.lower()).replace('\'', '')
+        ret = RE_WFB_URL.sub('-', s.lower()).replace("'", '')
         if ret[-1:] == '-':
             ret = ret[:-1].strip()
         return ret
+
 
 def parse_table_country_all(idx=(0, None)):
     J = import_json_doc(URL_FACTBOOK)
     try:
         T = J['result']['data']['appendix']['entries']
     except Exception as err:
-        raise(Exception('> invalid json for WFB country data codes: %r' % err))
+        raise (
+            Exception('> invalid json for WFB country data codes: %r' % err)
+        )
     #
-    D   = {} 
+    D = {}
     #
-    for L in T[idx[0]:idx[1]]:
+    for L in T[idx[0] : idx[1]]:
         rec = dict(REC_COUNTRY)
         for f in L['fields']:
             if f['attribute'] == 'name':
@@ -144,8 +152,15 @@ def parse_table_country_all(idx=(0, None)):
                     rec['genc'] = ''
             elif f['attribute'] == 'iso3166':
                 v = tuple(map(str.strip, f['value'].upper().split('|')))
-                if len(v) == 3 and len(v[0]) == 2 and v[0].isalpha() and len(v[1]) == 3 and v[1].isalpha() \
-                and len(v[2]) == 3 and v[2].isdigit():
+                if (
+                    len(v) == 3
+                    and len(v[0]) == 2
+                    and v[0].isalpha()
+                    and len(v[1]) == 3
+                    and v[1].isalpha()
+                    and len(v[2]) == 3
+                    and v[2].isdigit()
+                ):
                     rec['cc2'], rec['cc3'], rec['ccn'] = v
                 else:
                     if DEBUG:
@@ -174,8 +189,8 @@ def parse_table_country_all(idx=(0, None)):
                     rec['cmt'] = ''
         #
         # build the country URL from the country name
-        cntr_name   = country_name_to_url(rec['name'])
-        rec['url']  = URL_PREF + cntr_name + '/'
+        cntr_name = country_name_to_url(rec['name'])
+        rec['url'] = URL_PREF + cntr_name + '/'
         rec['json'] = URL_PREF_JSON + cntr_name + '/page-data.json'
         #
         rec['infos'] = parse_json_country(rec['json'])
@@ -187,11 +202,11 @@ def parse_table_country_all(idx=(0, None)):
         if DEBUG > 1:
             print(L, rec)
         if rec['name'] in D:
-            raise(Exception('> duplicate entry for country %s' % rec['name']))
+            raise (Exception('> duplicate entry for country %s' % rec['name']))
         else:
             D[rec['name']] = rec
         if DEBUG:
-            print(80*'-')
+            print(80 * '-')
     #
     return D
 
@@ -399,17 +414,19 @@ def parse_json_country(url):
 
 # Common and generic stripping and extraction routines
 
-RE_NOTE  = re.compile(r'[nN]ote\s{0,}:')
+RE_NOTE = re.compile(r'[nN]ote\s{0,}:')
 RE_SPACE = re.compile(r'\s{1,}')
+
 
 def _strip_str(s):
     return RE_SPACE.sub(' ', s).strip()
 
 
-RE_HTML_BR    = re.compile(r'<br[\s/]{0,}>')
-RE_HTML_EMIN  = re.compile(r'<em>')
+RE_HTML_BR = re.compile(r'<br[\s/]{0,}>')
+RE_HTML_EMIN = re.compile(r'<em>')
 RE_HTML_EMOUT = re.compile(r'</em>')
- 
+
+
 def _strip_html_brem(s):
     # strip <br> and </em>
     s = RE_HTML_EMOUT.sub('', RE_HTML_BR.sub('', s)).strip()
@@ -426,17 +443,20 @@ def _extract_uint(s):
 
 # Dedicated extraction routines
 
+
 def _extract_geo_mult(s):
     r = []
     for ssub in s.split(';'):
         if ':' in ssub:
-            r.append( tuple(map(_strip_str, ssub.split(':'))) )
+            r.append(tuple(map(_strip_str, ssub.split(':'))))
         else:
             r.insert(0, _strip_str(ssub))
     return r
 
+
 # HTML <strong> and <p> are stripped early on all data fields
-#RE_HTML_STRONG = re.compile(r'</{0,1}strong>')
+# RE_HTML_STRONG = re.compile(r'</{0,1}strong>')
+
 
 def _extract_mult_kv(txt):
     r, year = {}, None
@@ -447,7 +467,7 @@ def _extract_mult_kv(txt):
         elif txt.count('<br />') > 2:
             sep = '<br />'
     for s in map(str.strip, txt.split(sep)):
-        #s = RE_HTML_STRONG.sub('', s).strip()
+        # s = RE_HTML_STRONG.sub('', s).strip()
         try:
             name, s = map(_strip_str, s.split(':', 1))
         except ValueError:
@@ -455,14 +475,14 @@ def _extract_mult_kv(txt):
             if s:
                 # not a named section, keep it as note
                 if 'note' in r:
-                    r['note'].append( _strip_str(s) )
+                    r['note'].append(_strip_str(s))
                 else:
                     r['note'] = [_strip_str(s)]
         else:
             m = RE_NOTE.search(s)
             if m:
-                note = s[m.end():].strip()
-                s = s[:m.start()].strip()
+                note = s[m.end() :].strip()
+                s = s[: m.start()].strip()
                 if 'note' in r:
                     r['note'].append(note)
                 else:
@@ -493,7 +513,10 @@ def _extract_mult_kv(txt):
 # "border countries (15):", "border sovereign base areas:", "regional borders (1):"
 
 RE_DIST = re.compile(r'([0-9]{1,}[,0-9]{0,})\s{0,}(?:km){0,1}')
-RE_BORD = re.compile(r'(?:regional ){0,1}border(?:s){0,1}(?: countries| sovereign base areas|)(?:\s\(([0-9]{1,})\)){0,1}:')
+RE_BORD = re.compile(
+    r'(?:regional ){0,1}border(?:s){0,1}(?: countries| sovereign base areas|)(?:\s\(([0-9]{1,})\)){0,1}:'
+)
+
 
 def _extract_bound(l):
     r = {'bord': {}}
@@ -505,20 +528,25 @@ def _extract_bound(l):
                 s = s.split(':', 1)[1].strip()
                 m = RE_NOTE.search(s)
                 if m:
-                    assert( 'note' not in r )
-                    r['note'] = s[m.end():].strip()
-                    s = s[:m.start()].strip()
+                    assert 'note' not in r
+                    r['note'] = s[m.end() :].strip()
+                    s = s[: m.start()].strip()
                 countries = list(map(_strip_str, s.split(';')))
                 for country in countries:
                     m = RE_DIST.search(country)
                     if m:
-                        r['bord'][country[:m.start()].strip()] = int(m.group(1).replace(',', ''))
+                        r['bord'][country[: m.start()].strip()] = int(
+                            m.group(1).replace(',', '')
+                        )
                     else:
                         print('> missing boundary length: %s' % country)
                         r['bord'][country] = 0
                 if num is not None and int(num) != len(r['bord']):
-                    #assert()
-                    print('> boundary number mismatch: %s / %r' % (num, r['bord']))
+                    # assert()
+                    print(
+                        '> boundary number mismatch: %s / %r'
+                        % (num, r['bord'])
+                    )
         elif 'total' in s:
             dist = s.split(':', 1)[1].strip().replace(',', '')
             m = RE_DIST.match(dist)
@@ -529,12 +557,13 @@ def _extract_bound(l):
     _consolidate_bound(r)
     return r
 
+
 def _consolidate_bound(r):
     if not r['bord'] and 'len' not in r:
         r['len'] = 0
     elif r['bord']:
         bord = r['bord']
-        upd  = {}
+        upd = {}
         # fix in case multiple entries for a single country
         for c, l in bord.items():
             name = _stripbordref(c)
@@ -552,15 +581,16 @@ def _consolidate_bound(r):
 
 RE_INTEG_VAL = re.compile(r'([0-9\.,]{1,})(\s{1,}million){0,1}')
 
+
 def _extract_value(s):
     r = {}
-    #s = _strip_str(RE_HTML_STRONG.sub('', s))
+    # s = _strip_str(RE_HTML_STRONG.sub('', s))
     s = _strip_str(s)
     # the year could eventually comes 1st or last, so we process it and strip it 1st
     m = RE_YEAR.search(s)
     if m:
         r['year'] = int(m.group(1))
-        s = str.strip(s[:m.start()] + s[m.end():])
+        s = str.strip(s[: m.start()] + s[m.end() :])
     if s[:6].lower() == 'approx':
         # remove 1st word
         s = s.split(' ', 1)[1].strip()
@@ -588,17 +618,18 @@ def _extract_country_name(s):
     r = {}
     for l in map(str.strip, s.split('<br><br>')):
         if l.startswith('conventional short'):
-            r['conv_short']  = _strip_str(l.split(':', 1)[1])
+            r['conv_short'] = _strip_str(l.split(':', 1)[1])
         elif l.startswith('conventional long'):
-            r['conv_long']   = _strip_str(l.split(':', 1)[1])
+            r['conv_long'] = _strip_str(l.split(':', 1)[1])
         elif l.startswith('local short'):
             r['local_short'] = _strip_str(l.split(':', 1)[1])
         elif l.startswith('local long'):
-            r['local_long']  = _strip_str(l.split(':', 1)[1])
+            r['local_long'] = _strip_str(l.split(':', 1)[1])
     return r
 
 
 RE_TIME_DIFF = re.compile(r'UTC\s{0,}[\-\+\.0-9]{0,}')
+
 
 def _extract_capital(s):
     r = {}
@@ -626,22 +657,24 @@ def _extract_total_value(s):
 
 
 RE_COUNTRY_CODE = re.compile(r'^country code - ([0-9\-]{1,5})')
-RE_YEAR         = re.compile(r'\(\s{0,}(20[0-9]{2})\s{0,}(est\.{0,1}){0,1}\s{0,}\)')
+RE_YEAR = re.compile(r'\(\s{0,}(20[0-9]{2})\s{0,}(est\.{0,1}){0,1}\s{0,}\)')
+
 
 def _extract_tel_year(s):
     m = RE_YEAR.search(s)
     if m:
         year = int(m.group(1))
-        s = s[:m.start()].rstrip()
+        s = s[: m.start()].rstrip()
     else:
         year = 0
     return [p for p in map(_strip_str, s.split(';')) if p] + [year]
+
 
 def _extract_tel(txt):
     r = {}
     for s in map(str.strip, txt.split('<br><br>')):
         # it seems some "&rsquo;" expr remains in textual description
-        s = s.replace('&rsquo;', '\'') 
+        s = s.replace('&rsquo;', "'")
         if s.startswith('general assess'):
             r['general'] = _extract_tel_year(s.split(':', 1)[1].strip())
         elif s.startswith('domestic'):
@@ -650,7 +683,7 @@ def _extract_tel(txt):
             s = s.split(':', 1)[1].strip()
             m = RE_COUNTRY_CODE.match(s)
             if m:
-                s = s[m.end():].strip()
+                s = s[m.end() :].strip()
                 r['code'] = m.group(1).replace('-', '')
             r['intl'] = _extract_tel_year(s)
         else:
@@ -668,11 +701,11 @@ def __old_extract_ports(l):
         s = _strip_str(s)
         # TODO: we need to strip <em></em>
         if s.startswith('major seaport'):
-            r['seaport']   = _strip_html_brem(_strip_str(s.split(':', 1)[1]))
+            r['seaport'] = _strip_html_brem(_strip_str(s.split(':', 1)[1]))
         elif s.startswith('container port'):
             r['container'] = _strip_html_brem(_strip_str(s.split(':', 1)[1]))
         elif s.startswith('cruise/ferry'):
-            r['ferry']     = _strip_html_brem(_strip_str(s.split(':', 1)[1]))
+            r['ferry'] = _strip_html_brem(_strip_str(s.split(':', 1)[1]))
     return r
 
 
@@ -688,23 +721,26 @@ def _extract_anyports(s):
 
 COUNTRY_SECTIONS = {
     # 2023/09/15: new flat data model
-    'Geographic coordinates':           ('coord',           _extract_geo_mult),
-    'Capital':                          ('capital',         _extract_capital),
-    'Coastline':                        ('coastline',       _extract_coastline),
-    'Land boundaries':                  ('boundaries',      _extract_bound),
-    'Ports':                            ('ports',           _extract_mult_kv),
-    'Telecommunication systems':        ('telecom',         _extract_tel),
-    'Country name':                     ('country_name',    _extract_country_name),
-    'Map references':                   ('region',          _extract_geo_mult),
-    'Population':                       ('population',      _extract_mult_kv),
-    'Internet users':                   ('users_internet',  _extract_total_value),
-    'Area':                             ('area',            _extract_mult_kv),
-    'Airports':                         ('airports',        _extract_anyports),
-    'Heliports':                        ('heliports',       _extract_anyports),
-    'Telephones - mobile cellular':     ('subs_mobile',     _extract_total_value),
-    'Broadband - fixed subscriptions':  ('subs_broadband',  _extract_total_value),
-    'Telephones - fixed lines':         ('subs_fixed',      _extract_total_value),
-    'Roadways':                         ('roadways',        _extract_mult_kv),
+    'Geographic coordinates': ('coord', _extract_geo_mult),
+    'Capital': ('capital', _extract_capital),
+    'Coastline': ('coastline', _extract_coastline),
+    'Land boundaries': ('boundaries', _extract_bound),
+    'Ports': ('ports', _extract_mult_kv),
+    'Telecommunication systems': ('telecom', _extract_tel),
+    'Country name': ('country_name', _extract_country_name),
+    'Map references': ('region', _extract_geo_mult),
+    'Population': ('population', _extract_mult_kv),
+    'Internet users': ('users_internet', _extract_total_value),
+    'Area': ('area', _extract_mult_kv),
+    'Airports': ('airports', _extract_anyports),
+    'Heliports': ('heliports', _extract_anyports),
+    'Telephones - mobile cellular': ('subs_mobile', _extract_total_value),
+    'Broadband - fixed subscriptions': (
+        'subs_broadband',
+        _extract_total_value,
+    ),
+    'Telephones - fixed lines': ('subs_fixed', _extract_total_value),
+    'Roadways': ('roadways', _extract_mult_kv),
     #
     # other items of interest:
     #'Major urban areas - population'
@@ -718,27 +754,27 @@ COUNTRY_SECTIONS = {
     #'Elevation'
     #'National holiday'
     #'Broadcast media'
-    }
+}
 
-RE_HTML_CMT   = re.compile(r'<\!--.*-->')
-RE_HTML_SPAN  = re.compile(r'<span\s.*>')
+RE_HTML_CMT = re.compile(r'<\!--.*-->')
+RE_HTML_SPAN = re.compile(r'<span\s.*>')
 RE_HTML_STYLE = re.compile(r'</{0,1}(strong|p)>')
 RE_HTML_GLYPH = re.compile(r'\&[a-zA-Z]{1,};')
-TXT_HTML_TR   = {
-    '&ldquo;'   : '“',
-    '&rdquo;'   : '”',
-    '&lsquo;'   : '‘',
-    '&rsquo;'   : '’',
-    '&mdash;'   : '—',
-    '&ndash;'   : '–',
-    '&ocirc;'   : 'ô',
-    '&iacute;'  : 'í',
-    '&Oacute;'  : 'Ó',
-    '&uacute;'  : 'ú',
-    '&nbsp;'    : ' ',
-    '&amp;'     : '&',
-    '&deg;'     : '°',
-    }
+TXT_HTML_TR = {
+    '&ldquo;': '“',
+    '&rdquo;': '”',
+    '&lsquo;': '‘',
+    '&rsquo;': '’',
+    '&mdash;': '—',
+    '&ndash;': '–',
+    '&ocirc;': 'ô',
+    '&iacute;': 'í',
+    '&Oacute;': 'Ó',
+    '&uacute;': 'ú',
+    '&nbsp;': ' ',
+    '&amp;': '&',
+    '&deg;': '°',
+}
 
 
 def _strip_html(s):
@@ -770,22 +806,34 @@ def _extract_sections(J, D):
     # consolidate airports and airports_paved
     if 'airports_paved' in D and D['airports_paved']:
         if 'airports' not in D:
-            assert()
+            assert ()
         D['airports']['paved'] = D['airports_paved']['num']
         del D['airports_paved']
 
 
-#------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------#
 # Main
-#------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------#
 
-URL_LICENSE = "https://www.cia.gov/the-world-factbook/about/copyright-and-contributors/"
+URL_LICENSE = (
+    'https://www.cia.gov/the-world-factbook/about/copyright-and-contributors/'
+)
+
 
 def main():
-    parser = argparse.ArgumentParser(description=
-        'dump country-related informations from the CIA World Factbook into JSON or Python file')
-    parser.add_argument('-j', action='store_true', help='produce a JSON file (with suffix .json)')
-    parser.add_argument('-p', action='store_true', help='produce a Python file (with suffix .py)')
+    parser = argparse.ArgumentParser(
+        description='dump country-related informations from the CIA World Factbook into JSON or Python file'
+    )
+    parser.add_argument(
+        '-j',
+        action='store_true',
+        help='produce a JSON file (with suffix .json)',
+    )
+    parser.add_argument(
+        '-p',
+        action='store_true',
+        help='produce a Python file (with suffix .py)',
+    )
     args = parser.parse_args()
     try:
         D = parse_table_country_all()
@@ -794,9 +842,13 @@ def main():
         return 1
     #
     if args.j:
-        generate_json(D, PATH_PRE + 'world_fb.json', [URL_FACTBOOK], URL_LICENSE)
+        generate_json(
+            D, PATH_PRE + 'world_fb.json', [URL_FACTBOOK], URL_LICENSE
+        )
     if args.p:
-        generate_python(D, PATH_PRE + 'world_fb.py', [URL_FACTBOOK], URL_LICENSE)
+        generate_python(
+            D, PATH_PRE + 'world_fb.py', [URL_FACTBOOK], URL_LICENSE
+        )
     return 0
 
 

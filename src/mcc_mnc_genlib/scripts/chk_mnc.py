@@ -23,13 +23,14 @@
 # *--------------------------------------------------------
 # * File Name : chk_mnc.py
 # * Created : 2020-09-14
-# * Authors : Benoit Michau 
+# * Authors : Benoit Michau
 # *--------------------------------------------------------
 # */
 
 
 import sys
 import argparse
+
 #
 from mcc_mnc_lut.p1_mnc import P1_MNC
 from mcc_mnc_lut.p1_mcc import P1_MCC
@@ -50,7 +51,7 @@ def print_mcc(mcc, cc2s, indent=''):
                 print('%s  url Wikipedia : %s' % (indent, mcc['url']))
                 print('%s  regulator     : %s' % (indent, mcc['reg']))
                 if mcc['notes']:
-                    print('%s  notes         : %s' % (indent, mcc['notes']))  
+                    print('%s  notes         : %s' % (indent, mcc['notes']))
     else:
         print('%s  country       : %s' % (indent, mcc['cc2']))
         print('%s  url Wikipedia : %s' % (indent, mcc['url']))
@@ -70,7 +71,7 @@ def print_mno(mccmnc, mno, ext, indent=''):
         if mccmnc[:3] in P1_MCC:
             print_mcc(mccmnc[:3], mno['cc2s'], indent='  ')
         for cc2 in mno['cc2s']:
-            print_cntr(P1_CC2[cc2], ext=ext-1, indent='  ')
+            print_cntr(P1_CC2[cc2], ext=ext - 1, indent='  ')
 
 
 def print_mnos(mccmnc, ext=0):
@@ -86,14 +87,21 @@ def print_mnos(mccmnc, ext=0):
 
 
 def main():
-    parser = argparse.ArgumentParser(description=
-        'provides information related to mobile operator(s); if no argument is passed, lists all known MCC-MNC')
-    parser.add_argument('MCCMNC', nargs='*', help='0 or more 5/6-digit string for MCC-MNC')
-    parser.add_argument('-x', action='count', help='provides extended information for MNO(s), set more x for more verbose info')
+    parser = argparse.ArgumentParser(
+        description='provides information related to mobile operator(s); if no argument is passed, lists all known MCC-MNC'
+    )
+    parser.add_argument(
+        'MCCMNC', nargs='*', help='0 or more 5/6-digit string for MCC-MNC'
+    )
+    parser.add_argument(
+        '-x',
+        action='count',
+        help='provides extended information for MNO(s), set more x for more verbose info',
+    )
     args = parser.parse_args()
     if not args.x:
         args.x = 0
-    #print(args)
+    # print(args)
     #
     if not args.MCCMNC:
         for k in sorted(P1_MNC):
@@ -128,4 +136,3 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())
-

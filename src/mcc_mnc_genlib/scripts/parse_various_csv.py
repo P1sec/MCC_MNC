@@ -23,7 +23,7 @@
 # *--------------------------------------------------------
 # * File Name : parse_various_csv.py
 # * Created : 2020-09-14
-# * Authors : Benoit Michau 
+# * Authors : Benoit Michau
 # *--------------------------------------------------------
 # */
 
@@ -38,33 +38,41 @@ import csv
 from mcc_mnc_genlib.scripts.parse_wikipedia_tables import (
     generate_json,
     generate_python,
-    )
+)
 
 SCRIPT_DIR = dirname(realpath(__file__))
 MODULE_DIR = dirname(realpath(SCRIPT_DIR))
 
 PATH_PRE = join(MODULE_DIR, 'raw', '')
 
-#------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------#
 # get Egallic minimum distance between countries
-#------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------#
 
 # download the dataset with minimum distance between countries, from here
-URL_MIN_DIST = 'https://gist.githubusercontent.com/mtriff/185e15be85b44547ed110e412a1771bf/'\
-               'raw/1bb4d287f79ca07f63d4c56110099c26e7c6ee7d/countries_distances.csv'
+URL_MIN_DIST = (
+    'https://gist.githubusercontent.com/mtriff/185e15be85b44547ed110e412a1771bf/'
+    'raw/1bb4d287f79ca07f63d4c56110099c26e7c6ee7d/countries_distances.csv'
+)
 # which is an updated version of the dataset computed here:
 # http://egallic.fr/en/closest-distance-between-countries/
 # this dataset is computed thanks to various R packages
+
 
 def get_egal_min_dist():
     #
     if not os.path.exists(PATH_PRE + 'csv_country_dist.csv'):
         resp = urllib.request.urlopen(URL_MIN_DIST)
         if resp.code != 200:
-            raise(Exception('resource %s not available, HTTP code %i' % (url, resp.code)))
+            raise (
+                Exception(
+                    'resource %s not available, HTTP code %i'
+                    % (url, resp.code)
+                )
+            )
         with open(PATH_PRE + 'csv_country_dist.csv', 'w') as fd:
             # as the data provided through the URL is not updated
-            # we better keep a local copy of it 
+            # we better keep a local copy of it
             fd.write(resp.read().decode('utf-8'))
         print('> downloaded and stored to csv_country_dist.csv')
     #
@@ -80,20 +88,27 @@ def get_egal_min_dist():
         # make it a dictionnary
         D = {}
         for n, src, dst, dist in csv.reader(csv_lines, delimiter=','):
-            src, dst, dist = map(lambda t: t.replace('"', '').strip(), (src, dst, dist))
+            src, dst, dist = map(
+                lambda t: t.replace('"', '').strip(), (src, dst, dist)
+            )
             if src not in D:
                 D[src] = {}
             elif dst in D[src]:
-                print('> duplicate entry in Egallic csv for %s in %s' % (dst, src))
+                print(
+                    '> duplicate entry in Egallic csv for %s in %s'
+                    % (dst, src)
+                )
             D[src][dst] = float(dist)
         #
-        print('[+] parsed Egallic-related csv file with minimum distance between countries')
+        print(
+            '[+] parsed Egallic-related csv file with minimum distance between countries'
+        )
         return D
 
 
-#------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------#
 # get txtnation csv list of MCC-MNC
-#------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------#
 
 # download the csv file corresponding to the list of MCC MNC provided by txtNation
 # as explained here:
@@ -106,10 +121,15 @@ def get_txtn_mnc():
     if not os.path.exists(PATH_PRE + 'csv_txtn_mnc.csv'):
         resp = urllib.request.urlopen(URL_TXTN_MNC)
         if resp.code != 200:
-            raise(Exception('resource %s not available, HTTP code %i' % (url, resp.code)))
+            raise (
+                Exception(
+                    'resource %s not available, HTTP code %i'
+                    % (url, resp.code)
+                )
+            )
         with open(PATH_PRE + 'csv_txtn_mnc.csv', 'w') as fd:
             # as the data provided through the URL is not updated
-            # we better keep a local copy of it 
+            # we better keep a local copy of it
             fd.write(resp.read().decode('latin_1'))
             print('> downloaded and stored  to csv_txtn_mnc.csv')
     #
@@ -124,34 +144,45 @@ def get_txtn_mnc():
         #
         # make it a dictionnary
         D = {}
-        for mccmnc, _, mcc, _, mnc, _, country, mno in csv.reader(csv_lines, delimiter=','):
+        for mccmnc, _, mcc, _, mnc, _, country, mno in csv.reader(
+            csv_lines, delimiter=','
+        ):
             if mccmnc in D:
                 print('> duplicate entry in txtNation for %s' % mccmnc)
                 if isinstance(D[mccmnc], list):
-                    D[mccmnc].append( (country, mno) )
+                    D[mccmnc].append((country, mno))
                 else:
                     D[mccmnc] = [D[mccmnc], (country, mno)]
             else:
-                assert(mccmnc.startswith(mcc) and mnc in mccmnc[3:])
+                assert mccmnc.startswith(mcc) and mnc in mccmnc[3:]
                 D[mccmnc] = (country, mno)
         #
         print('[+] parsed txtNation csv file with list of MCC-MNC')
         return D
 
 
-#------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------#
 # Main
-#------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------#
 
 URL_LICENSE_EGAL = 'http://egallic.fr/en/closest-distance-between-countries/'
 URL_LICENSE_TXTN = 'https://clients.txtnation.com/hc/en-us/articles/218719768-MCCMNC-mobile-country-code-and-mobile-network-code-list'
 
 
 def main():
-    parser = argparse.ArgumentParser(description=
-        'dump csv files from the Egallic blog (distance between countries) and the txtNation website (list of MCC-MNC)')
-    parser.add_argument('-j', action='store_true', help='produce a JSON file (with suffix .json)')
-    parser.add_argument('-p', action='store_true', help='produce a Python file (with suffix .py)')
+    parser = argparse.ArgumentParser(
+        description='dump csv files from the Egallic blog (distance between countries) and the txtNation website (list of MCC-MNC)'
+    )
+    parser.add_argument(
+        '-j',
+        action='store_true',
+        help='produce a JSON file (with suffix .json)',
+    )
+    parser.add_argument(
+        '-p',
+        action='store_true',
+        help='produce a Python file (with suffix .py)',
+    )
     args = parser.parse_args()
     try:
         DE = get_egal_min_dist()
@@ -161,11 +192,31 @@ def main():
         return 1
     #
     if args.j:
-        generate_json(DE, PATH_PRE + 'csv_egal_min_dist.json', [URL_MIN_DIST], URL_LICENSE_EGAL)
-        generate_json(DT, PATH_PRE + 'csv_txtn_mccmnc.json', [URL_TXTN_MNC], URL_LICENSE_TXTN)
+        generate_json(
+            DE,
+            PATH_PRE + 'csv_egal_min_dist.json',
+            [URL_MIN_DIST],
+            URL_LICENSE_EGAL,
+        )
+        generate_json(
+            DT,
+            PATH_PRE + 'csv_txtn_mccmnc.json',
+            [URL_TXTN_MNC],
+            URL_LICENSE_TXTN,
+        )
     if args.p:
-        generate_python(DE, PATH_PRE + 'csv_egal_min_dist.py', [URL_MIN_DIST], URL_LICENSE_EGAL)
-        generate_python(DT, PATH_PRE + 'csv_txtn_mccmnc.py', [URL_TXTN_MNC], URL_LICENSE_TXTN)
+        generate_python(
+            DE,
+            PATH_PRE + 'csv_egal_min_dist.py',
+            [URL_MIN_DIST],
+            URL_LICENSE_EGAL,
+        )
+        generate_python(
+            DT,
+            PATH_PRE + 'csv_txtn_mccmnc.py',
+            [URL_TXTN_MNC],
+            URL_LICENSE_TXTN,
+        )
     return 0
 
 

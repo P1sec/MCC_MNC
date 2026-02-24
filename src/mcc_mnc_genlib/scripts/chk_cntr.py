@@ -23,17 +23,18 @@
 # *--------------------------------------------------------
 # * File Name : chk_cntr.py
 # * Created : 2020-09-14
-# * Authors : Benoit Michau 
+# * Authors : Benoit Michau
 # *--------------------------------------------------------
 # */
 
 
 import sys
 import argparse
+
 #
 from mcc_mnc_lut.p1_terr import P1_TERR
 from mcc_mnc_lut.p1_cntr import P1_CNTR
-from mcc_mnc_lut.p1_cc2  import P1_CC2
+from mcc_mnc_lut.p1_cc2 import P1_CC2
 
 
 def printext_cntr(infos, ext=1, indent=''):
@@ -47,21 +48,27 @@ def printext_cntr(infos, ext=1, indent=''):
     g = infos['geo']
     print('%s  Wold Factbook (geography):' % indent)
     try:
-        print('%s    boundaries details: length %i km' % (indent, g['bound']['len']))
-        for (c, l) in sorted(g['bound']['bord'].items()):
+        print(
+            '%s    boundaries details: length %i km'
+            % (indent, g['bound']['len'])
+        )
+        for c, l in sorted(g['bound']['bord'].items()):
             print('%s    - %-16s: %i' % (indent, c, l))
     except Exception:
         pass
     try:
-        print('%s    coastline details : length %i km' % (indent, g['coast']['len']))
-        for (c, l) in sorted(g['coast']['bord'].items()):
+        print(
+            '%s    coastline details : length %i km'
+            % (indent, g['coast']['len'])
+        )
+        for c, l in sorted(g['coast']['bord'].items()):
             print('%s    - %-16s: %s' % (indent, c, l))
     except Exception:
         pass
     try:
         print('%s    airports          : %i' % (indent, g['airports']))
         print('%s    ports:' % indent)
-        for (k, v) in sorted(g['ports'].items()):
+        for k, v in sorted(g['ports'].items()):
             print('%s    - %-16s: %s' % (indent, k, v))
     except Exception:
         pass
@@ -74,8 +81,15 @@ def printext_cntr(infos, ext=1, indent=''):
     except Exception:
         pass
     try:
-        print('%s    subscribers       : %s' % (
-            indent, ', '.join(['%s: %i' % (k, v) for (k, v) in sorted(t['subs'].items())])))
+        print(
+            '%s    subscribers       : %s'
+            % (
+                indent,
+                ', '.join(
+                    ['%s: %i' % (k, v) for (k, v) in sorted(t['subs'].items())]
+                ),
+            )
+        )
     except Exception:
         pass
     if ext > 1:
@@ -93,7 +107,10 @@ def print_cntr(cntr, dep=None, ext=0, indent=''):
         print('%s> %s (%s)' % (indent, cntr['name'], cntr['cc2']))
         neigh = P1_TERR[cntr['name']]['neigh']
     else:
-        print('%s> %s, dependent to country %s (%s)' % (indent, cntr, dep['name'], dep['cc2']))
+        print(
+            '%s> %s, dependent to country %s (%s)'
+            % (indent, cntr, dep['name'], dep['cc2'])
+        )
         neigh = P1_TERR[cntr]['neigh']
         cntr = dep
     #
@@ -101,17 +118,32 @@ def print_cntr(cntr, dep=None, ext=0, indent=''):
     print('%s  MSISDN prefix : +%s' % (indent, ', +'.join(cntr['msisdn'])))
     print('%s  url Wikipedia : %s' % (indent, cntr['url']))
     print('%s  borders       : %s' % (indent, ', '.join(neigh['bord'])))
-    print('%s  neighbours (< 30km) : %s' % (indent, ', '.join(neigh['less30'])))
-    print('%s  neighbours (< 100km): %s' % (indent, ', '.join(neigh['less100'])))
+    print(
+        '%s  neighbours (< 30km) : %s' % (indent, ', '.join(neigh['less30']))
+    )
+    print(
+        '%s  neighbours (< 100km): %s' % (indent, ', '.join(neigh['less100']))
+    )
     #
     if cntr['dep']:
         print('%s  dependency    : %s' % (indent, cntr['dep']))
     #
     try:
-        print('%s  url World Factbook  : %s' % (indent, cntr['infos']['geo']['url_wfb']))
-        print('%s  population    : %i' % (indent, cntr['infos']['geo']['popul']))
-        print('%s  capital       : %s, coordinates: %s'\
-              % (indent, cntr['infos']['geo']['capital']['name'], cntr['infos']['geo']['capital']['coord']))
+        print(
+            '%s  url World Factbook  : %s'
+            % (indent, cntr['infos']['geo']['url_wfb'])
+        )
+        print(
+            '%s  population    : %i' % (indent, cntr['infos']['geo']['popul'])
+        )
+        print(
+            '%s  capital       : %s, coordinates: %s'
+            % (
+                indent,
+                cntr['infos']['geo']['capital']['name'],
+                cntr['infos']['geo']['capital']['coord'],
+            )
+        )
     except Exception:
         pass
     #
@@ -125,15 +157,24 @@ def print_cntr(cntr, dep=None, ext=0, indent=''):
 
 
 def main():
-    parser = argparse.ArgumentParser(description=
-        'provides information related to a given country or territory; '\
-        'if no argument is passed, lists all known countries and territories')
-    parser.add_argument('COUNTRY', nargs='*', help='0 or more string for country (can be an alpha-2 code too)')
-    parser.add_argument('-x', action='count', help='provides extended country-related information, set more x for more verbose info')
+    parser = argparse.ArgumentParser(
+        description='provides information related to a given country or territory; '
+        'if no argument is passed, lists all known countries and territories'
+    )
+    parser.add_argument(
+        'COUNTRY',
+        nargs='*',
+        help='0 or more string for country (can be an alpha-2 code too)',
+    )
+    parser.add_argument(
+        '-x',
+        action='count',
+        help='provides extended country-related information, set more x for more verbose info',
+    )
     args = parser.parse_args()
     if not args.x:
         args.x = 0
-    #print(args)
+    # print(args)
     #
     if not args.COUNTRY:
         for k in sorted(P1_TERR):
@@ -156,8 +197,10 @@ def main():
                 if not found:
                     for name, inf in P1_TERR.items():
                         if country.lower() == name.lower():
-                            assert( inf['cc2'] is None )
-                            print_cntr(country, dep=P1_CC2[inf['dep']], ext=args.x)
+                            assert inf['cc2'] is None
+                            print_cntr(
+                                country, dep=P1_CC2[inf['dep']], ext=args.x
+                            )
                             found = True
                             break
                 if not found:
@@ -169,4 +212,3 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())
-
