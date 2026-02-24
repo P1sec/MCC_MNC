@@ -29,7 +29,7 @@ Finally, it provides additionally command-line tools to request those dictionnar
 # Installing
 
 ```console
-sudo snap install astral-uv
+sudo snap install --classic astral-uv
 uv tool install mcc-mnc-p1
 ```
 
