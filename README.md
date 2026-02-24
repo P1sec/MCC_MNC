@@ -28,7 +28,7 @@ Finally, it provides additionally command-line tools to request those dictionnar
 
 ```console
 sudo snap install astral-uv
-uv tool install mcc-mnc
+uv tool install mcc-mnc-p1
 ```
 
 If you need to set up a local development environment, run:
