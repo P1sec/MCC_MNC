@@ -33,7 +33,7 @@ uv tool install mcc-mnc-p1
 
 If you need to set up a local development environment, run:
 
-```
+```console
 sudo apt install pdftotext
 git clone https://github.com/P1sec/MCC_MNC.git mcc-mnc
 cd mcc-mnc
@@ -196,7 +196,7 @@ Generally, installation is not required and every scripts can be run as-is.
 The Wikipedia, World Factbook and ITU-T bulletins source datasets can be updated with the
 following scripts:
 
-```
+```console
 $ mcc-mnc-parse-wikipedia-tables --help
 usage: mcc-mnc-parse-wikipedia-tables [-h] [-j] [-p]
 
@@ -209,7 +209,7 @@ optional arguments:
   -p          produce Python files (with suffix .py)
 ```
 
-```
+```console
 $ mcc-mnc-parse-worldfactbook-infos --help
 usage: mcc-mnc-parse-worldfactbook-infos [-h] [-j] [-p]
 
@@ -218,7 +218,7 @@ Python file
 [...]
 ```
 
-```
+```console
 $ mcc-mnc-parse-itut-bulletins --help
 usage: mcc-mnc-parse-itut-bulletins [-h] [-d] [-b B] [-j] [-p]
 
@@ -256,7 +256,7 @@ In order to load all those imported data with aligned and coherent values
 *patch_dataset* can be used. It exports the Wikipedia, World Factbook, Egallic, 
 txtNation and ITU-T datasets, after applying few corrections and fixes on them:
 
-```
+```python
 >>> from mcc_mnc_genlib.core.patch_dataset import *
 [...]
 >>> WIKIP_ISO3166
@@ -298,7 +298,7 @@ $ mcc-mnc-gen-dataset
 ```
 
 The following one-liner can be used to update the whole final dataset (without downloading new ITU-T bulletins):
-```
+```console
 $ mcc-mnc-parse-wikipedia-tables -j -p && mcc-mnc-parse-worldfactbook-infos -j -p && mcc-mnc-parse-various-csv -j -p && mcc-mnc-parse-itut-bulletins -j -p && mcc-mnc-gen-dataset
 ```
 
@@ -311,7 +311,7 @@ and related geographical information, directly in your application as much as yo
 Finally, 4 little command-line tools are provided to make direct use of the aggregated 
 datasets straight from the CLI:
 
-```
+```console
 $ mcc-mnc-chk-mnc --help
 usage: mcc-mnc-chk-mnc [-h] [-x] [MCCMNC [MCCMNC ...]]
 
