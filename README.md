@@ -1,5 +1,7 @@
 # MCC_MNC
 
+[<img src="https://img.shields.io/pypi/v/mcc-mnc-p1">](https://pypi.org/project/mcc-mnc-p1/)
+
 This Python package has the ability to scrap available information on the Internet related to:
 - mobile network operators (such as MCC, MNC, brand, network type, countries of operation...)
 - countries (such as country name, 2 and 3-chars ISO codes, tld, boundaries and neighbours...)
