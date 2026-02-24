@@ -239,7 +239,7 @@ script to make it work again against the new Wikipedia layout.
 The Egallic and txtNation data can be processed with the following script (it won't download anything 
 from the Internet, as both CSV files are provided directly in the project and do not change anymore):
 
-```
+```console
 $ mcc-mnc-parse-various-csv --help
 usage: mcc-mnc-parse-various-csv [-h] [-j] [-p]
 
