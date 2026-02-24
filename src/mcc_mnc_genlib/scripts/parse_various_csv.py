@@ -28,19 +28,22 @@
 # */
 
 
+from os.path import dirname, realpath, join
 import sys
 import os
 import argparse
 import urllib.request
 import csv
 
-from parse_wikipedia_tables import (
+from mcc_mnc_genlib.scripts.parse_wikipedia_tables import (
     generate_json,
     generate_python,
     )
 
+SCRIPT_DIR = dirname(realpath(__file__))
+MODULE_DIR = dirname(realpath(SCRIPT_DIR))
 
-PATH_PRE = 'raw/'
+PATH_PRE = join(MODULE_DIR, 'raw', '')
 
 #------------------------------------------------------------------------------#
 # get Egallic minimum distance between countries

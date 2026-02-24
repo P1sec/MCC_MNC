@@ -39,14 +39,18 @@ __all__ = [
     ]
 
 
+from os.path import dirname, realpath, join
 import sys
 import re
 
-from mcc_mnc_genlib.patch_dataset import *
-from parse_wikipedia_tables       import  generate_json, generate_python
+from mcc_mnc_genlib.core.patch_dataset import *
+from mcc_mnc_genlib.scripts.parse_wikipedia_tables import generate_json, generate_python
 
 
-PATH_PRE = 'mcc_mnc_lut/'
+SCRIPT_DIR = dirname(realpath(__file__))
+MODULE_DIR = dirname(realpath(SCRIPT_DIR))
+SRC_DIR = dirname(realpath(MODULE_DIR))
+PATH_PRE = join(SRC_DIR, 'mcc_mnc_lut', '')
 
 #------------------------------------------------------------------------------#
 # utility functions

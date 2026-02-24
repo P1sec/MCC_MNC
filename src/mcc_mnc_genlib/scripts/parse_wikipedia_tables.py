@@ -28,6 +28,7 @@
 # */
 
 
+from os.path import dirname, realpath, join
 import sys
 import argparse
 import urllib.request
@@ -38,7 +39,10 @@ from pprint import PrettyPrinter
 from lxml   import etree
 
 
-PATH_PRE = 'raw/'
+SCRIPT_DIR = dirname(realpath(__file__))
+MODULE_DIR = dirname(realpath(SCRIPT_DIR))
+
+PATH_PRE = join(MODULE_DIR, 'raw', '')
 
 RE_WIKI_REF = re.compile(r'.*(\[.*\]){1,}$')
 
@@ -530,7 +534,7 @@ def parse_table_msisdn_pref_over(T):
     return D
 
 # from simple 1 to 3 digits string to extended prefixes e.g., 374 (47, 97)
-RE_WIKI_MSISDN_PREF = re.compile('([1-9]{1}[0-9]{0,2})(?: \(([0-9]{1,}(?:, {0,1}[0-9]{1,}){0,})\)){0,1}')
+RE_WIKI_MSISDN_PREF = re.compile(r'([1-9]{1}[0-9]{0,2})(?: \(([0-9]{1,}(?:, {0,1}[0-9]{1,}){0,})\)){0,1}')
 
 def parse_table_msisdn_pref_alphaord(T):
     # parse the table from the "Alphabetical order" section, with {country: prefix)
@@ -608,7 +612,7 @@ BORDER_ISSUE = {'Afghanistan', 'China', 'Georgia', 'India', 'Israel', 'Russia', 
 
 
 def _stripbordref(s):
-    n = re.sub('\s{1,}', ' ', re.sub(r'\(.*?\)|\[.*?\]', ' ', s).strip())
+    n = re.sub(r'\s{1,}', ' ', re.sub(r'\(.*?\)|\[.*?\]', ' ', s).strip())
     if ':' in n:
         n = n.split(':')[0].rstrip()
     if ' 0.' in n:

@@ -36,7 +36,7 @@ from mcc_mnc_lut.p1_mcc import P1_MCC
 from mcc_mnc_lut.p1_cc2 import P1_CC2
 
 #
-from chk_cntr import print_cntr
+from mcc_mnc_genlib.scripts.chk_cntr import print_cntr
 
 
 def print_mcc(mcc, cc2s, indent=''):

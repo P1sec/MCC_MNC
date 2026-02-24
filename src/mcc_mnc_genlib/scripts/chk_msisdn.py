@@ -34,8 +34,8 @@ import argparse
 from mcc_mnc_lut.p1_msisdn import P1_MSISDN
 from mcc_mnc_lut.p1_cntr   import P1_CNTR
 #
-from chk_cntr  import print_cntr
-from chk_mnc   import print_mcc
+from mcc_mnc_genlib.scripts.chk_cntr  import print_cntr
+from mcc_mnc_genlib.scripts.chk_mnc   import print_mcc
 
 
 def main():

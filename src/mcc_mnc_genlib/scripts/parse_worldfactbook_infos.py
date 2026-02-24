@@ -27,6 +27,7 @@
 # *--------------------------------------------------------
 # */
 
+from os.path import dirname, realpath, join
 
 import sys
 import argparse
@@ -35,7 +36,7 @@ import re
 import json
 import time
 
-from parse_wikipedia_tables import (
+from mcc_mnc_genlib.scripts.parse_wikipedia_tables import (
     import_html_doc,
     explore_text,
     generate_json,
@@ -44,7 +45,10 @@ from parse_wikipedia_tables import (
     )
 
 
-PATH_PRE = 'raw/'
+SCRIPT_DIR = dirname(realpath(__file__))
+MODULE_DIR = dirname(realpath(SCRIPT_DIR))
+
+PATH_PRE = join(MODULE_DIR, 'raw', '')
 
 
 def import_json_doc(url):
@@ -103,7 +107,7 @@ REC_COUNTRY  = {
     }
 
 # regexp to change crappy char in country name to - as used within url of the WFB
-RE_WFB_URL = re.compile('[\s,\(\)]{1,}')
+RE_WFB_URL = re.compile(r'[\s,\(\)]{1,}')
 
 def country_name_to_url(s):
     if s in WFB_COUNTRY_LUT:
@@ -395,16 +399,16 @@ def parse_json_country(url):
 
 # Common and generic stripping and extraction routines
 
-RE_NOTE  = re.compile('[nN]ote\s{0,}:')
-RE_SPACE = re.compile('\s{1,}')
+RE_NOTE  = re.compile(r'[nN]ote\s{0,}:')
+RE_SPACE = re.compile(r'\s{1,}')
 
 def _strip_str(s):
     return RE_SPACE.sub(' ', s).strip()
 
 
-RE_HTML_BR    = re.compile('<br[\s/]{0,}>')
-RE_HTML_EMIN  = re.compile('<em>')
-RE_HTML_EMOUT = re.compile('</em>')
+RE_HTML_BR    = re.compile(r'<br[\s/]{0,}>')
+RE_HTML_EMIN  = re.compile(r'<em>')
+RE_HTML_EMOUT = re.compile(r'</em>')
  
 def _strip_html_brem(s):
     # strip <br> and </em>
@@ -432,7 +436,7 @@ def _extract_geo_mult(s):
     return r
 
 # HTML <strong> and <p> are stripped early on all data fields
-#RE_HTML_STRONG = re.compile('</{0,1}strong>')
+#RE_HTML_STRONG = re.compile(r'</{0,1}strong>')
 
 def _extract_mult_kv(txt):
     r, year = {}, None
@@ -488,8 +492,8 @@ def _extract_mult_kv(txt):
 # 3 kinds of border notation:
 # "border countries (15):", "border sovereign base areas:", "regional borders (1):"
 
-RE_DIST = re.compile('([0-9]{1,}[,0-9]{0,})\s{0,}(?:km){0,1}')
-RE_BORD = re.compile('(?:regional ){0,1}border(?:s){0,1}(?: countries| sovereign base areas|)(?:\s\(([0-9]{1,})\)){0,1}:')
+RE_DIST = re.compile(r'([0-9]{1,}[,0-9]{0,})\s{0,}(?:km){0,1}')
+RE_BORD = re.compile(r'(?:regional ){0,1}border(?:s){0,1}(?: countries| sovereign base areas|)(?:\s\(([0-9]{1,})\)){0,1}:')
 
 def _extract_bound(l):
     r = {'bord': {}}
@@ -546,7 +550,7 @@ def _consolidate_bound(r):
         r['bord'] = upd
 
 
-RE_INTEG_VAL = re.compile('([0-9\.,]{1,})(\s{1,}million){0,1}')
+RE_INTEG_VAL = re.compile(r'([0-9\.,]{1,})(\s{1,}million){0,1}')
 
 def _extract_value(s):
     r = {}
@@ -594,7 +598,7 @@ def _extract_country_name(s):
     return r
 
 
-RE_TIME_DIFF = re.compile('UTC\s{0,}[\-\+\.0-9]{0,}')
+RE_TIME_DIFF = re.compile(r'UTC\s{0,}[\-\+\.0-9]{0,}')
 
 def _extract_capital(s):
     r = {}
@@ -621,8 +625,8 @@ def _extract_total_value(s):
     return ''
 
 
-RE_COUNTRY_CODE = re.compile('^country code - ([0-9\-]{1,5})')
-RE_YEAR         = re.compile('\(\s{0,}(20[0-9]{2})\s{0,}(est\.{0,1}){0,1}\s{0,}\)')
+RE_COUNTRY_CODE = re.compile(r'^country code - ([0-9\-]{1,5})')
+RE_YEAR         = re.compile(r'\(\s{0,}(20[0-9]{2})\s{0,}(est\.{0,1}){0,1}\s{0,}\)')
 
 def _extract_tel_year(s):
     m = RE_YEAR.search(s)
@@ -716,10 +720,10 @@ COUNTRY_SECTIONS = {
     #'Broadcast media'
     }
 
-RE_HTML_CMT   = re.compile('<\!--.*-->')
-RE_HTML_SPAN  = re.compile('<span\s.*>')
-RE_HTML_STYLE = re.compile('</{0,1}(strong|p)>')
-RE_HTML_GLYPH = re.compile('\&[a-zA-Z]{1,};')
+RE_HTML_CMT   = re.compile(r'<\!--.*-->')
+RE_HTML_SPAN  = re.compile(r'<span\s.*>')
+RE_HTML_STYLE = re.compile(r'</{0,1}(strong|p)>')
+RE_HTML_GLYPH = re.compile(r'\&[a-zA-Z]{1,};')
 TXT_HTML_TR   = {
     '&ldquo;'   : '“',
     '&rdquo;'   : '”',
@@ -741,7 +745,7 @@ def _strip_html(s):
     ret = RE_HTML_CMT.sub(' ', s)
     ret = RE_HTML_SPAN.sub(' ', ret)
     ret = RE_HTML_STYLE.sub(' ', ret).strip()
-    ret = re.sub('\s{1,}', ' ', ret)
+    ret = re.sub(r'\s{1,}', ' ', ret)
     for html, glyph in TXT_HTML_TR.items():
         if html in ret:
             ret = ret.replace(html, glyph)

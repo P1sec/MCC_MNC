@@ -28,6 +28,7 @@
 # */
 
 
+from os.path import dirname, realpath, join
 import sys
 import os
 import argparse
@@ -37,13 +38,19 @@ import subprocess
 import time
 import re
 
-from parse_wikipedia_tables import (
+from mcc_mnc_genlib.scripts.parse_wikipedia_tables import (
     generate_json,
     generate_python,
     )
 
 
-PATH_RAW = 'raw/'
+SCRIPT_DIR = dirname(realpath(__file__))
+MODULE_DIR = dirname(realpath(SCRIPT_DIR))
+SRC_DIR = dirname(realpath(MODULE_DIR))
+ROOT_DIR = dirname(realpath(SRC_DIR))
+DATA_DIR = join(ROOT_DIR, 'data')
+
+PATH_RAW = join(MODULE_DIR, 'raw', '')
 
 #------------------------------------------------------------------------------#
 # download ITU-T operational bulletins
@@ -64,7 +71,7 @@ URL examples:
 # ITU-T website url prefix
 ITUT_BULL_URL_PREF = 'https://www.itu.int/dms_pub/itu-t/opb/sp/'
 # directory to store all ITU-T bulletins
-PATH_PRE = 'itut/'
+PATH_PRE = join(DATA_DIR, 'itut', '')
 # command to convert them to text file
 PDFTOTXT = ['pdftotext', '-layout', '-nopgbrk']
 
@@ -90,8 +97,8 @@ def strip_footer(fn, dbg=True):
     lines = []
     with open(fn, encoding='utf-8') as fd:
         bnum = fn.split('.')[1].split('-')[0]
-        re1  = re.compile('No\. %s\s{0,}–\s{0,}[0-9]{1,}' % bnum)
-        re2  = re.compile('Annex to ITU OB %s-E\s{0,}–\s{0,}[0-9]{1,}' % bnum)
+        re1  = re.compile(r'No\. %s\s{0,}–\s{0,}[0-9]{1,}' % bnum)
+        re2  = re.compile(r'Annex to ITU OB %s-E\s{0,}–\s{0,}[0-9]{1,}' % bnum)
         for line in fd.readlines():
             # starts or ends with:  No. 1111 – $page_number
             # Annex to ITU OB 1111-E
@@ -188,13 +195,13 @@ The following script extract this list from both bulletins.
 
 # to extract the list
 RE_MNC_LIST_BEG     = re.compile(
-    '\nMobile Network Codes \(MNC\) under geographic Mobile Country Codes \(MCC\)\n',
+    r'\nMobile Network Codes \(MNC\) under geographic Mobile Country Codes \(MCC\)\n',
     re.IGNORECASE
     )
 
 RE_MNC_LIST_END     = re.compile(
-    '(\n____________\n\*       MCC: Mobile Country Code /)|'\
-    '(\nShared Mobile Country Codes \(MCC\) for networks and their respective Mobile Network\nCodes \(MNC\)\n)',
+    r'(\n____________\n\*       MCC: Mobile Country Code /)|'\
+    r'(\nShared Mobile Country Codes \(MCC\) for networks and their respective Mobile Network\nCodes \(MNC\)\n)',
     re.IGNORECASE
     )
 
@@ -219,10 +226,10 @@ def parse_mnc_list(fn=PATH_PRE+'T-SP-OB.1162-2018-OAS-PDF-E.txt', dbg=False):
 # Some table titles and a comment on Kosovo need to be stripped properly
 
 RE_MNC_LINE_IGNORE  = re.compile(
-    '(Country or)|'\
-    '(Geographical Area\s{1,}Networks\s{1,}MCC \+ MNC codes)|'\
-    '(\*This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo)|'\
-    '(declaration of independence.)$',
+    r'(Country or)|'\
+    r'(Geographical Area\s{1,}Networks\s{1,}MCC \+ MNC codes)|'\
+    r'(\*This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo)|'\
+    r'(declaration of independence.)$',
     re.IGNORECASE
     )
 
@@ -244,7 +251,7 @@ COUNTRY_MULT = [
     'Venezuela (Bolivarian Republic of)',
     ]
 
-RE_COUNTRY      = re.compile('\w.*$')
+RE_COUNTRY      = re.compile(r'\w.*$')
 
 
 # MNO declaration:
@@ -266,8 +273,8 @@ RE_COUNTRY      = re.compile('\w.*$')
 #    [MNO desc cont]
 #    MNO desc end
 
-RE_MNC          = re.compile('\s{24,}(.*?)([0-9]{3} [0-9]{2,3})$')
-RE_DESC         = re.compile('\s{24,}(.*)$')
+RE_MNC          = re.compile(r'\s{24,}(.*?)([0-9]{3} [0-9]{2,3})$')
+RE_DESC         = re.compile(r'\s{24,}(.*)$')
 
 
 def parse_mnc_lines(lines, dbg=True):
@@ -399,14 +406,14 @@ We don't try to get the country name, as we will match with the MCC afterwards
 #____________
 
 RE_MNC_UPD_LIST_BEG     = re.compile(
-    ' {0,}Country/Geographical area {1,}MCC\+MNC {0,}\*{0,1} {1,}Operator/Network',
+    r' {0,}Country/Geographical area {1,}MCC\+MNC {0,}\*{0,1} {1,}Operator/Network',
     re.IGNORECASE
     )
-RE_MNC_UPD_LIST_END     = re.compile(' {0,}_{5,} {0,}', re.IGNORECASE)
-RE_MNC_UPD_LIST_ENDALT  = re.compile('Extra-territorial use\*{3,}', re.IGNORECASE)
-RE_MNC_UPD_MNC          = re.compile(' {7,}([0-9]{3}) ([0-9]{2,3})(?:$|\s{1,})')
-RE_MNC_UPD_MNO          = re.compile(' {20,}(\S.{3,}) {0,}$')
-RE_MNC_UPD_RULE         = re.compile('(?:^| )(ADD|SUP|LIR)(?: {0,1}\*{0,1})')
+RE_MNC_UPD_LIST_END     = re.compile(r' {0,}_{5,} {0,}', re.IGNORECASE)
+RE_MNC_UPD_LIST_ENDALT  = re.compile(r'Extra-territorial use\*{3,}', re.IGNORECASE)
+RE_MNC_UPD_MNC          = re.compile(r' {7,}([0-9]{3}) ([0-9]{2,3})(?:$|\s{1,})')
+RE_MNC_UPD_MNO          = re.compile(r' {20,}(\S.{3,}) {0,}$')
+RE_MNC_UPD_RULE         = re.compile(r'(?:^| )(ADD|SUP|LIR)(?: {0,1}\*{0,1})')
 
 
 # this is for dropping crappy lines from crappy formed bulletins
@@ -585,7 +592,7 @@ def parse_mnc_incr(start=1163, fnpre=PATH_PRE, dbg=False):
         if not mnclut:
             continue
         for mnc, (mno, cntr, rule) in mnclut.items():
-            cntr = re.sub('\s{1,}', ' ', cntr)
+            cntr = re.sub(r'\s{1,}', ' ', cntr)
             if cntr not in mncd:
                 mncd[cntr] = [[mno, mnc, rule]]
             else:
@@ -604,15 +611,15 @@ The following script extract this list from the bulletin.
 """
 
 RE_SANC_LIST_BEG    = re.compile(
-    '\n\s{1,}List of Signalling Area/Network Codes \(SANC\)'\
-    '\n\s{1,}\(Complement to Recommendation ITU-T Q\.708 \(03/99\)\)'\
-    '\n\s{1,}\(Position on 1 June 2017\)\n'\
-    '\n\s{1,}\(Annex to ITU Operational Bulletin No\. 1125 - 1\.VI\.2017\)\n',
+    r'\n\s{1,}List of Signalling Area/Network Codes \(SANC\)'\
+    r'\n\s{1,}\(Complement to Recommendation ITU-T Q\.708 \(03/99\)\)'\
+    r'\n\s{1,}\(Position on 1 June 2017\)\n'\
+    r'\n\s{1,}\(Annex to ITU Operational Bulletin No\. 1125 - 1\.VI\.2017\)\n',
     re.IGNORECASE)
 
 
 RE_SANC_LIST_END    = re.compile(
-    '\n\s{1,}Code\s{1,}Geographical Area or Signalling Network\s{1,}–\s{1,}alphabetical order\n',
+    r'\n\s{1,}Code\s{1,}Geographical Area or Signalling Network\s{1,}–\s{1,}alphabetical order\n',
     re.IGNORECASE)
 
 
@@ -640,7 +647,7 @@ def parse_sanc_list(fn=PATH_PRE+'T-SP-OB.1125-2017-OAS-PDF-E.txt', dbg=False):
 # Some table titles need to be stripped properly
 
 RE_SANC_LINE_IGNORE  = re.compile(
-    'Code\s{1,}Geographical Area or Signalling Network\s{1,}–\s{1,}numerical order\s{0,}',
+    r'Code\s{1,}Geographical Area or Signalling Network\s{1,}–\s{1,}numerical order\s{0,}',
     re.IGNORECASE
     )
 
@@ -650,7 +657,7 @@ RE_SANC_LINE_IGNORE  = re.compile(
 # SANC: W-XYZ digits
 # 
 RE_SANC = re.compile(
-    '([0-9]-[0-9]{3})\s{1,}(.*)',
+    r'([0-9]-[0-9]{3})\s{1,}(.*)',
     re.IGNORECASE
     )
 
@@ -688,14 +695,14 @@ The following script extract this list from the bulletin.
 
 # to extract the list
 RE_SPC_LIST_BEG     = re.compile(
-    '\n\s{1,}List of International Signalling Point Codes \(ISPC\) for signalling system No\. 7'\
-    '\n\s{1,}\(According to Recommendation ITU-T Q\.708 \(03/99\)\)\n',
+    r'\n\s{1,}List of International Signalling Point Codes \(ISPC\) for signalling system No\. 7'\
+    r'\n\s{1,}\(According to Recommendation ITU-T Q\.708 \(03/99\)\)\n',
     re.IGNORECASE
     )
 
 
 RE_SPC_LIST_END     = re.compile(
-    '\n____________\nISPC:\s{1,}International Signalling Point Codes\.\n',
+    r'\n____________\nISPC:\s{1,}International Signalling Point Codes\.\n',
     re.IGNORECASE
     )
 
@@ -724,11 +731,11 @@ def parse_spc_list(fn=PATH_PRE+'T-SP-OB.1199-2020-OAS-PDF-E.txt', dbg=False):
 # Some table titles need to be stripped properly
 
 RE_SPC_LINE_IGNORE  = re.compile(
-    '(\s{0,}Country/)|'\
-    '(\s{0,}Geographical Area)|'\
-    '(\s{0,}ISPC\s{1,}DEC\s{1,}Unique name of the signalling point\s{1,}Name of the signalling point operator)|'\
-    '(\s{0,}This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo)|'\
-    '(declaration of independence.)$',
+    r'(\s{0,}Country/)|'\
+    r'(\s{0,}Geographical Area)|'\
+    r'(\s{0,}ISPC\s{1,}DEC\s{1,}Unique name of the signalling point\s{1,}Name of the signalling point operator)|'\
+    r'(\s{0,}This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo)|'\
+    r'(declaration of independence.)$',
     re.IGNORECASE
     )
 
@@ -742,7 +749,7 @@ RE_SPC_LINE_IGNORE  = re.compile(
 #
 # name_spc or name_ope may be splitted on multiple lines
 
-RE_ISPC         = re.compile('[0-9]\-[0-9]{3}\-[0-9]')
+RE_ISPC         = re.compile(r'[0-9]\-[0-9]{3}\-[0-9]')
 
 
 def parse_spc_lines(lines, dbg=True):
@@ -782,7 +789,7 @@ def parse_spc_lines(lines, dbg=True):
                 name_spc = ''
                 name_ope = line.strip()
             else:
-                name_spc, name_ope = map(str.strip, re.split('\s{2,}', line.strip()))
+                name_spc, name_ope = map(str.strip, re.split(r'\s{2,}', line.strip()))
                 if name_spc in ('\u2026', ):
                     name_spc = ''
             spcs.append([spc, dec, name_spc, name_ope])
@@ -800,7 +807,7 @@ def parse_spc_lines(lines, dbg=True):
             assert(spcs)
             line = line.lstrip()
             if '  ' in line:
-                name_spc, name_ope = map(str.strip, re.split('\s{2,}', line.strip()))
+                name_spc, name_ope = map(str.strip, re.split(r'\s{2,}', line.strip()))
                 spcs[-1][2] += ' %s' % name_spc
                 spcs[-1][3] += ' %s' % name_ope
             else:

@@ -1,0 +1,62 @@
+
+[build-system]
+requires = ["uv_build>=0.10.3,<0.11.0"]
+build-backend = "uv_build"
+
+[project]
+name = "mcc-mnc"
+version = "1.0.1"
+description = "A set of lookup tables for identifiers related to mobile operators and accompanying command-line tools"
+readme = "README.md"
+license = "AGPL-3.0-or-later"
+license-files = ["LICENSE"]
+keywords = ["MCC MNC", "MCC", "MNC", "MSISDN", "ISPC", "country code"]
+requires-python = ">=3.6"
+authors = [
+  {name = "Benoit Michau"},
+]
+maintainers = [
+  {name = "Marin Moulinier"}
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Telecommunications Industry",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Topic :: System :: Networking",
+    "Topic :: Communications :: Telephony",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Database",
+    "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
+    "Environment :: Console"
+]
+dependencies = ["lxml"]
+
+[tool.uv.build-backend]
+module-name = ["mcc_mnc_genlib", "mcc_mnc_lut"]
+
+[project.urls]
+Homepage = "https://github.com/P1sec/mcc_mnc"
+Repository = "https://github.com/P1sec/mcc_mnc"
+Issues = "https://github.com/P1sec/mcc_mnc/issues"
+
+[project.scripts]
+mcc-mnc-chk-msisdn = "mcc_mnc_genlib.scripts.chk_msisdn:main"
+mcc-mnc-chk-mnc = "mcc_mnc_genlib.scripts.chk_mnc:main"
+mcc-mnc-chk-cntr = "mcc_mnc_genlib.scripts.chk_cntr:main"
+mcc-mnc-chk-ispc = "mcc_mnc_genlib.scripts.chk_ispc:main"
+mcc-mnc-conv-pc-383 = "mcc_mnc_genlib.scripts.conv_pc_383:main"
+mcc-mnc-gen-dataset = "mcc_mnc_genlib.scripts.gen_dataset:main"
+mcc-mnc-parse-itut-bulletins = "mcc_mnc_genlib.scripts.parse_itut_bulletins:main"
+mcc-mnc-parse-various-csv = "mcc_mnc_genlib.scripts.parse_various_csv:main"
+mcc-mnc-parse-wikipedia-tables = "mcc_mnc_genlib.scripts.parse_wikipedia_tables:main"
+mcc-mnc-parse-worldfactbook-infos = "mcc_mnc_genlib.scripts.parse_worldfactbook_infos:main"
+
+[tool.ruff]
+line-length = 79
+
+[tool.ruff.format]
+quote-style = "single"
+
