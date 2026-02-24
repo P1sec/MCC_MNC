@@ -1,0 +1,2485 @@
+# -*- coding: UTF-8 -*-
+# source: data aggregated from Wikipedia, The World Factbook, ITU-T, Egallic blog and txtNation
+# license: produced by P1 Security, based on openly available data
+
+P1_TERR = {
+    'Abkhazia': {
+        'cc2': 'AB',
+        'dep': 'GE',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Adélie Land': {
+        'cc2': None,
+        'dep': 'TF',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Afghanistan': {
+        'cc2': 'AF',
+        'neigh': {
+            'bord': [
+                'China',
+                'Iran',
+                'Pakistan',
+                'Tajikistan',
+                'Turkmenistan',
+                'Uzbekistan',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Akrotiri': {
+        'cc2': None,
+        'dep': 'AK',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Akrotiri and Dhekelia': {
+        'cc2': 'AK',
+        'dep': 'GB',
+        'neigh': {'bord': ['Cyprus'], 'less100': [], 'less30': []},
+    },
+    'Albania': {
+        'cc2': 'AL',
+        'neigh': {
+            'bord': ['Greece', 'Kosovo', 'Montenegro', 'North Macedonia'],
+            'less100': [
+                'Bosnia and Herzegovina',
+                'Croatia',
+                'Italy',
+                'Serbia',
+            ],
+            'less30': [],
+        },
+    },
+    'Algeria': {
+        'cc2': 'DZ',
+        'neigh': {
+            'bord': [
+                'Libya',
+                'Mali',
+                'Mauritania',
+                'Morocco',
+                'Niger',
+                'Tunisia',
+                'Western Sahara',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'American Samoa': {
+        'cc2': 'AS',
+        'dep': 'US',
+        'neigh': {'bord': [], 'less100': ['Samoa'], 'less30': []},
+    },
+    'Amsterdam Island': {
+        'cc2': None,
+        'dep': 'TF',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Andorra': {
+        'cc2': 'AD',
+        'neigh': {'bord': ['France', 'Spain'], 'less100': [], 'less30': []},
+    },
+    'Angola': {
+        'cc2': 'AO',
+        'neigh': {
+            'bord': [
+                'Democratic Republic of the Congo',
+                'Namibia',
+                'Republic of the Congo',
+                'Zambia',
+            ],
+            'less100': ['Botswana'],
+            'less30': [],
+        },
+    },
+    'Anguilla': {
+        'cc2': 'AI',
+        'dep': 'GB',
+        'neigh': {
+            'bord': [],
+            'less100': [
+                'Saba',
+                'Saint Barthélemy',
+                'Saint Kitts',
+                'Sint Eustatius',
+            ],
+            'less30': ['Saint Martin', 'Sint Maarten'],
+        },
+    },
+    'Antarctica': {
+        'cc2': 'AQ',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Antigua': {
+        'cc2': None,
+        'dep': 'AG',
+        'neigh': {
+            'bord': [],
+            'less100': [
+                'Barbuda',
+                'Guadeloupe',
+                'Montserrat',
+                'Nevis',
+                'Saint Kitts',
+            ],
+            'less30': [],
+        },
+    },
+    'Antigua and Barbuda': {
+        'cc2': 'AG',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Argentina': {
+        'cc2': 'AR',
+        'neigh': {
+            'bord': ['Bolivia', 'Brazil', 'Chile', 'Paraguay', 'Uruguay'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Armenia': {
+        'cc2': 'AM',
+        'neigh': {
+            'bord': ['Azerbaijan', 'Georgia', 'Iran', 'Turkey'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Aruba': {
+        'cc2': 'AW',
+        'dep': 'NL',
+        'neigh': {'bord': [], 'less100': ['Curaçao'], 'less30': ['Venezuela']},
+    },
+    'Ascension': {
+        'cc2': 'AC',
+        'dep': 'SH',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Australia': {
+        'cc2': 'AU',
+        'neigh': {'bord': [], 'less100': ['Papua New Guinea'], 'less30': []},
+    },
+    'Australian Antarctic Territory': {
+        'cc2': None,
+        'dep': 'AU',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Australian External Territories': {
+        'cc2': None,
+        'dep': 'AU',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Austria': {
+        'cc2': 'AT',
+        'neigh': {
+            'bord': [
+                'Czech Republic',
+                'Germany',
+                'Hungary',
+                'Italy',
+                'Liechtenstein',
+                'Slovakia',
+                'Slovenia',
+                'Switzerland',
+            ],
+            'less100': [],
+            'less30': ['Croatia'],
+        },
+    },
+    'Azerbaijan': {
+        'cc2': 'AZ',
+        'neigh': {
+            'bord': ['Armenia', 'Georgia', 'Iran', 'Russia', 'Turkey'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Azores': {
+        'cc2': None,
+        'dep': 'PT',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Bahrain': {
+        'cc2': 'BH',
+        'neigh': {
+            'bord': ['Saudi Arabia'],
+            'less100': ['Qatar'],
+            'less30': [],
+        },
+    },
+    'Balearic Islands': {
+        'cc2': None,
+        'dep': 'ES',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Bangladesh': {
+        'cc2': 'BD',
+        'neigh': {
+            'bord': ['India', 'Myanmar'],
+            'less100': ['Bhutan', 'China'],
+            'less30': ['Nepal'],
+        },
+    },
+    'Barbados': {
+        'cc2': 'BB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Barbuda': {
+        'cc2': None,
+        'dep': 'AG',
+        'neigh': {
+            'bord': [],
+            'less100': ['Antigua', 'Montserrat', 'Nevis', 'Saint Kitts'],
+            'less30': [],
+        },
+    },
+    'Belarus': {
+        'cc2': 'BY',
+        'neigh': {
+            'bord': ['Latvia', 'Lithuania', 'Poland', 'Russia', 'Ukraine'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Belgium': {
+        'cc2': 'BE',
+        'neigh': {
+            'bord': ['France', 'Germany', 'Luxembourg', 'Netherlands'],
+            'less100': ['United Kingdom'],
+            'less30': [],
+        },
+    },
+    'Belize': {
+        'cc2': 'BZ',
+        'neigh': {
+            'bord': ['Guatemala', 'Mexico'],
+            'less100': ['Honduras'],
+            'less30': [],
+        },
+    },
+    'Benin': {
+        'cc2': 'BJ',
+        'neigh': {
+            'bord': ['Burkina Faso', 'Niger', 'Nigeria', 'Togo'],
+            'less100': ['Ghana'],
+            'less30': [],
+        },
+    },
+    'Bermuda': {
+        'cc2': 'BM',
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Bhutan': {
+        'cc2': 'BT',
+        'neigh': {
+            'bord': ['China', 'India'],
+            'less100': ['Bangladesh', 'Nepal'],
+            'less30': [],
+        },
+    },
+    'Bolivia': {
+        'cc2': 'BO',
+        'neigh': {
+            'bord': ['Argentina', 'Brazil', 'Chile', 'Paraguay', 'Peru'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Bonaire': {
+        'cc2': None,
+        'dep': 'BQ',
+        'neigh': {
+            'bord': [],
+            'less100': ['Curaçao', 'Venezuela'],
+            'less30': [],
+        },
+    },
+    'Bonaire, Saba and Sint Eustatius': {
+        'cc2': 'BQ',
+        'dep': 'NL',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Bosnia and Herzegovina': {
+        'cc2': 'BA',
+        'neigh': {
+            'bord': ['Croatia', 'Montenegro', 'Serbia'],
+            'less100': ['Albania', 'Hungary', 'Slovenia'],
+            'less30': [],
+        },
+    },
+    'Botswana': {
+        'cc2': 'BW',
+        'neigh': {
+            'bord': ['Namibia', 'South Africa', 'Zambia', 'Zimbabwe'],
+            'less100': ['Angola'],
+            'less30': [],
+        },
+    },
+    'Bouvet Island': {
+        'cc2': 'BV',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Brazil': {
+        'cc2': 'BR',
+        'neigh': {
+            'bord': [
+                'Argentina',
+                'Bolivia',
+                'Colombia',
+                'French Guiana',
+                'Guyana',
+                'Paraguay',
+                'Peru',
+                'Suriname',
+                'Uruguay',
+                'Venezuela',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'British Indian Ocean Territory': {
+        'cc2': 'IO',
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'British Virgin Islands': {
+        'cc2': 'VG',
+        'dep': 'GB',
+        'neigh': {
+            'bord': [],
+            'less100': ['Puerto Rico'],
+            'less30': ['United States Virgin Islands'],
+        },
+    },
+    'Brunei': {
+        'cc2': 'BN',
+        'neigh': {
+            'bord': ['Malaysia'],
+            'less100': ['Indonesia'],
+            'less30': [],
+        },
+    },
+    'Bulgaria': {
+        'cc2': 'BG',
+        'neigh': {
+            'bord': [
+                'Greece',
+                'North Macedonia',
+                'Romania',
+                'Serbia',
+                'Turkey',
+            ],
+            'less100': ['Kosovo'],
+            'less30': [],
+        },
+    },
+    'Burkina Faso': {
+        'cc2': 'BF',
+        'neigh': {
+            'bord': ['Benin', 'Ghana', 'Ivory Coast', 'Mali', 'Niger', 'Togo'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Burundi': {
+        'cc2': 'BI',
+        'neigh': {
+            'bord': ['Democratic Republic of the Congo', 'Rwanda', 'Tanzania'],
+            'less100': ['Uganda'],
+            'less30': [],
+        },
+    },
+    'Cambodia': {
+        'cc2': 'KH',
+        'neigh': {
+            'bord': ['Laos', 'Thailand', 'Vietnam'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Cameroon': {
+        'cc2': 'CM',
+        'neigh': {
+            'bord': [
+                'Central African Republic',
+                'Chad',
+                'Equatorial Guinea',
+                'Gabon',
+                'Niger',
+                'Nigeria',
+                'Republic of the Congo',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Canada': {
+        'cc2': 'CA',
+        'neigh': {
+            'bord': [
+                'Denmark',
+                'Greenland',
+                'Saint Pierre and Miquelon',
+                'United States',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Canary Islands': {
+        'cc2': None,
+        'dep': 'ES',
+        'neigh': {'bord': [], 'less100': ['Morocco'], 'less30': []},
+    },
+    'Cape Verde': {
+        'cc2': 'CV',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Cayman Islands': {
+        'cc2': 'KY',
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Central African Republic': {
+        'cc2': 'CF',
+        'neigh': {
+            'bord': [
+                'Cameroon',
+                'Chad',
+                'Democratic Republic of the Congo',
+                'Republic of the Congo',
+                'South Sudan',
+                'Sudan',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Chad': {
+        'cc2': 'TD',
+        'neigh': {
+            'bord': [
+                'Cameroon',
+                'Central African Republic',
+                'Libya',
+                'Niger',
+                'Nigeria',
+                'Sudan',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Chagos Archipelago': {
+        'cc2': None,
+        'dep': 'IO',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Chatham Island': {
+        'cc2': None,
+        'dep': 'NZ',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Chile': {
+        'cc2': 'CL',
+        'neigh': {
+            'bord': ['Argentina', 'Bolivia', 'Peru'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'China': {
+        'cc2': 'CN',
+        'neigh': {
+            'bord': [
+                'Afghanistan',
+                'Bhutan',
+                'Hong Kong',
+                'India',
+                'Kazakhstan',
+                'Kyrgyzstan',
+                'Laos',
+                'Macau',
+                'Mongolia',
+                'Myanmar',
+                'Nepal',
+                'North Korea',
+                'Pakistan',
+                'Russia',
+                'Siachen Glacier',
+                'Tajikistan',
+                'Vietnam',
+            ],
+            'less100': ['Bangladesh'],
+            'less30': ['Taiwan'],
+        },
+    },
+    'Christmas Island': {
+        'cc2': 'CX',
+        'dep': 'AU',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Clipperton Island': {
+        'cc2': None,
+        'dep': 'FR',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Cocos Islands': {
+        'cc2': 'CC',
+        'dep': 'AU',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Colombia': {
+        'cc2': 'CO',
+        'neigh': {
+            'bord': ['Brazil', 'Ecuador', 'Panama', 'Peru', 'Venezuela'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Comoros': {
+        'cc2': 'KM',
+        'neigh': {'bord': [], 'less100': ['Mayotte'], 'less30': []},
+    },
+    'Cook Islands': {
+        'cc2': 'CK',
+        'dep': 'NZ',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Costa Rica': {
+        'cc2': 'CR',
+        'neigh': {
+            'bord': ['Nicaragua', 'Panama'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Croatia': {
+        'cc2': 'HR',
+        'neigh': {
+            'bord': [
+                'Bosnia and Herzegovina',
+                'Hungary',
+                'Montenegro',
+                'Serbia',
+                'Slovenia',
+            ],
+            'less100': ['Albania'],
+            'less30': ['Austria', 'Italy'],
+        },
+    },
+    'Crozet Islands': {
+        'cc2': None,
+        'dep': 'TF',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Cuba': {
+        'cc2': 'CU',
+        'neigh': {
+            'bord': ['US Naval Base at Guantanamo Bay'],
+            'less100': ['Haiti', 'The Bahamas'],
+            'less30': [],
+        },
+    },
+    'Curaçao': {
+        'cc2': 'CW',
+        'dep': 'NL',
+        'neigh': {
+            'bord': [],
+            'less100': ['Aruba', 'Bonaire', 'Venezuela'],
+            'less30': [],
+        },
+    },
+    'Cyprus': {
+        'cc2': 'CY',
+        'neigh': {
+            'bord': ['Akrotiri', 'Akrotiri and Dhekelia', 'Dhekelia'],
+            'less100': ['Turkey'],
+            'less30': [],
+        },
+    },
+    'Czech Republic': {
+        'cc2': 'CZ',
+        'neigh': {
+            'bord': ['Austria', 'Germany', 'Poland', 'Slovakia'],
+            'less100': ['Hungary'],
+            'less30': [],
+        },
+    },
+    'Democratic Republic of the Congo': {
+        'cc2': 'CD',
+        'neigh': {
+            'bord': [
+                'Angola',
+                'Burundi',
+                'Central African Republic',
+                'Republic of the Congo',
+                'Rwanda',
+                'South Sudan',
+                'Tanzania',
+                'Uganda',
+                'Zambia',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Denmark': {
+        'cc2': 'DK',
+        'neigh': {
+            'bord': ['Canada', 'Germany'],
+            'less100': ['Poland'],
+            'less30': ['Sweden'],
+        },
+    },
+    'Dhekelia': {
+        'cc2': None,
+        'dep': 'AK',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Diego Garcia': {
+        'cc2': None,
+        'dep': 'IO',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Djibouti': {
+        'cc2': 'DJ',
+        'neigh': {
+            'bord': ['Eritrea', 'Ethiopia', 'Somalia'],
+            'less100': ['Yemen'],
+            'less30': [],
+        },
+    },
+    'Dominica': {
+        'cc2': 'DM',
+        'neigh': {
+            'bord': ['Haiti'],
+            'less100': ['Guadeloupe', 'Martinique', 'Puerto Rico'],
+            'less30': [],
+        },
+    },
+    'Dominican Republic': {
+        'cc2': 'DO',
+        'neigh': {'bord': ['Haiti'], 'less100': ['Puerto Rico'], 'less30': []},
+    },
+    'East Timor': {
+        'cc2': 'TL',
+        'neigh': {'bord': ['Indonesia'], 'less100': [], 'less30': []},
+    },
+    'Easter Island': {
+        'cc2': None,
+        'dep': 'CL',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Ecuador': {
+        'cc2': 'EC',
+        'neigh': {'bord': ['Colombia', 'Peru'], 'less100': [], 'less30': []},
+    },
+    'Egypt': {
+        'cc2': 'EG',
+        'neigh': {
+            'bord': [
+                'Gaza Strip',
+                'Israel',
+                'Libya',
+                'State of Palestine',
+                'Sudan',
+            ],
+            'less100': [],
+            'less30': ['Jordan', 'Saudi Arabia'],
+        },
+    },
+    'El Salvador': {
+        'cc2': 'SV',
+        'neigh': {
+            'bord': ['Guatemala', 'Honduras'],
+            'less100': ['Nicaragua'],
+            'less30': [],
+        },
+    },
+    'England': {
+        'cc2': None,
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Equatorial Guinea': {
+        'cc2': 'GQ',
+        'neigh': {'bord': ['Cameroon', 'Gabon'], 'less100': [], 'less30': []},
+    },
+    'Eritrea': {
+        'cc2': 'ER',
+        'neigh': {
+            'bord': ['Djibouti', 'Ethiopia', 'Sudan'],
+            'less100': ['Yemen'],
+            'less30': [],
+        },
+    },
+    'Estonia': {
+        'cc2': 'EE',
+        'neigh': {
+            'bord': ['Latvia', 'Russia'],
+            'less100': ['Finland'],
+            'less30': [],
+        },
+    },
+    'Eswatini': {
+        'cc2': 'SZ',
+        'neigh': {
+            'bord': ['Mozambique', 'South Africa'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Ethiopia': {
+        'cc2': 'ET',
+        'neigh': {
+            'bord': [
+                'Djibouti',
+                'Eritrea',
+                'Kenya',
+                'Somalia',
+                'South Sudan',
+                'Sudan',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Falkland Islands': {
+        'cc2': 'FK',
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Faroe Islands': {
+        'cc2': 'FO',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Federated States of Micronesia': {
+        'cc2': 'FM',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Fiji': {'cc2': 'FJ', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
+    'Finland': {
+        'cc2': 'FI',
+        'neigh': {
+            'bord': ['Norway', 'Russia', 'Sweden'],
+            'less100': ['Estonia'],
+            'less30': [],
+        },
+    },
+    'France': {
+        'cc2': 'FR',
+        'neigh': {
+            'bord': [
+                'Andorra',
+                'Belgium',
+                'Germany',
+                'Italy',
+                'Luxembourg',
+                'Monaco',
+                'Spain',
+                'Switzerland',
+            ],
+            'less100': ['Guernsey', 'Netherlands', 'United Kingdom'],
+            'less30': ['Jersey'],
+        },
+    },
+    'French Antilles': {
+        'cc2': None,
+        'dep': 'FR',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'French Departments and Territories in the Indian Ocean': {
+        'cc2': None,
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'French Guiana': {
+        'cc2': 'GF',
+        'dep': 'FR',
+        'neigh': {'bord': ['Brazil', 'Suriname'], 'less100': [], 'less30': []},
+    },
+    'French Polynesia': {
+        'cc2': 'PF',
+        'dep': 'FR',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'French Southern Territories': {
+        'cc2': 'TF',
+        'dep': 'FR',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Gabon': {
+        'cc2': 'GA',
+        'neigh': {
+            'bord': ['Cameroon', 'Equatorial Guinea', 'Republic of the Congo'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Gaza Strip': {
+        'cc2': None,
+        'dep': 'PS',
+        'neigh': {'bord': ['Egypt', 'Israel'], 'less100': [], 'less30': []},
+    },
+    'Georgia': {
+        'cc2': 'GE',
+        'neigh': {
+            'bord': [
+                'Armenia',
+                'Azerbaijan',
+                'Russia',
+                'South Ossetia',
+                'Turkey',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Germany': {
+        'cc2': 'DE',
+        'neigh': {
+            'bord': [
+                'Austria',
+                'Belgium',
+                'Czech Republic',
+                'Denmark',
+                'France',
+                'Luxembourg',
+                'Netherlands',
+                'Poland',
+                'Switzerland',
+            ],
+            'less100': ['Italy', 'Sweden'],
+            'less30': ['Liechtenstein'],
+        },
+    },
+    'Ghana': {
+        'cc2': 'GH',
+        'neigh': {
+            'bord': ['Burkina Faso', 'Ivory Coast', 'Togo'],
+            'less100': ['Benin'],
+            'less30': [],
+        },
+    },
+    'Gibraltar': {
+        'cc2': 'GI',
+        'dep': 'GB',
+        'neigh': {'bord': ['Spain'], 'less100': [], 'less30': []},
+    },
+    'Greece': {
+        'cc2': 'GR',
+        'neigh': {
+            'bord': ['Albania', 'Bulgaria', 'North Macedonia', 'Turkey'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Greenland': {
+        'cc2': 'GL',
+        'neigh': {'bord': ['Canada'], 'less100': [], 'less30': []},
+    },
+    'Grenada': {
+        'cc2': 'GD',
+        'neigh': {'bord': [], 'less100': ['Grenadines'], 'less30': []},
+    },
+    'Grenadines': {
+        'cc2': None,
+        'dep': 'VC',
+        'neigh': {
+            'bord': [],
+            'less100': ['Grenada', 'Saint Lucia'],
+            'less30': ['Saint Vincent'],
+        },
+    },
+    'Guadeloupe': {
+        'cc2': 'GP',
+        'dep': 'FR',
+        'neigh': {
+            'bord': [],
+            'less100': ['Antigua', 'Dominica', 'Montserrat'],
+            'less30': [],
+        },
+    },
+    'Guam': {
+        'cc2': 'GU',
+        'dep': 'US',
+        'neigh': {
+            'bord': [],
+            'less100': ['Northern Mariana Islands'],
+            'less30': [],
+        },
+    },
+    'Guatemala': {
+        'cc2': 'GT',
+        'neigh': {
+            'bord': ['Belize', 'El Salvador', 'Honduras', 'Mexico'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Guernsey': {
+        'cc2': 'GG',
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': ['France'], 'less30': ['Jersey']},
+    },
+    'Guinea': {
+        'cc2': 'GN',
+        'neigh': {
+            'bord': [
+                'Guinea-Bissau',
+                'Ivory Coast',
+                'Liberia',
+                'Mali',
+                'Senegal',
+                'Sierra Leone',
+            ],
+            'less100': ['The Gambia'],
+            'less30': [],
+        },
+    },
+    'Guinea-Bissau': {
+        'cc2': 'GW',
+        'neigh': {
+            'bord': ['Guinea', 'Senegal'],
+            'less100': ['The Gambia'],
+            'less30': [],
+        },
+    },
+    'Guyana': {
+        'cc2': 'GY',
+        'neigh': {
+            'bord': ['Brazil', 'Suriname', 'Venezuela'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Haiti': {
+        'cc2': 'HT',
+        'neigh': {
+            'bord': ['Dominica', 'Dominican Republic'],
+            'less100': ['Cuba'],
+            'less30': [],
+        },
+    },
+    'Heard Island and McDonald Islands': {
+        'cc2': 'HM',
+        'dep': 'AU',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Honduras': {
+        'cc2': 'HN',
+        'neigh': {
+            'bord': ['El Salvador', 'Guatemala', 'Nicaragua'],
+            'less100': ['Belize'],
+            'less30': [],
+        },
+    },
+    'Hong Kong': {
+        'cc2': 'HK',
+        'neigh': {'bord': ['China'], 'less100': [], 'less30': []},
+    },
+    'Hungary': {
+        'cc2': 'HU',
+        'neigh': {
+            'bord': [
+                'Austria',
+                'Croatia',
+                'Romania',
+                'Serbia',
+                'Slovakia',
+                'Slovenia',
+                'Ukraine',
+            ],
+            'less100': ['Bosnia and Herzegovina', 'Czech Republic', 'Poland'],
+            'less30': [],
+        },
+    },
+    'Iceland': {
+        'cc2': 'IS',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'India': {
+        'cc2': 'IN',
+        'neigh': {
+            'bord': [
+                'Bangladesh',
+                'Bhutan',
+                'China',
+                'Myanmar',
+                'Nepal',
+                'Pakistan',
+                'Siachen Glacier',
+                'Sri Lanka',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Indonesia': {
+        'cc2': 'ID',
+        'neigh': {
+            'bord': ['East Timor', 'Malaysia', 'Papua New Guinea'],
+            'less100': ['Brunei'],
+            'less30': ['Singapore'],
+        },
+    },
+    'Iran': {
+        'cc2': 'IR',
+        'neigh': {
+            'bord': [
+                'Afghanistan',
+                'Armenia',
+                'Azerbaijan',
+                'Iraq',
+                'Pakistan',
+                'Turkey',
+                'Turkmenistan',
+            ],
+            'less100': ['Oman', 'United Arab Emirates'],
+            'less30': ['Kuwait'],
+        },
+    },
+    'Iraq': {
+        'cc2': 'IQ',
+        'neigh': {
+            'bord': [
+                'Iran',
+                'Jordan',
+                'Kuwait',
+                'Saudi Arabia',
+                'Syria',
+                'Turkey',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Isle of Man': {
+        'cc2': 'IM',
+        'dep': 'GB',
+        'neigh': {
+            'bord': [],
+            'less100': ['Republic of Ireland', 'United Kingdom'],
+            'less30': [],
+        },
+    },
+    'Israel': {
+        'cc2': 'IL',
+        'neigh': {
+            'bord': [
+                'Egypt',
+                'Gaza Strip',
+                'Jordan',
+                'Lebanon',
+                'State of Palestine',
+                'Syria',
+                'West Bank',
+            ],
+            'less100': [],
+            'less30': ['Saudi Arabia'],
+        },
+    },
+    'Italy': {
+        'cc2': 'IT',
+        'neigh': {
+            'bord': [
+                'Austria',
+                'France',
+                'San Marino',
+                'Slovenia',
+                'Switzerland',
+                'Vatican',
+            ],
+            'less100': [
+                'Albania',
+                'Germany',
+                'Liechtenstein',
+                'Malta',
+                'Tunisia',
+            ],
+            'less30': ['Croatia', 'Monaco'],
+        },
+    },
+    'Ivory Coast': {
+        'cc2': 'CI',
+        'neigh': {
+            'bord': ['Burkina Faso', 'Ghana', 'Guinea', 'Liberia', 'Mali'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Jamaica': {
+        'cc2': 'JM',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Jan Mayen': {
+        'cc2': None,
+        'dep': 'SJ',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Japan': {
+        'cc2': 'JP',
+        'neigh': {
+            'bord': [],
+            'less100': ['South Korea'],
+            'less30': ['Russia'],
+        },
+    },
+    'Jersey': {
+        'cc2': 'JE',
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': ['France', 'Guernsey']},
+    },
+    'Jordan': {
+        'cc2': 'JO',
+        'neigh': {
+            'bord': [
+                'Iraq',
+                'Israel',
+                'Saudi Arabia',
+                'State of Palestine',
+                'Syria',
+                'West Bank',
+            ],
+            'less100': ['Lebanon'],
+            'less30': ['Egypt'],
+        },
+    },
+    'Kazakhstan': {
+        'cc2': 'KZ',
+        'neigh': {
+            'bord': [
+                'China',
+                'Kyrgyzstan',
+                'Russia',
+                'Turkmenistan',
+                'Uzbekistan',
+            ],
+            'less100': ['Mongolia', 'Tajikistan'],
+            'less30': [],
+        },
+    },
+    'Kenya': {
+        'cc2': 'KE',
+        'neigh': {
+            'bord': [
+                'Ethiopia',
+                'Somalia',
+                'South Sudan',
+                'Tanzania',
+                'Uganda',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Kerguelen Islands': {
+        'cc2': None,
+        'dep': 'TF',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Kiribati': {
+        'cc2': 'KI',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Kosovo': {
+        'cc2': 'XK',
+        'neigh': {
+            'bord': ['Albania', 'Montenegro', 'North Macedonia', 'Serbia'],
+            'less100': ['Bulgaria'],
+            'less30': [],
+        },
+    },
+    'Kuwait': {
+        'cc2': 'KW',
+        'neigh': {
+            'bord': ['Iraq', 'Saudi Arabia'],
+            'less100': [],
+            'less30': ['Iran'],
+        },
+    },
+    'Kyrgyzstan': {
+        'cc2': 'KG',
+        'neigh': {
+            'bord': ['China', 'Kazakhstan', 'Tajikistan', 'Uzbekistan'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Laos': {
+        'cc2': 'LA',
+        'neigh': {
+            'bord': ['Cambodia', 'China', 'Myanmar', 'Thailand', 'Vietnam'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Latvia': {
+        'cc2': 'LV',
+        'neigh': {
+            'bord': ['Belarus', 'Estonia', 'Lithuania', 'Russia'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Lebanon': {
+        'cc2': 'LB',
+        'neigh': {
+            'bord': ['Israel', 'Syria'],
+            'less100': ['Jordan', 'State of Palestine'],
+            'less30': [],
+        },
+    },
+    'Lesotho': {
+        'cc2': 'LS',
+        'neigh': {'bord': ['South Africa'], 'less100': [], 'less30': []},
+    },
+    'Liberia': {
+        'cc2': 'LR',
+        'neigh': {
+            'bord': ['Guinea', 'Ivory Coast', 'Sierra Leone'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Libya': {
+        'cc2': 'LY',
+        'neigh': {
+            'bord': ['Algeria', 'Chad', 'Egypt', 'Niger', 'Sudan', 'Tunisia'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Liechtenstein': {
+        'cc2': 'LI',
+        'neigh': {
+            'bord': ['Austria', 'Switzerland'],
+            'less100': ['Italy'],
+            'less30': ['Germany'],
+        },
+    },
+    'Lithuania': {
+        'cc2': 'LT',
+        'neigh': {
+            'bord': ['Belarus', 'Latvia', 'Poland', 'Russia'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Luxembourg': {
+        'cc2': 'LU',
+        'neigh': {
+            'bord': ['Belgium', 'France', 'Germany'],
+            'less100': ['Netherlands'],
+            'less30': [],
+        },
+    },
+    'Macau': {
+        'cc2': 'MO',
+        'neigh': {'bord': ['China'], 'less100': [], 'less30': []},
+    },
+    'Madagascar': {
+        'cc2': 'MG',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Madeira': {
+        'cc2': None,
+        'dep': 'PT',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Malawi': {
+        'cc2': 'MW',
+        'neigh': {
+            'bord': ['Mozambique', 'Tanzania', 'Zambia'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Malaysia': {
+        'cc2': 'MY',
+        'neigh': {
+            'bord': ['Brunei', 'Indonesia', 'Thailand'],
+            'less100': ['Philippines'],
+            'less30': ['Singapore'],
+        },
+    },
+    'Maldives': {
+        'cc2': 'MV',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Mali': {
+        'cc2': 'ML',
+        'neigh': {
+            'bord': [
+                'Algeria',
+                'Burkina Faso',
+                'Guinea',
+                'Ivory Coast',
+                'Mauritania',
+                'Niger',
+                'Senegal',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Malta': {
+        'cc2': 'MT',
+        'neigh': {'bord': [], 'less100': ['Italy'], 'less30': []},
+    },
+    'Marshall Islands': {
+        'cc2': 'MH',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Martinique': {
+        'cc2': 'MQ',
+        'dep': 'FR',
+        'neigh': {
+            'bord': [],
+            'less100': ['Dominica', 'Saint Lucia'],
+            'less30': [],
+        },
+    },
+    'Mauritania': {
+        'cc2': 'MR',
+        'neigh': {
+            'bord': [
+                'Algeria',
+                'Mali',
+                'Morocco',
+                'Senegal',
+                'Western Sahara',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Mauritius': {
+        'cc2': 'MU',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Mayotte': {
+        'cc2': 'YT',
+        'dep': 'FR',
+        'neigh': {'bord': [], 'less100': ['Comoros'], 'less30': []},
+    },
+    'Mexico': {
+        'cc2': 'MX',
+        'neigh': {
+            'bord': ['Belize', 'Guatemala', 'United States'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Midway Island': {
+        'cc2': None,
+        'dep': 'US',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Moldova': {
+        'cc2': 'MD',
+        'neigh': {'bord': ['Romania', 'Ukraine'], 'less100': [], 'less30': []},
+    },
+    'Monaco': {
+        'cc2': 'MC',
+        'neigh': {'bord': ['France'], 'less100': [], 'less30': ['Italy']},
+    },
+    'Mongolia': {
+        'cc2': 'MN',
+        'neigh': {
+            'bord': ['China', 'Russia'],
+            'less100': ['Kazakhstan'],
+            'less30': [],
+        },
+    },
+    'Montenegro': {
+        'cc2': 'ME',
+        'neigh': {
+            'bord': [
+                'Albania',
+                'Bosnia and Herzegovina',
+                'Croatia',
+                'Kosovo',
+                'Serbia',
+            ],
+            'less100': ['North Macedonia'],
+            'less30': [],
+        },
+    },
+    'Montserrat': {
+        'cc2': 'MS',
+        'dep': 'GB',
+        'neigh': {
+            'bord': [],
+            'less100': [
+                'Antigua',
+                'Barbuda',
+                'Guadeloupe',
+                'Nevis',
+                'Saint Kitts',
+            ],
+            'less30': [],
+        },
+    },
+    'Morocco': {
+        'cc2': 'MA',
+        'neigh': {
+            'bord': ['Algeria', 'Mauritania', 'Spain', 'Western Sahara'],
+            'less100': ['Canary Islands'],
+            'less30': [],
+        },
+    },
+    'Mozambique': {
+        'cc2': 'MZ',
+        'neigh': {
+            'bord': [
+                'Eswatini',
+                'Malawi',
+                'South Africa',
+                'Tanzania',
+                'Zambia',
+                'Zimbabwe',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Myanmar': {
+        'cc2': 'MM',
+        'neigh': {
+            'bord': ['Bangladesh', 'China', 'India', 'Laos', 'Thailand'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Nagorno-Karabakh': {
+        'cc2': 'QN',
+        'dep': 'AZ',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Namibia': {
+        'cc2': 'NA',
+        'neigh': {
+            'bord': [
+                'Angola',
+                'Botswana',
+                'South Africa',
+                'Zambia',
+                'Zimbabwe',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Nauru': {'cc2': 'NR', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
+    'Nepal': {
+        'cc2': 'NP',
+        'neigh': {
+            'bord': ['China', 'India'],
+            'less100': ['Bhutan'],
+            'less30': ['Bangladesh'],
+        },
+    },
+    'Netherlands': {
+        'cc2': 'NL',
+        'neigh': {
+            'bord': ['Belgium', 'Germany'],
+            'less100': ['France', 'Luxembourg'],
+            'less30': [],
+        },
+    },
+    'Nevis': {
+        'cc2': None,
+        'dep': 'KN',
+        'neigh': {
+            'bord': [],
+            'less100': [
+                'Antigua',
+                'Barbuda',
+                'Montserrat',
+                'Saba',
+                'Saint Barthélemy',
+                'Sint Eustatius',
+            ],
+            'less30': ['Saint Kitts'],
+        },
+    },
+    'New Caledonia': {
+        'cc2': 'NC',
+        'dep': 'FR',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'New Zealand': {
+        'cc2': 'NZ',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Nicaragua': {
+        'cc2': 'NI',
+        'neigh': {
+            'bord': ['Costa Rica', 'Honduras'],
+            'less100': ['El Salvador'],
+            'less30': [],
+        },
+    },
+    'Niger': {
+        'cc2': 'NE',
+        'neigh': {
+            'bord': [
+                'Algeria',
+                'Benin',
+                'Burkina Faso',
+                'Cameroon',
+                'Chad',
+                'Libya',
+                'Mali',
+                'Nigeria',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Nigeria': {
+        'cc2': 'NG',
+        'neigh': {
+            'bord': ['Benin', 'Cameroon', 'Chad', 'Niger'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Niue': {
+        'cc2': 'NU',
+        'dep': 'NZ',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Norfolk Island': {
+        'cc2': 'NF',
+        'dep': 'AU',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'North Korea': {
+        'cc2': 'KP',
+        'neigh': {
+            'bord': ['China', 'Russia', 'South Korea'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'North Macedonia': {
+        'cc2': 'MK',
+        'neigh': {
+            'bord': ['Albania', 'Bulgaria', 'Greece', 'Kosovo', 'Serbia'],
+            'less100': ['Montenegro'],
+            'less30': [],
+        },
+    },
+    'Northern Cyprus': {
+        'cc2': 'CT',
+        'dep': 'TR',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Northern Ireland': {
+        'cc2': None,
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Northern Mariana Islands': {
+        'cc2': 'MP',
+        'dep': 'US',
+        'neigh': {'bord': [], 'less100': ['Guam'], 'less30': []},
+    },
+    'Norway': {
+        'cc2': 'NO',
+        'neigh': {
+            'bord': ['Finland', 'Russia', 'Sweden'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Oman': {
+        'cc2': 'OM',
+        'neigh': {
+            'bord': ['Saudi Arabia', 'United Arab Emirates', 'Yemen'],
+            'less100': ['Iran'],
+            'less30': [],
+        },
+    },
+    'Pakistan': {
+        'cc2': 'PK',
+        'neigh': {
+            'bord': [
+                'Afghanistan',
+                'China',
+                'India',
+                'Iran',
+                'Siachen Glacier',
+            ],
+            'less100': [],
+            'less30': ['Tajikistan'],
+        },
+    },
+    'Palau': {'cc2': 'PW', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
+    'Panama': {
+        'cc2': 'PA',
+        'neigh': {
+            'bord': ['Colombia', 'Costa Rica'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Papua New Guinea': {
+        'cc2': 'PG',
+        'neigh': {
+            'bord': ['Indonesia'],
+            'less100': ['Australia'],
+            'less30': ['Solomon Islands'],
+        },
+    },
+    'Paraguay': {
+        'cc2': 'PY',
+        'neigh': {
+            'bord': ['Argentina', 'Bolivia', 'Brazil'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Peru': {
+        'cc2': 'PE',
+        'neigh': {
+            'bord': ['Bolivia', 'Brazil', 'Chile', 'Colombia', 'Ecuador'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Philippines': {
+        'cc2': 'PH',
+        'neigh': {'bord': [], 'less100': ['Malaysia'], 'less30': []},
+    },
+    'Pitcairn Islands': {
+        'cc2': 'PN',
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Poland': {
+        'cc2': 'PL',
+        'neigh': {
+            'bord': [
+                'Belarus',
+                'Czech Republic',
+                'Germany',
+                'Lithuania',
+                'Russia',
+                'Slovakia',
+                'Ukraine',
+            ],
+            'less100': ['Denmark', 'Hungary'],
+            'less30': [],
+        },
+    },
+    'Portugal': {
+        'cc2': 'PT',
+        'neigh': {'bord': ['Spain'], 'less100': [], 'less30': []},
+    },
+    'Puerto Rico': {
+        'cc2': 'PR',
+        'dep': 'US',
+        'neigh': {
+            'bord': [],
+            'less100': [
+                'British Virgin Islands',
+                'Dominica',
+                'Dominican Republic',
+                'United States Virgin Islands',
+            ],
+            'less30': [],
+        },
+    },
+    'Qatar': {
+        'cc2': 'QA',
+        'neigh': {
+            'bord': ['Saudi Arabia'],
+            'less100': ['Bahrain', 'United Arab Emirates'],
+            'less30': [],
+        },
+    },
+    'Republic of Ireland': {
+        'cc2': 'IE',
+        'neigh': {
+            'bord': ['United Kingdom'],
+            'less100': ['Isle of Man'],
+            'less30': [],
+        },
+    },
+    'Republic of the Congo': {
+        'cc2': 'CG',
+        'neigh': {
+            'bord': [
+                'Angola',
+                'Cameroon',
+                'Central African Republic',
+                'Democratic Republic of the Congo',
+                'Gabon',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Romania': {
+        'cc2': 'RO',
+        'neigh': {
+            'bord': ['Bulgaria', 'Hungary', 'Moldova', 'Serbia', 'Ukraine'],
+            'less100': ['Slovakia'],
+            'less30': [],
+        },
+    },
+    'Russia': {
+        'cc2': 'RU',
+        'neigh': {
+            'bord': [
+                'Azerbaijan',
+                'Belarus',
+                'China',
+                'Estonia',
+                'Finland',
+                'Georgia',
+                'Kazakhstan',
+                'Latvia',
+                'Lithuania',
+                'Mongolia',
+                'North Korea',
+                'Norway',
+                'Poland',
+                'South Ossetia',
+                'Ukraine',
+            ],
+            'less100': ['United States'],
+            'less30': ['Japan'],
+        },
+    },
+    'Rwanda': {
+        'cc2': 'RW',
+        'neigh': {
+            'bord': [
+                'Burundi',
+                'Democratic Republic of the Congo',
+                'Tanzania',
+                'Uganda',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Réunion': {
+        'cc2': 'RE',
+        'dep': 'FR',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Saba': {
+        'cc2': None,
+        'dep': 'BQ',
+        'neigh': {
+            'bord': [],
+            'less100': [
+                'Anguilla',
+                'Nevis',
+                'Saint Barthélemy',
+                'Saint Kitts',
+                'Saint Martin',
+                'Sint Maarten',
+            ],
+            'less30': ['Sint Eustatius'],
+        },
+    },
+    'Saint Barthélemy': {
+        'cc2': 'BL',
+        'dep': 'FR',
+        'neigh': {
+            'bord': [],
+            'less100': [
+                'Anguilla',
+                'Nevis',
+                'Saba',
+                'Saint Kitts',
+                'Sint Eustatius',
+            ],
+            'less30': ['Saint Martin', 'Sint Maarten'],
+        },
+    },
+    'Saint Helena': {
+        'cc2': None,
+        'dep': 'SH',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Saint Helena, Ascension and Tristan da Cunha': {
+        'cc2': 'SH',
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Saint Kitts': {
+        'cc2': None,
+        'dep': 'KN',
+        'neigh': {
+            'bord': [],
+            'less100': [
+                'Anguilla',
+                'Antigua',
+                'Barbuda',
+                'Montserrat',
+                'Saba',
+                'Saint Barthélemy',
+                'Saint Martin',
+                'Sint Maarten',
+            ],
+            'less30': ['Nevis', 'Sint Eustatius'],
+        },
+    },
+    'Saint Kitts and Nevis': {
+        'cc2': 'KN',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Saint Lucia': {
+        'cc2': 'LC',
+        'neigh': {
+            'bord': [],
+            'less100': ['Grenadines', 'Martinique', 'Saint Vincent'],
+            'less30': [],
+        },
+    },
+    'Saint Martin': {
+        'cc2': 'MF',
+        'dep': 'FR',
+        'neigh': {
+            'bord': ['Sint Maarten'],
+            'less100': ['Saba', 'Saint Kitts', 'Sint Eustatius'],
+            'less30': ['Anguilla', 'Saint Barthélemy'],
+        },
+    },
+    'Saint Pierre and Miquelon': {
+        'cc2': 'PM',
+        'dep': 'FR',
+        'neigh': {'bord': ['Canada'], 'less100': [], 'less30': []},
+    },
+    'Saint Vincent': {
+        'cc2': None,
+        'dep': 'VC',
+        'neigh': {
+            'bord': [],
+            'less100': ['Saint Lucia'],
+            'less30': ['Grenadines'],
+        },
+    },
+    'Saint Vincent and the Grenadines': {
+        'cc2': 'VC',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Samoa': {
+        'cc2': 'WS',
+        'neigh': {'bord': [], 'less100': ['American Samoa'], 'less30': []},
+    },
+    'San Marino': {
+        'cc2': 'SM',
+        'neigh': {'bord': ['Italy'], 'less100': [], 'less30': []},
+    },
+    'Sao Tome and Principe': {
+        'cc2': 'ST',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Saudi Arabia': {
+        'cc2': 'SA',
+        'neigh': {
+            'bord': [
+                'Bahrain',
+                'Iraq',
+                'Jordan',
+                'Kuwait',
+                'Oman',
+                'Qatar',
+                'United Arab Emirates',
+                'Yemen',
+            ],
+            'less100': ['Syria'],
+            'less30': ['Egypt', 'Israel'],
+        },
+    },
+    'Scattered Islands': {
+        'cc2': None,
+        'dep': 'TF',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Scotland': {
+        'cc2': None,
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Senegal': {
+        'cc2': 'SN',
+        'neigh': {
+            'bord': [
+                'Guinea',
+                'Guinea-Bissau',
+                'Mali',
+                'Mauritania',
+                'The Gambia',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Serbia': {
+        'cc2': 'RS',
+        'neigh': {
+            'bord': [
+                'Bosnia and Herzegovina',
+                'Bulgaria',
+                'Croatia',
+                'Hungary',
+                'Kosovo',
+                'Montenegro',
+                'North Macedonia',
+                'Romania',
+            ],
+            'less100': ['Albania'],
+            'less30': [],
+        },
+    },
+    'Seychelles': {
+        'cc2': 'SC',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Sierra Leone': {
+        'cc2': 'SL',
+        'neigh': {'bord': ['Guinea', 'Liberia'], 'less100': [], 'less30': []},
+    },
+    'Singapore': {
+        'cc2': 'SG',
+        'neigh': {
+            'bord': [],
+            'less100': [],
+            'less30': ['Indonesia', 'Malaysia'],
+        },
+    },
+    'Sint Eustatius': {
+        'cc2': None,
+        'dep': 'BQ',
+        'neigh': {
+            'bord': [],
+            'less100': [
+                'Anguilla',
+                'Nevis',
+                'Saint Barthélemy',
+                'Saint Martin',
+                'Sint Maarten',
+            ],
+            'less30': ['Saba', 'Saint Kitts'],
+        },
+    },
+    'Sint Maarten': {
+        'cc2': 'SX',
+        'dep': 'NL',
+        'neigh': {
+            'bord': ['Saint Martin'],
+            'less100': ['Saba', 'Saint Kitts', 'Sint Eustatius'],
+            'less30': ['Anguilla', 'Saint Barthélemy'],
+        },
+    },
+    'Slovakia': {
+        'cc2': 'SK',
+        'neigh': {
+            'bord': [
+                'Austria',
+                'Czech Republic',
+                'Hungary',
+                'Poland',
+                'Ukraine',
+            ],
+            'less100': ['Romania'],
+            'less30': [],
+        },
+    },
+    'Slovenia': {
+        'cc2': 'SI',
+        'neigh': {
+            'bord': ['Austria', 'Croatia', 'Hungary', 'Italy'],
+            'less100': ['Bosnia and Herzegovina'],
+            'less30': [],
+        },
+    },
+    'Solomon Islands': {
+        'cc2': 'SB',
+        'neigh': {'bord': [], 'less100': [], 'less30': ['Papua New Guinea']},
+    },
+    'Somalia': {
+        'cc2': 'SO',
+        'neigh': {
+            'bord': ['Djibouti', 'Ethiopia', 'Kenya'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'South Africa': {
+        'cc2': 'ZA',
+        'neigh': {
+            'bord': [
+                'Botswana',
+                'Eswatini',
+                'Lesotho',
+                'Mozambique',
+                'Namibia',
+                'Zimbabwe',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'South Georgia': {
+        'cc2': None,
+        'dep': 'GS',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'South Georgia and the South Sandwich Islands': {
+        'cc2': 'GS',
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'South Korea': {
+        'cc2': 'KR',
+        'neigh': {'bord': ['North Korea'], 'less100': ['Japan'], 'less30': []},
+    },
+    'South Ossetia': {
+        'cc2': None,
+        'dep': 'GE',
+        'neigh': {'bord': ['Georgia', 'Russia'], 'less100': [], 'less30': []},
+    },
+    'South Sandwich Islands': {
+        'cc2': None,
+        'dep': 'GS',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'South Sudan': {
+        'cc2': 'SS',
+        'neigh': {
+            'bord': [
+                'Central African Republic',
+                'Democratic Republic of the Congo',
+                'Ethiopia',
+                'Kenya',
+                'Sudan',
+                'Uganda',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Spain': {
+        'cc2': 'ES',
+        'neigh': {
+            'bord': ['Andorra', 'France', 'Gibraltar', 'Morocco', 'Portugal'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Sri Lanka': {
+        'cc2': 'LK',
+        'neigh': {'bord': ['India'], 'less100': [], 'less30': []},
+    },
+    'St. Paul Island': {
+        'cc2': None,
+        'dep': 'TF',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'State of Palestine': {
+        'cc2': 'PS',
+        'neigh': {
+            'bord': ['Egypt', 'Israel', 'Jordan'],
+            'less100': ['Lebanon', 'Syria'],
+            'less30': [],
+        },
+    },
+    'Sudan': {
+        'cc2': 'SD',
+        'neigh': {
+            'bord': [
+                'Central African Republic',
+                'Chad',
+                'Egypt',
+                'Eritrea',
+                'Ethiopia',
+                'Libya',
+                'South Sudan',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Suriname': {
+        'cc2': 'SR',
+        'neigh': {
+            'bord': ['Brazil', 'French Guiana', 'Guyana'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Svalbard': {
+        'cc2': None,
+        'dep': 'SJ',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Svalbard and Jan Mayen': {
+        'cc2': 'SJ',
+        'dep': 'NO',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Sweden': {
+        'cc2': 'SE',
+        'neigh': {
+            'bord': ['Finland', 'Norway'],
+            'less100': ['Germany'],
+            'less30': ['Denmark'],
+        },
+    },
+    'Switzerland': {
+        'cc2': 'CH',
+        'neigh': {
+            'bord': ['Austria', 'France', 'Germany', 'Italy', 'Liechtenstein'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Syria': {
+        'cc2': 'SY',
+        'neigh': {
+            'bord': ['Iraq', 'Israel', 'Jordan', 'Lebanon', 'Turkey'],
+            'less100': ['Saudi Arabia', 'State of Palestine'],
+            'less30': [],
+        },
+    },
+    'Taiwan': {
+        'cc2': 'TW',
+        'neigh': {'bord': [], 'less100': [], 'less30': ['China']},
+    },
+    'Tajikistan': {
+        'cc2': 'TJ',
+        'neigh': {
+            'bord': ['Afghanistan', 'China', 'Kyrgyzstan', 'Uzbekistan'],
+            'less100': ['Kazakhstan'],
+            'less30': ['Pakistan'],
+        },
+    },
+    'Tanzania': {
+        'cc2': 'TZ',
+        'neigh': {
+            'bord': [
+                'Burundi',
+                'Democratic Republic of the Congo',
+                'Kenya',
+                'Malawi',
+                'Mozambique',
+                'Rwanda',
+                'Uganda',
+                'Zambia',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Thailand': {
+        'cc2': 'TH',
+        'neigh': {
+            'bord': ['Cambodia', 'Laos', 'Malaysia', 'Myanmar'],
+            'less100': ['Vietnam'],
+            'less30': [],
+        },
+    },
+    'The Bahamas': {
+        'cc2': 'BS',
+        'neigh': {
+            'bord': [],
+            'less100': ['Cuba', 'Turks and Caicos Islands'],
+            'less30': [],
+        },
+    },
+    'The Gambia': {
+        'cc2': 'GM',
+        'neigh': {
+            'bord': ['Senegal'],
+            'less100': ['Guinea', 'Guinea-Bissau'],
+            'less30': [],
+        },
+    },
+    'Tobago': {
+        'cc2': None,
+        'dep': 'TT',
+        'neigh': {'bord': [], 'less100': ['Trinidad'], 'less30': []},
+    },
+    'Togo': {
+        'cc2': 'TG',
+        'neigh': {
+            'bord': ['Benin', 'Burkina Faso', 'Ghana'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Tokelau': {
+        'cc2': 'TK',
+        'dep': 'NZ',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Tonga': {'cc2': 'TO', 'neigh': {'bord': [], 'less100': [], 'less30': []}},
+    'Transnistria': {
+        'cc2': None,
+        'dep': 'MD',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Trinidad': {
+        'cc2': None,
+        'dep': 'TT',
+        'neigh': {'bord': [], 'less100': ['Tobago'], 'less30': ['Venezuela']},
+    },
+    'Trinidad and Tobago': {
+        'cc2': 'TT',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Tristan da Cunha': {
+        'cc2': 'TA',
+        'dep': 'SH',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Tunisia': {
+        'cc2': 'TN',
+        'neigh': {
+            'bord': ['Algeria', 'Libya'],
+            'less100': ['Italy'],
+            'less30': [],
+        },
+    },
+    'Turkey': {
+        'cc2': 'TR',
+        'neigh': {
+            'bord': [
+                'Armenia',
+                'Azerbaijan',
+                'Bulgaria',
+                'Georgia',
+                'Greece',
+                'Iran',
+                'Iraq',
+                'Syria',
+            ],
+            'less100': ['Cyprus'],
+            'less30': [],
+        },
+    },
+    'Turkmenistan': {
+        'cc2': 'TM',
+        'neigh': {
+            'bord': ['Afghanistan', 'Iran', 'Kazakhstan', 'Uzbekistan'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Turks and Caicos Islands': {
+        'cc2': 'TC',
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': ['The Bahamas'], 'less30': []},
+    },
+    'Tuvalu': {
+        'cc2': 'TV',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Uganda': {
+        'cc2': 'UG',
+        'neigh': {
+            'bord': [
+                'Democratic Republic of the Congo',
+                'Kenya',
+                'Rwanda',
+                'South Sudan',
+                'Tanzania',
+            ],
+            'less100': ['Burundi'],
+            'less30': [],
+        },
+    },
+    'Ukraine': {
+        'cc2': 'UA',
+        'neigh': {
+            'bord': [
+                'Belarus',
+                'Hungary',
+                'Moldova',
+                'Poland',
+                'Romania',
+                'Russia',
+                'Slovakia',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'United Arab Emirates': {
+        'cc2': 'AE',
+        'neigh': {
+            'bord': ['Oman', 'Saudi Arabia'],
+            'less100': ['Iran', 'Qatar'],
+            'less30': [],
+        },
+    },
+    'United Kingdom': {
+        'cc2': 'GB',
+        'neigh': {
+            'bord': ['Republic of Ireland'],
+            'less100': ['Belgium', 'France', 'Isle of Man'],
+            'less30': [],
+        },
+    },
+    'United States': {
+        'cc2': 'US',
+        'neigh': {
+            'bord': ['Canada', 'Mexico'],
+            'less100': ['Russia'],
+            'less30': [],
+        },
+    },
+    'United States Minor Outlying Islands': {
+        'cc2': 'UM',
+        'dep': 'US',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'United States Virgin Islands': {
+        'cc2': 'VI',
+        'dep': 'US',
+        'neigh': {
+            'bord': [],
+            'less100': ['Puerto Rico'],
+            'less30': ['British Virgin Islands'],
+        },
+    },
+    'Uruguay': {
+        'cc2': 'UY',
+        'neigh': {
+            'bord': ['Argentina', 'Brazil'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Uzbekistan': {
+        'cc2': 'UZ',
+        'neigh': {
+            'bord': [
+                'Afghanistan',
+                'Kazakhstan',
+                'Kyrgyzstan',
+                'Tajikistan',
+                'Turkmenistan',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Vanuatu': {
+        'cc2': 'VU',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Vatican': {
+        'cc2': 'VA',
+        'dep': 'IT',
+        'neigh': {'bord': ['Italy'], 'less100': [], 'less30': []},
+    },
+    'Venezuela': {
+        'cc2': 'VE',
+        'neigh': {
+            'bord': ['Brazil', 'Colombia', 'Guyana'],
+            'less100': ['Bonaire', 'Curaçao'],
+            'less30': ['Aruba', 'Trinidad'],
+        },
+    },
+    'Vietnam': {
+        'cc2': 'VN',
+        'neigh': {
+            'bord': ['Cambodia', 'China', 'Laos'],
+            'less100': ['Thailand'],
+            'less30': [],
+        },
+    },
+    'Wake Island': {
+        'cc2': None,
+        'dep': 'US',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Wales': {
+        'cc2': None,
+        'dep': 'GB',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Wallis and Futuna': {
+        'cc2': 'WF',
+        'dep': 'FR',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'West Bank': {
+        'cc2': None,
+        'dep': 'PS',
+        'neigh': {'bord': ['Israel', 'Jordan'], 'less100': [], 'less30': []},
+    },
+    'Western Sahara': {
+        'cc2': 'EH',
+        'dep': 'MA',
+        'neigh': {
+            'bord': ['Algeria', 'Mauritania', 'Morocco'],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Yemen': {
+        'cc2': 'YE',
+        'neigh': {
+            'bord': ['Oman', 'Saudi Arabia'],
+            'less100': ['Djibouti', 'Eritrea'],
+            'less30': [],
+        },
+    },
+    'Zambia': {
+        'cc2': 'ZM',
+        'neigh': {
+            'bord': [
+                'Angola',
+                'Botswana',
+                'Democratic Republic of the Congo',
+                'Malawi',
+                'Mozambique',
+                'Namibia',
+                'Tanzania',
+                'Zimbabwe',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Zanzibar': {
+        'cc2': None,
+        'dep': 'TZ',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+    'Zimbabwe': {
+        'cc2': 'ZW',
+        'neigh': {
+            'bord': [
+                'Botswana',
+                'Mozambique',
+                'Namibia',
+                'South Africa',
+                'Zambia',
+            ],
+            'less100': [],
+            'less30': [],
+        },
+    },
+    'Åland Islands': {
+        'cc2': 'AX',
+        'dep': 'FI',
+        'neigh': {'bord': [], 'less100': [], 'less30': []},
+    },
+}

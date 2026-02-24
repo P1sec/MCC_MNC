@@ -1,6 +1,6 @@
 # MCC_MNC
 
-Scrap available information on the Internet related to:
+This Python package has the ability to scrap available information on the Internet related to:
 - mobile network operators (such as MCC, MNC, brand, network type, countries of operation...)
 - countries (such as country name, 2 and 3-chars ISO codes, tld, boundaries and neighbours...)
 - international dialplan (such as MSISDN prefix and associated countries, signaling point codes...)
@@ -12,16 +12,34 @@ Using public data from the the following websites:
 - txtNation
 - Ewen Gallic blog
 
-All raw content extracted is available in *raw/* as JSON and Python dictionnaries.
+All raw content extracted is available in `src/mcc_mnc_genlib/raw/` as JSON and Python dictionnaries.
 This project aggregates and generates re-engineered dictionnaries from all those sources.
-All re-engineered content is available in *mcc_mnc_lut/*, as JSON and Python dictionnaries too.
+All re-engineered content is available in `src/mcc_mnc_lut/`, as JSON and Python dictionnaries too.
 
 Finally, it provides additionally command-line tools to request those dictionnaries:
-- `chk_cntr.py`: to get information related to a country
-- `chk_mnc.py`: to get information related to an Mobile Country Code - Mobile Network Code
-- `chk_msisdn.py`: to get information related to a phone prefix
-- `chk_ispc.py`: to get information related to an international Signaling Point Code
-- `conv_pc_383.py`: to convert signaling point code in different formatting
+- `mcc-mnc-chk-cntr`: to get information related to a country
+- `mcc-mnc-chk-mnc`: to get information related to an Mobile Country Code - Mobile Network Code
+- `mcc-mnc-chk-msisdn`: to get information related to a phone prefix
+- `mcc-mnc-chk-ispc`: to get information related to an international Signaling Point Code
+- `mcc-mnc-conv-pc-383`: to convert signaling point code in different formatting
+
+
+# Installing
+
+```console
+sudo snap install astral-uv
+uv tool install mcc-mnc
+```
+
+If you need to set up a local development environment, run:
+
+```
+sudo apt install pdftotext
+git clone https://github.com/P1sec/MCC_MNC.git mcc-mnc
+cd mcc-mnc
+uv sync
+source .venv/bin/activate
+```
 
 
 ## License
@@ -126,12 +144,12 @@ bulletin 1162 from 2018. Moreover, differentials can be provided into individual
 
 The script `parse_itut_bulletins.py` can be used to download all bulletins (starting from 1111
 or whatever numbering after) and convert them to text using the Linux command ```pdftotext```.
-All resulting documents are available in the *itut/* directory.
+All resulting documents are available in the `data/itut/*` directory.
 
 Bulletins 1111 from 2016 and 1162 from 2018 contain a full list of declared MCC-MNC which is extracted.
 Additionally, all MCC-MNC incremental updates from bulletins after the 1162 are also extracted.
 Finally, bulletin 1199 contains a full list of declared international signaling point codes which is extracted too.
-The script put all resulting JSON and Python files into the *raw/* directory for further integration.
+The script put all resulting JSON and Python files into the `src/mcc_mnc_genlib/raw/` directory for further integration.
 
 
 ### Which ones to use:
@@ -179,8 +197,8 @@ The Wikipedia, World Factbook and ITU-T bulletins source datasets can be updated
 following scripts:
 
 ```
-$ ./parse_wikipedia_tables.py --help
-usage: parse_wikipedia_tables.py [-h] [-j] [-p]
+$ mcc-mnc-parse-wikipedia-tables --help
+usage: mcc-mnc-parse-wikipedia-tables [-h] [-j] [-p]
 
 dump Wikipedia ISO-3166 country codes, MCC and MNC tables into JSON or Python
 file
@@ -192,8 +210,8 @@ optional arguments:
 ```
 
 ```
-$ ./parse_worldfactbook_infos.py --help
-usage: parse_worldfactbook_infos.py [-h] [-j] [-p]
+$ mcc-mnc-parse-worldfactbook-infos --help
+usage: mcc-mnc-parse-worldfactbook-infos [-h] [-j] [-p]
 
 dump country-related informations from the CIA World Factbook into JSON or
 Python file
@@ -201,8 +219,8 @@ Python file
 ```
 
 ```
-$ ./parse_itut_bulletins.py --help
-usage: parse_itut_bulletins.py [-h] [-d] [-b B] [-j] [-p]
+$ mcc-mnc-parse-itut-bulletins --help
+usage: mcc-mnc-parse-itut-bulletins [-h] [-d] [-b B] [-j] [-p]
 
 download ITU-T operational bulletins, convert them to text, extract lists of MNC and SPC
 
@@ -222,8 +240,8 @@ The Egallic and txtNation data can be processed with the following script (it wo
 from the Internet, as both CSV files are provided directly in the project and do not change anymore):
 
 ```
-$ ./parse_various_csv.py --help
-usage: parse_various_csv.py [-h] [-j] [-p]
+$ mcc-mnc-parse-various-csv --help
+usage: mcc-mnc-parse-various-csv [-h] [-j] [-p]
 
 dump csv files from the Egallic blog (distance between countries) and the
 txtNation website (list of MCC-MNC)
@@ -239,7 +257,7 @@ In order to load all those imported data with aligned and coherent values
 txtNation and ITU-T datasets, after applying few corrections and fixes on them:
 
 ```
->>> from patch_dataset import *
+>>> from mcc_mnc_genlib.core.patch_dataset import *
 [...]
 >>> WIKIP_ISO3166
 [...]
@@ -257,7 +275,7 @@ those re-engineered data and store them in new files prefixed with "p1":
 - TERR: dict of country or territory, borders and neighbour related information
 
 ```
-$ ./gen_dataset.py
+$ mcc-mnc-gen-dataset
 [...]
 [+] mcc_mnc_lut/p1_mnc.json file generated
 [+] mcc_mnc_lut/p1_mnc.py file generated
@@ -281,7 +299,7 @@ $ ./gen_dataset.py
 
 The following one-liner can be used to update the whole final dataset (without downloading new ITU-T bulletins):
 ```
-$ ./parse_wikipedia_tables.py -j -p && ./parse_worldfactbook_infos.py -j -p && ./parse_various_csv.py -j -p && ./parse_itut_bulletins.py -j -p && ./gen_dataset.py
+$ mcc-mnc-parse-wikipedia-tables -j -p && mcc-mnc-parse-worldfactbook-infos -j -p && mcc-mnc-parse-various-csv -j -p && mcc-mnc-parse-itut-bulletins -j -p && mcc-mnc-gen-dataset
 ```
 
 ### Usage
@@ -294,8 +312,8 @@ Finally, 4 little command-line tools are provided to make direct use of the aggr
 datasets straight from the CLI:
 
 ```
-$ ./chk_mnc.py --help
-usage: chk_mnc.py [-h] [-x] [MCCMNC [MCCMNC ...]]
+$ mcc-mnc-chk-mnc --help
+usage: mcc-mnc-chk-mnc [-h] [-x] [MCCMNC [MCCMNC ...]]
 
 provides information related to mobile operator(s); if no argument is passed,
 lists all known MCC-MNC
@@ -308,8 +326,8 @@ optional arguments:
   -x          provides extended information for MNO(s)
 
 
-$ ./chk_msisdn.py --help
-usage: chk_msisdn.py [-h] [-x] [MSISDN [MSISDN ...]]
+$ mcc-mnc-chk-msisdn --help
+usage: mcc-mnc-chk-msisdn [-h] [-x] [MSISDN [MSISDN ...]]
 
 provides information related to international telephone prefix; if no argument
 is passed, lists all known MSISDN prefixes
@@ -322,8 +340,8 @@ optional arguments:
   -x          provides extended country-related information
 
 
-$ ./chk_cntr.py --help
-usage: chk_cntr.py [-h] [-x] [COUNTRY [COUNTRY ...]]
+$ mcc-mnc-chk-cntr --help
+usage: mcc-mnc-chk-cntr [-h] [-x] [COUNTRY [COUNTRY ...]]
 
 provides information related to a given country or territory; if no argument
 is passed, lists all known countries and territories
@@ -336,8 +354,8 @@ optional arguments:
   -x          provides extended country-related information
 
 
-$ chk_ispc.py --help
-usage: chk_ispc.py [-h] [-x] [ISPC [ISPC ...]]
+$ mcc-mnc-chk-ispc --help
+usage: mcc-mnc-chk-ispc [-h] [-x] [ISPC [ISPC ...]]
 
 provides information related to ISPC (International Signaling Point Code); if no 
 argument is passed, lists all known ISPC
