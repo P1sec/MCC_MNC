@@ -28,21 +28,26 @@
 # */
 
 
-from os.path import dirname, realpath, join
-import sys
 import argparse
-import urllib.request
 import json
 import re
-
+import sys
+import urllib.request
+from os.path import dirname, join, realpath
 from pprint import PrettyPrinter
-from lxml import etree
 
+from lxml import etree
 
 SCRIPT_DIR = dirname(realpath(__file__))
 MODULE_DIR = dirname(realpath(SCRIPT_DIR))
 
 PATH_PRE = join(MODULE_DIR, 'raw', '')
+
+HTTP_USER_AGENT = (
+    'Mozilla/5.0 (X11; Linux x86_64) '
+    'AppleWebKit/537.36 (KHTML, like Gecko) '
+    'Chrome/126.0.0.0 Safari/537.36'
+)
 
 RE_WIKI_REF = re.compile(r'.*(\[.*\]){1,}$')
 
@@ -126,7 +131,8 @@ CRAPPY_NAMES = {
 
 
 def import_html_doc(url):
-    resp = urllib.request.urlopen(url)
+    req = urllib.request.Request(url, headers={'User-Agent': HTTP_USER_AGENT})
+    resp = urllib.request.urlopen(req)
     if resp.code == 200:
         R = etree.parse(resp, etree.HTMLParser()).getroot()
     else:
@@ -337,10 +343,13 @@ def read_entry_mnc_title(e):
     name, url, sub, codes = '', '', None, []
     while e is not None:
         title = None
-        for i in e:
-            if i.tag == 'h2' and '\n' not in ''.join(i.itertext()):
-                title = i
-                break
+        if e.tag in ('h2', 'h3', 'h4', 'h5', 'h6'):
+            title = e
+        else:
+            for i in e.xpath('.//h2|.//h3|.//h4|.//h5|.//h6'):
+                if '\n' not in ''.join(i.itertext()):
+                    title = i
+                    break
         if title is not None:
             break
         else:
@@ -349,26 +358,30 @@ def read_entry_mnc_title(e):
     # country name
     if title is None:
         raise (Exception('unable to find headline title for MNC country name'))
-    elif len(title) == 0:
-        # raw title, without link
-        name = title.text.strip()
-        return name, '', None, []
-    else:
-        name, url = _get_country_url(title[0])
-        if len(title) > 1:
-            # country sub-info, provided in parenthesis
-            if len(e[1]) >= 2:
-                sub = _get_country_url(e[1][1])
-                if sub[0] == None:
-                    sub = None
-            else:
-                sub = None
+    title_txt = re.sub(r'\s+', ' ', ''.join(title.itertext())).strip()
+    if title_txt.endswith('[edit]'):
+        title_txt = title_txt[: -len('[edit]')].strip()
+    if not title_txt:
+        raise (Exception('invalid title format'))
+    # country name + url
+    name, url = _get_country_url(title)
+    if name is None:
+        for i in title.xpath('.//a'):
+            name, url = _get_country_url(i)
+            if name is not None:
+                break
+    if name is None:
+        name = re.split(r'\s*[–-]\s*', title_txt, maxsplit=1)[0].strip()
+        url = ''
     #
     # country alpha code
     # Warning, for EU MNC, separator is ' – ', whereas it is ' - ' for others
-    title_txt = ''.join(title.itertext())
-    title_sep = ' – ' if ' – ' in title_txt else ' - '
-    codes = title_txt.split(title_sep, 1)[1].strip()
+    m = re.search(
+        r'\s*[–-]\s*([A-Za-z]{2}(?:\s*[-/]\s*[A-Za-z]{2})*)\s*$', title_txt
+    )
+    if not m:
+        return name, url, sub, []
+    codes = m.group(1)
     if '/' in codes:
         codes = list(
             map(lambda s: s.strip().upper(), sorted(codes.split('/')))
@@ -429,6 +442,8 @@ def parse_table_mnc(T_MNC):
             rec['codes_alpha_2'],
         ) = country_infos
         #
+        # MNC values longer than 3 digits are typically private mobile networks (PMN).
+        # MNC ranges (e.g., "100 - 190") are reserved blocks, not individual assignments.
         if (
             rec['mcc'].isdigit()
             and len(rec['mcc']) == 3
@@ -460,6 +475,15 @@ def _insert_mnc(D, recs):
         else:
             raise (Exception('invalid MCC %s' % rec['mcc']))
     return mccmnc
+
+
+def _is_mnc_table(table):
+    """Detect MCC/MNC operator tables across Wikipedia layout variants."""
+    header_txt = ''.join(table.itertext()).strip().upper()
+    header_txt = re.sub(r'\s+', ' ', header_txt)
+    if not header_txt:
+        return False
+    return header_txt.startswith('MCC MNC') or header_txt.startswith('MCCMNC')
 
 
 def parse_table_mnc_all():
@@ -494,7 +518,7 @@ def parse_table_mnc_all():
     ):
         T_MNC = import_html_doc(url).xpath('//table')
         for i in range(0, len(T_MNC)):
-            if not ''.join(T_MNC[i].itertext()).strip().startswith('MCC\nMNC'):
+            if not _is_mnc_table(T_MNC[i]):
                 continue
             try:
                 mccmnc.update(_insert_mnc(D, parse_table_mnc(T_MNC[i][0])))
