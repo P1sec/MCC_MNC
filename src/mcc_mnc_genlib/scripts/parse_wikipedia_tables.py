@@ -115,9 +115,7 @@ SOVEREIGNITY_LUT = {
     'british crown': 'GB',  # this is not exactly true, however...
     'china': 'CN',
     'un member': 'UN member',
-    'un member state': 'UN member',
     'un observer': 'UN observer',
-    'un observer state': 'UN observer',
     'antarctic treaty': 'Antarctica',
     'disputed': 'disputed',
 }
@@ -161,21 +159,50 @@ def explore_text(E):
             return t
 
 
+def _normalize_wiki_url(url):
+    if not url:
+        return ''
+    url = url.strip()
+    if url.startswith('https://') or url.startswith('http://'):
+        return url
+    if url.startswith('/wiki/'):
+        return URL_PREF + url
+    if url.startswith('./'):
+        return URL_PREF + '/' + url[2:]
+    if url.startswith('/'):
+        return URL_PREF + url
+    return URL_PREF + '/' + url
+
+
+def _get_first_href(e):
+    if e is None:
+        return ''
+    if hasattr(e, 'attrib') and 'href' in e.attrib:
+        return _normalize_wiki_url(e.attrib['href'])
+    for a in e.xpath('.//a[@href]'):
+        return _normalize_wiki_url(a.attrib['href'])
+    return ''
+
+
 def _get_country_url(e):
-    e = explore_text(e)
-    if e is not None:
-        values = e.values()
-        if len(values) == 2 and values[0][:6] == '/wiki/':
-            url, name = values
-            if name in CRAPPY_NAMES:
-                name = e.text.strip()
-            return name, URL_PREF + url.strip()
-        elif len(values) == 3 and values[0][:6] == '/wiki/':
-            url, _, name = values
-            if name in CRAPPY_NAMES:
-                name = e.text.strip()
-            return name, URL_PREF + url.strip()
-        # print(e.text)
+    if e is None:
+        return None, None
+    a = e if e.tag == 'a' and 'href' in e.attrib else None
+    if a is None:
+        for cand in e.xpath('.//a[@href]'):
+            a = cand
+            break
+    if a is not None:
+        url = _normalize_wiki_url(a.attrib.get('href', ''))
+        name = a.attrib.get('title', '').strip()
+        if not name:
+            name = ''.join(a.itertext()).strip()
+        if name in CRAPPY_NAMES and a.text:
+            name = a.text.strip()
+        return name or None, url or None
+    txt = ''.join(e.itertext()).strip()
+    if txt:
+        return txt, ''
     return None, None
 
 
@@ -184,17 +211,18 @@ def read_entry_iso3166(T, off):
     rec = dict(REC_ISO3166)
     #
     rec['country_name'], rec['country_url'] = _get_country_url(L[0])
-    rec['state_name'] = explore_text(L[1]).text.strip()
+    # Current layout: [country, sovereignty, alpha2, alpha3, num, regions, ccTLD]
+    rec['state_name'] = ''
     rec['sovereignity'] = SOVEREIGNITY_LUT[
-        explore_text(L[2]).text.strip().lower()
+        explore_text(L[1]).text.strip().lower()
     ]
-    rec['code_alpha_2'] = explore_text(L[3]).text.strip().upper()
-    rec['code_alpha_3'] = explore_text(L[4]).text.strip().upper()
-    rec['code_num'] = explore_text(L[5]).text.strip()
+    rec['code_alpha_2'] = explore_text(L[2]).text.strip().upper()
+    rec['code_alpha_3'] = explore_text(L[3]).text.strip().upper()
+    rec['code_num'] = explore_text(L[4]).text.strip()
     # rec['regions']      =
-    rec['regions_url'] = URL_PREF + L[6][0].values()[0]
-    rec['cc_tld'] = explore_text(L[7]).text.strip().lower()
-    rec['cc_tld_url'] = URL_PREF + explore_text(L[7]).values()[0]
+    rec['regions_url'] = _get_first_href(L[5])
+    rec['cc_tld'] = explore_text(L[6]).text.strip().lower()
+    rec['cc_tld_url'] = _get_first_href(L[6])
     if rec['cc_tld'] and rec['cc_tld'][0] != '.':
         rec['cc_tld'] = ''
         rec['cc_tld_url'] = ''
@@ -279,11 +307,19 @@ def read_entry_mcc(T, off):
         rec['code_alpha_2'] = explore_text(L[2]).text.strip()
         rec['country_name'], rec['country_url'] = _get_country_url(L[1])
         if rec['country_name'] is None:
-            # hidden HTML element with 1st letter of the country only, go to next
-            rec['country_name'], rec['country_url'] = _get_country_url(L[1][1])
-        mcc_url = explore_text(L[3]).values()
-        if mcc_url:
-            rec['mcc_url'] = URL_PREF + mcc_url[0]
+            # Wikipedia layouts vary: find the first nested node with a country link.
+            for e in L[1].iter():
+                if e is L[1]:
+                    continue
+                rec['country_name'], rec['country_url'] = _get_country_url(e)
+                if rec['country_name'] is not None:
+                    break
+        if rec['country_name'] is None:
+            rec['country_name'] = re.sub(
+                r'\s+', ' ', ''.join(L[1].itertext())
+            ).strip()
+            rec['country_url'] = ''
+        rec['mcc_url'] = _get_first_href(L[3])
         if len(L) > 4:
             rec['authority'] = _strip_wiki_ref(''.join(L[4].itertext()))
         if len(L) > 5:
