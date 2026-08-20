@@ -28,12 +28,12 @@
 # */
 
 
-from os.path import dirname, realpath, join
-import sys
-import os
 import argparse
-import urllib.request
 import csv
+import os
+import sys
+import urllib.request
+from os.path import dirname, join, realpath
 
 from mcc_mnc_genlib.scripts.parse_wikipedia_tables import (
     generate_json,
@@ -107,71 +107,15 @@ def get_egal_min_dist():
 
 
 # ------------------------------------------------------------------------------#
-# get txtnation csv list of MCC-MNC
-# ------------------------------------------------------------------------------#
-
-# download the csv file corresponding to the list of MCC MNC provided by txtNation
-# as explained here:
-# https://clients.txtnation.com/hc/en-us/articles/218719768-MCCMNC-mobile-country-code-and-mobile-network-code-list
-URL_TXTN_MNC = 'https://clients.txtnation.com/hc/en-us/article_attachments/206752938/MCCMNCs_v2.csv'
-
-
-def get_txtn_mnc():
-    #
-    if not os.path.exists(PATH_PRE + 'csv_txtn_mnc.csv'):
-        resp = urllib.request.urlopen(URL_TXTN_MNC)
-        if resp.code != 200:
-            raise (
-                Exception(
-                    'resource %s not available, HTTP code %i'
-                    % (url, resp.code)
-                )
-            )
-        with open(PATH_PRE + 'csv_txtn_mnc.csv', 'w') as fd:
-            # as the data provided through the URL is not updated
-            # we better keep a local copy of it
-            fd.write(resp.read().decode('latin_1'))
-            print('> downloaded and stored  to csv_txtn_mnc.csv')
-    #
-    with open(PATH_PRE + 'csv_txtn_mnc.csv', encoding='utf-8') as fd:
-        csv_lines = fd.readlines()
-        if 'MCCMNC' in csv_lines[0]:
-            # remove header
-            del csv_lines[0]
-        while not csv_lines[-1].strip():
-            # remove blank lines
-            del csv_lines[-1]
-        #
-        # make it a dictionnary
-        D = {}
-        for mccmnc, _, mcc, _, mnc, _, country, mno in csv.reader(
-            csv_lines, delimiter=','
-        ):
-            if mccmnc in D:
-                print('> duplicate entry in txtNation for %s' % mccmnc)
-                if isinstance(D[mccmnc], list):
-                    D[mccmnc].append((country, mno))
-                else:
-                    D[mccmnc] = [D[mccmnc], (country, mno)]
-            else:
-                assert mccmnc.startswith(mcc) and mnc in mccmnc[3:]
-                D[mccmnc] = (country, mno)
-        #
-        print('[+] parsed txtNation csv file with list of MCC-MNC')
-        return D
-
-
-# ------------------------------------------------------------------------------#
 # Main
 # ------------------------------------------------------------------------------#
 
 URL_LICENSE_EGAL = 'http://egallic.fr/en/closest-distance-between-countries/'
-URL_LICENSE_TXTN = 'https://clients.txtnation.com/hc/en-us/articles/218719768-MCCMNC-mobile-country-code-and-mobile-network-code-list'
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description='dump csv files from the Egallic blog (distance between countries) and the txtNation website (list of MCC-MNC)'
+        description='dump csv file from the Egallic blog (distance between countries)'
     )
     parser.add_argument(
         '-j',
@@ -186,7 +130,6 @@ def main():
     args = parser.parse_args()
     try:
         DE = get_egal_min_dist()
-        DT = get_txtn_mnc()
     except Exception as err:
         print('> error occured: %s' % err)
         return 1
@@ -198,24 +141,12 @@ def main():
             [URL_MIN_DIST],
             URL_LICENSE_EGAL,
         )
-        generate_json(
-            DT,
-            PATH_PRE + 'csv_txtn_mccmnc.json',
-            [URL_TXTN_MNC],
-            URL_LICENSE_TXTN,
-        )
     if args.p:
         generate_python(
             DE,
             PATH_PRE + 'csv_egal_min_dist.py',
             [URL_MIN_DIST],
             URL_LICENSE_EGAL,
-        )
-        generate_python(
-            DT,
-            PATH_PRE + 'csv_txtn_mccmnc.py',
-            [URL_TXTN_MNC],
-            URL_LICENSE_TXTN,
         )
     return 0
 

@@ -41,8 +41,6 @@ __all__ = [
     'WORLD_FB',
     # Egallic minimum distance
     'CSV_EGAL_MIN_DIST',
-    # txtNation list of MCCMNC
-    'CSV_TXTN_MCCMNC',
     # ITU-T MNC lists
     'ITUT_MNC_1111',
     'ITUT_MNC_1162',
@@ -93,7 +91,6 @@ except ImportError:
 
 try:
     from mcc_mnc_genlib.raw.csv_egal_min_dist import CSV_EGAL_MIN_DIST
-    from mcc_mnc_genlib.raw.csv_txtn_mccmnc import CSV_TXTN_MCCMNC
 except ImportError:
     raise (Exception('error: please run first mcc-mnc-parse_various_csv'))
 
@@ -109,7 +106,7 @@ except ImportError:
 
 __doc__ = """
 This module is used as an "enhanced" loader for all Python dictionnaries generated
-from raw data sources (ITU-T bulletins, Wikipedia, World Factbook, txtNation, Egallic blog).
+from raw data sources (ITU-T bulletins, Wikipedia, World Factbook, Egallic blog).
 
 It applies patches to some of the dictionnaries to solve specific conflicts and
 political / geographical situations, align data values and ease further integration
@@ -1131,60 +1128,6 @@ def patch_wfb():
 
 
 patch_wfb()
-
-
-# ------------------------------------------------------------------------------#
-# patch txtNation dataset
-# ------------------------------------------------------------------------------#
-
-
-def _patch_country_name(name):
-    #
-    if name in COUNTRY_RENAME:
-        newname = COUNTRY_RENAME[name]
-        print('> country name changed from %s to %s' % (name, newname))
-        return newname
-    #
-    nameset = country_name_canon(name)
-    for cinf in WIKIP_ISO3166.values():
-        for namesub in nameset:
-            if country_match_set(namesub, cinf['nameset']):
-                newname = cinf['country_name']
-                print('> country name changed from %s to %s' % (name, newname))
-                return newname
-    #
-    print('>>> country name %s not found' % name)
-    return ''
-
-
-def patch_txtn_mnc():
-    print('[+] patch txtNation list of MCC-MNC: CSV_TXTN_MCCMNC')
-    #
-    isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
-    #
-    for mccmnc, inf in sorted(CSV_TXTN_MCCMNC.items()):
-        if not mccmnc.isdigit():
-            print('> deleting entry for %s' % mccmnc)
-            del CSV_TXTN_MCCMNC[mccmnc]
-            continue
-        #
-        if isinstance(inf, list):
-            infs = inf
-            for inf in infs:
-                if inf[0] not in isonameset:
-                    newname = _patch_country_name(inf[0])
-                    if newname:
-                        i = infs.index(inf)
-                        del infs[i]
-                        infs.insert(i, (newname, inf[1]))
-        else:
-            if inf[0] not in isonameset:
-                newname = _patch_country_name(inf[0])
-                if newname:
-                    CSV_TXTN_MCCMNC[mccmnc] = (newname, inf[1])
-
-
-patch_txtn_mnc()
 
 
 # ------------------------------------------------------------------------------#
