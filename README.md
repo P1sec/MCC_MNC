@@ -11,7 +11,6 @@ Using public data from the the following websites:
 - Wikipedia
 - ITU-T
 - The CIA World Factbook (frozen — no longer refreshable)
-- txtNation
 - Ewen Gallic blog
 
 The CIA World Factbook has been sunset (https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/).
@@ -58,7 +57,7 @@ source .venv/bin/activate
 
 The code from this repository that is used to generate the dataset, and the command-line tools, is licensed under the terms of the AGPLv3.
 The data downloaded from Wikipedia is licensed under the terms of the Creative Commons Attribution-ShareAlike license.
-The 4 other websites used as source do not indicate any specific licensing for the data provided however, we provide an explicit indication 
+The 3 other websites used as source do not indicate any specific licensing for the data provided however, we provide an explicit indication
 of the data sources used in each JSON and Python dictionnary.
 
 
@@ -87,8 +86,6 @@ Several sources are available on the Internet to learn on the countries' geoprap
   - List of MNC: international networks listed in the MCC page, and 6 pages linked from there, one per world region
 - Other websites:
   - https://www.mcc-mnc.com/ (contains several errors, e.g. related to country codes)
-  - https://clients.txtnation.com/hc/en-us/articles/218719768-MCCMNC-mobile-country-code-and-mobile-network-code-list (csv file)
-  - https://clients.txtnation.com/hc/en-us/articles/218719468-Operator-Details-Operator-Network-CC-MCC-MNC (xls file)
   - https://cellidfinder.com/mcc-mnc
   - https://docs.routee.net/docs/list-of-mccmnc-codes
 
@@ -168,8 +165,7 @@ The script put all resulting JSON and Python files into the `src/mcc_mnc_genlib/
 
 After checking several sources, it seems Wikipedia has the most complete, up-to-date and accurate information.
 Therefore, the tool primarily uses it to build the JSON / Python dictionnaries.
-Information related to MCC-MNC is completed with the csv listing from the txtNation website
-and the ITU-T operational bulletins 1162 and all following incremental updates.
+Information related to MCC-MNC is completed with the ITU-T operational bulletins 1162 and all following incremental updates.
 The list of Signaling Point Codes is extracted from ITU-T bulletin 1199.
 Geographical information are taken from the CIA World Factbook (frozen source) to gather information related to each country,
 including borders and telephony-related.
@@ -239,15 +235,14 @@ The script extracting information from Wikipedia tables may fail sometimes, as t
 Wikipedia can be modified or adjusted. Nothing magic here, it's then require to patch the `parse_wikipedia_tables.py`
 script to make it work again against the new Wikipedia layout.
 
-The Egallic and txtNation data can be processed with the following script (it won't download anything 
-from the Internet, as both CSV files are provided directly in the project and do not change anymore):
+The Egallic data can be processed with the following script (it won't download anything
+from the Internet, as the CSV file is provided directly in the project and does not change anymore):
 
 ```console
 $ mcc-mnc-parse-various-csv --help
 usage: mcc-mnc-parse-various-csv [-h] [-j] [-p]
 
-dump csv files from the Egallic blog (distance between countries) and the
-txtNation website (list of MCC-MNC)
+dump csv file from the Egallic blog (distance between countries)
 [...]
 ```
 
@@ -256,8 +251,8 @@ txtNation website (list of MCC-MNC)
 
 In order to load all those imported data with aligned and coherent values 
 (e.g. country names, ISO codes and other information and numbering), the module
-*patch_dataset* can be used. It exports the Wikipedia, World Factbook, Egallic, 
-txtNation and ITU-T datasets, after applying few corrections and fixes on them:
+*patch_dataset* can be used. It exports the Wikipedia, World Factbook, Egallic
+and ITU-T datasets, after applying few corrections and fixes on them:
 
 ```python
 >>> from mcc_mnc_genlib.core.patch_dataset import *
