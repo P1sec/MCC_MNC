@@ -51,7 +51,6 @@ mcc-mnc-gen-dataset = "mcc_mnc_genlib.scripts.gen_dataset:main"
 mcc-mnc-parse-itut-bulletins = "mcc_mnc_genlib.scripts.parse_itut_bulletins:main"
 mcc-mnc-parse-various-csv = "mcc_mnc_genlib.scripts.parse_various_csv:main"
 mcc-mnc-parse-wikipedia-tables = "mcc_mnc_genlib.scripts.parse_wikipedia_tables:main"
-mcc-mnc-parse-worldfactbook-infos = "mcc_mnc_genlib.scripts.parse_worldfactbook_infos:main"
 
 [tool.ruff]
 line-length = 79

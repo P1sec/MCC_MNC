@@ -10,9 +10,19 @@ This Python package has the ability to scrap available information on the Intern
 Using public data from the the following websites:
 - Wikipedia
 - ITU-T
-- The CIA World Factbook
+- The CIA World Factbook (frozen — no longer refreshable)
 - txtNation
 - Ewen Gallic blog
+
+The CIA World Factbook has been sunset (https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/).
+This project keeps the last bundled World Factbook extract in `src/mcc_mnc_genlib/raw/world_fb.*`,
+but no longer supports refreshing it from the network.
+The frozen WFB data is still used by `gen_dataset.py` to enrich the country dictionaries
+(`p1_cc2` and `p1_cntr`) with the following fields:
+- `geo`: airports, ports, capital, coordinates, coastline, boundaries, region, WFB URL
+- `tel`: mobile/fixed/broadband subscriber counts, internet users, telecom notes
+- `codes`: GENC and STAN country codes (US government / NATO variants of ISO 3166)
+- `infos.nameset`: additional country name variants
 
 All raw content extracted is available in `src/mcc_mnc_genlib/raw/` as JSON and Python dictionnaries.
 This project aggregates and generates re-engineered dictionnaries from all those sources.
@@ -158,10 +168,10 @@ The script put all resulting JSON and Python files into the `src/mcc_mnc_genlib/
 
 After checking several sources, it seems Wikipedia has the most complete, up-to-date and accurate information.
 Therefore, the tool primarily uses it to build the JSON / Python dictionnaries.
-Information related to MCC-MNC is completed with the csv listing from the txtNation website 
+Information related to MCC-MNC is completed with the csv listing from the txtNation website
 and the ITU-T operational bulletins 1162 and all following incremental updates.
 The list of Signaling Point Codes is extracted from ITU-T bulletin 1199.
-Geographical information are taken from the CIA World Factbook to gather information related to each country,
+Geographical information are taken from the CIA World Factbook (frozen source) to gather information related to each country,
 including borders and telephony-related.
 This is completed with the data provided on the _egallic_ blogpost for getting countries' proximity in addition to neighbours one.
 
@@ -195,7 +205,7 @@ Generally, installation is not required and every scripts can be run as-is.
 
 ### Source dataset update
 
-The Wikipedia, World Factbook and ITU-T bulletins source datasets can be updated with the
+The Wikipedia and ITU-T bulletins source datasets can be updated with the
 following scripts:
 
 ```console
@@ -209,15 +219,6 @@ optional arguments:
   -h, --help  show this help message and exit
   -j          produce JSON files (with suffix .json)
   -p          produce Python files (with suffix .py)
-```
-
-```console
-$ mcc-mnc-parse-worldfactbook-infos --help
-usage: mcc-mnc-parse-worldfactbook-infos [-h] [-j] [-p]
-
-dump country-related informations from the CIA World Factbook into JSON or
-Python file
-[...]
 ```
 
 ```console
@@ -301,7 +302,7 @@ $ mcc-mnc-gen-dataset
 
 The following one-liner can be used to update the whole final dataset (without downloading new ITU-T bulletins):
 ```console
-$ mcc-mnc-parse-wikipedia-tables -j -p && mcc-mnc-parse-worldfactbook-infos -j -p && mcc-mnc-parse-various-csv -j -p && mcc-mnc-parse-itut-bulletins -j -p && mcc-mnc-gen-dataset
+$ mcc-mnc-parse-wikipedia-tables -j -p && mcc-mnc-parse-various-csv -j -p && mcc-mnc-parse-itut-bulletins -j -p && mcc-mnc-gen-dataset
 ```
 
 ### Usage

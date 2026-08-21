@@ -63,29 +63,20 @@ __all__ = [
 ]
 
 
-import os
 import re
-import csv
 
 from mcc_mnc_genlib.core.patch_country_dep import COUNTRY_SPEC
-
 from mcc_mnc_genlib.scripts.parse_wikipedia_tables import (
     REC_ISO3166,
-    REC_MCC,
-    REC_MNC,
-    REC_BORDERS,
-)
-from mcc_mnc_genlib.scripts.parse_worldfactbook_infos import (
-    REC_COUNTRY,
 )
 
 try:
     from mcc_mnc_genlib.raw.wikip_borders import WIKIP_BORDERS
+    from mcc_mnc_genlib.raw.wikip_country import WIKIP_COUNTRY
     from mcc_mnc_genlib.raw.wikip_iso3166 import WIKIP_ISO3166
     from mcc_mnc_genlib.raw.wikip_mcc import WIKIP_MCC
     from mcc_mnc_genlib.raw.wikip_mnc import WIKIP_MNC
     from mcc_mnc_genlib.raw.wikip_msisdn import WIKIP_MSISDN
-    from mcc_mnc_genlib.raw.wikip_country import WIKIP_COUNTRY
     from mcc_mnc_genlib.raw.wikip_territory import WIKIP_TERRITORY
 except ImportError:
     raise (Exception('error: please run first mcc-mnc-parse-wikipedia-tables'))
@@ -94,7 +85,10 @@ try:
     from mcc_mnc_genlib.raw.world_fb import WORLD_FB
 except ImportError:
     raise (
-        Exception('error: please run first mcc-mnc-parse-worldfactbook-infos')
+        Exception(
+            'error: missing bundled world_fb raw dataset '
+            '(mcc_mnc_genlib/raw/world_fb.py)'
+        )
     )
 
 try:
@@ -107,8 +101,8 @@ try:
     from mcc_mnc_genlib.raw.itut_mnc_1111 import ITUT_MNC_1111
     from mcc_mnc_genlib.raw.itut_mnc_1162 import ITUT_MNC_1162
     from mcc_mnc_genlib.raw.itut_mnc_incr import ITUT_MNC_INCR
-    from mcc_mnc_genlib.raw.itut_spc_1199 import ITUT_SPC_1199
     from mcc_mnc_genlib.raw.itut_sanc_1125 import ITUT_SANC_1125
+    from mcc_mnc_genlib.raw.itut_spc_1199 import ITUT_SPC_1199
 except ImportError:
     raise (Exception('error: please run first mcc-mnc-parse-itut-bulletins'))
 
@@ -1013,8 +1007,8 @@ def patch_egal_min_dist():
         for dst in dst_dist:
             if dst not in CSV_EGAL_MIN_DIST:
                 print('>>> dst country %s in %s, not in src' % (dst, src))
-        if not src in isonameset:
-            if not src in SUBTERR_TO_COUNTRY:
+        if src not in isonameset:
+            if src not in SUBTERR_TO_COUNTRY:
                 print('>>> country %s, not matching any territory name' % src)
             else:
                 print('> country %s, matching only a sub-territory name' % src)
