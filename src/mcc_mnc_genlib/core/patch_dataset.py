@@ -1130,6 +1130,25 @@ def patch_wfb():
 patch_wfb()
 
 
+def _patch_country_name(name):
+    #
+    if name in COUNTRY_RENAME:
+        newname = COUNTRY_RENAME[name]
+        print('> country name changed from %s to %s' % (name, newname))
+        return newname
+    #
+    nameset = country_name_canon(name)
+    for cinf in WIKIP_ISO3166.values():
+        for namesub in nameset:
+            if country_match_set(namesub, cinf['nameset']):
+                newname = cinf['country_name']
+                print('> country name changed from %s to %s' % (name, newname))
+                return newname
+    #
+    print('>>> country name %s not found' % name)
+    return ''
+
+
 # ------------------------------------------------------------------------------#
 # patch ITU-T dataset
 # ------------------------------------------------------------------------------#
