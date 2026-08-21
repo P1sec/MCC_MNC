@@ -14,7 +14,7 @@ Using public data from the the following websites:
 - txtNation
 - Ewen Gallic blog
 
-The CIA World Factbook has now sunset (https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/).
+The CIA World Factbook has been sunset (https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/).
 This project keeps the last bundled World Factbook extract in `src/mcc_mnc_genlib/raw/world_fb.*`,
 but no longer supports refreshing it from the network.
 
