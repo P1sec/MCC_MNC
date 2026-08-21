@@ -1,0 +1,956 @@
+                            ITU Operational Bulletin
+                                                            www.itu.int/itu-t/bulletin
+
+            No. 1333             1.II.2026                   (Information received by 16 January 2026) ISSN 1564-5223 (Online)
+     Place des Nations CH-1211                               Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+     Genève 20 (Switzerland)                                 Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+     Tel:      +41 22 730 5111                               Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+     E-mail: itumail@itu.int                                 E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB ...................................................................                                   3
+Approval and deletion of ITU-T Recommendations ...................................................................................                                 4
+International Identification Plan for Public Networks and Subscriptions: Note from TSB ............................                                                5
+Telephone Service:
+     Cayman Islands (Utility Regulation and Competition Office (OfReg), Grand Cayman)............................                                                  6
+     Denmark (Agency for Digital Government, Copenhagen) .....................................................................                                     9
+     Guyana (Telecommunications Agency, Georgetown) ...........................................................................                                   12
+Testing Laboratories recognized by ITU ....................................................................................................                       16
+Other communication:
+     Serbia .................................................................................................................................................     16
+Service Restrictions ..................................................................................................................................           17
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)..............................................................                                   17
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers ...............................................................................................................                 18
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ................................................................................................................................              19
+List of ITU Carrier Codes ...........................................................................................................................             20
+List of International Signalling Point Codes (ISPC)......................................................................................                         21
+National Numbering Plan .........................................................................................................................                 22
+
+
+
+
+                                                                                                                                     www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1334             15.II.2026             30.I.2026
+               1335              1.III.2026            13.II.2026
+               1336             15.III.2026            27.II.2026
+               1337              1.IV.2026             13.III.2026
+               1338             15.IV.2026             27.III.2026
+               1339              1.V.2026              15.IV.2026
+               1340             15.V.2026              30.IV.2026
+               1341              1.VI.2026             15.V.2026
+               1342             15.VI.2026             29.V.2026
+               1343             1.VII.2026             15.VI.2026
+               1344             15.VII.2026            30.VI.2026
+               1345             1.VIII.2026           15.VII.2026
+               1346            15.VIII.2026           31.VII.2026
+               1347              1.IX.2026            14.VIII.2026
+               1348             15.IX.2026            31.VIII.2026
+               1349              1.X.2026              15.IX.2026
+               1350             15.X.2026              30.IX.2026
+               1351              1.XI.2026             15.X.2026
+               1352             15.XI.2026             31.X.2026
+               1353             1.XII.2026             13.XI.2026
+               1354             15.XII.2026            30.XI.2026
+               1355              1.I.2027              11.XII.2026
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1317 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 June 2025)
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                      Approval and deletion of ITU-T Recommendations
+Approved Recommendations:
+By AAP-28, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T F.780.6 (12/2025): Requirements for colorimetry for telemedicine systems using ultra-high definition
+      imaging
+–     ITU-T G.781 (01/2026): Synchronization layer functions for frequency synchronization based on the physical layer
+–     ITU-T G.8275 (01/2026): Common aspects of PTP profiles for phase/time synchronization
+–     ITU-T H.265 (V11) (01/2026): High efficiency video coding
+–     ITU-T H.266 (V4) (01/2026): Versatile video coding
+–     ITU-T H.266.1 (V3) (01/2026): Conformance specification for ITU-T H.266 versatile video coding
+–     ITU-T H.274 (V4) (01/2026): Versatile supplemental enhancement information messages for coded video
+      bitstreams
+–     ITU-T Q.3065 (01/2026): Signalling requirements and data models for service function chaining orchestration
+      based on SRv6
+–     ITU-T Q.3066 (01/2026): Principles for detection and mitigation of signalling attacks in telecommunication
+      networks
+–     ITU-T Q.3724 (01/2026): Signalling requirements for intelligent control of the cloud-network-converged network
+      gateway
+–     ITU-T Q.3744 (01/2026): Signalling requirements for subscriber SLA-based virtual Broadband Network Gateway
+–     ITU-T Q.3918 (01/2026): Requirements and Reference Model of minimum monitoring parameter set generation
+      of multi-modality communication services in Digital Twin Network
+–     ITU-T Q.3919 (01/2026): Requirements and reference model of resource integration and protocol independent
+      methods for source routing measurements
+–     ITU-T Q.3921 (01/2026): Test framework for software-defined networking multi-controller inter-networking
+      using communication segment
+–     ITU-T Q.4080 (01/2026): Framework for testing and monitoring internet of things devices and networks using
+      technical requirements from manufacturer usage description
+–     ITU-T Q.4081 (01/2026): Methods and metrics for monitoring Machine Learning/Artificial Intelligence in future
+      networks including IMT-2020
+–     ITU-T Q.4082 (01/2026): Testing requirements for deep packet inspection device
+–     ITU-T Q.4106 (01/2026): Hybrid peer-to-peer (P2P) communications: Service framework
+–     ITU-T Q.4165 (01/2026): Quantum key distribution network interworking - Protocol framework
+–     ITU-T Q.5014 (01/2026): Signalling and Protocol for distributed core network in future network
+–     ITU-T Q.5016 (01/2026): Signalling architecture of fixed, mobile and satellite convergence for IMT-2020 networks
+      and beyond
+–     ITU-T Q.5034 (01/2026): Protocol for supporting integrated resource scheduling and orchestration for future
+      network including IMT-2020 networks
+–     ITU-T Q.5035 (01/2026): Protocol Framework for IMT-2020 network interconnection with IMS
+–     ITU-T Q.5037 (01/2026): Data management interfaces in educational robot system with intelligent edge
+      computing
+–     ITU-T T.840.2 (01/2026): Information technology – JPEG AI learning-based image coding system: Profiling
+–     ITU-T T.840.3 (01/2026): Information technology – JPEG AI learning-based image coding system: Reference
+      software
+–     ITU-T T.840.5 (01/2026): Information technology – JPEG AI learning-based image coding system: File format
+
+
+
+
+By TSB Circular CIR-95 of 01 December 2025, it was announced that the following ITU-T Recommendations were
+approved in accordance with the procedures outlined in Resolution 1:
+–        ITU-T Q.5056 (11/2025): Framework for combating online multimedia content misappropriation
+By TSB Circular CIR-97 of 18 December 2025, it was announced that the following ITU-T Recommendations were
+approved in accordance with the procedures outlined in Resolution 1:
+–        ITU-T X.1062 (12/2025): Framework for human capability development in information security
+–        ITU-T X.1128 (12/2025): Security features to assess mobile terminal security
+–        ITU-T X.1129 (12/2025): Security guidelines for mobile terminal integrity protection
+–        ITU-T X.1130 (12/2025): Technical guidelines for detecting malicious activities of mobile applications
+–        ITU-T X.1238 (12/2025): Guidelines for countering spam over rich communication service (RCS) messaging
+–        ITU-T X.1250 (12/2025): Baseline capabilities for enhanced identity management and interoperability
+–        ITU-T X.1457 (12/2025): Security threats and requirements for information recommendation service
+–        ITU-T X.1631 (12/2025): Information security, cybersecurity and privacy protection – Information security
+         controls based on ISO/IEC 27002 for cloud services
+–        ITU-T X.1649 (12/2025): Security guidelines for multi-cloud
+–        ITU-T X.1753 (12/2025): Guidelines for data security using machine learning in big data infrastructure
+Deleted Recommendations:
+None.
+
+
+
+           International Identification Plan for Public Networks and Subscriptions
+                               (Recommendation ITU-T E.212)
+
+Note from TSB
+                                   Identification codes for International Mobile Networks
+
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been
+assigned.
+
+                                                          Mobile Country Code (MCC) and                Date of
+                         Network
+                                                           Mobile Network Code (MNC)                 assignment
+
+      Société française du radiotéléphone (SFR)                        901 47                        22.XII.2025
+
+
+
+
+                                            Telephone Service
+                                       (Recommendation ITU-T E.164)
+                                                url: www.itu.int/itu-t/nnp
+Cayman Islands (country code +1 345)
+Communication of 23.XII.2025:
+
+The Utility Regulation and Competition Office (OfReg), Grand Cayman, announces the following numbering plan for the
+Cayman Islands:
+
+
+                 Presentation of E.164 National Numbering Plan for country code +1 345, Cayman Islands:
+
+a)       Overview:
+         The minimum number length (excluding the country code) is 7 digits
+         The maximum number length (excluding the country code) is 7 digits
+
+b)       Detail of numbering scheme:
+
+          NDC (national          N(S)N number length
+       destination code) or
+     leading digits of N(S)N    Maximum      Minimum          Usage of E.164 number         Additional information
+      (national (significant)    length       length
+             number)
+               222                 7             7        Non-geographic number –         Assigned to Cable &
+                                                          Fixed line                      Wireless (CI) Ltd T/A Flow
+               232                 7             7        Non-geographic – Fixed line     Assigned to Infinity
+                                                                                          Broadband T/A C3
+               233                 7             7        Non-geographic – Fixed line     Assigned to Infinity
+                                                                                          Broadband T/A C3
+               244                 7             7        Non-geographic – Fixed line     Assigned to Cable &
+                                                                                          Wireless (CI) Ltd T/A Flow.
+                                                                                          Used for Government PBX.
+               266                 7             7        Non-geographic – Fixed line     Assigned to Cable &
+                                                                                          Wireless (CI) Ltd
+                                                                                          T/A Flow.
+            321-329                7             7        Non-geographic – mobile         Assigned to Digicel
+                                                          services                        Cayman Ltd.
+               333                 7             7        Non-geographic – Fixed line     Assigned to Infinity
+                                                                                          Broadband T/A C3
+            412-416                7             7        Non-geographic – mobile         Assigned to Paradise
+                                                          services                        Mobile Ltd, effective
+                                                                                          9th March 2026
+            420-424                7             7        Non-geographic – mobile         Assigned to Digicel
+                                                          services                        Cayman Ltd.
+               444                 7             7        Non-geographic number –         Assigned to Cable &
+                                                          Fixed line                      Wireless (CI) Ltd T/A Flow
+               516                 7             7        Non-geographic – mobile         Assigned to Digicel
+                                                          services                        Cayman Ltd.
+               517                 7             7        Non-geographic – mobile         Assigned to Digicel
+                                                          services                        Cayman Ltd.
+            525-527                7             7        Non-geographic – mobile         Assigned to Digicel
+                                                          services                        Cayman Ltd.
+
+      NDC (national          N(S)N number length
+   destination code) or
+ leading digits of N(S)N    Maximum     Minimum       Usage of E.164 number        Additional information
+  (national (significant)    length      length
+         number)
+        546-550                7            7      Non-geographic – mobile       Assigned to Digicel
+                                                   services                      Cayman Ltd.
+           623                 7            7      Non-geographic – fixed line   Assigned to Digicel
+                                                                                 Cayman Ltd.
+           638                 7            7      Non-geographic – fixed line   Assigned to Cable &
+                                                                                 Wireless (CI) Ltd
+                                                                                 T/A Flow,
+                                                                                 *7873 &*4638 used for
+                                                                                 Internet service.
+           640                 7            7      Non-geographic – fixed line   Assigned to Digicel
+                                                                                 Cayman Ltd.
+           649                 7            7      Non-geographic – fixed line   Assigned to Digicel
+                                                                                 Cayman Ltd.
+           730                 7            7      Non-geographic – fixed line   Assigned to Cable &
+                                                                                 Wireless (CI) Ltd T/A Flow
+                                                                                 for internal use only.
+           743                 7            7      Non-geographic – fixed line   Assigned to WestTel Ltd
+                                                                                 T/A Logic
+           745                 7            7      Non-geographic – fixed line   Assigned to WestTel Ltd
+                                                                                 T/A Logic
+           746                 7            7      Non-geographic – fixed line   Assigned to WestTel Ltd
+                                                                                 T/A Logic
+           747                 7            7      Non-geographic number –       Assigned to Cable &
+                                                   Fixed line                    Wireless (CI) Ltd T/A Flow
+           749                 7            7      Non-geographic – fixed line   Assigned to WestTel Ltd
+                                                                                 T/A Logic
+           766                 7            7      Non-geographic – fixed line   Assigned to WestTel Ltd
+                                                                                 T/A Logic
+           767                                     Reserved                      Reserved for use with LNP
+        768-769                7            7      Non-geographic – fixed line   Assigned to WestTel Ltd
+                                                                                 T/A Logic
+           777                 7            7      Non-geographic number –       Assigned to Cable &
+                                                   Fixed line                    Wireless (CI) Ltd T/A Flow
+           800                 7            7      Non-geographic number –       Assigned to Cable &
+                                                   Fixed line                    Wireless (CI) Ltd T/A Flow,
+                                                                                 national use only.
+        814-815                7            7      Non-geographic number –       Assigned to Cable &
+                                                   Fixed line                    Wireless (CI) Ltd T/A Flow,
+                                                                                 DID service
+        825-826                7            7      Non-geographic – mobile       Assigned to WestTel Ltd
+                                                   services                      T/A Logic
+        848-849                7            7      Non-geographic number –       Assigned to Cable &
+                                                   Fixed line                    Wireless (CI) Ltd T/A Flow
+           888                 7            7      Non-geographic number –       Assigned to Cable &
+                                                   Fixed line                    Wireless (CI) Ltd T/A Flow
+
+       NDC (national             N(S)N number length
+    destination code) or
+  leading digits of N(S)N      Maximum       Minimum           Usage of E.164 number         Additional information
+   (national (significant)      length        length
+          number)
+              914                   7             7        Non-geographic number –         Assigned to Cable &
+                                                           Fixed line                      Wireless (CI) Ltd T/A Flow,
+                                                                                           DID service
+            916-917                 7             7        Non-geographic number –         Assigned to Cable &
+                                                           mobile services                 Wireless (CI) Ltd T/A Flow
+              919                   7             7        Non-geographic number –         Assigned to Cable &
+                                                           mobile services, reserved for   Wireless (CI) Ltd T/A Flow
+                                                           TLDNs
+            922-929                 7             7        Non-geographic number –         Assigned to Cable &
+                                                           mobile services                 Wireless (CI) Ltd T/A Flow
+              930                   7             7        Non-geographic number –         Assigned to Cable &
+                                                           mobile services                 Wireless (CI) Ltd T/A Flow
+            936-939                 7             7        Non-geographic number –         Assigned to Cable &
+                                                           mobile services                 Wireless (CI) Ltd T/A Flow
+              940                   7             7        Non-geographic number –         Assigned to Cable &
+                                                           fixed line                      Wireless (CI) Ltd T/A Flow
+              943                   7             7        Non-geographic number –         Assigned to Cable &
+                                                           fixed line                      Wireless (CI) Ltd T/A Flow
+            945-949                 7             7        Non-geographic number –         Assigned to Cable &
+                                                           fixed line                      Wireless (CI) Ltd T/A Flow
+              976                   7             7        Non-geographic number –         Assigned to Cable &
+                                                           premium services                Wireless (CI) Ltd T/A Flow
+              990                   7             7        Non-geographic number –         Assigned to Cable &
+                                                           mobile services                 Wireless (CI) Ltd T/A Flow
+              995                   7             7        Non-dialable, national stop     Assigned to Cable &
+                                                           line allocation                 Wireless (CI) Ltd T/A Flow
+
+
+Contact:
+           Numbering department
+           Utility Regulation and Competition Office (OfReg)
+           PO Box 10189
+           Grand Cayman, KY1-1002
+           Cayman Islands
+           Tel.:      +1 345 946 4282
+           Fax:       +1 345 945 8284
+           E-mail: ict@ofreg.ky
+           URL:       www.ofreg.ky
+
+
+
+
+Denmark (country code +45)
+Communication of 9.I.2026:
+The Agency for Digital Government, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•      Withdrawals
+
+    Type                       Numbering resource              Provider                       Date of withdrawal
+                               66809fgh; 66803fgh; 66807fgh;   FONET A/S                      29 August 2025
+                               66801fgh; 66802fgh
+                               78108fgh                        Ipvision A/S                   30 September 2025
+                               96675fgh; 45264fgh; 55503fgh;   TDC Net A/S                    30 September 2025
+                               55504fgh; 38833fgh; 79122fgh;
+                               47799fgh; 79790fgh; 79791fgh;
+    Fixed communication
+                               79792fgh; 79793fgh; 79794fgh;
+                               79795fgh; 79799fgh; 45475fgh;
+                               43828fgh; 46776fgh; 63335fgh;
+                               63356fgh; 39471fgh
+                               3236efgh                        BICS SA                        10 December 2025
+                               69899fgh                        Thyfon A/S                     31 December 2025
+
+
+    Type                       Numbering resource              Provider                       Date of withdrawal
+                               91309fgh; 93752fgh; 93753fgh    Greenwave Mobile IoT ApS       30 September 2025
+                               54360fgh; 54361fgh; 54362fgh    Firstcom Europe A/S            01 December 2025
+    Mobile communication       5435efgh                        Firstcom Europe A/S            15 December 2025
+                               81375fgh                        Monty UK Global Limited        31 December 2025
+                               9272efgh                        Thyfon A/S                     31 December 2025
+
+
+    Type                       Numbering resource              Provider                       Date of withdrawal
+    MNC                        MNC14                           Monty UK Global Limited        31 December 2025
+
+
+    Type                       Numbering resource              Provider                       Date of withdrawal
+    3 digit short code         118                             Nuuday A/S                     31 December 2025
+
+
+
+
+•     Assignments
+
+    Type                   Numbering resource              Provider                        Date of assignment
+                           43337fgh                        IP Group A/S                    11 July 2025
+                           43852fgh                        IPNORDIC A/S                    17 July 2025
+                           96857fgh                        Telenor A/S                     25 August 2025
+    Fixed communication    78108fgh                        Ipvision A/S                    01 October 2025
+                           39992fgh; 78107fgh              Ipvision A/S                    01 October 2025
+                           65591fgh; 65592fgh; 65593fgh;   TDC Net A/S                     28 October 2025
+                           65594fgh
+
+
+    Type                   Numbering resource              Provider                        Date of assignment
+                           61210fgh; 61212fgh; 61213fgh;   Intergo Telecom Ltd             23 July 2025
+                           61214fgh; 61215fgh
+                           3579efgh                        Nexcon.io ApS                   15 August 2025
+                           29955fgh                        BAWAY Mobile Services OÜ        15 August 2025
+                           81373fgh                        IPNORDIC A/S                    22 August 2025
+    Mobile communication   3578efgh; 3592efgh              XPLORA Technologies ApS         01 September 2025
+                           91309fgh; 93752fgh; 93753fgh    Link Mobility A/S               01 October 2025
+                           5561efgh; 5562efgh; 5563efgh;   Hi3G Denmark ApS                10 October 2025
+                           5564efgh; 5565efgh; 5567efgh;
+                           5568efgh; 5569efgh
+                           3599efgh                        Nexcon.io ApS                   10 October 2025
+
+
+    Type                   Numbering ressource             Provider                        Date of assignment
+                           37100733ijkl; 37100734ijkl;     Telenor A/S                     25 August 2025
+                           37100735ijkl; 37100736ijkl;
+                           37100737ijkl; 37100738ijkl;
+                           37100739ijkl; 37100740ijkl;
+                           37100741ijkl; 37100742ijkl
+                           37100850ijkl; 37100851ijkl;     Telenor Connexion AB            30 September 2025
+                           37100852ijkl; 37100853ijkl;
+                           37100854ijkl
+                           37100743ijkl; 37100744ijkl;     Telia Company Danmark A/S       06 October 2025
+                           37100745ijkl; 37100746ijkl;
+                           37100747ijkl; 37100748ijkl;
+                           37100749ijkl; 37100750ijkl;
+    M2M communication      37100751ijkl; 37100752ijkl;
+                           37100753ijkl; 37100754ijkl;
+                           37100755ijkl; 37100756ijkl;
+                           37100757ijkl; 37100758ijkl;
+                           37100759ijkl; 37100760ijkl;
+                           37100761ijkl; 37100762ijkl;
+                           37100763ijkl; 37100764ijkl;
+                           37100765ijkl; 37100766ijkl;
+                           37100767ijkl; 37100768ijkl;
+                           37100769ijkl; 37100770ijkl;
+                           37100771ijkl; 37100772ijkl;
+                           37100773ijkl; 37100774ijkl;
+                           37100775ijkl; 37100776ijkl;
+                           37100777ijkl; 37100778ijkl;
+
+ Type                         Numbering ressource           Provider                   Date of assignment
+                              37100779ijkl; 37100780ijkl;
+                              37100781ijkl; 37100782ijkl;
+                              37100783ijkl; 37100784ijkl;
+                              37100785ijkl; 37100786ijkl;
+                              37100787ijkl; 37100788ijkl;
+                              37100789ijkl; 37100790ijkl;
+                              37100791ijkl; 37100792ijkl;
+                              37100793ijkl; 37100794ijkl;
+                              37100795ijkl; 37100796ijkl;
+                              37100797ijkl; 37100798ijkl;
+                              37100799ijkl; 37100805ijkl;
+                              37100806ijkl; 37100807ijkl;
+                              37100808ijkl; 37100809ijkl;
+                              37100810ijkl; 37100811ijkl;
+                              37100812ijkl; 37100813ijkl;
+                              37100814ijkl; 37100815ijkl;
+                              37100816ijkl; 37100817ijkl;
+                              37100818ijkl; 37100819ijkl;
+                              37100820ijkl; 37100821ijkl;
+                              37100822ijkl; 37100823ijkl;
+                              37100824ijkl; 37100825ijkl;
+                              37100826ijkl; 37100827ijkl;
+                              37100828ijkl; 37100829ijkl;
+                              37100830ijkl; 37100831ijkl;
+                              37100832ijkl; 37100833ijkl;
+                              37100834ijkl; 37100835ijkl;
+                              37100836ijkl; 37100837ijkl;
+                              37100838ijkl; 37100839ijkl;
+                              37100840ijkl; 37100841ijkl;
+                              37100842ijkl
+                              37104200ijkl; 37104201ijkl;   Greenwave Mobile IoT ApS   06 October 2025
+                              37104202ijkl
+
+
+ Type                         Numbering resource            Provider                   Date of assignment
+ ISPC                         ISPC2-076-0; ISPC2-076-1;     TDC Net A/S                01 July 2025
+                              ISPC2-076-2
+
+
+Contact:
+        Agency for Digital Government
+        Landgreven 4
+        1301 Copenhagen K
+        Denmark
+        URL: www.digst.dk
+
+
+
+
+Guyana (country code +592)
+Communication of 13.I.2026:
+The Telecommunications Agency, Georgetown, announces that the following national destination codes (NDC) and
+subscriber number (SN) ranges are currently assigned to the listed public telecommunications operators for the
+Co-operative Republic of Guyana. Numbers allocated to access emergency/social services are also listed below.
+                                   Presentation of national ITU-T E.164 numbering plan
+                                                   for country code 592
+a)     Overview:
+       The minimum fixed and mobile number length (excluding the country code) is seven (7) digits.
+       The maximum fixed and mobile number length (excluding the country code) is seven (7) digits.
+       International dialling format: +592 NXX XXXX
+b)     National Database (TBD)
+c)     Real-time Database (TBD)
+
+d)     Detail of numbering plan:
+
+Fixed Network
+
+         National             N(S)N number length
+                                                                                                SN range
+     destination code      Maximum          Minimum        Operator/Block assignee
+                                                                                                 (XXXX)
+          (NXX)             length           length
+           216                     7            7                                             0000 – 9999
+           217                     7            7                                             0000 – 1999
+           218                     7            7                                             0000 – 9999
+           219                     7            7                                             0000 – 9999
+           220                     7            7                                             0000 – 9999
+           221                     7            7                                             2000 – 4999
+           222                     7            7                                             0000 – 9999
+           223                     7            7                                             0000 – 9999
+           225                     7            7                                             0000 – 9999
+           226                     7            7                                             0000 – 9999
+           227                     7            7                                             0000 – 9999
+           228                     7            7                                             0000 – 6999
+                                                            Guyana Telephone and
+           229                     7            7             Telegraph Co. Ltd.              1000 – 8999
+           231                     7            7                                             0000 – 9999
+           232                     7            7                                             0000 – 4999;
+                                                                                              9000 – 9999
+           233                     7            7                                             0000 – 7999
+           234                     7            7                                             0000 – 0999
+           253                     7            7                                             0000 – 5999
+           254                     7            7                                             0000 – 2999
+           255                     7            7                                             0000 – 4999
+           256                     7            7                                             0000 – 5999
+           257                     7            7                                             0000 – 4999
+           258                     7            7                                             0000 – 4999
+           259                     7            7                                             0000 – 4999
+
+
+
+
+      National              N(S)N number length
+                                                                             SN range
+  destination code         Maximum     Minimum    Operator/Block assignee
+                                                                              (XXXX)
+       (NXX)                length      length
+         260                  7            7                                0000 – 6999
+         261                  7            7                                0000 – 9999
+         262                  7            7                                0000 – 2999
+         263                  7            7                                0000 – 7999
+         264                  7            7                                0000 – 4999
+         265                  7            7                                0000 – 8999
+         266                  7            7                                0000 – 7999
+         267                  7            7                                0000 – 3999
+         268                  7            7                                0000 – 5999
+         269                  7            7                                0000 – 2999
+         270                  7            7                                0000 – 9999
+         271                  7            7                                0000 – 9999
+         272                  7            7                                0000 – 2999
+         273                  7            7                                1000 – 1999
+         274                  7            7                                0000 – 2999
+         275                  7            7                                0000 – 2999
+         276                  7            7                                0000 – 5999
+         277                  7            7                                0000 – 5999
+         279                  7            7                                0000 – 4999
+         289                  7            7       Guyana Telephone and     0000 – 9999
+         322                  7            7         Telegraph Co. Ltd.     0000 – 6999
+         325                  7            7                                0000 – 6999
+         326                  7            7                                0000 – 5999
+         327                  7            7                                0000 – 2999,
+                                                                            5000 – 7999
+         328                  7            7                                0000 – 9999
+         329                  7            7                                0000 – 1999,
+                                                                            3000 – 6999
+         330                  7            7                                0000 – 4999
+         331                  7            7                                0000 – 4999
+         332                  7            7                                0000 – 4999
+         333                  7            7                                0000 – 9999
+         334                  7            7                                0000 – 2999
+         335                  7            7                                0000 – 1999,
+                                                                            3000 – 4999
+         336                  7            7                                5000 – 9999
+         337                  7            7                                0000 – 6999
+         338                  7            7                                1000 – 5999
+         339                  7            7                                0000 – 6999
+         440                  7            7                                0000 – 3999
+         441                  7            7                                0000 – 3999
+
+
+
+
+       National        N(S)N number length
+                                                                                 SN range
+   destination code   Maximum     Minimum       Operator/Block assignee
+                                                                                  (XXXX)
+        (NXX)          length      length
+        442              7            7                                        0000 – 4999
+        444              7            7                                        0000 – 9999
+                                                 Guyana Telephone and
+        455              7            7                                        0000 – 3999
+                                                   Telegraph Co. Ltd.
+        456              7            7                                        0000 – 2999
+      500 – 506          7            7                                        0000 – 9999
+        510              7            7                                        0000 – 9999
+                                                 U-Mobile (Cellular) Inc.
+        511              7            7                                        0000 – 9999
+        515              7            7             E-Networks Inc.            0000 – 9999
+        771              7            7                                        0000 – 2999,
+                                                                               4000 – 5999
+         772             7            7                                        0000 – 3999
+         773             7            7          Guyana Telephone and          0000 – 2999
+         774             7            7            Telegraph Co. Ltd.          0000 – 2999,
+                                                                               4000 – 5999
+         775             7            7                                        0000 – 3999
+         777             7            7                                        0000 – 9999
+         800             7            7          U-Mobile (Cellular) Inc.      0000 – 0009
+         862             7            7                                        1000 – 1999
+         868             7            7                                        0000 – 3999
+                                                 Guyana Telephone and
+         888             7            7                                           8888
+                                                   Telegraph Co. Ltd.
+         899             7            7                                        0000 – 9999
+         900             7            7                                        8000 – 8999
+
+Mobile Network
+
+       National       N(S)N Number length
+                                                                               SN range
+   destination code   Maximum    Minimum       Operator/Block assignee
+                                                                                (XXXX)
+         (NXX)         length     length
+      600 – 604          7           7       U-Mobile (Cellular) Inc.        0000 – 9999
+        605              7           7       Quark Communications Inc.       0000 – 0999
+        605              7           7       DNA Enterprise Inc.             1000 – 2999
+        606              7           7       E-Government                    0000 – 0999
+        608              7           7       U-Mobile (Cellular) Inc.        0000 – 0999
+      609 – 629          7           7       Guyana Telephone and            0000 – 9999
+                                             Telegraph Co. Ltd.
+        630              7           7       U-Mobile (Cellular) Inc.        0000 – 9999
+        631              7           7       Green Gibraltar Inc.            0000 – 9999
+      632 – 633          7           7       U-Mobile (Cellular) Inc.        0000 – 9999
+        634              7           7       Guyana Telephone and            0000 – 9999
+                                             Telegraph Co. Ltd.
+        635              7           7       E-Networks Inc.                 0000 – 9999
+      636 – 637          7           7       U-Mobile (Cellular) Inc.        0000 – 9999
+      638 – 658          7           7       Guyana Telephone and            0000 – 9999
+                                             Telegraph Co. Ltd.
+      659 – 704          7           7       U-Mobile (Cellular) Inc.        0000 – 9999
+
+
+
+       National             N(S)N Number length
+                                                                                                SN range
+   destination code         Maximum       Minimum          Operator/Block assignee
+                                                                                                 (XXXX)
+         (NXX)               length        length
+       705 – 709                7             7         Guyana Telephone and                  0000 – 9999
+                                                        Telegraph Co. Ltd.
+       710 – 720                7             7         E-Networks Inc.                       0000 – 9999
+       721 – 722                7             7         U-Mobile (Cellular) Inc.              0000 – 9999
+       723 – 724                7             7         U-Mobile (Cellular) Inc.              0000 – 9999
+       725 – 726                7             7         Guyana Telephone and                  0000 – 9999
+                                                        Telegraph Co. Ltd.
+       727 – 729                7             7         Guyana Telephone and                  0000 – 9999
+                                                        Telegraph Co. Ltd.
+       730 – 732                7             7         E-Networks Inc.                       0000 – 9999
+       733 – 742                7             7         E-Networks Inc.                       0000 – 9999
+       743 – 750                7             7         U-Mobile (Cellular) Inc.              0000 – 9999
+       751 – 759                7             7         Guyana Telephone and                  0000 – 9999
+                                                        Telegraph Co. Ltd.
+       760 – 761                7             7         E-Networks Inc.                       0000 – 9999
+       762 – 763                7             7         E-Networks Inc.                       0000 – 9999
+         764                    7             7         E-Networks Inc.                       0000 – 9999
+         765                    7             7         E-Networks Inc.                       0000 - 9999
+         766                    7             7         E-Networks Inc.                       0000 - 9999
+       769 – 770                7             7         U-Mobile (Cellular) Inc.              0000 – 9999
+
+      – Newly assigned ranges
+
+Emergency Services
+
+  Important                                                                                  ITU-T E.164 number or
+                            Service                        Allocated or Assigned
+   number                                                                                     national only number
+      911                  Police                 Allocated in the national numbering plan   National-only number
+                    (Emergency response)
+      912             Fire / Ambulance            Allocated in the national numbering plan   National-only number
+                    (Emergency response)
+      913               Ambulance                 Allocated in the national numbering plan   National-only number
+                    (Emergency response)
+      914             Domestic Violence           Allocated in the national numbering plan   National-only number
+                         (Hotline)
+
+Contact:
+           Telecommunications Agency
+           Director of Telecommunications
+           190 Charlotte Street, Bourda,
+           GEORGETOWN
+           Guyana
+           Tel.:     +592 225-3104/226-2233
+           E-mail: odir1@telecoms.gov.gy
+           URL:      www.telecoms.gov.gy
+
+
+
+
+                                    Testing Laboratories recognized by ITU
+According to the ITU-T Guideline on "Testing Laboratories recognition procedure" (2022) and based on the application
+and scope of accreditation received on 29 December 2025, the following Testing Laboratory, which fulfils the criteria
+defined in the clause 9 of the above-mentioned ITU-T Guideline, was registered in the ITU Testing Laboratory Database
+(https://itu.int/go/tldb):
+
+                                                                                 Scope of Accreditation
+          Testing Laboratory                     Country
+                                                                               (ITU-T Recommendations)
+
+ Guangdong LNP Electrical Testing        China                 ITU-T K.20, K.21 and K.44
+ Technology Co.,Ltd.
+
+
+
+Any queries can be addressed to conformity@itu.int. More details are available on ITU C&I Portal at:
+https://itu.int/go/citest.
+
+
+
+                                            Other communication
+Serbia
+Communication of 5.I.2026:
+On the occasion of the 170th anniversary of Nikola Tesla’s birth, the Serbian Administration authorizes radio stations of
+the Amateur Radio Union of Serbia to use the special call sign YT170TESLA from 1 to 31 December 2026.
+
+
+
+
+                                          Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                          Call-Back
+                  and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                          AMENDMENTS TO SERVICE PUBLICATIONS
+                                                 Abbreviations used
+                                ADD    Insert                    PAR    Paragraph
+                                COL    Column                    REP    Replace
+                                LIR    Read                      SUP    Delete
+                                P      Page(s)
+
+
+
+
+                               List of Issuer Identifier Numbers for
+                       the International Telecommunication Charge Card
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                 (Position on 31 December 2023)
+                                (Annex to ITU Operational Bulletin No. 1283 – 1.I.2024)
+                                                (Amendment No. 27)
+Sweden           LIR
+
+   Country/        Company Name/Address                                  Issuer      Contact
+ Geographical                                                          Identifier
+     area                                                               Number
+ Sweden            Myndigheten för civilt försvar (MCF)                89 46 59      MCF Switchboard
+                   651 81 Karlstad                                                   651 81 Karlstad
+                                                                                     Sweden
+                                                                                     Tel.:   +46 771 240 240
+                                                                                     E-mail: registrator@mcf.se
+
+
+United States          ADD
+
+   Country/                                        Issuer
+                                                                                                         Effective
+ Geographical          Company Name/Address      Identifier                    Contact
+                                                                                                       date of usage
+     area                                         Number
+ United States     DataXoom                      89 1 082     Zak Brickett                              1.XII.2025
+                   25 Sundial Ave, Suite 316                  25 Sundial Ave, Suite 316
+                   MANCHESTER                                 MANCHESTER
+                   NH 03103                                   NH 03103
+                                                              Tel.:    +1 510 474 0044
+                                                              E-mail: Zak.brickett@dataxoom.com
+
+
+
+
+           Mobile Network Codes (MNC) for the international identification plan
+                          for public networks and subscriptions
+                  (According to Recommendation ITU-T E.212 (09/2016))
+                             (Position on 15 November 2023)
+                               Annex to ITU Operational Bulletin No. 1280 – 15.XI.2023
+                                                Amendment No. 49
+
+
+ Country / Geographical area
+ MCC + MNC                        Operator / Network
+ Canada ADD
+ 302 354                          Every-Day Computers Inc.
+ Canada LIR
+ 302 490                          Freedom Mobile Inc.
+ 302 490                          Videotron Ltd.
+ 302 491                          Videotron Ltd.
+ Denmark SUP
+ 238 14                           Monty UK Global Limited
+ Ireland ADD
+ 272 27                           TP Ireland Operations Limited
+ Sweden SUP
+ 240 05                           Svenska UMTS-Nät AB
+ Sweden LIR
+ 240 20                           Sierra Wireless Sweden AB
+ 240 59                           Myndigheten för civilt försvar (MCF) – Swedish Civil Defence and Resilience Agency – Used
+                                  for private network (PPDR network (Rakel G2))
+ Switzerland SUP
+ 228 63                           Fink Telecom Services
+ International Mobile, shared code ADD
+ 901 47                           Société française du radiotéléphone (SFR)
+
+
+
+____________
+MCC: Mobile Country Code
+MNC: Mobile Network Code
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No.200)
+
+
+ Country or area/ISO code                           Company Code           Contact
+  Company Name/Address                               (carrier code)
+
+
+
+
+Germany (Federal Republic of) / DEU       ADD
+
+
+
+ Carrier1 GmbH                                           CAR1              Philipp Hoffmann
+ Fritz-Vomfelde-Straße 34                                                  E-mail: philipp.hoffmann@carrier1.de
+ D-40547 DÜSSELDORF
+
+
+
+
+ JustBolt GmbH                                          BOLT25             Lukas Lange
+ BahnhofstraЯe 7                                                           Tel.:    +49 152 01445123
+ D-29553 BIENENBÜTTEL                                                      E-mail: lukas.lange@just-bolt.de
+
+
+
+
+                        List of International Signalling Point Codes (ISPC)
+                     (According to Recommendation ITU-T Q.708 (03/1999))
+                                     (Position on 01 July 2024)
+                                 Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024
+                                                 Amendment No. 30
+
+
+ Country / Geographical area         Unique name of the signalling point      Name of the signalling point operator
+ ISPC              DEC
+ Australia ADD
+ 5-123-3           11227             Sydney-STP1                              Starlink Internet Services Pte. Ltd
+ 5-123-4           11228             Sydney-STP2                              Starlink Internet Services Pte. Ltd
+ 5-123-5           11229             Sydney-STP3                              Starlink Internet Services Pte. Ltd
+ 5-123-6           11230             Sydney-STP4                              Starlink Internet Services Pte. Ltd
+ Denmark ADD
+ 2-076-0           4704                                                       TDC Net A/S
+ 2-076-1           4705                                                       TDC Net A/S
+ 2-076-2           4706                                                       TDC Net A/S
+ Kiribati ADD
+ 5-100-1           11041             ATHKL_TARAWA_2                           Amalgamated Telecom Holdings Kiribati
+                                                                              Limited (ATHKL)
+ Switzerland SUP
+ 2-059-0           4568              Pratteln                                 Fink Telecom Services
+ 2-062-4           4596              Pratteln                                 Fink Telecom Services
+
+
+
+____________
+        ISPC: International Signalling Point Codes.
+
+
+
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                              Web: www.itu.int/itu-t/nnp
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 1.I.2026, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                           Country/ Geographical area                      Country Code (CC)
+                  France                                                         +33
+                  Guadeloupe                                                     +590
+                  French Guiana                                                  +594
+                  Martinique                                                     +596
+                  French Departments and Territories in the                      +262
+                  Indian Ocean
+                  Saint Pierre and Miquelon                                      +508
+                  Guyana                                                         +592
+
+
+
+

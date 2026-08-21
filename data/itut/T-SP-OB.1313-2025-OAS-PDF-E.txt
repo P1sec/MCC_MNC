@@ -1,0 +1,564 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1313              1.IV.2025                  (Information received by 15 March 2025) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                3
+Approval of ITU-T Recommendations.............................................................................................................                      4
+Telephone Service:
+     Liberia (Liberia Telecommunications Authority (LTA), Paynesville) ..........................................................                                   5
+     Lithuania (Communications Regulatory Authority, Vilnius) ......................................................................                                6
+Service Restrictions .........................................................................................................................................     12
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                12
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................         13
+List of International Signalling Point Codes (ISPC) ..........................................................................................                     14
+National Numbering Plan ...............................................................................................................................            14
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1314             15.IV.2025             31.III.2025
+               1315              1.V.2025              11.IV.2025
+               1316             15.V.2025              30.IV.2025
+               1317              1.VI.2025             15.V.2025
+               1318             15.VI.2025             31.V.2025
+               1319             1.VII.2025             13.VI.2025
+               1320             15.VII.2025            30.VI.2025
+               1321             1.VIII.2025            8.VII.2025
+               1322            15.VIII.2025           25.VII.2025
+               1323              1.IX.2025            15.VIII.2025
+               1324             15.IX.2025            29.VIII.2025
+               1325              1.X.2025              12.IX.2025
+               1326             15.X.2025              30.IX.2025
+               1327              1.XI.2025             15.X.2025
+               1328             15.XI.2025             31.X.2025
+               1329             1.XII.2025             14.XI.2025
+               1330             15.XII.2025            28.XI.2025
+               1331              1.I.2026              5.XII.2025
+               1332              15.I.2026             17.XII.2025
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                Approval of ITU-T Recommendations
+By AAP-09, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+−     ITU-T P.570 (03/2025): Artificial noise fields under laboratory conditions
+−     ITU-T P.940 (03/2025): Computational model used for the monitoring and quality assessment of
+      videotelephony services
+−     ITU-T Y.4052 (2022) Cor. 1 (03/2025)
+−     ITU-T Y.4509 (03/2025): Functional architecture of AI enabled device-edge-cloud collaborative services for IoT
+      and smart city
+−     ITU-T Y.4510 (03/2025): Functional architecture of smart power bank rental service framework
+−     ITU-T Y.4608 (03/2025): Capability and functional architecture of blockchain of things peers
+−     ITU-T Y.4812 (03/2025): Interoperability of IoT devices' identity across metaverse platforms
+By TSB Circular 32 of 7 March 2025, it was announced that the following ITU-T Recommendations were approved in
+accordance with the procedures outlined in Resolution 1:
+−     ITU-T D.609R (02/2025): Guidelines for determining the size of fees associated with authorizations/licences
+
+
+
+
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                              url: www.itu.int/itu-t/inr/nnp
+
+Liberia (country code +231)
+Communication of 6.III.2025:
+The Liberia Telecommunications Authority (LTA), Paynesville, announces updates to the national numbering plan for
+Liberia.
+Liberia uses a closed number scheme.
+New numbering blocks:
+
+      NDC (National            N(S)N number length
+   Destination Code) or
+                                                                 Usage of              Additional information
+  leading digits or N(S)N     Maximum     Minimum          ITU-T E.164 Number                (Operator)
+  (National (Significant)      length      length
+         Number)
+ 76Y (NDC)                        9           9         Non-geographic number for   Orange Liberia, Incorporated
+ Y = (0 & 1)                                             Mobile telephone service
+ (760 XXXXXX)
+ (761 XXXXXX)
+
+Contact:
+           Liberia Telecommunications Authority (LTA)
+           Menetamba Road
+           Cooper’s Beach Community
+           1001 PAYNESVILLE
+           Liberia
+           Email: info@lta.gov.lr
+           URL:     www.lta.gov.lr
+
+
+
+
+Lithuania (country code +370)
+Communication of 6.III.2025:
+The Communications Regulatory Authority, Vilnius, announces the following telephone numbering plan for Lithuania
+adopted on 01.09.2023.
+
+                    Presentation of national ITU-T E.164 numbering plan for country code + 370
+Overview:
+The minimum number length (excluding the country code), 3 digits.
+The maximum number length (excluding the country code), 12 digits.
+The National Telephone Numbering Plan shall regulate the purpose and structure of telephone communication
+numbers, used in the public communication networks.
+Link to the national numbering plan with assigned ITU-T E.164 numbers:
+https://www.rrt.lt/telefono-rysys-internetas-tv/telefono-rysio-numeriai/numeriu-skyrimas/
+The purpose and types of telephone communication numbers:
+
+                               Minimum   Maximum
+ No.    Number series                                 Number purpose                           Number type
+                                length    length
+
+ 1.     0                         1          1        National prefix
+
+ 2.     00                        1          1        International prefix
+
+ 3.     1XX(XXX)                  3          6        Short numbers                            Non-geographical
+                                                      Numbers for machine-to-machine
+ 4.     2XXXXXXXXXXX             12          12                                                Non-geographical
+                                                      M2M
+                                                      Public fixed telephone
+ 5.     3XXXXXXX                  8          8                                                 Geographical
+                                                      communication service numbers
+                                                      Public fixed telephone
+ 6.     4XXXXXXX                  8          8                                                 Geographical
+                                                      communication service numbers
+                                                      Public fixed telephone
+ 7.     5XXXXXXX                  8          8                                                 Geographical
+                                                      communication service numbers
+                                                      Public mobile telephone
+ 8.     6XXXXXXX                  8          8                                                 Non-geographical
+                                                      communication service numbers
+                                                      Service numbers (personal numbers
+ 9.     7XXXXXXX                  8          8                                                 Non-geographical
+                                                      and the like)
+                                                      Service numbers (free-of-charge
+ 10.    8XXXXXXX                  8          8                                                 Non-geographical
+                                                      calls and the like)
+                                                      Service numbers (value added tariff
+ 11.    9XXXXXXX                  8          8                                                 Non-geographical
+                                                      and the like)
+
+
+
+
+Short numbers:
+
+ No.     Number             Usage of short number
+ 1.      10XX               Public telephone communication service provider selection code
+ 2.      11X(XXX)           Special services
+ 3.      110                Reserved
+ 4.      111                Line of humanitarian, social or other related assistance provided by non-
+                            profit legal entities (Lithuanian Red Cross)
+ 5.      112                Single emergency response number
+ 6.      113                An on-call medical helpline for consultations when there is no need for an
+                            ambulance to arrive at the scene
+ 7.      114                Reserved
+ 8.      115                Reserved
+ 9.      116XXX             Harmonized social service numbers:
+ 10.     116000             Hotlines for missing children
+ 11.     116001 –116005     Reserved
+ 12.     116006             Helpline for victims of crime
+ 13.     116007 –116015     Reserved
+ 14.     116016             EU helpline number for victims of violence against women
+ 15.     116017-116110      Reserved
+ 16.     116111             Child helplines
+ 17.     116112 – 116116    Reserved
+ 18.     116117             Non-emergency medical on-call service
+ 19.     116118 – 116122    Reserved
+ 20.     116123             Emotional support helplines
+ 21.     116124 – 116999    Reserved
+ 22.     117                The number for the activities of the customer care services unit of the
+                            provider of public communication network and/or services
+ 23.     118                The number of directory inquiry services on provision of information,
+                            including information on all the subscribers of public telephone
+                            communication services, listed in the public printed and/or electronic lists of
+                            subscribers of the provider of public communication network and/or
+                            services
+ 24.     119                The number for registration of faults, occurring in the network of the
+                            provider of public communication network and/or services
+ 25.     12X                Reserved
+ 26.     13XX               The numbers for delivery service providers (recommended)
+ 27.     14XX               The numbers for transport service providers (recommended)
+ 28.     15XX               The numbers for information service providers (recommended)
+ 29.     16XX               The numbers for non-telecommunication service providers (recommended)
+ 30.     17X                Reserved
+ 31.     18XX               The numbers for the non-telecommunication service providers for provision
+                            of delivery, transport and/or information services
+ 32.     19XXX              The numbers for the non-telecommunication service providers
+
+
+
+
+Numbers for machine-to-machine M2M (200000000000–299999999999):
+
+              Leading digits of N(S)N
+ No.                                        Usage of E.164 number
+          (national (significant) number)
+ 1.              2XXXXXXXXXXX               Numbers for machine-to-machine M2M
+
+
+Public fixed telephone communication service numbers (3000 0000–5999 9999):
+
+                     Number
+
+ No.        National         National       Usage of E.164 number
+           destination     (significant)
+              code            number
+ 1.      30X             XX XXX             Reserved
+ 2.      310             XX XXX             Varėna district numbering
+ 3.      311             XX XXX             Reserved
+ 4.      312             XX XXX             Reserved
+ 5.      313             XX XXX             Druskininkai town numbering
+ 6.      314             XX XXX             Reserved
+ 7.      315             XX XXX             Alytus town and district numbering
+ 8.      316             XX XXX             Reserved
+ 9.      317             XX XXX             Reserved
+ 10.     318             XX XXX             Lazdijai district numbering
+ 11.     319             XX XXX             Prienai district and Birštonas town numbering
+ 12.     32X             XX XXX             Reserved
+ 13.     33X             XX XXX             Reserved
+ 14.     340             XX XXX             Ukmergė district numbering
+ 15.     341             XX XXX             Reserved
+ 16.     342             XX XXX             Vilkaviškis district numbering
+ 17.     343             XX XXX             Marijampolė district numbering
+ 18.     344             XX XXX             Reserved
+ 19.     345             XX XXX             Šakiai district numbering
+ 20.     346             XX XXX             Kaišiadorys district numbering
+ 21.     347             XX XXX             Kėdainiai district numbering
+ 22.     348             XX XXX             Reserved
+ 23.     349             XX XXX             Jonava district numbering
+ 24.     35X             XX XXX             Reserved
+ 25.     36X             XX XXX             Reserved
+ 26.     37              XX XX XX           Kaunas city and district numbering
+ 27.     380             XX XXX             Šalčininkai district numbering
+ 28.     381             XX XXX             Anykščiai district numbering
+ 29.     382             XX XXX             Širvintos district numbering
+ 30.     383             XX XXX             Molėtai district numbering
+ 31.     384             XX XXX             Reserved
+ 32.     385             XX XXX             Zarasai district numbering
+
+                    Number
+
+No.       National            National      Usage of E.164 number
+         destination        (significant)
+            code               number
+33.     386                XX XXX           Ignalina district and Visaginas town numbering
+34.     387                XX XXX           Švenčionys district numbering
+35.     388                XX XXX           Reserved
+36.     389                XX XXX           Utena district numbering
+37.     39X                XX XXX           Reserved
+38.     40X                XX XXX           Reserved
+39.     41                 XX XX XX         Šiauliai city and district numbering
+40.     420                XX XXX           Reserved
+41.     421                XX XXX           Pakruojis district numbering
+42.     422                XX XXX           Radviliškis district numbering
+43.     423                XX XXX           Reserved
+44.     424                XX XXX           Reserved
+45.     425                XX XXX           Akmenė district numbering
+46.     426                XX XXX           Joniškis district numbering
+47.     427                XX XXX           Kelmė district numbering
+48.     428                XX XXX           Raseiniai district numbering
+49.     429                XX XXX           Reserved
+50.     43X                XX XXX           Reserved
+51.     440                XX XXX           Skuodas district numbering
+52.     441                XX XXX           Šilutė district numbering
+53.     442                XX XXX           Reserved
+54.     443                XX XXX           Mažeikiai district numbering
+55.     444                XX XXX           Telšiai district numbering
+56.     445                XX XXX           Kretinga district numbering
+57.     446                XX XXX           Tauragė district numbering
+58.     447                XX XXX           Jurbarkas district numbering
+59.     448                XX XXX           Plungė district numbering
+60.     449                XX XXX           Šilalė district numbering
+61.     450                XX XXX           Biržai district numbering
+62.     451                XX XXX           Pasvalys district numbering
+63.     452                XX XXX           Reserved
+64.     453                XX XXX           Reserved
+65.     45                 4X XX XX         Panevėžys city and district numbering
+66.     45                 5X XX XX         Panevėžys city and district numbering
+67.     456                XX XXX           Reserved
+68.     457                XX XXX           Reserved
+69.     458                XX XXX           Rokiškis district numbering
+70.     459                XX XXX           Kupiškis district numbering
+
+
+                     Number
+
+ No.       National          National       Usage of E.164 number
+          destination      (significant)
+             code             number
+ 71.     460             XX XXX             Palanga town numbering
+ 72.     461             XX XXX             Reserved
+ 73.     46              2X XX XX           Klaipėda city and district numbering
+ 74.     46              3X XX XX           Klaipėda city and district numbering
+ 75.     46              4X XX XX           Klaipėda city and district numbering
+ 76.     465             XX XXX             Reserved
+ 77.     466             XX XXX             Reserved
+ 78.     467             XX XXX             Reserved
+ 79.     468             XX XXX             Reserved
+ 80.     469             XX XXX             Neringa town numbering
+ 81.     47X             XX XXX             Reserved
+ 82.     48X             XX XXX             Reserved
+ 83.     49X             XX XXX             Reserved
+ 84.     50X             XX XXX             Reserved
+ 85.     51X             XX XXX             Reserved
+ 86.     5               20X XXXX           Vilnius city and district numbering
+ 87.     5               21X XXXX           Vilnius city and district numbering
+ 88.     5               22X XXXX           Vilnius city and district numbering
+ 89.     5               23X XXXX           Vilnius city and district numbering
+ 90.     5               24X XXXX           Vilnius city and district numbering
+ 91.     5               25X XXXX           Vilnius city and district numbering
+ 92.     5               26X XXXX           Vilnius city and district numbering
+ 93.     5               27X XXXX           Vilnius city and district numbering
+ 94.     528             XX XXX             Trakai district numbering
+ 95.     5               29X XXXX           Reserved
+ 96.     5               3XX XXXX           Reserved
+ 97.     5               4XX XXXX           Reserved
+ 98.     5               5XX XXXX           Reserved
+ 99.     5               6XX XXXX           Reserved
+ 100.    5               7XX XXXX           Reserved
+ 101.    58X             XX XXX             Reserved
+ 102.    59X             XX XXX             Reserved
+
+
+Public mobile telephone communication service numbers (600 00 000–699 99 999):
+
+              Leading digits of N(S)N
+ No.                                        Number purpose
+          (national (significant) number)
+
+ 1.                 6XXXXXXX                Public mobile telephone communication services
+
+
+
+Service numbers (700 00 000–799 99 999):
+
+                      Leading digits of N(S)N
+ No.                                                  Number purpose
+                  (national (significant) number)
+ 1.         700XXXXX                                  Personal number
+ 2.         701XXXXX–704XXXXX                         Reserved
+ 3.         705XXXXX                                  Voting by telephone services
+ 4.         706XXXXX                                  State and its institutions non-commercial functioning
+ 5.         707XXXXX                                  Company networks
+ 6.         708XXXXX–79XXXXXX                         Reserved
+
+
+Service numbers (800 00 000–899 99 999):
+
+                      Leading digits of N(S)N
+ No.                                                 Number purpose
+                  (national (significant) number)
+ 1.         800XXXXX                                 Freephone services
+ 2.         801XX XXX                                Direct dialing-in via the internet services
+ 3.         802XX XXX                                Collect call services
+ 4.         803XXXXX–807XXXXX                        Reserved
+ 5.         808XXXXX                                 Shared payment services
+ 6.         809XXXXX–89XXXXXX                        Reserved
+
+
+Service numbers (900 00 000–999 99 999):
+
+                      Leading digits of N(S)N
+ No.                                                  Number purpose
+                  (national (significant) number)
+ 1.         900XXXXX                                  Value added tariff services
+ 2.         901XXXXX                                  Direct dialing-in via the Internet services
+ 3.         902XXXXX                                  Value added tariff services
+ 4.         903XXXXX                                  Value added tariff services
+ 5.         904XXXXX–908XXXXX                         Reserved
+ 6.         909XXXXX                                  Value added tariff adult services
+ 7.         910XXXXX                                  Value added tariff services
+ 8.         911XXXXX–999XXXXX                         Reserved
+
+Contact:
+           Mr Darijus Mickus
+           Communications Regulatory Authority
+           Senior Adviser Electronic Communications Resource Management Group
+           Mortos Str. 14, LT-03219 VILNIUS
+           Lithuania
+           Tel:      +370 800 200 30
+           Fax:      +370 5 216 1564
+           E-mail: rrt@rrt.lt; darijus.mickus@rrt.lt
+           URL:      www.rrt.lt
+
+
+
+
+                                          Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                         AMENDMENTS TO SERVICE PUBLICATIONS
+                                                      Abbreviations used
+                                  ADD     Insert                       PAR     Paragraph
+                                  COL     Column                       REP     Replace
+                                  LIR     Read                         SUP     Delete
+                                  P       Page(s)
+
+
+
+
+          Mobile Network Codes (MNC) for the international identification plan
+                         for public networks and subscriptions
+                 (According to Recommendation ITU-T E.212 (09/2016))
+                            (Position on 15 November 2023)
+                                 (Annex to ITU Operational Bulletin No. 1280 – 15.XI.2023)
+                                                  (Amendment No. 30)
+
+
+Country/Geographical area                              MCC+MNC             Operator/Network
+Singapore      ADD
+                                                         525 205           5G EP Testbed
+Spain    SUP
+                                                         214 704           AMPER SISTEMAS, S.A.U.
+
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                          List of International Signalling Point Codes (ISPC)
+                       (According to Recommendation ITU-T Q.708 (03/1999))
+                                        (Position on 1 July 2024)
+                                     (Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024)
+                                                      (Amendment No. 15)
+
+
+ Country/ Geographical Area
+ ISPC          DEC                    Unique name of the signalling point   Name of the signalling point operator
+
+ Myanmar        ADD
+ 4-220-0       9952                   YGGS01                                Telecom International Myanmar Co.,Ltd
+ 4-220-1       9953                   YGST01                                Telecom International Myanmar Co.,Ltd
+ 4-220-2       9954                   MDGS01                                Telecom International Myanmar Co.,Ltd
+ 4-220-3       9955                   MDST01                                Telecom International Myanmar Co.,Ltd
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                       National Numbering Plan
+                        (According to Recommendation ITU-T E.129 (01/2013))
+                                              Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 1.III.2025, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                                Country/ Geographical area                       Country Code (CC)
+                      Micronesia                                                        +691
+
+
+
+

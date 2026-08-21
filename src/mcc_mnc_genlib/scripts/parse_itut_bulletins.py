@@ -28,21 +28,20 @@
 # */
 
 
-from os.path import dirname, realpath, join
-import sys
-import os
 import argparse
-import urllib.request
-import urllib.error
-import subprocess
-import time
+import os
 import re
+import subprocess
+import sys
+import time
+import urllib.error
+import urllib.request
+from os.path import dirname, join, realpath
 
 from mcc_mnc_genlib.scripts.parse_wikipedia_tables import (
     generate_json,
     generate_python,
 )
-
 
 SCRIPT_DIR = dirname(realpath(__file__))
 MODULE_DIR = dirname(realpath(SCRIPT_DIR))
@@ -121,7 +120,7 @@ def dl_bull(bnum=1111, byear=2016, dbg=True, rmpdf=True):
     url = ITUT_BULL_URL_PREF + fn
     try:
         resp = urllib.request.urlopen(url)
-    except urllib.error.HTTPError as err:
+    except urllib.error.HTTPError:
         if dbg:
             print(
                 '> unable to download bulletin %.4i for year %.4i'
@@ -131,7 +130,7 @@ def dl_bull(bnum=1111, byear=2016, dbg=True, rmpdf=True):
         url = ITUT_BULL_URL_PREF + fnsub
         try:
             resp = urllib.request.urlopen(url)
-        except urllib.error.HTTPError as err:
+        except urllib.error.HTTPError:
             return False
     #
     if resp.code != 200:
@@ -518,6 +517,8 @@ def parse_mnc_upd_lines(lines, dbg=True):
     #
     mnclut, mnclist, rest = {}, [], []
     cntr, rule, mnc, mno, mnc_empt = '', '', '', '', False
+    # MNO line that appears before the rule keyword on the next line (newer bulletin format)
+    pre_rule_mno = ''
     #
     for line in lines:
         m = RE_MNC_UPD_RULE.search(line)
@@ -541,12 +542,21 @@ def parse_mnc_upd_lines(lines, dbg=True):
             if rem:
                 #    pat 1, MNO compl
                 # or pat 3, MNO start
-                mnclist.append((mnc, [rem]))
+                if pre_rule_mno:
+                    mnclist.append((mnc, [pre_rule_mno, rem]))
+                    pre_rule_mno = ''
+                else:
+                    mnclist.append((mnc, [rem]))
                 mnc_empt = False
             else:
                 # pat 2, MNC only
                 if not mnclist:
-                    if dbg:
+                    if pre_rule_mno:
+                        # MNO was buffered before the rule line; inject as pat 2
+                        mnclist.append(('', [pre_rule_mno]))
+                        mnclist.append((mnc, [mnclist[-1][1].pop()]))
+                        pre_rule_mno = ''
+                    elif dbg:
                         print('>>> buggy MNC declaration: %r' % line)
                 else:
                     mnclist.append((mnc, [mnclist[-1][1].pop()]))
@@ -554,7 +564,11 @@ def parse_mnc_upd_lines(lines, dbg=True):
         else:
             m = RE_MNC_UPD_MNO.search(line)
             if m:
-                assert cntr and rule
+                if not (cntr and rule):
+                    # MNO before rule is found - buffer it for the upcoming rule+MNC line
+                    pre_rule_mno = m.group(1).strip()
+                    mnc_empt = False
+                    continue
                 if mnc_empt:
                     # pat 2, MNO stop
                     if not mnclist:
@@ -635,9 +649,9 @@ The following script extract this list from the bulletin.
 
 RE_SANC_LIST_BEG = re.compile(
     r'\n\s{1,}List of Signalling Area/Network Codes \(SANC\)'
-    r'\n\s{1,}\(Complement to Recommendation ITU-T Q\.708 \(03/99\)\)'
-    r'\n\s{1,}\(Position on 1 June 2017\)\n'
-    r'\n\s{1,}\(Annex to ITU Operational Bulletin No\. 1125 - 1\.VI\.2017\)\n',
+    r'\n\s{1,}\(Complement to Recommendation ITU-T Q\.708 \(03/(?:99|1999)\)\)'
+    r'\n\s{1,}\(Position on [^\n]+\)\n'
+    r'\n\s{1,}\(Annex to ITU Operational Bulletin No\. \d+ - [^\n]+\)\n',
     re.IGNORECASE,
 )
 
@@ -649,7 +663,7 @@ RE_SANC_LIST_END = re.compile(
 
 
 def parse_sanc_list(
-    fn=PATH_PRE + 'T-SP-OB.1125-2017-OAS-PDF-E.txt', dbg=False
+    fn=PATH_PRE + 'T-SP-OB.1293-2024-OAS-PDF-E.txt', dbg=False
 ):
     with open(fn, encoding='utf-8') as fd:
         txt = fd.read()
@@ -733,7 +747,7 @@ RE_SPC_LIST_END = re.compile(
 )
 
 
-def parse_spc_list(fn=PATH_PRE + 'T-SP-OB.1199-2020-OAS-PDF-E.txt', dbg=False):
+def parse_spc_list(fn=PATH_PRE + 'T-SP-OB.1295-2024-OAS-PDF-E.txt', dbg=False):
     with open(fn, encoding='utf-8') as fd:
         txt = fd.read()
         #
@@ -904,15 +918,15 @@ def main():
         print('> error occured during MNC extraction: %r' % err)
         return 1
     try:
-        SPC_1199 = parse_spc_list(
-            PATH_PRE + 'T-SP-OB.1199-2020-OAS-PDF-E.txt', dbg=False
+        SPC_1295 = parse_spc_list(
+            PATH_PRE + 'T-SP-OB.1295-2024-OAS-PDF-E.txt', dbg=False
         )
     except Exception as err:
         print('> error occured during SPC extraction: %r' % err)
         return 1
     try:
-        SANC_1125 = parse_sanc_list(
-            PATH_PRE + 'T-SP-OB.1125-2017-OAS-PDF-E.txt', dbg=False
+        SANC_1293 = parse_sanc_list(
+            PATH_PRE + 'T-SP-OB.1293-2024-OAS-PDF-E.txt', dbg=False
         )
     except Exception as err:
         print('> error occured during SANC extraction: %r' % err)
@@ -937,14 +951,14 @@ def main():
             URL_LICENSE_ITUT,
         )
         generate_json(
-            SPC_1199,
-            PATH_RAW + 'itut_spc_1199.json',
+            SPC_1295,
+            PATH_RAW + 'itut_spc_1295.json',
             [URL_LICENSE_ITUT],
             URL_LICENSE_ITUT,
         )
         generate_json(
-            SANC_1125,
-            PATH_RAW + 'itut_sanc_1125.json',
+            SANC_1293,
+            PATH_RAW + 'itut_sanc_1293.json',
             [URL_LICENSE_ITUT],
             URL_LICENSE_ITUT,
         )
@@ -968,14 +982,14 @@ def main():
             URL_LICENSE_ITUT,
         )
         generate_python(
-            SPC_1199,
-            PATH_RAW + 'itut_spc_1199.py',
+            SPC_1295,
+            PATH_RAW + 'itut_spc_1295.py',
             [URL_LICENSE_ITUT],
             URL_LICENSE_ITUT,
         )
         generate_python(
-            SANC_1125,
-            PATH_RAW + 'itut_sanc_1125.py',
+            SANC_1293,
+            PATH_RAW + 'itut_sanc_1293.py',
             [URL_LICENSE_ITUT],
             URL_LICENSE_ITUT,
         )

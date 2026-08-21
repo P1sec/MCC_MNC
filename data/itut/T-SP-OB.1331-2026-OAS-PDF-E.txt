@@ -1,0 +1,1378 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1331              1.I.2026                   (Information received by 8 December 2025) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                3
+Approval and deletion of ITU-T Recommendations .......................................................................................                              4
+Telephone Service:
+     Denmark (Agency for Digital Government, Copenhagen) .........................................................................                                  8
+     France (Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution
+        de la Presse (Arcep), Paris) ..................................................................................................................            12
+     Guadeloupe (French Department of) (including French part of Saint Martin) (Autorité de Régulation des
+        Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep), Paris) .............                                                  16
+     French Guiana (Autorité de Régulation des Communications Électroniques, des Postes et de la
+        Distribution de la Presse (Arcep), Paris)...............................................................................................                   18
+     Martinique (French Department of) (Autorité de Régulation des Communications Électroniques,
+       des Postes et de la Distribution de la Presse (Arcep), Paris) ................................................................                              20
+     French Departments and Territories in the Indian Ocean (Autorité de Régulation
+        des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep), Paris) ......                                                     22
+     Saint Pierre and Miquelon (Collectivité territoriale de la République française (Autorité de Régulation des
+         Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep), Paris) ............. 24
+     Guyana (Telecommunications Agency, Georgetown) ...............................................................................                                26
+Service Restrictions .........................................................................................................................................     30
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                30
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................         31
+List of International Signalling Point Codes (ISPC) ..........................................................................................                     32
+National Numbering Plan ...............................................................................................................................            32
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1332              15.I.2026            17.XII.2025
+               1333              1.II.2026             15.I.2026
+               1334             15.II.2026             30.I.2026
+               1335              1.III.2026            13.II.2026
+               1336             15.III.2026            27.II.2026
+               1337              1.IV.2026             13.III.2026
+               1338             15.IV.2026             27.III.2026
+               1339              1.V.2026              15.IV.2026
+               1340             15.V.2026              30.IV.2026
+               1341              1.VI.2026             15.V.2026
+               1342             15.VI.2026             29.V.2026
+               1343             1.VII.2026             15.VI.2026
+               1344             15.VII.2026            30.VI.2026
+               1345             1.VIII.2026           15.VII.2026
+               1346            15.VIII.2026           31.VII.2026
+               1347              1.IX.2026            14.VIII.2026
+               1348             15.IX.2026            31.VIII.2026
+               1349              1.X.2026              15.IX.2026
+               1350             15.X.2026              30.IX.2026
+               1351              1.XI.2026             15.X.2026
+               1352             15.XI.2026             31.X.2026
+               1353             1.XII.2026             13.XI.2026
+               1354             15.XII.2026            30.XI.2026
+               1355              1.I.2027             11.XII.2026
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1317 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 June 2025)
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                         Approval and deletion of ITU-T Recommendations
+Approved Recommendations:
+By AAP-27, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+-        ITU-T F.740.12 (12/2025): Metadata for a cultural relics and artworks tracing system based on distributed ledger
+         technology
+-        ITU-T F.743.33 (12/2025): Requirements and framework for computer vision-based anomaly detection service in
+         wind farm
+-        ITU-T F.743.34 (12/2025): Requirements and reference framework of service platform to support industry visual
+         services
+-        ITU-T F.743.35 (12/2025): Requirements and functional architecture for machine vision-based farm intelligent
+         inspection system
+-        ITU-T F.743.36 (12/2025): Requirements for vehicle recognition application in intelligent video surveillance
+         systems
+-        ITU-T F.743.37 (12/2025): Requirements and framework for data sharing service networks
+-        ITU-T F.746.19 (12/2025): Requirements for conversion and collaboration methods in a hybrid work environment
+-        ITU-T F.746.20 (12/2025): Framework for interactive virtual performing arts services
+-        ITU-T F.746.21 (12/2025): Requirements for intelligent user interface services for persons with age-related
+         disabilities
+-        ITU-T F.746.22 (12/2025): Architecture for unified status monitoring systems
+-        ITU-T F.746.23 (12/2025): Requirements and framework for advanced call services with media enhancements
+-        ITU-T F.748.59 (12/2025): Framework and requirements for human-machine interaction-based explainable
+         decision support system
+-        ITU-T F.748.60 (12/2025): General technical requirements and framework for artificial intelligence cloud
+         platform - high availability requirements
+-        ITU-T F.748.61 (12/2025): General technical requirements and framework for artificial intelligence cloud
+         platform - inference optimization
+-        ITU-T F.748.62 (12/2025): Technical framework and requirements for device-edge-cloud collaborative federated
+         machine learning
+-        ITU-T F.748.63 (12/2025): Framework and general technical requirements of foundation model enhanced digital
+         human system
+-        ITU-T F.748.64 (12/2025): Requirements of digital human service platform
+-        ITU-T F.748.65 (12/2025): Requirements and framework of AI-based cognitive inference system for multimedia
+         applications
+-        ITU-T F.748.66 (12/2025): Requirements and framework for embodied artificial intelligence systems
+-        ITU-T F.748.67 (12/2025): Requirements and framework for advanced intelligent customer service system
+-        ITU-T F.748.70 (12/2025): Technical requirements of intelligent development tools for multimedia applications
+-        ITU-T F.748.71 (12/2025): Requirements and functional architecture of AI model generalization system for
+         telecommunication intelligent customer service
+-        ITU-T F.748.72 (12/2025): Requirements and framework of multimodal generative AI enabled multi-view
+         transformation
+-        ITU-T F.748.77 (12/2025): Assessment criteria for foundation models: General
+-        ITU-T F.748.78 (12/2025): Requirements for foundation model training and inference cluster system
+-        ITU-T F.748.79 (12/2025): Requirements and framework of AI based multimedia data generation systems using
+         core cloud and edge cloud
+
+-        ITU-T F.749.7 (12/2025): Requirements for Vulnerable Road Users protection services using vehicle gateway
+-        ITU-T F.749.17 (12/2025): Functional requirements of universal interfaces for purpose-built automated driving
+         system dedicated vehicle
+-        ITU-T F.751.28 (12/2025): Framework for fast message delivery for distributed ledger technology (DLT)-based
+         services
+-        ITU-T F.751.31 (12/2025): Reference framework of distributed ledger technology-based cross-domain settlement
+         for electric vehicle public charging
+-        ITU-T G.641 (11/2025): Terrestrial free space optics for mobile backhaul with short reach interfaces
+-        ITU-T G.665 (11/2025): Generic characteristics of Raman amplifiers and Raman amplified subsystems
+-        ITU-T G.671 (11/2025): Transmission characteristics of optical components and subsystems
+-        ITU-T G.672 (11/2025): Characteristics of multi-degree reconfigurable optical add/drop multiplexers
+-        ITU-T G.681 (11/2025): Distributed fibre optic sensing system for terrestrial optical transmission system
+-        ITU-T G.971 (2024) Cor. 1 (11/2025): General features of optical fibre submarine cable systems - Corrigendum 1
+-        ITU-T G.976 (11/2025): Test methods applicable to optical fibre submarine cable systems
+-        ITU-T G.979 (11/2025): Characteristics of monitoring systems for optical fibre submarine cable systems
+-        ITU-T G.984.3 (2014) Amd. 2 (11/2025): Gigabit-capable passive optical networks (G-PON): Transmission
+         convergence layer specification - Amendment 2
+-        ITU-T G.7710 (11/2025): Common equipment management function requirements
+-        ITU-T G.7716 (11/2025): Architecture of management and control operations
+-        ITU-T G.8020.3 (11/2025): Ethernet
+-        ITU-T G.8052.2/Y.1346.2 (2021) Cor. 2 (11/2025): Resilience information/data models for the Ethernet transport
+         network element - Corrigendum 2
+-        ITU-T G.8262.1 (11/2025): Timing characteristics of enhanced synchronous equipment clock
+-        ITU-T G.8264 (11/2025): Distribution of timing information through packet networks
+-        ITU-T G.8273.2/Y.1368.2 (2023) Amd. 2 (11/2025): Timing characteristics of telecom boundary clocks and
+         telecom time synchronous clocks for use with full timing support from the network - Amendment 2
+-        ITU-T G.8274 (11/2025): Architecture and requirements for packet-based time and phase distribution
+-        ITU-T G.8312.20 (2024) Amd. 2 (11/2025): Overview of fine grain MTN - Amendment 2
+-        ITU-T G.8350 (2022) Amd. 2 (11/2025): Management and control of metro transport networks - Amendment 2
+-        ITU-T G.9802.2 (2023) Amd. 1 (11/2025): Wavelength division multiplexed passive optical networks (WDM PON):
+         physical media dependent (PMD) layer and transmission convergence (TC) layer specifications - Amendment 1
+-        ITU-T G.9805 (2022) Amd. 2 (11/2025): Coexistence of passive optical network systems - Amendment 2
+-        ITU-T G.9930 (2024) Amd. 2 (11/2025): Point-to-point fibre in the premises - Amendment 2
+-        ITU-T H.553 (12/2025): Functional requirements and architecture of vehicular multimedia system for
+         heterogeneous access network selection
+-        ITU-T H.627.4 (12/2025): Protocols of algorithm-training systems for intelligent video surveillance
+-        ITU-T H.643.2 (12/2025): Requirements and architecture for ICN-based mobile multimedia services
+-        ITU-T H.770.1 (12/2025): Service scenarios and high-level requirements for metaverse cross-platform
+         interoperability
+-        ITU-T J.1 (12/2025): Terms, definitions and acronyms for television and sound transmission and integrated
+         broadband cable networks
+-        ITU-T J.1113 (12/2025): Specification for IP-based Digital Video Convergence Service
+-        ITU-T J.1114 (12/2025): Requirements for IP-based Smart Digital Audio Services
+
+-        ITU-T J.1115 (12/2025): Functional Requirements for IP-based Smart Digital Audio Service
+-        ITU-T J.1613 (12/2025): The Capability framework and requirements of cloud gaming smart terminals
+-        ITU-T K.58 (12/2025): EMC, resistibility and safety requirements and guidance for determining responsibility
+         under co-located information and communication technology installations
+-        ITU-T K.59 (12/2025): Electromagnetic compatibility, resistibility and safety requirements and procedures for
+         connection to unbundled cables
+-        ITU-T K.63 (12/2025): Maintaining the suitability of production telecommunications equipment to its intended
+         electromagnetic environment
+-        ITU-T K.127 (12/2025): Immunity requirements for telecommunication equipment in close proximity use of
+         wireless devices
+-        ITU-T K.159 (12/2025): Electromagnetic compatibility requirements and measurement methods for equipment
+         and installations in outdoor applications using power line communication
+-        ITU-T K.160 (12/2025): RF-EMF exposure assessment of wireless communication devices operating close to the
+         human body
+-        ITU-T L.102 (11/2025): Optical fibre cables for aerial application
+-        ITU-T L.105 (11/2025): Optical fibre cables for drop applications
+-        ITU-T L.107 (11/2025): Optical fibre cable for sewer duct applications
+-        ITU-T L.110 (11/2025): Optical fibre cables for direct surface application
+-        ITU-T L.391 (11/2025): Monitoring systems for outside plant facilities
+-        ITU-T L.405 (11/2025): Preconnectorised cabling components for FTTx infrastructures
+-        ITU-T L.1041 (12/2025): Resource saving, e-waste reduction and energy saving system methodology using
+         twisted single pair cable
+-        ITU-T L.1210 (12/2025): Sustainable power-feeding solutions for 5G networks
+-        ITU-T L.1211 (12/2025): Smart controlling methods for photovoltaic system installed in base station site
+-        ITU-T L.1308 (12/2025): Guidelines for the implementation of low-carbon data centres to climate change
+         mitigation and adaptation
+-        ITU-T L.1322 (12/2025): Multi-level metrics for thermal environment and thermal performance of Data Centre
+-        ITU-T L.1341 (12/2025): Functional Requirements for Energy Efficiency in Intelligent Internet of Things Platforms
+-        ITU-T L.1385 (12/2025): Smart Energy Solutions for Manufacturing Industry
+-        ITU-T L.1450 (12/2025): Methodologies for the assessment of the environmental impact of the information and
+         communication technology sector
+-        ITU-T Y.2351 (12/2025): Capability exposure enhancement in next generation network evolution(NGNe)
+-        ITU-T Y.2503 (12/2025): Computing Power Network - Requirements and framework of NGNe orchestration
+         enhancements for supporting computing power network requirements
+-        ITU-T Y.3063 (12/2025): Future networks including IMT-2020 - Framework and requirements for measurement
+         of effectiveness of autonomous networks
+-        ITU-T Y.3064 (12/2025): Autonomous Networks - Knowledge Management
+-        ITU-T Y.3168 (12/2025): Digital Twin for Network Slicing in IMT-2020 networks and beyond
+-        ITU-T Y.3169 (12/2025): Resource Efficiency Optimization for managing User Plane Function in IMT-2020
+         networks and beyond
+-        ITU-T Y.3189 (12/2025): Network slicing in satellite-terrestrial integration in IMT-2020 networks and beyond
+-        ITU-T Y.3190 (12/2025): Requirements capability and mechanism of software defined network awareness in
+         heterogeneous networks
+
+
+
+-        ITU-T Y.3192 (12/2025): Requirements and functional framework for Customer-oriented Network Quality Auto
+         Optimization with Artificial Intelligence
+-        ITU-T Y.3225 (12/2025): Fixed, mobile and satellite convergence - Coordination of networking and computing for
+         IMT-2020 networks and beyond
+-        ITU-T Y.3226 (12/2025): Fixed, mobile and satellite convergence - Requirements and framework of supporting
+         IoT for IMT-2020 networks and beyond
+-        ITU-T Y.3327 (12/2025): Future networks including IMT-2020 - Framework for network complexity evaluation
+-        ITU-T Y.3402 (12/2025): Coordination of networking and computing in IMT-2020 networks and beyond -
+         Management and orchestration
+-        ITU-T Y.3608 (12/2025): Requirements and Framework for the exploitation of Big Data/Artificial Intelligence
+         technologies in developing countries
+-        ITU-T Y.3810 (2024) Cor. 1 (12/2025): Quantum key distribution network interworking – Framework -
+         Corrigendum 1
+-        ITU-T Y.3818 (2024) Cor. 1 (12/2025): Quantum key distribution network interworking – Architecture -
+         Corrigendum 1
+-        ITU-T Y.3831 (12/2025): Integration of quantum key distribution network and user network supporting end-to-
+         end modern cryptography services Functional architecture
+-        ITU-T Y.3832 (12/2025): Quantum key distribution networks - framework for orchestration
+-        ITU-T Y.3833 (12/2025): Quantum key distribution networks - Dependability assessment
+-        ITU-T Y.3834 (12/2025): Quantum key distribution networks - Functional architecture enhancement for
+         autonomic quality of service assurance
+Deleted Recommendations:
+None
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/nnp
+
+Denmark (country code +45)
+Communication of 1.XII.2025:
+The Agency for Digital Government, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     Withdrawals
+
+    Type                   Numbering resource                Provider                         Date of withdrawal
+                           96676fgh; 59452fgh; 59453fgh;     TDC Net A/S                      30 June 2025
+                           44786fgh; 44787fgh; 44788fgh;
+                           44835fgh; 73681fgh; 74151fgh;
+                           54690fgh; 46952fgh; 62235fgh;
+                           62236fgh; 33855fgh; 70147fgh;
+                           32881fgh; 39438fgh; 87791fgh;
+    Fixed communication    58516fgh; 96358fgh; 96359fgh;
+                           89282fgh; 89283fgh; 98457fgh;
+                           98458fgh; 98459fgh; 44279fgh;
+                           76337fgh; 46572fgh; 63352fgh;
+                           32876fgh; 35286fgh; 36315fgh;
+                           36319fgh; 38175fgh; 38253fgh;
+                           89311fgh; 89354fgh; 89448fgh
+
+
+    Type                   Numbering resource                Provider                         Date of withdrawal
+                           3656efgh                          Uni-tel A/S                      21 May 2025
+    Mobile communication
+                           9311efgh                          Enreach Oy                       30 June 2025
+
+
+    Type                   Numbering resource                Provider                         Date of withdrawal
+    ISPC                   ISPC2-077-3                       Banedanmark                      2 May 2025
+
+
+
+
+•     Assignments
+
+    Type                       Numbering resource              Provider                       Date of assignment
+                               3235efgh                        Telavox ApS                    22 January 2025
+                               8810efgh                        Colt Technology Services A/S   19 February 2025
+                               3236efgh                        BICS SA                        1 April 2025
+    Fixed communication        54401fgh; 36101fgh; 70146fgh    Viptel A/S                     1 April 2025
+                               3230efgh                        TDC Net A/S                    1 April 2025
+                               32318fgh                        IPNORDIC A/S                   8 May 2025
+                               35292fgh                        IPNORDIC A/S                   11 June 2025
+
+
+    Type                       Numbering resource              Provider                       Date of assignment
+                               24729fgh; 29961fgh              Cobira ApS                     1 January 2025
+                               3622efgh; 29951fgh; 29954fgh;   Telavox ApS                    22 January 2025
+                               29956fgh; 29957fgh; 29958fgh
+                               4620efgh; 4720efgh; 5560efgh;   Lebara Mobile Denmark          17 February 2025
+                               5720efgh; 5770efgh; 5775efgh;   Limited
+                               5777efgh; 6655efgh; 6656efgh;
+                               6970efgh
+    Mobile communication       3595efgh                        Relatel A/S                    3 March 2025
+                               29972fgh                        IPNORDIC A/S                   14 March 2025
+                               4316efgh; 4317efgh              Mobilevalue ApS                1 April 2025
+                               3576efgh                        Wireless Logic Nordic A/S      14 May 2025
+                               29975fgh; 61536fgh              M-Connectus                    16 May 2025
+                               3656efgh                        Uni-tel A/S                    21 May 2025
+                               6099efgh                        Uni-tel A/S                    27 May 2025
+
+
+    Type                       Numbering ressource             Provider                       Date of assignment
+                               37100624ijkl; 37100625ijkl;     Nexcon.io ApS                  1 February 2025
+                               37100626ijkl; 37100627ijkl;
+                               37100654ijkl; 37100655ijkl;
+                               37100658ijkl 37100659ijkl;
+                               37100660ijkl; 37100661ijkl;
+                               37100662ijkl; 37100663ijkl;
+                               37100664ijkl; 37100665ijkl;
+                               37100666ijkl; 37100667ijkl;
+                               37100668ijkl; 37100669ijkl;
+                               37100670ijkl; 37100671ijkl;
+                               37100672ijkl; 37100673ijkl;
+    M2M communication
+                               37100674ijkl; 37100675ijkl;
+                               37100677ijkl; 37100678ijkl;
+                               37100680ijkl; 37100681ijkl;
+                               37100682ijkl; 37100683ijkl;
+                               37100684ijkl; 37100685ijkl;
+                               37100686ijkl; 37100687ijkl;
+                               37100688ijkl; 37100689ijkl;
+                               37100690ijkl; 37100691ijkl;
+                               37100692ijkl; 37100693ijkl;
+                               37100694ijkl; 37100695ijkl;
+                               37100696ijkl; 37100697ijkl;
+
+Type            Numbering ressource            Provider                          Date of assignment
+                37100698ijkl; 37100699ijkl;
+                37100700ijkl; 37100701ijkl
+                ;37100702ijkl; 37100703ijkl;
+                37100704ijkl; 37100705ijkl;
+                37100706ijkl; 37100707ijkl;
+                37100708ijkl; 37100709ijkl;
+                37100712ijkl; 37100713ijkl;
+                37100714ijkl; 37100715ijkl;
+                37100716ijkl; 37100717ijkl;
+                37100718ijkl; 37100719ijkl;
+                37100720ijkl; 37100721ijkl;
+                37100722ijkl; 37100723ijkl;
+                37100724ijkl; 37100725ijkl;
+                37100726ijkl; 37100727ijkl;
+                37100728ijkl; 37100729ijkl;
+                37100730ijkl
+                37100731ijkl; 37100732ijkl     Relatel A/S                       3 March 2025
+                37100800ijkl; 37100801ijkl;    Wireless Logic Nordic A/S         14 May 2025
+                37100802ijkl; 37100803ijkl;
+                37100804ijkl; 37100990ijkl;
+                37100991ijkl; 37100992ijkl;
+                37100993ijkl; 37100994ijkl
+                37109828ijkl; 37109829ijkl;    Telenor Connexion AB              14 May 2025
+                37109830ijkl; 37109831ijkl;
+                37109832ijkl; 37109833ijkl;
+                37109834ijkl; 37109835ijkl;
+                37109836ijkl; 37109837ijkl;
+                37109838ijkl; 37109839ijkl;
+                37109840ijkl; 37109841ijkl;
+                37109842ijkl; 37109843ijkl;
+                37109844ijkl; 37109845ijkl;
+                37109846ijkl; 37109847ijkl;
+                37109848ijkl; 37109849ijkl;
+                37109850ijkl; 37109851ijkl;
+                37109852ijkl; 37109853ijkl;
+                37109854ijkl; 37109855ijkl;
+                37109856ijkl; 37109857ijkl;
+                37109858ijkl; 37109859ijkl;
+                37109860ijkl; 37109861ijkl;
+                37109862ijkl; 37109863ijkl;
+                37109864ijkl; 37109865ijkl;
+                37109866ijkl; 37109867ijkl;
+                37109868ijkl; 37109869ijkl;
+                37109870ijkl; 37109871ijkl;
+                37109872ijkl; 37109873ijkl;
+                37109874ijkl; 37109875ijkl;
+                37109876ijkl; 37109877ijkl
+
+
+
+
+ Type                         Numbering ressource         Provider                  Date of assignment
+                              NSPC4-10-0; NSPC4-10-3;     Telia Mobil Danmark A/S   4 March 2025
+                              NSPC4-10-4; NSPC4-10-8;
+                              NSPC4-10-10; NSPC4-10-11;
+                              NSPC4-10-12; NSPC4-10-13;
+                              NSPC4-10-14; NSPC4-10-16;
+ NSPC
+                              NSPC4-6-1; NSPC4-6-2;
+                              NSPC4-6-3; NSPC4-6-4;
+                              NSPC4-6-7; NSPC4-6-9;
+                              NSPC4-6-26; NSPC4-6-27;
+                              NSPC4-6-28; NSPC4-6-29
+
+
+Contact:
+        Agency for Digital Government
+        Landgreven 4
+        1301 Copenhagen K
+        Denmark
+        URL: www.digst.dk
+
+
+
+
+France (country code +33)
+Communication of 3.XII.2025:
+The Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep), Paris,
+announces the following national numbering plan in France:
+
+a)        Overview:
+          The minimum number length (excluding the country code) is 4 digits.
+          The maximum number length (excluding the country code) is 13 digits.
+
+b)        Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+          numbering plan (if any): https://extranet.arcep.fr/uploads/MAJNUM.csv
+
+c)        Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): Not publicly available.
+
+d)        Detail of numbering plan:
+
+      NDC (national           N(S)N number length                 Usage of E.164 number                   Additional
+   destination code) or                                                                                  information
+ leading digits of N(S)N    Maximum        Minimum
+  (national (significant)    length         length
+         number)
+           105                9 digits      9 digits     Fix numbers
+         11 to 14             9 digits      9 digits     Fix numbers
+           150                9 digits      9 digits     Fix numbers
+          1510                9 digits      9 digits     Fix numbers for calls and messages of
+                                                         general interest
+      1511 to 1519            9 digits      9 digits     Fix numbers
+       152 to 161             9 digits      9 digits     Fix numbers
+       162 to 163             9 digits      9 digits     Verified fix numbers
+       164 to 189             9 digits      9 digits     Fix numbers
+     19901 to 19909           9 digits      9 digits     Fix numbers
+      1991 to 1999            9 digits      9 digits     Fix numbers
+       210 to 260             9 digits      9 digits     Fix numbers
+      2610 to 2618            9 digits      9 digits     Fix numbers
+          26190               9 digits      9 digits     Fix numbers
+     26192 to 26199           9 digits      9 digits     Fix numbers
+       265 to 267             9 digits      9 digits     Fix numbers
+       270 to 271             9 digits      9 digits     Verified fix numbers
+       272 to 280             9 digits      9 digits     Fix numbers
+          2810                9 digits      9 digits     Fix numbers for calls and messages of
+                                                         general interest
+      2811 to 2819            9 digits      9 digits     Fix numbers
+       282 to 299             9 digits      9 digits     Fix numbers
+       310 to 340             9 digits      9 digits     Fix numbers
+          3410                9 digits      9 digits     Fix numbers for calls and messages of
+                                                         general interest
+      3411 to 3419            9 digits      9 digits     Fix numbers
+       342 to 349             9 digits      9 digits     Fix numbers
+
+     NDC (national         N(S)N number length             Usage of E.164 number           Additional
+  destination code) or                                                                    information
+leading digits of N(S)N    Maximum     Minimum
+ (national (significant)    length      length
+        number)
+      351 to 352            9 digits   9 digits   Fix numbers
+        35300               9 digits   9 digits   Fix numbers
+   35302 to 35309           9 digits   9 digits   Fix numbers
+     3531 to 3539           9 digits   9 digits   Fix numbers
+      354 to 376            9 digits   9 digits   Fix numbers
+      377 to 378            9 digits   9 digits   Verified fix numbers
+      379 to 399            9 digits   9 digits   Fix numbers
+      410 to 423            9 digits   9 digits   Fix numbers
+      424 to 425            9 digits   9 digits   Verified fix numbers
+      426 to 440            9 digits   9 digits   Fix numbers
+         4410               9 digits   9 digits   Fix numbers for calls and messages of
+                                                  general interest
+     4411 to 4419           9 digits   9 digits   Fix numbers
+      442 to 459            9 digits   9 digits   Fix numbers
+     4650 to 4656           9 digits   9 digits   Fix numbers
+        46570               9 digits   9 digits   Fix numbers
+   46572 to 46579           9 digits   9 digits   Fix numbers
+     4658 to 4659           9 digits   9 digits   Fix numbers
+      470 to 499            9 digits   9 digits   Fix numbers
+      516 to 521            9 digits   9 digits   Fix numbers
+     5235 to 5239           9 digits   9 digits   Fix numbers
+      524 to 525            9 digits   9 digits   Fix numbers
+      531 to 535            9 digits   9 digits   Fix numbers
+     5360 to 5363           9 digits   9 digits   Fix numbers
+   53640 to 53648           9 digits   9 digits   Fix numbers
+     5365 to 5369           9 digits   9 digits   Fix numbers
+      537 to 540            9 digits   9 digits   Fix numbers
+         5410               9 digits   9 digits   Fix numbers for calls and messages of
+                                                  general interest
+     5411 to 5419           9 digits   9 digits   Fix numbers
+      542 to 549            9 digits   9 digits   Fix numbers
+      550 to 567            9 digits   9 digits   Fix numbers
+      568 to 569            9 digits   9 digits   Verified fix numbers
+      570 to 589            9 digits   9 digits   Fix numbers
+      601 to 638            9 digits   9 digits   Mobile numbers
+      640 to 652            9 digits   9 digits   Mobile numbers
+      653 to 655            9 digits   9 digits   MSRN
+      656 to 689            9 digits   9 digits   Mobile numbers
+          695               9 digits   9 digits   Mobile numbers
+
+     NDC (national         N(S)N number length              Usage of E.164 number                   Additional
+  destination code) or                                                                             information
+leading digits of N(S)N    Maximum     Minimum
+ (national (significant)    length      length
+        number)
+      698 to 699            9 digits   9 digits    Mobile numbers
+     7000 to 7004          13 digits   13 digits   Mobile numbers for machine to machine
+      730 to 789            9 digits   9 digits    Mobile numbers
+      800 to 805            9 digits   9 digits    Freephone services
+      806 to 809            9 digits   9 digits    Standard rate services
+      810 to 829            9 digits   9 digits    Premium rate services
+          836               9 digits   9 digits    Data services                                 Resources will
+                                                                                                 disappear on 1st
+                                                                                                 January 2031
+          860               9 digits   9 digits    Dial-up internet access                       Resources will
+                                                                                                 disappear on 1st
+                                                                                                 January 2031
+          868               9 digits   9 digits    Dial-up internet access                       Resources will
+                                                                                                 disappear on 1st
+                                                                                                 January 2031
+      890 to 899            9 digits   9 digits    Premium rate services
+     9010 to 9014          13 digits   13 digits   Fix numbers for machine to machine
+      902 to 936            9 digits   9 digits    Fix numbers
+      937 to 938            9 digits   9 digits    Fix numbers for exchange with a platform
+     9390 to 9394           9 digits   9 digits    Fix numbers for exchange with a platform
+      940 to 946            9 digits   9 digits    Fix numbers
+         9410               9 digits   9 digits    Fix numbers for calls and messages of
+                                                   general interest
+     9411 to 9419           9 digits   9 digits    Fix numbers
+      942 to 946            9 digits   9 digits    Fix numbers
+      948 to 949            9 digits   9 digits    Verified fix numbers
+      950 to 975            9 digits   9 digits    Fix numbers
+      977 to 989            9 digits   9 digits    Fix numbers
+     9901 to 9909           9 digits   9 digits    Fix numbers
+      991 to 998            9 digits   9 digits    Fix numbers
+     1000 to 1099           4 digits   4 digits    Short numbers for operator’s support
+     3000 to 3007           4 digits   4 digits    Short numbers for freephone services
+     3009 to 3169           4 digits   4 digits    Short numbers for freephone services
+     3180 to 3199           4 digits   4 digits    Short numbers for freephone services
+     3200 to 3299           4 digits   4 digits    Short numbers for premium rate services
+     3400 to 3499           4 digits   4 digits    Short numbers for premium rate services
+     3600 to 3699           4 digits   4 digits    Short numbers for premium rate services
+     3900 to 3999           4 digits   4 digits    Short numbers for premium rate services
+  118000 to 118099          6 digits   6 digits    Short numbers for directory enquiry
+                                                   services
+
+
+      NDC (national         N(S)N number length                Usage of E.164 number                  Additional
+   destination code) or                                                                              information
+ leading digits of N(S)N    Maximum      Minimum
+  (national (significant)    length       length
+         number)
+   118200 to 118999          6 digits     6 digits    Short numbers for directory enquiry
+                                                      services
+
+Contact:
+     Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep)
+     Numerotation
+     14 rue Gerty Archimède
+     75613 Paris Cedex 12
+     France
+     Tel: +33 1 40 47 72 83
+     E-mail: numerotation@arcep.fr
+     URL: https://extranet.arcep.fr/communications-electroniques/numerotation
+
+
+
+
+Guadeloupe (French Department of) (country code +590) (including French part of Saint Martin)
+Communication of 3.XII.2025:
+The Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep),
+Paris, announces the following numbering plan in Guadeloupe:
+
+a)       Overview:
+         The minimum number length (excluding the country code) is 9 digits.
+         The maximum number length (excluding the country code) is 12 digits.
+
+b)       Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+         numbering plan (if any): https://extranet.arcep.fr/uploads/MAJNUM.csv
+
+c)       Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): Not publicly available.
+
+d)       Detail of numbering plan:
+
+      NDC (national          N(S)N number length
+   destination code) or
+                                                                                                         Additional
+ leading digits of N(S)N    Maximum       Minimum                Usage of E.164 number
+                                                                                                        information
+  (national (significant)    length        length
+         number)
+           590               9 digits      9 digits    Fix numbers
+           591               9 digits      9 digits    Fix numbers
+     59850 to 59854          9 digits      9 digits    Fix numbers for calls and messages of
+                                                       general interest
+          5987               9 digits      9 digits    Verified fix numbers
+       690 to 691            9 digits      9 digits    Mobile numbers
+          7005               12 digits     12 digits   Mobile numbers for machine to machine
+          7090               9 digits      9 digits    MSRN
+       800 to 805            9 digits      9 digits    Freephone services
+       806 to 809            9 digits      9 digits    Standard rate services
+       810 to 829            9 digits      9 digits    Premium rate services
+           836               9 digits      9 digits    Data services                                  Resources will
+                                                                                                      disappear on 1st
+                                                                                                      January 2031
+           860               9 digits      9 digits    Dial-up internet access                        Resources will
+                                                                                                      disappear on 1st
+                                                                                                      January 2031
+           868               9 digits      9 digits    Dial-up internet access                        Resources will
+                                                                                                      disappear on 1st
+                                                                                                      January 2031
+       890 to 899            9 digits      9 digits    Premium rate services
+          9015               12 digits     12 digits   Fix numbers for machine to machine
+          9395               9 digits      9 digits    Fix numbers for exchange with a platform
+     94700 to 94701          9 digits      9 digits    Fix numbers for calls and messages of
+                                                       general interest
+          9475               9 digits      9 digits    Verified fix numbers
+      9760 to 9761           9 digits      9 digits    Fix numbers
+          9768               9 digits      9 digits    Fix numbers
+      3000 to 3007           4 digits      4 digits    Short numbers for freephone services
+
+      NDC (national         N(S)N number length
+   destination code) or
+                                                                                                       Additional
+ leading digits of N(S)N    Maximum      Minimum                Usage of E.164 number
+                                                                                                      information
+  (national (significant)    length       length
+         number)
+      3009 to 3169           4 digits     4 digits    Short numbers for freephone services
+      3180 to 3199           4 digits     4 digits    Short numbers for freephone services
+      3200 to 3299           4 digits     4 digits    Short numbers for premium rate services
+      3400 to 3499           4 digits     4 digits    Short numbers for premium rate services
+      3600 to 3699           4 digits     4 digits    Short numbers for premium rate services
+      3900 to 3999           4 digits     4 digits    Short numbers for premium rate services
+   118000 to 118099          6 digits     6 digits    Short numbers for directory enquiry
+                                                      services
+   118200 to 118999          6 digits     6 digits    Short numbers for directory enquiry
+                                                      services
+
+Contact:
+     Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep)
+     Numerotation
+     14 rue Gerty Archimède
+     75613 Paris Cedex 12
+     France
+     Tel: +33 1 40 47 72 83
+     E-mail:numerotation@arcep.fr
+     URL: https://extranet.arcep.fr/communications-electroniques/numerotation
+
+
+
+
+French Guiana (country code +594)
+Communication of 3.XII.2025:
+The Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep),
+Paris, announces the following numbering plan in French Guiana:
+
+a)       Overview:
+         The minimum number length (excluding the country code) is 9 digits.
+         The maximum number length (excluding the country code) is 12 digits.
+
+b)       Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+         numbering plan (if any): https://extranet.arcep.fr/uploads/MAJNUM.csv
+
+c)       Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): Not publicly available.
+
+d)       Detail of numbering plan:
+
+      NDC (national          N(S)N number length
+   destination code) or
+                                                                                                         Additional
+ leading digits of N(S)N    Maximum       Minimum                Usage of E.164 number
+                                                                                                        information
+  (national (significant)    length        length
+         number)
+           594               9 digits      9 digits    Fix numbers
+     59855 to 59859          9 digits      9 digits    Fix numbers for calls and messages of
+                                                       general interest
+          5988               9 digits      9 digits    Verified fix numbers
+           694               9 digits      9 digits    Mobile numbers
+          7006               12 digits     12 digits   Mobile numbers for machine to machine
+     70930 to 70934          9 digits      9 digits    MSRN
+       800 to 805            9 digits      9 digits    Freephone services
+       806 to 809            9 digits      9 digits    Standard rate services
+       810 to 829            9 digits      9 digits    Premium rate services
+           836               9 digits      9 digits    Data services                                  Resources will
+                                                                                                      disappear on 1st
+                                                                                                      January 2031
+           860               9 digits      9 digits    Dial-up internet access                        Resources will
+                                                                                                      disappear on 1st
+                                                                                                      January 2031
+           868               9 digits      9 digits    Dial-up internet access                        Resources will
+                                                                                                      disappear on 1st
+                                                                                                      January 2031
+       890 to 899            9 digits      9 digits    Premium rate services
+          9016               12 digits     12 digits   Fix numbers for machine to machine
+          9396               9 digits      9 digits    Fix numbers for exchange with a platform
+     94702 to 94703          9 digits      9 digits    Fix numbers for calls and messages of
+                                                       general interest
+          9476               9 digits      9 digits    Verified fix numbers
+      9764 to 9765           9 digits      9 digits    Fix numbers
+      3000 to 3007           4 digits      4 digits    Short numbers for freephone services
+      3009 to 3169           4 digits      4 digits    Short numbers for freephone services
+      3180 to 3199           4 digits      4 digits    Short numbers for freephone services
+
+      NDC (national         N(S)N number length
+   destination code) or
+                                                                                                       Additional
+ leading digits of N(S)N    Maximum      Minimum                Usage of E.164 number
+                                                                                                      information
+  (national (significant)    length       length
+         number)
+      3200 to 3299           4 digits     4 digits    Short numbers for premium rate services
+      3400 to 3499           4 digits     4 digits    Short numbers for premium rate services
+      3600 to 3699           4 digits     4 digits    Short numbers for premium rate services
+      3900 to 3999           4 digits     4 digits    Short numbers for premium rate services
+   118000 to 118099          6 digits     6 digits    Short numbers for directory enquiry
+                                                      services
+   118200 to 118999          6 digits     6 digits    Short numbers for directory enquiry
+                                                      services
+
+Contact:
+     Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep)
+     Numerotation
+     14 rue Gerty Archimède
+     75613 Paris Cedex 12
+     France
+     Tel: +33 1 40 47 72 83
+     E-mail:numerotation@arcep.fr
+     URL: https://extranet.arcep.fr/communications-electroniques/numerotation
+
+
+
+
+Martinique (French Department of) (country code +596)
+Communication of 3.XII.2025:
+The Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep), Paris,
+announces the following numbering plan in Martinique:
+
+a)        Overview:
+          The minimum number length (excluding the country code) is 9 digits.
+          The maximum number length (excluding the country code) is 12 digits.
+
+b)        Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+          numbering plan (if any): https://extranet.arcep.fr/uploads/MAJNUM.csv
+
+c)        Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): Not publicly available.
+
+d)        Detail of numbering plan:
+
+      NDC (national           N(S)N number length
+   destination code) or
+                                                                                                          Additional
+ leading digits of N(S)N    Maximum        Minimum                Usage of E.164 number
+                                                                                                         information
+  (national (significant)    length         length
+         number)
+           596                9 digits      9 digits     Fix numbers
+           597                9 digits      9 digits     Fix numbers
+     59860 to 59864           9 digits      9 digits     Fix numbers for calls and messages of
+                                                         general interest
+          5989                9 digits      9 digits     Verified fix numbers
+       696 to 697             9 digits      9 digits     Mobile numbers
+          7007               12 digits      12 digits    Mobile numbers for machine to machine
+          7091                9 digits      9 digits     MSRN
+       800 to 805             9 digits      9 digits     Freephone services
+       806 to 809             9 digits      9 digits     Standard rate services
+       810 to 829             9 digits      9 digits     Premium rate services
+           836                9 digits      9 digits     Data services                                 Resources will
+                                                                                                       disappear on 1st
+                                                                                                       January 2031
+           860                9 digits      9 digits     Dial-up internet access                       Resources will
+                                                                                                       disappear on 1st
+                                                                                                       January 2031
+           868                9 digits      9 digits     Dial-up internet access                       Resources will
+                                                                                                       disappear on 1st
+                                                                                                       January 2031
+       890 to 899             9 digits      9 digits     Premium rate services
+          9017               12 digits      12 digits    Fix numbers for machine to machine
+          9397                9 digits      9 digits     Fix numbers for exchange with a platform
+     94704 to 94705           9 digits      9 digits     Fix numbers for calls and messages of
+                                                         general interest
+          9477                9 digits      9 digits     Verified fix numbers
+      9766 to 9767            9 digits      9 digits     Fix numbers
+      3000 to 3007            4 digits      4 digits     Short numbers for freephone services
+
+
+      NDC (national         N(S)N number length
+   destination code) or
+                                                                                                      Additional
+ leading digits of N(S)N    Maximum      Minimum               Usage of E.164 number
+                                                                                                     information
+  (national (significant)    length       length
+         number)
+      3009 to 3169           4 digits     4 digits    Short numbers for freephone services
+      3180 to 3199           4 digits     4 digits    Short numbers for freephone services
+      3200 to 3299           4 digits     4 digits    Short numbers for premium rate services
+      3400 to 3499           4 digits     4 digits    Short numbers for premium rate services
+      3600 to 3699           4 digits     4 digits    Short numbers for premium rate services
+      3900 to 3999           4 digits     4 digits    Short numbers for premium rate services
+   118000 to 118099          6 digits     6 digits    Short numbers for directory enquiry
+                                                      services
+   118200 to 118999          6 digits     6 digits    Short numbers for directory enquiry
+                                                      services
+
+Contact:
+     Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep)
+     Numerotation
+     14 rue Gerty Archimède
+     75613 Paris Cedex 12
+     France
+     Tel: +33 1 40 47 72 83
+     E-mail:numerotation@arcep.fr
+     URL: https://extranet.arcep.fr/communications-electroniques/numerotation
+
+
+
+
+French Departments and Territories in the Indian Ocean (country code +262)
+Communication of 3.XII.2025:
+The Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep), Paris,
+announces the following numbering plan:
+
+a)        Overview:
+          The minimum number length (excluding the country code) is 9 digits.
+          The maximum number length (excluding the country code) is 12 digits.
+
+b)        Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+          numbering plan (if any): https://extranet.arcep.fr/uploads/MAJNUM.csv
+
+c)        Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): Not publicly available.
+
+d)        Detail of numbering plan:
+
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum       Minimum               Usage of E.164 number              Additional information
+ (national (significant)    length        length
+        number)
+         26200              9 digits      9 digits    Fix numbers                                 For the French Southern
+                                                                                                  and Antarctic Lands only
+     26201 to 26299         9 digits      9 digits    Fix numbers                                 For Reunion Island only
+          263               9 digits      9 digits    Fix numbers                                 For Reunion Island only
+     26870 to 26874         9 digits      9 digits    Fix numbers for calls and messages of       For Reunion Island only
+                                                      general interest
+     26875 to 26879         9 digits      9 digits    Fix numbers for calls and messages of       For Mayotte only
+                                                      general interest
+         2688               9 digits      9 digits    Verified fix numbers                        For Reunion Island only
+         2689               9 digits      9 digits    Verified fix numbers                        For Mayotte only
+          269               9 digits      9 digits    Fix numbers                                 For Mayotte only
+      6390 to 6398          9 digits      9 digits    Mobile numbers                              For Mayotte only
+     63990 to 63997         9 digits      9 digits    Mobile numbers                              For Mayotte only
+         63999              9 digits      9 digits    Mobile numbers                              For Mayotte only
+       692 to 693           9 digits      9 digits    Mobile numbers                              For Reunion Island only
+         7008              12 digits      12 digits   Mobile numbers for machine to machine       For Mayotte only
+         7009              12 digits      12 digits   Mobile numbers for machine to machine       For Reunion Island only
+         7092               9 digits      9 digits    MSRN                                        For Reunion Island only
+     70935 to 70939         9 digits      9 digits    MSRN                                        For Mayotte only
+       800 to 805           9 digits      9 digits    Freephone services
+       806 to 809           9 digits      9 digits    Standard rate services
+       810 to 829           9 digits      9 digits    Premium rate services
+          836               9 digits      9 digits    Data services                               Resources will disappear
+                                                                                                  on 1st January 2031
+          860               9 digits      9 digits    Dial-up internet access                     Resources will disappear
+                                                                                                  on 1st January 2031
+          868               9 digits      9 digits    Dial-up internet access                     Resources will disappear
+                                                                                                  on 1st January 2031
+       890 to 899           9 digits      9 digits    Premium rate services
+         9018              12 digits      12 digits   Fix numbers for machine to machine          For Mayotte only
+         9019              12 digits      12 digits   Fix numbers for machine to machine          For Reunion Island only
+
+
+
+     NDC (national           N(S)N number length
+  destination code) or
+leading digits of N(S)N      Maximum     Minimum             Usage of E.164 number             Additional information
+ (national (significant)      length      length
+        number)
+           9398               9 digits    9 digits   Fix numbers for exchange with a           For Mayotte only
+                                                     platform
+           9399               9 digits    9 digits   Fix numbers for exchange with a           For Reunion Island only
+                                                     platform
+    94706 to 94707            9 digits    9 digits   Fix numbers for calls and messages of     For Reunion Island only
+                                                     general interest
+    94708 to 94709            9 digits    9 digits   Fix numbers for calls and messages of     For Mayotte only
+                                                     general interest
+        9478                  9 digits    9 digits   Verified fix numbers                      For Mayotte only
+        9479                  9 digits    9 digits   Verified fix numbers                      For Reunion Island only
+     9762 to 9763             9 digits    9 digits   Fix numbers                               For Reunion Island only
+           9769               9 digits    9 digits   Fix numbers                               For Mayotte only
+           9900               9 digits    9 digits   Fix numbers                               For Mayotte only
+     3000 to 3007             4 digits    4 digits   Short numbers for freephone services
+     3009 to 3169             4 digits    4 digits   Short numbers for freephone services
+     3180 to 3199             4 digits    4 digits   Short numbers for freephone services
+     3200 to 3299             4 digits    4 digits   Short numbers for premium rate services
+     3400 to 3499             4 digits    4 digits   Short numbers for premium rate services
+     3600 to 3699             4 digits    4 digits   Short numbers for premium rate services
+     3900 to 3999             4 digits    4 digits   Short numbers for premium rate services
+  118000 to 118099            6 digits    6 digits   Short numbers for directory enquiry
+                                                     services
+  118200 to 118999            6 digits    6 digits   Short numbers for directory enquiry
+                                                     services
+
+Contact:
+      Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep)
+      Numerotation
+      14 rue Gerty Archimède,
+      75613 Paris Cedex 12
+      France
+      Tel: +33 1 40 47 72 83
+      E-mail:numerotation@arcep.fr
+      URL: https://extranet.arcep.fr/communications-electroniques/numerotation
+
+
+
+
+Saint Pierre and Miquelon (Collectivité territoriale de la République française) (country code +508)
+Communication of 3.XII.2025:
+The Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep), Paris,
+announces the following numbering plan:
+
+a)        Overview:
+          The minimum number length (excluding the country code) is 6 digits.
+          The maximum number length (excluding the country code) is 9 digits.
+
+b)        Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+          numbering plan (if any): https://extranet.arcep.fr/uploads/MAJNUM.csv
+
+c)        Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): Not publicly available.
+
+d)        Detail of numbering plan:
+
+      NDC (national           N(S)N number length
+   destination code) or
+                                                                                                          Additional
+ leading digits of N(S)N    Maximum        Minimum               Usage of E.164 number
+                                                                                                         information
+  (national (significant)    length         length
+         number)
+         00 to 59             6 digits      6 digits     Fix and mobile numbers
+            60                6 digits      6 digits     Fix numbers for calls and messages of
+                                                         general interest
+         61 to 99             6 digits      6 digits     Fix and mobile numbers
+     70840 to 70845           9 digits      9 digits     Mobile numbers
+     70850 to 70855           9 digits      9 digits     Mobile numbers
+     70856 to 70859           9 digits      9 digits     MSRN
+       800 to 805             9 digits      9 digits     Freephone services
+       806 to 809             9 digits      9 digits     Standard rate services
+       810 to 829             9 digits      9 digits     Premium rate services
+           836                9 digits      9 digits     Data services                               Resources will
+                                                                                                     disappear on 1st
+                                                                                                     January 2031
+           860                9 digits      9 digits     Dial-up internet access                     Resources will
+                                                                                                     disappear on 1st
+                                                                                                     January 2031
+           868                9 digits      9 digits     Dial-up internet access                     Resources will
+                                                                                                     disappear on 1st
+                                                                                                     January 2031
+       890 to 899             9 digits      9 digits     Premium rate services
+      3000 to 3007            4 digits      4 digits     Short numbers for freephone services
+      3009 to 3169            4 digits      4 digits     Short numbers for freephone services
+      3180 to 3199            4 digits      4 digits     Short numbers for freephone services
+      3200 to 3299            4 digits      4 digits     Short numbers for premium rate services
+      3400 to 3499            4 digits      4 digits     Short numbers for premium rate services
+      3600 to 3699            4 digits      4 digits     Short numbers for premium rate services
+      3900 to 3999            4 digits      4 digits     Short numbers for premium rate services
+
+
+
+      NDC (national         N(S)N number length
+   destination code) or
+                                                                                                     Additional
+ leading digits of N(S)N    Maximum      Minimum               Usage of E.164 number
+                                                                                                    information
+  (national (significant)    length       length
+         number)
+   118000 to 118099          6 digits     6 digits    Short numbers for directory enquiry
+                                                      services
+   118200 to 118999          6 digits     6 digits    Short numbers for directory enquiry
+                                                      services
+
+Contact:
+     Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep)
+     Numerotation
+     14 rue Gerty Archimède,
+     75613 Paris Cedex 12
+     France
+     Tel: +33 1 40 47 72 83
+     E-mail:numerotation@arcep.fr
+     URL: https://extranet.arcep.fr/communications-electroniques/numerotation
+
+
+
+
+Guyana (country code +592)
+Communication of 2.XII.2025:
+The Telecommunications Agency, Georgetown, announces that the following national destination codes (NDC) and
+subscriber number (SN) ranges are currently assigned to the listed public telecommunications operators for the
+Co-operative Republic of Guyana. Numbers allocated to access emergency/social services are also listed below.
+
+                                  Presentation of national ITU-T E.164 numbering plan
+                                                  for country code 592
+a)     Overview:
+       The minimum fixed and mobile number length (excluding the country code) is seven (7) digits.
+       The maximum fixed and mobile number length (excluding the country code) is seven (7) digits.
+       International dialling format: +592 NXX XXXX
+b)     National Database (TBD)
+c)     Real-time Database (TBD)
+
+d)     Detail of numbering plan
+
+Fixed Network
+
+         National           N(S)N number length
+                                                                                               SN range
+     destination code      Maximum        Minimum       Operator/Block assignee
+                                                                                                (XXXX)
+          (NXX)             length         length
+           216                 7              7                                              0000 – 9999
+           217                 7              7                                              0000 – 1999
+           218                 7              7                                              0000 – 9999
+           219                 7              7                                              0000 – 9999
+           220                 7              7          Guyana Telephone and                0000 – 9999
+           221                 7              7            Telegraph Co. Ltd.                2000 – 4999
+           222                 7              7                                              0000 – 9999
+           223                 7              7                                              0000 – 9999
+           225                 7              7                                              0000 – 9999
+           226                 7              7                                              0000 – 9999
+           227                 7              7                                              0000 – 9999
+           228                 7              7                                              0000 – 6999
+           229                 7              7                                              1000 – 8999
+           231                 7              7                                              0000 – 9999
+           232                 7              7                                              0000 – 4999;
+                                                                                             9000 – 9999
+           233                    7           7                                              0000 – 7999
+           234                    7           7          Guyana Telephone and                0000 – 0999
+                                                           Telegraph Co. Ltd.
+           253                    7           7                                              0000 – 5999
+           254                    7           7                                              0000 – 2999
+           255                    7           7                                              0000 – 4999
+           256                    7           7                                              0000 – 5999
+           257                    7           7                                              0000 – 4999
+           258                    7           7                                              0000 – 4999
+           259                    7           7                                              0000 – 4999
+
+
+
+
+      National             N(S)N number length
+                                                                            SN range
+  destination code         Maximum    Minimum    Operator/Block assignee
+                                                                             (XXXX)
+       (NXX)                length     length
+         260                   7          7                                0000 – 6999
+         261                   7          7                                0000 – 9999
+         262                   7          7                                0000 – 2999
+         263                   7          7                                0000 – 7999
+         264                   7          7                                0000 – 4999
+         265                   7          7                                0000 – 8999
+         266                   7          7                                0000 – 7999
+         267                   7          7                                0000 – 3999
+         268                   7          7                                0000 – 5999
+         269                   7          7                                0000 – 2999
+         270                   7          7                                0000 – 9999
+         271                   7          7                                0000 – 9999
+         272                   7          7                                0000 – 2999
+         273                   7          7                                1000 – 1999
+         274                   7          7                                0000 – 2999
+         275                   7          7                                0000 – 2999
+         276                   7          7                                0000 – 5999
+         277                   7          7                                0000 – 5999
+         279                   7          7                                0000 – 4999
+         289                   7          7      Guyana Telephone and      0000 – 9999
+         322                   7          7        Telegraph Co. Ltd.      0000 – 6999
+         325                   7          7                                0000 – 6999
+         326                   7          7                                0000 – 5999
+         327                   7          7                                0000 – 2999,
+                                                                           5000 – 7999
+         328                  7           7                                0000 – 9999
+         329                  7           7                                0000 – 1999,
+                                                                           3000 – 6999
+         330                  7           7                                0000 – 4999
+         331                  7           7                                0000 – 4999
+         332                  7           7                                0000 – 4999
+         333                  7           7                                0000 – 9999
+         334                  7           7                                0000 – 2999
+         335                  7           7                                0000 – 1999,
+                                                                           3000 – 4999
+        336                   7           7                                5000 – 9999
+        337                   7           7                                0000 – 6999
+        338                   7           7                                1000 – 5999
+        339                   7           7                                0000 – 6999
+        440                   7           7                                0000 – 3999
+        441                   7           7                                0000 – 3999
+        442                   7           7                                0000 – 4999
+        444                   7           7                                0000 – 9999
+                                                 Guyana Telephone and
+        455                   7           7                                0000 – 3999
+                                                   Telegraph Co. Ltd.
+        456                   7           7                                0000 – 2999
+      500 – 506               7           7                                0000 – 9999
+
+       National       N(S)N number length
+                                                                              SN range
+   destination code   Maximum    Minimum      Operator/Block assignee
+                                                                               (XXXX)
+        (NXX)          length     length
+         510              7          7                                      0000 – 9999
+                                               U-Mobile (Cellular) Inc.
+         511              7          7                                      0000 – 9999
+         515              7          7             E-Networks Inc.          0000 – 9999
+         771              7          7                                      0000 – 2999,
+                                                                            4000 – 5999
+         772             7           7                                      0000 – 3999
+         773             7           7         Guyana Telephone and         0000 – 2999
+         774             7           7           Telegraph Co. Ltd.         0000 – 2999,
+                                                                            4000 – 5999
+         775             7           7                                      0000 – 3999
+         777             7           7                                      0000 – 9999
+         800             7           7         U-Mobile (Cellular) Inc.     0000 – 0009
+         862             7           7                                      1000 – 1999
+         868             7           7                                      0000 – 3999
+                                               Guyana Telephone and
+         888             7           7                                         8888
+                                                 Telegraph Co. Ltd.
+         899             7           7                                      0000 – 9999
+         900             7           7                                      8000 – 8999
+
+
+Mobile Network
+
+       National       N(S)N Number length
+                                                                             SN range
+   destination code   Maximum    Minimum      Operator/Block assignee
+                                                                              (XXXX)
+        (NXX)          length     length
+      600 – 604           7          7      U-Mobile (Cellular) Inc.       0000 – 9999
+         605             7           7      Quark Communications Inc.      0000 – 0999
+         605             7           7      DNA Enterprise Inc.            1000 – 2999
+         606             7           7      E-Government                   0000 – 0999
+         608             7           7      U-Mobile (Cellular) Inc.       0000 – 0999
+      609 – 629          7           7      Guyana Telephone and           0000 – 9999
+                                            Telegraph Co. Ltd.
+         630             7           7      U-Mobile (Cellular) Inc.       0000 – 9999
+         631             7           7      Green Gibraltar Inc.           0000 – 9999
+      632 – 633          7           7      U-Mobile (Cellular) Inc.       0000 – 9999
+         634             7           7      Guyana Telephone and           0000 – 9999
+                                            Telegraph Co. Ltd.
+         635             7           7      E-Networks Inc.                0000 – 9999
+      636 – 637          7           7      U-Mobile (Cellular) Inc.       0000 – 9999
+      638 – 658          7           7      Guyana Telephone and           0000 – 9999
+                                            Telegraph Co. Ltd.
+      659 – 704          7           7      U-Mobile (Cellular) Inc.       0000 – 9999
+      705 – 709          7           7      Guyana Telephone and           0000 – 9999
+                                            Telegraph Co. Ltd.
+      710 – 720          7           7      E-Networks Inc.                0000 – 9999
+      721 – 722          7           7      U-Mobile (Cellular) Inc.       0000 – 9999
+
+
+        National             N(S)N Number length
+                                                                                          SN range
+    destination code        Maximum       Minimum      Operator/Block assignee
+                                                                                           (XXXX)
+         (NXX)               length        length
+       723 – 724                7             7      U-Mobile (Cellular) Inc.           0000 – 9999
+       725 – 726                7            7       Guyana Telephone and               0000 – 9999
+                                                     Telegraph Co. Ltd.
+       727 – 729                7            7       Guyana Telephone and               0000 – 9999
+                                                     Telegraph Co. Ltd.
+       730 – 732                7            7       E-Networks Inc.                    0000 – 9999
+       733 – 742                7            7       E-Networks Inc.                    0000 – 9999
+       743 – 750                7            7       U-Mobile (Cellular) Inc.           0000 – 9999
+       751 – 759                7            7       Guyana Telephone and               0000 – 9999
+                                                     Telegraph Co. Ltd.
+       760 – 761                7            7       E-Networks Inc.                    0000 – 9999
+       762 – 763                7            7       E-Networks Inc.                    0000 – 9999
+            764                 7            7       E-Networks Inc.                    0000 – 9999
+            765                 7            7       E-Networks Inc.                     0000 - 9999
+       769 – 770                7            7       U-Mobile (Cellular) Inc.           0000 – 9999
+
+      - Newly assigned ranges
+
+Emergency Services
+
+
+  Important                                                                             ITU-T E.164 number or
+                          Service                     Allocated or Assigned
+   number                                                                                national only number
+
+      911                 Police             Allocated in the national numbering plan   National-only number
+                   (Emergency response)
+      912            Fire / Ambulance        Allocated in the national numbering plan   National-only number
+                   (Emergency response)
+      913              Ambulance             Allocated in the national numbering plan   National-only number
+                   (Emergency response)
+      914            Domestic Violence       Allocated in the national numbering plan   National-only number
+                        (Hotline)
+
+Contact:
+           Telecommunications Agency
+           Director of Telecommunications
+           190 Charlotte Street, Bourda,
+           GEORGETOWN
+           Guyana
+           Tel:           +592 225-3104/226-2233
+           E-mail:        odir1@telecoms.gov.gy
+           URL:           www.telecoms.gov.gy
+
+
+
+
+                                          Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                                     Abbreviations used
+                                ADD     Insert                       PAR     Paragraph
+                                COL     Column                       REP     Replace
+                                LIR     Read                         SUP     Delete
+                                P       Page(s)
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                       for public networks and subscriptions
+               (According to Recommendation ITU-T E.212 (06/2016))
+                          (Position on 15 November 2023)
+                               (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                (Amendment No. 48)
+
+
+  Country/Geographical area           MCC+MNC *           Operator/Network
+  Canada ADD
+                                           302 992        AltaLink Management Ltd
+  Estonia ADD
+                                            248 15        BSG Estonia OÜ
+  Ireland ADD
+                                            272 26        Vodafone Ireland Limited
+  Sweden SUP
+                                            240 04        3G Infrastructure Services AB
+  Sweden ADD
+                                            240 58        Telia Sverige AB
+
+
+____________
+*        MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+          MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                          List of International Signalling Point Codes (ISPC)
+                       (According to Recommendation ITU-T Q.708 (03/1999))
+                                        (Position on 1 July 2024)
+
+                                     (Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024)
+                                                      (Amendment No. 29)
+
+
+ Country/                   Unique name of the signalling point           Name of the signalling point operator
+ Geographical Area
+ ISPC          DEC
+
+ Denmark SUP
+ 2-077-3       4715         Banedanmark East                              Banedanmark
+
+ Estonia ADD
+ 2-092-7       4839         TRN2                                          Trinavo LLC
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                       National Numbering Plan
+                        (According to Recommendation ITU-T E.129 (01/2013))
+                                                       Web: www.itu.int/itu-t/nnp
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 1.XII.2025, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                                 Country/Geographical area                          Country Code (CC)
+                      Malta                                                               +356
+                      Morocco                                                             +212
+
+
+
+

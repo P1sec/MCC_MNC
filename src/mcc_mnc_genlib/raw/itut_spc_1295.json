@@ -238,12 +238,6 @@
         "ALBTelecom"
       ],
       [
-        "2-152-1",
-        "5313",
-        "GMSC \u2013 Tirana",
-        "AMC (Albanian Mobile Communications)"
-      ],
-      [
         "2-152-3",
         "5315",
         "GMSC \u2013 Tirana",
@@ -258,14 +252,8 @@
       [
         "2-152-6",
         "5318",
-        "GMSC \u2013 Tirana",
-        "Mobile 4 AL"
-      ],
-      [
-        "2-152-7",
-        "5319",
-        "STP- Tirana",
-        "PLUS COMMUNICATIONS"
+        "SAFECOMM sh.p.k.",
+        "Safecomm Albania"
       ],
       [
         "3-228-0",
@@ -294,8 +282,8 @@
       [
         "3-228-4",
         "7972",
-        "PRIMO IXFR",
-        "PRIMO COMMUNICATIONS"
+        "VIVO IXFR",
+        "TIBO Communications sh.p.k."
       ],
       [
         "3-228-5",
@@ -322,12 +310,6 @@
         "ALBtelecom"
       ],
       [
-        "3-233-1",
-        "8009",
-        "GMSC-AMC2",
-        "AMC (Albanian Mobile Communications)"
-      ],
-      [
         "3-233-2",
         "8010",
         "INFOTEL AL",
@@ -349,7 +331,7 @@
         "3-233-5",
         "8013",
         "ABCom TS1-SOIP",
-        "ABCom"
+        "Vodafone Albania sh.a."
       ],
       [
         "3-233-6",
@@ -376,6 +358,42 @@
         "SELCOM SHPK"
       ],
       [
+        "4-227-2",
+        "10010",
+        "vMSC2_SPX2",
+        "Vodafone Albania sh.a."
+      ],
+      [
+        "4-227-3",
+        "10011",
+        "vMSC2_SPX1",
+        "Vodafone Albania sh.a."
+      ],
+      [
+        "4-227-4",
+        "10012",
+        "271C",
+        "ONE TELECOMMUNICATIONS sh.a"
+      ],
+      [
+        "4-227-5",
+        "10013",
+        "271D",
+        "ONE TELECOMMUNICATIONS sh.a"
+      ],
+      [
+        "4-227-6",
+        "10014",
+        "271E",
+        "ONE TELECOMMUNICATIONS sh.a"
+      ],
+      [
+        "4-227-7",
+        "10015",
+        "271F",
+        "ONE TELECOMMUNICATIONS sh.a"
+      ],
+      [
         "7-219-0",
         "16088",
         "PEGASUS ALBANIA",
@@ -384,26 +402,32 @@
       [
         "7-219-1",
         "16089",
-        "Alb.Tel.Partner",
-        "Albanian Telecommunication Partners sh.p.k"
+        "vMSC1_SPX2",
+        "Vodafone Albania sh.a."
       ],
       [
         "7-219-2",
         "16090",
-        "PROTON Communication",
-        "Proton Communication Sh.p.k"
+        "vMSC1_SPX1",
+        "Vodafone Albania sh.a."
+      ],
+      [
+        "7-219-3",
+        "16091",
+        "vMSC2_BC",
+        "Vodafone Albania sh.a."
       ],
       [
         "7-219-4",
         "16092",
-        "UNIFI Albania",
-        "UNIFI Holdings INC Dega n\u00eb Shqiperi"
+        "vMSC1_BC",
+        "Vodafone Albania sh.a."
       ],
       [
-        "7-219-5",
-        "16093",
-        "Bleta sh.p.k.",
-        "BLETA ALBANIA"
+        "7-219-6",
+        "16094",
+        "Metis Communications Albania",
+        "Metis Communications sh.p.k."
       ]
     ],
     "Algeria": [
@@ -496,8 +520,20 @@
       [
         "5-088-0",
         "10944",
-        "Pago Pago, American Samoa",
-        "American Samoa Telecommunications Authority (ASTCA)"
+        "Pago Pago, American Samoa (ASTCA)",
+        "American Samoa Telecommunications Authority"
+      ],
+      [
+        "5-088-1",
+        "10945",
+        "Iliili , AS",
+        "AST Telecom, LLC dba Bluesky"
+      ],
+      [
+        "5-088-2",
+        "10946",
+        "Iliili , AS (2)",
+        "AST Telecom, LLC dba Bluesky"
       ],
       [
         "5-088-4",
@@ -580,6 +616,12 @@
         "12795",
         "ISC4",
         "ItelNet"
+      ],
+      [
+        "6-063-4",
+        "12796",
+        "ISC5",
+        "AFRICELL"
       ]
     ],
     "Anguilla": [
@@ -3296,6 +3338,18 @@
     ],
     "Benin": [
       [
+        "6-031-6",
+        "12542",
+        "Ganhi SPS",
+        "SBIN S.A."
+      ],
+      [
+        "6-031-7",
+        "12543",
+        "Fidjross\u00e8 SPS",
+        "SBIN S.A."
+      ],
+      [
         "6-032-1",
         "12545",
         "",
@@ -3312,18 +3366,6 @@
         "12547",
         "",
         "SPACETEL BENIN"
-      ],
-      [
-        "6-032-4",
-        "12548",
-        "",
-        "BELL BENIN"
-      ],
-      [
-        "6-032-5",
-        "12549",
-        "",
-        "GLO MOBILE BENIN"
       ],
       [
         "6-032-6",
@@ -3375,7 +3417,49 @@
         "4-072-0",
         "8768",
         "",
-        "Bhutan Telecom Ltd."
+        "Bhutan Telecom Ltd"
+      ],
+      [
+        "4-072-1",
+        "8769",
+        "International Gateway",
+        "Bhutan Telecom Ltd"
+      ],
+      [
+        "4-072-2",
+        "8770",
+        "International Gateway",
+        "Tashi InfoComm Ltd"
+      ],
+      [
+        "4-072-3",
+        "8771",
+        "MSC",
+        "Bhutan Telecom Ltd"
+      ],
+      [
+        "4-072-4",
+        "8772",
+        "MSC",
+        "Bhutan Telecom Ltd"
+      ],
+      [
+        "4-072-5",
+        "8773",
+        "MSC",
+        "Bhutan Telecom Ltd"
+      ],
+      [
+        "4-072-6",
+        "8774",
+        "International Gateway",
+        "Tashi InfoComm Ltd"
+      ],
+      [
+        "4-072-7",
+        "8775",
+        "International Gateway",
+        "Tashi InfoComm Ltd"
       ]
     ],
     "Bolivia (Plurinational State of)": [
@@ -3766,12 +3850,6 @@
         "5847",
         "Zenica/STPZE",
         "BH Telecom d.d. Sarajevo"
-      ],
-      [
-        "2-219-0",
-        "5848",
-        "T3/SA1 Sarajevo",
-        "Teledigital d.d. Sarajevo"
       ],
       [
         "2-219-2",
@@ -4294,6 +4372,12 @@
         "NEXTEL (SMP)"
       ],
       [
+        "7-056-0",
+        "14784",
+        "PTS/SP/FRANCA",
+        "Algar Telecom S/A"
+      ],
+      [
         "7-056-1",
         "14785",
         "SANTO ANDRE-ALEXANDRE DE GUSMAO- SPO",
@@ -4322,6 +4406,54 @@
         "14789",
         "SPO.RIS.INT.01 Rua dos Ingleses, 600, Sao Paulo",
         "DATORA"
+      ],
+      [
+        "7-056-6",
+        "14790",
+        "STP1 Surf/SP/SANTO ANDRE",
+        "SURF TELECOM SA"
+      ],
+      [
+        "7-056-7",
+        "14791",
+        "STP2 Surf/SP/SANTO ANDRE",
+        "SURF TELECOM SA"
+      ],
+      [
+        "7-057-0",
+        "14792",
+        "SMSC Alaris 01/RJ/Rio de Janeiro",
+        "TELEXPERTS TELECOMUNICACOES LTDA"
+      ],
+      [
+        "7-057-1",
+        "14793",
+        "PTS/MG/UBERLANDIA",
+        "Algar Telecom S/A"
+      ],
+      [
+        "7-057-2",
+        "14794",
+        "CPC2RJ3SM3/RJ/RIO DE JANEIRO",
+        "Claro S.A."
+      ],
+      [
+        "7-057-3",
+        "14795",
+        "PTS/SP/BARUERI",
+        "SURF TELECOM SA"
+      ],
+      [
+        "7-057-4",
+        "14796",
+        "PTS/SP/SAO PAULO",
+        "SURF TELECOM SA"
+      ],
+      [
+        "7-057-5",
+        "14797",
+        "Faria Lima, 1912/SP/S\u00e3o Paulo",
+        "AMERICA NET LTDA"
       ]
     ],
     "British Virgin Islands": [
@@ -4762,6 +4894,12 @@
         "12502",
         "BOSPS1",
         "ORANGE BURKINA FASO SA"
+      ],
+      [
+        "6-026-7",
+        "12503",
+        "Complexe technique Moov-Africa de ZAD, OUAGADOUGOU",
+        "ONATEL S.A."
       ]
     ],
     "Burundi": [
@@ -6260,27 +6398,9 @@
     ],
     "Colombia": [
       [
-        "7-064-0",
-        "14848",
-        "E-10 MT - BOGOT\u00c1",
-        "COLOMBIA TELECOMUNICACIONES S.A. ESP"
-      ],
-      [
         "7-064-1",
         "14849",
         "AXE NORTE - BOGOT\u00c1",
-        "COLOMBIA TELECOMUNICACIONES S.A. ESP"
-      ],
-      [
-        "7-064-2",
-        "14850",
-        "AXE - BARRANQUILLA",
-        "COLOMBIA TELECOMUNICACIONES S.A. ESP"
-      ],
-      [
-        "7-064-3",
-        "14851",
-        "E-10 MT",
         "COLOMBIA TELECOMUNICACIONES S.A. ESP"
       ],
       [
@@ -6304,19 +6424,13 @@
       [
         "7-064-7",
         "14855",
-        "EWSD VERSI\u00d3N 12 - CALI S.A. ESP.",
+        "EWSD VERSI\u00d3N 12 SIEMENS - CALI S.A. ESP.",
         "EMPRESA DE TELECOMUNICACIONES DE BOGOT\u00c1"
       ],
       [
         "7-065-0",
         "14856",
         "AXE-10 BOGOT\u00c1 - CENTRO",
-        "COLOMBIA TELECOMUNICACIONES S.A. ESP"
-      ],
-      [
-        "7-065-1",
-        "14857",
-        "AXE 10 BARRANQUILLA - EL PELU",
         "COLOMBIA TELECOMUNICACIONES S.A. ESP"
       ],
       [
@@ -6374,34 +6488,10 @@
         "TELMEX TELECOMUNICACIONES S.A. ESP"
       ],
       [
-        "7-066-3",
-        "14867",
-        "NETUNO GW STP/ITP SS7- BOGOTA E.S.P.",
-        "COMVOZ COMUNICACIONES DE COLOMBIA S.A."
-      ],
-      [
         "7-066-4",
         "14868",
         "AVANTEL- BOGOTA",
         "AVANTEL S.A.S"
-      ],
-      [
-        "7-066-5",
-        "14869",
-        "CASTELLANA- BOGOTA",
-        "COLOMBIA MOVIL S.A. E.S.P."
-      ],
-      [
-        "7-066-6",
-        "14870",
-        "AUTOPISTA- BOGOTA",
-        "COLOMBIA MOVIL S.A. E.S.P."
-      ],
-      [
-        "7-066-7",
-        "14871",
-        "TABOR- BARRANQUILLA",
-        "COLOMBIA MOVIL S.A. E.S.P."
       ],
       [
         "7-067-0",
@@ -6468,6 +6558,18 @@
         "15218",
         "SETROCOMVINTREDUNDAN- BOGOTA",
         "SETROC MOBILE GROUP SAS"
+      ],
+      [
+        "7-111-0",
+        "15224",
+        "STP01BTAI",
+        "PARTNERS TELECOM COLOMBIA SAS"
+      ],
+      [
+        "7-111-1",
+        "15225",
+        "STP01MEDI",
+        "PARTNERS TELECOM COLOMBIA SAS"
       ],
       [
         "7-216-0",
@@ -7056,8 +7158,8 @@
       [
         "3-124-3",
         "7139",
-        "Cura\u00e7ao/ANM",
-        "Antillean Network Management"
+        "Cura\u00e7ao/TerraM",
+        "TerraMobile"
       ],
       [
         "3-124-4",
@@ -7066,34 +7168,10 @@
         "Antelecom"
       ],
       [
-        "3-124-6",
-        "7142",
-        "Cura\u00e7ao/GSN",
-        "GSN International Telecom"
-      ],
-      [
-        "3-125-0",
-        "7144",
-        "Cura\u00e7ao/ANM0102",
-        "Antillean Network Management"
-      ],
-      [
         "3-125-1",
         "7145",
         "Cura\u00e7ao/Setel GSM",
         "Setel"
-      ],
-      [
-        "3-125-2",
-        "7146",
-        "Cura\u00e7ao 1",
-        "Third Wave Int."
-      ],
-      [
-        "3-125-3",
-        "7147",
-        "Cura\u00e7ao 2",
-        "Third Wave Int."
       ],
       [
         "3-125-4",
@@ -7212,6 +7290,60 @@
         "FEBO TELECOM LTD"
       ],
       [
+        "5-215-1",
+        "11961",
+        "LIM/AMA1, Limassol",
+        "Cyprus Telecommunications Authority (CYTA)"
+      ],
+      [
+        "5-215-2",
+        "11962",
+        "LIM/AMA2, Limassol",
+        "Cyprus Telecommunications Authority (CYTA)"
+      ],
+      [
+        "5-215-3",
+        "11963",
+        "LIM/AMA3, Limassol",
+        "Cyprus Telecommunications Authority (CYTA)"
+      ],
+      [
+        "5-215-4",
+        "11964",
+        "NIC/PLA1, Nicosia",
+        "Cyprus Telecommunications Authority (CYTA)"
+      ],
+      [
+        "5-215-5",
+        "11965",
+        "NIC/PLA2, Nicosia",
+        "Cyprus Telecommunications Authority (CYTA)"
+      ],
+      [
+        "5-215-6",
+        "11966",
+        "NIC/PLA3, Nicosia",
+        "Cyprus Telecommunications Authority (CYTA)"
+      ],
+      [
+        "5-215-7",
+        "11967",
+        "Alias for NN STP-1&STP-2",
+        "Cablenet Communication Systems Ltd"
+      ],
+      [
+        "5-219-0",
+        "11992",
+        "NN-STP-1, Nicosia",
+        "Cablenet Communication Systems Ltd"
+      ],
+      [
+        "5-219-1",
+        "11993",
+        "NN-STP-2, Limassol",
+        "Cablenet Communication Systems Ltd"
+      ],
+      [
         "5-237-0",
         "12136",
         "MTNCYSTP1, Nicosia",
@@ -7310,111 +7442,69 @@
     ],
     "Czech Rep.": [
       [
-        "2-060-1",
-        "4577",
-        "MSSBRB2",
-        "T-Mobile Czech Republic a.s."
-      ],
-      [
-        "2-060-2",
-        "4578",
-        "MSSRZT1",
-        "T-Mobile Czech Republic a.s."
-      ],
-      [
-        "2-060-3",
-        "4579",
-        "Tiscali CZ",
-        "CD-Telematika a.s."
-      ],
-      [
         "2-060-4",
         "4580",
         "SZDC",
-        "Sprava zeleznicni dopravni cesty, st org."
-      ],
-      [
-        "2-060-5",
-        "4581",
-        "Ceznet Praha CZ",
-        "Telco pro Service, a.s."
+        "Sprava zeleznic, statni organizace"
       ],
       [
         "2-060-6",
         "4582",
         "SZDC CZ",
-        "Sprava zeleznicni dopravni cesty, st org."
+        "Sprava zeleznic, statni organizace"
       ],
       [
         "2-228-1",
         "5921",
         "Praha, SA-STP",
-        "\u010cesk\u00e1 telekomunika\u010dn\u00ed infrastruktura a.s."
+        "CETIN a.s."
       ],
       [
         "2-228-2",
         "5922",
         "Brno, SA STP",
-        "\u010cesk\u00e1 telekomunika\u010dn\u00ed infrastruktura a.s."
+        "CETIN a.s."
       ],
       [
         "2-228-5",
         "5925",
         "SZDC",
-        "Sprava zeleznicni dopravni cesty, st org."
-      ],
-      [
-        "2-228-6",
-        "5926",
-        "CEZnet Praha CZ",
-        "Telco pro Service, a.s."
+        "Sprava zeleznic, statni organizace"
       ],
       [
         "2-229-0",
         "5928",
         "BT Czech Republic",
-        "BT (Worldwide) Ltd., organizacni slozka"
+        "BT Global Europe B.V."
       ],
       [
         "2-229-1",
         "5929",
         "Praha, International exchange",
-        "\u010cesk\u00e1 telekomunika\u010dn\u00ed infrastruktura a.s."
+        "CETIN a.s."
       ],
       [
         "2-229-2",
         "5930",
         "Brno, International exchange",
-        "\u010cesk\u00e1 telekomunika\u010dn\u00ed infrastruktura a.s."
+        "CETIN a.s."
       ],
       [
-        "2-229-4",
-        "5932",
-        "Praha CS",
-        "T-Mobile Czech Republic a.s."
+        "2-229-6",
+        "5934",
+        "DTC1",
+        "DataCell s.r.o."
       ],
       [
-        "2-229-5",
-        "5933",
-        "Brno CS",
-        "T-Mobile Czech Republic a.s."
+        "2-229-7",
+        "5935",
+        "DTC2",
+        "DataCell s.r.o."
       ],
       [
-        "2-230-1",
-        "5937",
-        "MSS HRK 1",
-        "T-Mobile Czech Republic a.s."
-      ],
-      [
-        "2-230-3",
-        "5939",
-        "TS1PG",
-        "O2 Czech Republic a.s."
-      ],
-      [
-        "2-230-4",
-        "5940",
-        "TS1BM",
+        "2-230-2",
+        "5938",
+        "TS2P5",
         "O2 Czech Republic a.s."
       ],
       [
@@ -7430,16 +7520,10 @@
         "O2 Czech Republic a.s."
       ],
       [
-        "2-230-7",
-        "5943",
-        "MSS BRN",
-        "T-Mobile Czech Republic a.s."
-      ],
-      [
         "2-231-3",
         "5947",
         "SZDC",
-        "Sprava zeleznicni dopravni cesty, st org."
+        "Sprava zeleznic, statni organizace"
       ],
       [
         "2-231-4",
@@ -7457,18 +7541,12 @@
         "2-231-6",
         "5950",
         "DIAL-PRAHA CZ",
-        "Dial Telecom, a..s."
-      ],
-      [
-        "2-231-7",
-        "5951",
-        "MSS PRC 1",
-        "T-Mobile Czech Republic a.s."
+        "Quantcom, a.s."
       ],
       [
         "6-234-0",
         "14160",
-        "VF STP Praha",
+        "MSC2",
         "Vodafone Czech Republic a.s."
       ],
       [
@@ -7487,6 +7565,18 @@
         "6-234-3",
         "14163",
         "VF STP Brno 2",
+        "Vodafone Czech Republic a.s."
+      ],
+      [
+        "6-234-4",
+        "14164",
+        "MSC9",
+        "Vodafone Czech Republic a.s."
+      ],
+      [
+        "6-234-5",
+        "14165",
+        "MSC3",
         "Vodafone Czech Republic a.s."
       ]
     ],
@@ -7718,18 +7808,6 @@
     ],
     "Denmark": [
       [
-        "2-076-0",
-        "4704",
-        "Copenhagen - Copenhagen dnc",
-        "TDC A/S"
-      ],
-      [
-        "2-076-2",
-        "4706",
-        "Copenhagen - Albertslund dnc",
-        "TDC A/S"
-      ],
-      [
         "2-076-5",
         "4709",
         "",
@@ -7766,34 +7844,16 @@
         "Banedanmark"
       ],
       [
-        "2-078-1",
-        "4721",
-        "Copenhagen - Ejby LS",
-        "TeliaSonera AB"
-      ],
-      [
         "2-078-5",
         "4725",
         "",
         "Barablu Mobile Ltd"
       ],
       [
-        "2-079-4",
-        "4732",
-        "Copenhagen - Orestaden LS",
-        "TeliaSonera AB"
-      ],
-      [
         "2-079-5",
         "4733",
         "Telehouse Glostrup",
         "Digital Network"
-      ],
-      [
-        "2-217-1",
-        "5833",
-        "Copenhagen",
-        "COLT Telecom"
       ]
     ],
     "Dominica": [
@@ -8068,6 +8128,18 @@
         "Etisalat"
       ],
       [
+        "6-003-6",
+        "12318",
+        "SGW",
+        "Telecom Egypt"
+      ],
+      [
+        "6-003-7",
+        "12319",
+        "MSC",
+        "Telecom Egypt"
+      ],
+      [
         "6-004-0",
         "12320",
         "CAI 1 Ramsis/Cairo",
@@ -8083,13 +8155,19 @@
         "6-004-2",
         "12322",
         "Heliopolis",
-        "Mobinil"
+        "Orange"
       ],
       [
         "6-004-3",
         "12323",
         "Obour",
-        "Mobinil"
+        "Orange"
+      ],
+      [
+        "6-004-4",
+        "12324",
+        "vCTC Ramsis",
+        "Telecom Egypt"
       ],
       [
         "6-004-5",
@@ -8102,6 +8180,24 @@
         "12326",
         "Haby 2",
         "Vodafone"
+      ],
+      [
+        "6-004-7",
+        "12327",
+        "Vctc Auto",
+        "Telecom Egypt"
+      ],
+      [
+        "6-005-0",
+        "12328",
+        "IP-STP Ramsis",
+        "Telecom Egypt"
+      ],
+      [
+        "6-005-1",
+        "12329",
+        "IP-STP Auto",
+        "Telecom Egypt"
       ],
       [
         "6-005-2",
@@ -8131,6 +8227,12 @@
         "6-005-6",
         "12334",
         "Almaza, Cairo",
+        "Telecom Egypt"
+      ],
+      [
+        "6-005-7",
+        "12335",
+        "EL AMMARIYA INT",
         "Telecom Egypt"
       ]
     ],
@@ -8406,16 +8508,10 @@
         "Tele2 Eesti AS"
       ],
       [
-        "2-092-5",
-        "4837",
-        "Tallin",
-        "OU Top Connect"
-      ],
-      [
-        "2-092-6",
-        "4838",
-        "Tallinn",
-        "OU Top Connect"
+        "2-092-4",
+        "4836",
+        "MCTLN01",
+        "M2MConnect O\u00dc"
       ],
       [
         "2-092-7",
@@ -8428,12 +8524,6 @@
         "5688",
         "Tallinn",
         "AS STV"
-      ],
-      [
-        "2-199-3",
-        "5691",
-        "STP4",
-        "Top Connect O\u00dc"
       ],
       [
         "2-199-5",
@@ -8458,6 +8548,12 @@
         "8096",
         "Novametro1",
         "Novametro O\u00dc"
+      ],
+      [
+        "3-244-2",
+        "8098",
+        "DOTTEL77",
+        "DOTT Telecom O\u00dc"
       ],
       [
         "3-244-4",
@@ -8526,22 +8622,16 @@
         "Tele2 Eesti Aktsiaselts"
       ],
       [
-        "6-227-5",
-        "14109",
-        "Tallinn",
-        "Nord Connect O\u00dc"
+        "6-227-0",
+        "14104",
+        "NETSYS1",
+        "Nettora Systems O\u00dc"
       ],
       [
-        "6-227-6",
-        "14110",
-        "Tallinn",
-        "AS Eesti Telekom"
-      ],
-      [
-        "6-227-7",
-        "14111",
-        "Tallinn",
-        "AS Eesti Telekom"
+        "6-227-1",
+        "14105",
+        "NETSYS2",
+        "Nettora Systems O\u00dc"
       ]
     ],
     "Eswatini": [
@@ -8622,6 +8712,12 @@
         "7578",
         "FT MSS",
         "Foroya Tele"
+      ],
+      [
+        "3-179-3",
+        "7579",
+        "KMSC01",
+        "FT Samskifti P/F"
       ],
       [
         "3-179-5",
@@ -8730,24 +8826,6 @@
         "Telia Finland Oyj"
       ],
       [
-        "2-088-6",
-        "4806",
-        "Helsinki (MGTS)",
-        "Telia Finland Oyj"
-      ],
-      [
-        "2-089-1",
-        "4809",
-        "Helsinki (GIWU)",
-        "Telia Finland Oyj"
-      ],
-      [
-        "2-089-3",
-        "4811",
-        "H\u00e4meenlinna (HML1 Surpass MGC)",
-        "Telia Finland Oyj"
-      ],
-      [
         "2-089-4",
         "4812",
         "Helsinki (HMG02 TSIC)",
@@ -8764,12 +8842,6 @@
         "4814",
         "Lahti (STPLA1, STP-keskus)",
         "DNA Oyj"
-      ],
-      [
-        "2-089-7",
-        "4815",
-        "Hyvink\u00e4\u00e4 (KOE10 Surpass)",
-        "Telia Finland Oyj"
       ],
       [
         "2-090-0",
@@ -8802,46 +8874,10 @@
         "Elisa Oyj"
       ],
       [
-        "2-090-7",
-        "4823",
-        "Helsinki (SMS02HKP)",
-        "Telia Finland Oyj"
-      ],
-      [
-        "2-091-0",
-        "4824",
-        "Tampere (SMS03TRE)",
-        "Telia Finland Oyj"
-      ],
-      [
         "2-091-1",
         "4825",
         "Helsinki/Jorvas (FITEST)",
         "Elisa Oyj"
-      ],
-      [
-        "2-254-0",
-        "6128",
-        "Helsinki (HKISTP4)",
-        "Telia Finland Oyj"
-      ],
-      [
-        "2-254-1",
-        "6129",
-        "Helsinki (SMS01HKI)",
-        "Telia Finland Oyj"
-      ],
-      [
-        "2-254-2",
-        "6130",
-        "Helsinki (Globetel1)",
-        "Globetel Oy"
-      ],
-      [
-        "2-254-5",
-        "6133",
-        "Tampere (TRESTP5)",
-        "Telia Finland Oyj"
       ],
       [
         "2-254-7",
@@ -8872,8 +8908,8 @@
       [
         "2-016-0",
         "4224",
-        "Sewan Communications - Courbevoie",
-        "Sewan Communications"
+        "Sewan - Courbevoie",
+        "Sewan"
       ],
       [
         "2-016-1",
@@ -8932,8 +8968,8 @@
       [
         "2-017-3",
         "4235",
-        "Wavecrest - Boulogne 1",
-        "Wavecrest Communications France"
+        "V\u00e9rizon France Mons en Baroeul",
+        "V\u00e9rizon France"
       ],
       [
         "2-017-4",
@@ -9166,8 +9202,8 @@
       [
         "2-022-2",
         "4274",
-        "Equant France-Paris Neo POP",
-        "Equant"
+        "Orange \u2013 Paris NEO POP",
+        "Orange"
       ],
       [
         "2-022-3",
@@ -9202,8 +9238,8 @@
       [
         "2-023-0",
         "4280",
-        "Budget Telecom \u2013 Paris 2",
-        "Budget Telecom"
+        "MINT - Paris 2",
+        "MINT"
       ],
       [
         "2-023-1",
@@ -9214,8 +9250,8 @@
       [
         "2-023-2",
         "4282",
-        "BJT Partners \u2013 Paris 1",
-        "BJT Partners"
+        "Maore Mobile - Paris 1",
+        "Maore Mobile"
       ],
       [
         "2-023-3",
@@ -9232,8 +9268,8 @@
       [
         "2-023-5",
         "4285",
-        "BJT Partners \u2013 Paris 2",
-        "BJT Partners"
+        "Maore Mobile - Paris 2",
+        "Maore Mobile"
       ],
       [
         "2-023-6",
@@ -9244,8 +9280,8 @@
       [
         "2-023-7",
         "4287",
-        "Telecom Italia - POP Lille 1",
-        "Telecom Italia"
+        "Transatel - Paris 3",
+        "Transatel"
       ],
       [
         "2-149-0",
@@ -9268,8 +9304,8 @@
       [
         "2-149-3",
         "5291",
-        "Telia France 1",
-        "Telia France"
+        "Airnity - Paris 1",
+        "Airnity"
       ],
       [
         "2-149-4",
@@ -9340,20 +9376,20 @@
       [
         "2-150-7",
         "5303",
-        "Prosodie 1",
-        "Prosodie"
+        "Odigo",
+        "Odigo"
       ],
       [
         "2-151-0",
         "5304",
-        "SAP France \u2013 Courbevoie 1 bis",
-        "SAP France"
+        "Sinch Sweden AB - Courbevoie 1",
+        "Sinch Sweden AB"
       ],
       [
         "2-151-1",
         "5305",
-        "SAP France \u2013 Courbevoie 2 bis",
-        "SAP France"
+        "Sinch Sweden AB - Courbevoie 2",
+        "Sinch Sweden AB"
       ],
       [
         "2-151-2",
@@ -9364,14 +9400,14 @@
       [
         "2-151-3",
         "5307",
-        "Symacom - Paris 2",
-        "Symacom"
+        "Syma - Paris 2",
+        "Syma"
       ],
       [
         "2-151-4",
         "5308",
-        "Equant 1",
-        "Equant Telecommunications SA"
+        "Transatel - Saint Denis 1",
+        "Transatel"
       ],
       [
         "2-151-5",
@@ -9388,14 +9424,14 @@
       [
         "2-151-7",
         "5311",
-        "Multicoms 1",
-        "Multicoms"
+        "Syma - Aubervilliers Interxion PAR 1",
+        "Syma"
       ],
       [
         "2-201-0",
         "5704",
-        "Telecom Italia - POP Nantes 1",
-        "Telecom Italia"
+        "Airnity - Paris 2",
+        "Airnity"
       ],
       [
         "2-201-1",
@@ -9414,6 +9450,12 @@
         "5707",
         "Colt 3",
         "Colt Telecommunications"
+      ],
+      [
+        "2-201-4",
+        "5708",
+        "BJT Partners - Paris",
+        "BJT Partners"
       ],
       [
         "2-201-5",
@@ -9436,8 +9478,8 @@
       [
         "2-202-0",
         "5712",
-        "Telecom Italia - POP Strasbourg 1",
-        "Telecom Italia"
+        "BJT Partners - Vitry sur Seine",
+        "BJT Partners"
       ],
       [
         "2-202-1",
@@ -9488,10 +9530,10 @@
         "Orange"
       ],
       [
-        "2-203-2",
-        "5722",
-        "Longphone - Paris 2",
-        "Longphone"
+        "2-203-1",
+        "5721",
+        "Airnity \u2013 AWS Paris",
+        "Airnity"
       ],
       [
         "2-203-3",
@@ -9514,8 +9556,8 @@
       [
         "2-203-6",
         "5726",
-        "LLEIDA - Vitry sur Seine",
-        "LLEIDA"
+        "Airnity \u2013 AWS Paris 2",
+        "Airnity"
       ],
       [
         "2-203-7",
@@ -9538,8 +9580,8 @@
       [
         "2-221-2",
         "5866",
-        "Budget Telecom - Paris",
-        "Budget Telecom"
+        "MINT - Paris",
+        "MINT"
       ],
       [
         "2-221-3",
@@ -9552,6 +9594,12 @@
         "5868",
         "SFR -Corbas-01",
         "SFR"
+      ],
+      [
+        "2-221-5",
+        "5869",
+        "OVH - SAS",
+        "OVH"
       ],
       [
         "2-221-6",
@@ -9602,6 +9650,12 @@
         "M Target"
       ],
       [
+        "3-232-6",
+        "8006",
+        "MOBIQUITHINGS - Vitry 3",
+        "MOBIQUITHINGS"
+      ],
+      [
         "3-232-7",
         "8007",
         "Orange \u2013 CTI France Paris \u2013 YJ03",
@@ -9650,6 +9704,24 @@
         "Bouygues Telecom"
       ],
       [
+        "4-228-7",
+        "10023",
+        "TDF - Les Lilas 2",
+        "TDF"
+      ],
+      [
+        "6-233-0",
+        "14152",
+        "BOUYGUES TELECOM - PTS 05 - Plessis",
+        "BOUYGUES TELECOM"
+      ],
+      [
+        "6-233-1",
+        "14153",
+        "BOUYGUES TELECOM - PTS 06 - Bobigny",
+        "BOUYGUES TELECOM"
+      ],
+      [
         "6-233-2",
         "14154",
         "Completel - Villeurbanne",
@@ -9680,6 +9752,30 @@
         "Mobiqui Things"
       ],
       [
+        "7-223-0",
+        "16120",
+        "Acmoss \u2013 Rosny 1",
+        "Acmoss"
+      ],
+      [
+        "7-223-1",
+        "16121",
+        "Acmoss \u2013 Rosny 2",
+        "Acmoss"
+      ],
+      [
+        "7-223-2",
+        "16122",
+        "Acmoss \u2013 Nogent",
+        "Acmoss"
+      ],
+      [
+        "7-223-3",
+        "16123",
+        "Acmoss \u2013 Lognes",
+        "Acmoss"
+      ],
+      [
         "7-238-0",
         "16240",
         "Transatel-Paris",
@@ -9694,8 +9790,8 @@
       [
         "7-238-2",
         "16242",
-        "Symacom - Paris 1",
-        "Symacom"
+        "Syma - Paris 1",
+        "Syma"
       ],
       [
         "7-238-3",
@@ -9778,20 +9874,14 @@
       [
         "5-094-0",
         "10992",
-        "Commutateur Papeete",
-        "O.P.T."
+        "C4 METASWITCH",
+        "Onati"
       ],
       [
         "5-094-1",
         "10993",
-        "Commutateur FAAA",
-        "O.P.T."
-      ],
-      [
-        "5-094-2",
-        "10994",
-        "Centre de commutation, Papeete",
-        "Tikiphone"
+        "C4 METASWITCH",
+        "Onati"
       ],
       [
         "5-094-3",
@@ -9815,13 +9905,37 @@
         "5-094-6",
         "10998",
         "MSC NGN HDP",
-        "Tikiphone"
+        "Onati"
       ],
       [
         "5-094-7",
         "10999",
         "MSC NGN FU",
-        "Tikiphone"
+        "Onati"
+      ],
+      [
+        "5-095-0",
+        "11000",
+        "MSS HOT",
+        "ONATI"
+      ],
+      [
+        "5-095-1",
+        "11001",
+        "STP HOT",
+        "ONATI"
+      ],
+      [
+        "5-095-2",
+        "11002",
+        "MSS PNO",
+        "ONATI"
+      ],
+      [
+        "5-095-3",
+        "11003",
+        "STP PNO",
+        "ONATI"
       ]
     ],
     "Gabon": [
@@ -9992,12 +10106,6 @@
         "MagtiCom Ltd"
       ],
       [
-        "2-208-3",
-        "5763",
-        "Tbilisi, Mobile Switching Centre",
-        "Geocell Ltd"
-      ],
-      [
         "2-208-4",
         "5764",
         "Tbilisi, Mobile Switching Centre",
@@ -10022,6 +10130,12 @@
         "Datahouse global Ltd"
       ],
       [
+        "2-213-0",
+        "5800",
+        "Tbilisi, Mobile Switching Centre",
+        "Cellfie mobile"
+      ],
+      [
         "2-213-1",
         "5801",
         "Tbilisi, International Exchange",
@@ -10036,20 +10150,20 @@
       [
         "2-213-3",
         "5803",
-        "Tbilisi, International Exchange",
+        "Tbilisi, Tsinamszgvrishvili, International Exchange",
         "Silknet JSC"
+      ],
+      [
+        "2-213-4",
+        "5804",
+        "Tbilisi, Bulk SMS server",
+        "Servicebox"
       ],
       [
         "2-213-5",
         "5805",
         "Tbilisi, International Exchange",
         "Global 1 JSC"
-      ],
-      [
-        "2-213-6",
-        "5806",
-        "Tbilisi, International Exchange",
-        "Caucasus Online Ltd"
       ],
       [
         "2-213-7",
@@ -10060,14 +10174,14 @@
       [
         "3-246-0",
         "8112",
-        "Tbilisi, Mobile Switching Centre",
-        "Jodo telecommunications LTD"
+        "Tbilisi, Bulk SMS server",
+        "FIGENSOFT GEORGIA LTD"
       ],
       [
         "3-246-1",
         "8113",
-        "Tbilisi, International Exchange",
-        "GoodWillComm Ltd"
+        "Tbilisi, Bulk SMS server",
+        "TMTECH LTD"
       ],
       [
         "3-246-2",
@@ -10084,73 +10198,61 @@
       [
         "3-246-4",
         "8116",
-        "Tbilisi, Mobile Switching Centre",
-        "Mobitel Ltd"
+        "Kutaisi, Mobile Switching Centre",
+        "Cellfie mobile"
       ],
       [
         "3-246-5",
         "8117",
-        "Tbilisi, International Exchange",
-        "Warid Telecom Georgia Ltd"
+        "Tbilisi, Bulk SMS server",
+        "Meta 37 LTD"
       ],
       [
         "3-246-6",
         "8118",
-        "Tbilisi, International Exchange",
+        "Tbilisi, Nutsubidze, International Exchange",
         "Silknet JSC"
       ],
       [
         "3-246-7",
         "8119",
-        "Tbilisi, International Exchange",
-        "Alex Development Georgia Ltd"
+        "Tbilisi, MVNO mobile operator STP 1",
+        "Unicell Mobile LTD"
       ],
       [
         "5-233-0",
         "12104",
-        "Tbilisi, Mobile Switching Centre",
-        "Gmobile LTD"
-      ],
-      [
-        "5-233-1",
-        "12105",
-        "Tbilisi, Mobile Switching Centre",
-        "Silknet JSC"
+        "Tbilisi, MVNO mobile operator STP 2",
+        "Unicell Mobile LTD"
       ],
       [
         "5-233-2",
         "12106",
-        "Tbilisi, Mobile Switching Centre",
+        "Tbilisi, International Exchange",
         "Geocell Ltd"
-      ],
-      [
-        "5-233-3",
-        "12107",
-        "Tbilisi, Mobile Switching Centre",
-        "Mobitel Ltd"
       ],
       [
         "5-233-4",
         "12108",
-        "Tbilisi, PSTN Switch",
+        "Tbilisi, Politkovskaya, PSTN Switch",
         "Akhali Kselebi Ltd"
       ],
       [
         "5-233-5",
         "12109",
-        "Tbilisi, PSTN Switch",
-        "Akhteli Ltd"
+        "Tbilisi, Dimitriadi, PSTN Switch",
+        "Akhali Kselebi Ltd"
       ],
       [
         "5-233-6",
         "12110",
-        "Tbilisi, International Exchange",
+        "Kutaisi, International Exchange",
         "System Net Ltd"
       ],
       [
         "5-233-7",
         "12111",
-        "Tbilisi, Mobile Switching Centre",
+        "Tbilisi, Media gateway",
         "Magticom Ltd"
       ]
     ],
@@ -10183,7 +10285,7 @@
         "2-033-4",
         "4364",
         "Hamburg",
-        "NEXT-ID GmbH"
+        "dtms GmbH"
       ],
       [
         "2-033-5",
@@ -10378,6 +10480,12 @@
         "Valpasera Ltd."
       ],
       [
+        "2-037-7",
+        "4399",
+        "Frankfurt",
+        "UAB Intis Telecom"
+      ],
+      [
         "2-038-0",
         "4400",
         "Frankfurt",
@@ -10400,12 +10508,6 @@
         "4403",
         "Frankfurt",
         "Verizon Deutschland GmbH"
-      ],
-      [
-        "2-038-4",
-        "4404",
-        "D\u00fcsseldorf",
-        "Ventelo GmbH"
       ],
       [
         "2-038-5",
@@ -10561,7 +10663,7 @@
         "2-122-6",
         "5078",
         "Frankfurt",
-        "NEXT-ID GmbH"
+        "dtms GmbH"
       ],
       [
         "2-122-7",
@@ -10598,12 +10700,6 @@
         "5084",
         "Frankfurt",
         "AVS international s.r.o."
-      ],
-      [
-        "2-123-5",
-        "5085",
-        "D\u00fcsseldorf",
-        "Ventelo GmbH"
       ],
       [
         "2-123-6",
@@ -10786,6 +10882,12 @@
         "Versatel West GmbH"
       ],
       [
+        "2-127-4",
+        "5116",
+        "Mainz STP1",
+        "1&1 Mobilfunk GmbH"
+      ],
+      [
         "2-127-5",
         "5117",
         "Frankfurt",
@@ -10856,6 +10958,12 @@
         "5128",
         "N\u00fcrnberg",
         "Telef\u00f3nica o2 Germany GmbH & Co. KG"
+      ],
+      [
+        "2-129-1",
+        "5129",
+        "Mainz STP2",
+        "1&1 Mobilfunk GmbH"
       ],
       [
         "2-129-2",
@@ -10944,8 +11052,8 @@
       [
         "2-131-0",
         "5144",
-        "Berlin Co.KG",
-        "Kabel Deutschland Vertrieb und Service GmbH &"
+        "DTMD11S_DORTMUND_VFDE",
+        "Vodafone GmbH"
       ],
       [
         "2-131-1",
@@ -11028,8 +11136,8 @@
       [
         "2-222-6",
         "5878",
-        "ITP1_FRANKFURT_KDG Co.KG",
-        "Kabel Deutschland Vertrieb und Service GmbH &"
+        "DTMD32S_DORTMUND_VFDE",
+        "Vodafone GmbH"
       ],
       [
         "2-222-7",
@@ -11064,8 +11172,8 @@
       [
         "2-225-4",
         "5900",
-        "Berlin Co.KG",
-        "Kabel Deutschland Vertrieb und Service GmbH &"
+        "MNCH12S_MUNICH_VFDE",
+        "Vodafone GmbH"
       ],
       [
         "2-225-5",
@@ -11088,8 +11196,8 @@
       [
         "2-226-0",
         "5904",
-        "Frankfurt",
-        "Dentel Netzwerk Telefonie GmbH"
+        "CMI_STP_FRA2",
+        "China Mobile International (UK) Limited"
       ],
       [
         "2-226-1",
@@ -11154,20 +11262,8 @@
       [
         "2-242-3",
         "6035",
-        "ITP2_BERLIN_KDG Co.KG",
-        "Kabel Deutschland Vertrieb und Service GmbH &"
-      ],
-      [
-        "2-242-4",
-        "6036",
-        "Frankfurt",
-        "Ventelo GmbH"
-      ],
-      [
-        "2-242-5",
-        "6037",
-        "Frankfurt",
-        "Ventelo GmbH"
+        "MNCH21S_MUNICH_VFDE",
+        "Vodafone GmbH"
       ],
       [
         "2-242-6",
@@ -11308,12 +11404,6 @@
         "VEON Wholesale Services B.V."
       ],
       [
-        "2-245-5",
-        "6061",
-        "Frankfurt",
-        "Ventelo GmbH"
-      ],
-      [
         "2-245-6",
         "6062",
         "Wuerzburg",
@@ -11377,7 +11467,7 @@
         "2-247-0",
         "6072",
         "Hamburg",
-        "Xtend new media Holding GmbH"
+        "thyssenkrupp Technologies Beteiligungen GmbH"
       ],
       [
         "2-247-1",
@@ -11401,7 +11491,7 @@
         "2-247-4",
         "6076",
         "Berlin",
-        "NEXT-ID GmbH"
+        "dtms GmbH"
       ],
       [
         "2-247-5",
@@ -11414,12 +11504,6 @@
         "6078",
         "Frankfurt",
         "Net Communications Ventures Ltd."
-      ],
-      [
-        "2-247-7",
-        "6079",
-        "Mannheim",
-        "Ventelo GmbH"
       ],
       [
         "2-248-0",
@@ -11449,7 +11533,7 @@
         "2-248-4",
         "6084",
         "Drillisch-Mobil-Duesseldorf",
-        "Drillisch Online AG"
+        "1&1 Mobilfunk GmbH"
       ],
       [
         "2-248-5",
@@ -11605,13 +11689,7 @@
         "2-251-6",
         "6110",
         "Drillisch-Mobil-Frankfurt",
-        "Drillisch Online AG"
-      ],
-      [
-        "2-251-7",
-        "6111",
-        "D\u00fcsseldorf",
-        "Ventelo GmbH"
+        "1&1 Mobilfunk GmbH"
       ],
       [
         "2-252-0",
@@ -11624,24 +11702,6 @@
         "6113",
         "Frankfurt",
         "VR Telecom SL"
-      ],
-      [
-        "2-252-2",
-        "6114",
-        "Essen",
-        "Ventelo GmbH"
-      ],
-      [
-        "2-252-3",
-        "6115",
-        "Hannover",
-        "Ventelo GmbH"
-      ],
-      [
-        "2-252-4",
-        "6116",
-        "Leinfelden-Echterdingen",
-        "Ventelo GmbH"
       ],
       [
         "2-252-5",
@@ -11666,6 +11726,12 @@
         "8088",
         "Flensburg",
         "mr. net services GmbH & Co. KG"
+      ],
+      [
+        "3-243-1",
+        "8089",
+        "Muenster STP1",
+        "1&1 Mobilfunk GmbH"
       ],
       [
         "3-243-2",
@@ -11878,12 +11944,6 @@
         "TYNTEC GmbH"
       ],
       [
-        "4-244-5",
-        "10149",
-        "Hannover",
-        "Limitless Mobile GmbH"
-      ],
-      [
         "4-244-6",
         "10150",
         "Frankfurt",
@@ -11916,8 +11976,8 @@
       [
         "4-246-3",
         "10163",
-        "Frankfurt Aktiengesellschaft",
-        "European Telecommunications Holding E.T.H."
+        "Frankfurt",
+        "Alo Vatan Telefondienste GmbH"
       ],
       [
         "4-246-4",
@@ -11964,8 +12024,8 @@
       [
         "5-240-3",
         "12163",
-        "K\u00f6ln mbH",
-        "NetCologne Gesellschaft f\u00fcr Telekommunikation"
+        "ENGY_Frankfurt",
+        "eNgY Solutions GmbH"
       ],
       [
         "5-240-4",
@@ -12010,6 +12070,12 @@
         "Vodafone GmbH"
       ],
       [
+        "5-245-3",
+        "12203",
+        "Muenster STP2",
+        "1&1 Mobilfunk GmbH"
+      ],
+      [
         "5-245-4",
         "12204",
         "Telecom26 Frankfurt FR5 STP1",
@@ -12040,6 +12106,18 @@
         "M'net Telekommunikations GmbH"
       ],
       [
+        "5-251-3",
+        "12251",
+        "FKFT22S_FRANKFURT_VFDE",
+        "Vodafone GmbH"
+      ],
+      [
+        "5-251-4",
+        "12252",
+        "FKFT31S_FRANKFURT_VFDE",
+        "Vodafone GmbH"
+      ],
+      [
         "5-251-5",
         "12253",
         "Frankfurt",
@@ -12049,13 +12127,13 @@
         "5-251-6",
         "12254",
         "Frankfurt",
-        "Communication Services Tele2 GmbH"
+        "STROTH Telecom GmbH"
       ],
       [
         "5-251-7",
         "12255",
         "Frankfurt",
-        "Communication Services Tele2 GmbH"
+        "STROTH Telecom GmbH"
       ],
       [
         "6-237-0",
@@ -12088,18 +12166,6 @@
         "ProTel International LLC"
       ],
       [
-        "6-237-6",
-        "14190",
-        "K\u00f6ln mbH",
-        "NetCologne Gesellschaft f\u00fcr Telekommunikation"
-      ],
-      [
-        "7-249-3",
-        "16331",
-        "Frankfurt",
-        "Dentel Netzwerk Telefonie GmbH"
-      ],
-      [
         "7-249-6",
         "16334",
         "Frankfurt",
@@ -12109,7 +12175,7 @@
         "7-249-7",
         "16335",
         "Frankfurt",
-        "Communication Services Tele2 GmbH"
+        "STROTH Telecom GmbH"
       ]
     ],
     "Ghana": [
@@ -12160,20 +12226,20 @@
       [
         "2-132-0",
         "5152",
-        "Gibtelecom",
-        "Gibtelecom (mobile service)"
+        "Gibtelecom (mobile service)",
+        "Gibtelecom"
       ],
       [
         "2-132-2",
         "5154",
-        "Gibtelecom",
-        "Gibtelecom (fixed service)"
+        "Gibtelecom (fixed service)",
+        "Gibtelecom"
       ],
       [
         "2-132-3",
         "5155",
-        "Sapphire Networks",
-        "Sapphire Networks (fixed service)"
+        "Sapphire Networks (fixed service)",
+        "Sapphire Networks"
       ],
       [
         "2-132-4",
@@ -12186,6 +12252,24 @@
         "5157",
         "Eazi Telecom",
         "Eazi Telecom Ltd (trading as \u201cLimba\u201d)"
+      ],
+      [
+        "2-132-6",
+        "5158",
+        "GibFibre",
+        "GibFibre Ltd (GibFibreSpeed)"
+      ],
+      [
+        "2-132-7",
+        "5159",
+        "Gibraltar",
+        "GibFibre Ltd (GibFibreSpeed)"
+      ],
+      [
+        "7-201-0",
+        "15944",
+        "Gibraltar",
+        "GibFibre Ltd (GibFibreSpeed)"
       ]
     ],
     "Greece": [
@@ -12572,6 +12656,12 @@
         "7396",
         "M\u00e9diaserv - Guadeloupe",
         "M\u00e9diaserv"
+      ],
+      [
+        "3-156-5",
+        "7397",
+        "Free Cara\u00efbe - Baie-Mahault - Guadeloupe",
+        "Free Cara\u00efbe"
       ]
     ],
     "Guam": [
@@ -12676,20 +12766,20 @@
       [
         "7-009-3",
         "14411",
-        "PCS GSM OPC 1 Inal\u00e1mbricas S.A.",
-        "Servicios de Comunicaciones Personales"
+        "PCS GSM OPC 1",
+        "Servicios de Comunicaciones Personales Inal\u00e1mbricas S.A."
       ],
       [
         "7-009-4",
         "14412",
-        "PCS GSM OPC 2 Inal\u00e1mbricas S.A.",
-        "Servicios de Comunicaciones Personales"
+        "PCS GSM OPC 2",
+        "Servicios de Comunicaciones Personales Inal\u00e1mbricas S.A."
       ],
       [
         "7-009-5",
         "14413",
-        "USP, Nortel, DMS-STP Inal\u00e1mbricas S.A.",
-        "Servicios de Comunicaciones Personales"
+        "USP, Nortel, DMS-STP",
+        "Servicios de Comunicaciones Personales Inal\u00e1mbricas S.A."
       ],
       [
         "7-009-6",
@@ -12812,49 +12902,97 @@
       [
         "7-076-0",
         "14944",
-        "Telquest Northcom Home Country Direct Service",
+        "Allocation for Fixed Wireless Core",
         "Guyana Telephone and Telegraph Co. Ltd."
       ],
       [
         "7-076-1",
         "14945",
-        "",
+        "Genband G9 Trunk Gateway - Georgetown",
         "Guyana Telephone and Telegraph Co. Ltd."
       ],
       [
         "7-076-2",
         "14946",
-        "",
+        "Genband G6 Line Gateway - Georgetown",
         "Guyana Telephone and Telegraph Co. Ltd."
       ],
       [
         "7-076-3",
         "14947",
-        "",
+        "Genband C20 (Georgetown)",
         "Guyana Telephone and Telegraph Co. Ltd."
       ],
       [
         "7-076-4",
         "14948",
-        "",
+        "Allocation for Agnity ACQ (Local Number Portability)",
         "Guyana Telephone and Telegraph Co. Ltd."
       ],
       [
         "7-076-5",
         "14949",
-        "",
+        "Genband G6 Line Gateway - New Amsterdam",
         "Guyana Telephone and Telegraph Co. Ltd."
       ],
       [
         "7-076-6",
         "14950",
-        "",
+        "Genband G6 Line Gateway - Beterverwagting",
         "Guyana Telephone and Telegraph Co. Ltd."
       ],
       [
         "7-076-7",
         "14951",
-        "",
+        "Mobile MSC - Georgetown",
+        "Guyana Telephone and Telegraph Co. Ltd."
+      ],
+      [
+        "7-077-0",
+        "14952",
+        "Broadband STP Node A (NI=INTL)",
+        "Guyana Telephone and Telegraph Co. Ltd."
+      ],
+      [
+        "7-077-1",
+        "14953",
+        "Allocation for SCC-AS IMS Core Node A",
+        "Guyana Telephone and Telegraph Co. Ltd."
+      ],
+      [
+        "7-077-2",
+        "14954",
+        "Broadband STP Node A (NI=NATL)",
+        "Guyana Telephone and Telegraph Co. Ltd."
+      ],
+      [
+        "7-077-3",
+        "14955",
+        "Broadband STP Node B (NI=INTL)",
+        "Guyana Telephone and Telegraph Co. Ltd."
+      ],
+      [
+        "7-077-4",
+        "14956",
+        "Broadband STP Node B (NI=NATL)",
+        "Guyana Telephone and Telegraph Co. Ltd."
+      ],
+      [
+        "7-077-5",
+        "14957",
+        "Mobile MSC - Lethem",
+        "Guyana Telephone and Telegraph Co. Ltd."
+      ],
+      [
+        "7-077-6",
+        "14958",
+        "Allocation for SCC-AS IMS Core Node B",
+        "Guyana Telephone and Telegraph Co. Ltd."
+      ],
+      [
+        "7-077-7",
+        "14959",
+        "BBSTP ALIAS Point Code",
         "Guyana Telephone and Telegraph Co. Ltd."
       ]
     ],
@@ -13016,14 +13154,14 @@
       [
         "4-105-2",
         "9034",
-        "Wharf T&T - WCTU2",
-        "Wharf T&T Ltd"
+        "Wharf T&T \u2013 WCTU2",
+        "HKBN Enterprise Solutions HK Limited"
       ],
       [
         "4-105-3",
         "9035",
         "HTHKIU1",
-        "Hutchison Global Communications Ltd"
+        "HGC Global Communications Limited"
       ],
       [
         "4-105-4",
@@ -13047,7 +13185,7 @@
         "4-105-7",
         "9039",
         "Wharf T&T - KCTU2",
-        "Wharf T&T Ltd"
+        "HKBN Enterprise Solutions HK Limited"
       ],
       [
         "4-106-0",
@@ -13059,13 +13197,13 @@
         "4-106-1",
         "9041",
         "HTHKIU2",
-        "Hutchison Global Communications Ltd"
+        "HGC Global Communications Limited"
       ],
       [
         "4-106-2",
         "9042",
-        "KDDI HK",
-        "KDDI Hong Kong Ltd"
+        "KDDIHK",
+        "KDDI Hong Kong Limited"
       ],
       [
         "4-106-3",
@@ -13124,8 +13262,8 @@
       [
         "4-107-4",
         "9052",
-        "Smartgate",
-        "SmarTone Mobile Communications Ltd"
+        "SmartGate",
+        "SmarTone Communications Limited"
       ],
       [
         "4-107-5",
@@ -13214,8 +13352,8 @@
       [
         "4-109-3",
         "9067",
-        "Whart T&T - WCTU5",
-        "Wharf T&T Ltd"
+        "Wharf T&T - WCTU5",
+        "HKBN Enterprise Solutions HK Limited"
       ],
       [
         "4-109-4",
@@ -13242,12 +13380,6 @@
         "Verizon Hong Kong Ltd"
       ],
       [
-        "4-111-0",
-        "9080",
-        "CCS1582",
-        "1582HK Ltd"
-      ],
-      [
         "4-111-1",
         "9081",
         "GTI (HK) Ltd",
@@ -13256,14 +13388,20 @@
       [
         "4-111-2",
         "9082",
-        "Unicom3",
-        "China Unicom (Hong Kong) Operations Ltd"
+        "Unicom 3",
+        "China Unicom (Hong Kong) Operations Limited"
       ],
       [
         "4-111-3",
         "9083",
         "HKGCH1",
         "China-Hongkong Telecom Ltd"
+      ],
+      [
+        "4-111-4",
+        "9084",
+        "HK1",
+        "TNZI Singapore Pte Limited"
       ],
       [
         "4-111-5",
@@ -13275,7 +13413,7 @@
         "4-111-6",
         "9086",
         "HKCSW 1",
-        "Cable & Wireless Global Network (HK) Ltd"
+        "Vodafone Enterprise Hong Kong Limited"
       ],
       [
         "4-111-7",
@@ -13294,12 +13432,6 @@
         "9601",
         "H18",
         "CITIC Telecom International Ltd"
-      ],
-      [
-        "4-176-2",
-        "9602",
-        "China Virtual (HR) Ltd",
-        "China Virtual (Hong Kong) Ltd"
       ],
       [
         "4-176-3",
@@ -13376,8 +13508,8 @@
       [
         "4-177-7",
         "9615",
-        "IDD 1628",
-        "IDD 1628 Ltd"
+        "IDD1628",
+        "IDD1628 Limited"
       ],
       [
         "4-178-0",
@@ -13488,12 +13620,6 @@
         "Telekom Malaysia (Hong Kong) Ltd"
       ],
       [
-        "4-180-2",
-        "9634",
-        "PIDD",
-        "Pacific IDD Ltd"
-      ],
-      [
         "4-180-3",
         "9635",
         "South China Telecommunications (HK) Ltd.",
@@ -13503,7 +13629,7 @@
         "4-180-4",
         "9636",
         "HTHKIU3",
-        "Hutchison Global Communications Ltd"
+        "HGC Global Communications Limited"
       ],
       [
         "4-180-5",
@@ -13542,10 +13668,10 @@
         "HKBN Enterprise Solutions Limited"
       ],
       [
-        "4-181-4",
-        "9644",
-        "HKGW02",
-        "China Virtual (Hong Kong) Ltd"
+        "4-181-3",
+        "9643",
+        "CUHK-ISTP1",
+        "China Unicom (Hong Kong) Operations Limited"
       ],
       [
         "4-181-5",
@@ -13554,10 +13680,16 @@
         "M800 Ltd"
       ],
       [
-        "4-182-0",
-        "9648",
-        "MARU",
-        "Maruma Networks Ltd"
+        "4-181-6",
+        "9646",
+        "HKLS01",
+        "HK Langsen International Communication Limited"
+      ],
+      [
+        "4-181-7",
+        "9647",
+        "CUHK-ISTP2",
+        "China Unicom (Hong Kong) Operations Limited"
       ],
       [
         "4-182-1",
@@ -13605,19 +13737,13 @@
         "4-183-0",
         "9656",
         "HTHKIU5",
-        "Hutchison Global Communications Ltd"
+        "HGC Global Communications Limited"
       ],
       [
         "4-183-1",
         "9657",
         "HTHKIU6",
-        "Hutchison Global Communications Ltd"
-      ],
-      [
-        "4-183-2",
-        "9658",
-        "TWHK01",
-        "Telewhite (HK) Ltd"
+        "HGC Global Communications Limited"
       ],
       [
         "4-183-3",
@@ -13636,12 +13762,6 @@
         "9661",
         "TASGWHK1",
         "Tilia Limited"
-      ],
-      [
-        "4-183-6",
-        "9662",
-        "CMTHK01",
-        "CMMobile Global Communications Ltd"
       ],
       [
         "4-183-7",
@@ -13678,6 +13798,24 @@
         "9668",
         "CTG_HK_IN_URP",
         "China Telecom Global Limited"
+      ],
+      [
+        "4-184-5",
+        "9669",
+        "HKTH",
+        "Telstra International Limited"
+      ],
+      [
+        "4-184-6",
+        "9670",
+        "HKEA",
+        "Telstra International Limited"
+      ],
+      [
+        "4-184-7",
+        "9671",
+        "HKVSTP",
+        "Telstra International Limited"
       ]
     ],
     "Hungary": [
@@ -13685,13 +13823,19 @@
         "2-032-0",
         "4352",
         "Pannon INT2",
-        "Telenor Hungary Ltd"
+        "Yettel Hungary Ltd."
       ],
       [
         "2-032-2",
         "4354",
         "M1-MSC-PC2",
         "M\u00c1V Co."
+      ],
+      [
+        "2-032-4",
+        "4356",
+        "TBAL Yettel MSS10, INT1",
+        "Yettel Hungary Ltd."
       ],
       [
         "2-032-6",
@@ -13703,7 +13847,7 @@
         "2-032-7",
         "4359",
         "Budapest BTH01",
-        "BT Limited Hungarian Branch Office"
+        "BT Global Europe B.V. Magyarorsz\u00e1gi Fi\u00f3ktelepe"
       ],
       [
         "2-212-1",
@@ -13718,6 +13862,12 @@
         "M\u00c1V Co."
       ],
       [
+        "2-212-4",
+        "5796",
+        "SZFV Yettel MSS20, INT2",
+        "Yettel Hungary Ltd."
+      ],
+      [
         "2-212-5",
         "5797",
         "M1-SG/STP-PC2",
@@ -13727,7 +13877,7 @@
         "2-212-6",
         "5798",
         "Pannon INT1",
-        "Telenor Hungary Ltd"
+        "Yettel Hungary Ltd."
       ],
       [
         "2-212-7",
@@ -13748,27 +13898,9 @@
         "Vodafone Hungary Ltd"
       ],
       [
-        "4-243-2",
-        "10138",
-        "Bp. MGWG",
-        "Magyar Telekom Plc"
-      ],
-      [
         "4-243-4",
         "10140",
-        "Debrecen-DIGIMOBIL-01",
-        "DIGI Telecommunication Ltd"
-      ],
-      [
-        "4-243-5",
-        "10141",
-        "Budapest-DIGIMOBIL-02",
-        "DIGI Telecommunication Ltd"
-      ],
-      [
-        "4-243-6",
-        "10142",
-        "Debrecen-DIGIMOBIL-02",
+        "Debrecen-DIGI-01",
         "DIGI Telecommunication Ltd"
       ],
       [
@@ -15032,18 +15164,6 @@
         "Three Ireland (Hutchison) Limited"
       ],
       [
-        "2-146-5",
-        "5269",
-        "East Wall Dublin",
-        "Colt Telecommunications"
-      ],
-      [
-        "2-146-6",
-        "5270",
-        "East Wall Dublin",
-        "Colt Telecommunications"
-      ],
-      [
         "2-146-7",
         "5271",
         "VoIP Ireland",
@@ -15098,6 +15218,84 @@
         "Vodafone Ireland"
       ],
       [
+        "5-213-0",
+        "11944",
+        "DN1MSS05",
+        "Three Ireland (Hutchison) Limited"
+      ],
+      [
+        "5-213-1",
+        "11945",
+        "TC0S7FM1",
+        "Three Ireland (Hutchison) Limited"
+      ],
+      [
+        "5-213-2",
+        "11946",
+        "DN1S7FM1",
+        "Three Ireland (Hutchison) Limited"
+      ],
+      [
+        "5-213-3",
+        "11947",
+        "TC0MSS06",
+        "Three Ireland (Hutchison) Limited"
+      ],
+      [
+        "5-213-4",
+        "11948",
+        "CLDMSC3",
+        "Eircom Limited"
+      ],
+      [
+        "5-213-5",
+        "11949",
+        "SRLMSC3",
+        "Eircom Limited"
+      ],
+      [
+        "5-213-6",
+        "11950",
+        "CWTMSC3",
+        "Eircom Limited"
+      ],
+      [
+        "5-214-0",
+        "11952",
+        "FRA2-00-VM-STP1",
+        "Cubic Telecom Limited"
+      ],
+      [
+        "5-214-1",
+        "11953",
+        "FRA2-00-VM-STP2",
+        "Cubic Telecom Limited"
+      ],
+      [
+        "5-214-2",
+        "11954",
+        "IE2SGW1",
+        "Virgin Media Ireland Limited"
+      ],
+      [
+        "5-214-3",
+        "11955",
+        "DT0S7FM1",
+        "Three Ireland (Hutchison) Limited"
+      ],
+      [
+        "5-214-4",
+        "11956",
+        "DT0MSS85",
+        "Three Ireland (Hutchison) Limited"
+      ],
+      [
+        "5-214-5",
+        "11957",
+        "DT0MSS84",
+        "Three Ireland (Hutchison) Limited"
+      ],
+      [
         "5-216-0",
         "11968",
         "SAPIRL1",
@@ -15113,13 +15311,13 @@
         "5-216-2",
         "11970",
         "MSCCL1",
-        "Meteor Mobile Communications Ltd."
+        "Eircom Limited"
       ],
       [
         "5-216-3",
         "11971",
         "MSCKW1",
-        "Meteor Mobile Communications Ltd."
+        "Eircom Limited"
       ],
       [
         "5-216-4",
@@ -15251,7 +15449,7 @@
         "6-246-1",
         "14257",
         "MSC3",
-        "Meteor Communications Ltd."
+        "Eircom Limited"
       ],
       [
         "6-246-2",
@@ -16906,22 +17104,10 @@
     ],
     "Japan": [
       [
-        "4-080-2",
-        "8834",
-        "Yamaguchi-1",
-        "KDDI Corporation"
-      ],
-      [
         "4-080-3",
         "8835",
         "Tokyo-B",
         "Colt Technology Services Co., Ltd."
-      ],
-      [
-        "4-080-4",
-        "8836",
-        "Tokyo",
-        "CITIC Telecom International Japan Limited"
       ],
       [
         "4-080-7",
@@ -16948,34 +17134,28 @@
         "KDDI Corporation"
       ],
       [
-        "4-081-6",
-        "8846",
-        "TOKYO1",
-        "NTT Communications Corporation"
-      ],
-      [
-        "4-081-7",
-        "8847",
-        "OSAKA1",
-        "NTT Communications Corporation"
-      ],
-      [
         "4-082-0",
         "8848",
-        "Tokyo1",
-        "Saiki-Tech Communication Japan Co. Ltd."
+        "Kiba-CDC3",
+        "Rakuten Mobile, Inc."
       ],
       [
         "4-082-1",
         "8849",
-        "Tokyo2",
-        "Saiki-Tech Communication Japan Co. Ltd."
+        "Kiba-CDC4",
+        "Rakuten Mobile, Inc."
       ],
       [
-        "4-082-4",
-        "8852",
-        "Fukagawa-01",
-        "IPS Inc."
+        "4-082-2",
+        "8850",
+        "Kiba-CDC1",
+        "Rakuten Mobile, Inc."
+      ],
+      [
+        "4-082-3",
+        "8851",
+        "Kiba-CDC2",
+        "Rakuten Mobile, Inc."
       ],
       [
         "4-083-0",
@@ -17000,18 +17180,6 @@
         "8859",
         "TOKYO2",
         "NTT Communications Corporation"
-      ],
-      [
-        "4-083-4",
-        "8860",
-        "Tokyo",
-        "RSLCom Japan K.K."
-      ],
-      [
-        "4-083-5",
-        "8861",
-        "Osaka",
-        "RSLCom Japan K.K."
       ],
       [
         "4-083-7",
@@ -17050,18 +17218,6 @@
         "Brastel Company Ltd."
       ],
       [
-        "4-084-5",
-        "8869",
-        "Tokyo1",
-        "SoftBank Corp."
-      ],
-      [
-        "4-084-6",
-        "8870",
-        "Tokyo2",
-        "SoftBank Corp."
-      ],
-      [
         "4-084-7",
         "8871",
         "Tokyo-A",
@@ -17086,22 +17242,34 @@
         "SoftBank Corp."
       ],
       [
-        "4-085-3",
-        "8875",
-        "Fukagawa-02",
-        "IPS Inc."
-      ],
-      [
         "4-085-5",
         "8877",
         "OSAKA2",
         "NTT Communications Corporation"
       ],
       [
+        "4-085-6",
+        "8878",
+        "Tokyo-CDC3",
+        "Rakuten Mobile, Inc."
+      ],
+      [
         "4-085-7",
         "8879",
-        "Tokyo",
-        "Cignal Telecommunications Japan K.K."
+        "Tokyo-CDC4",
+        "Rakuten Mobile, Inc."
+      ],
+      [
+        "4-086-0",
+        "8880",
+        "Osaka-CDC3",
+        "Rakuten Mobile, Inc."
+      ],
+      [
+        "4-086-1",
+        "8881",
+        "Osaka-CDC4",
+        "Rakuten Mobile, Inc."
       ],
       [
         "4-086-2",
@@ -17138,18 +17306,6 @@
         "8887",
         "OSAKA3",
         "NTT Communications Corporation"
-      ],
-      [
-        "4-087-0",
-        "8888",
-        "Osaka1",
-        "SoftBank Corp."
-      ],
-      [
-        "4-087-1",
-        "8889",
-        "Osaka2",
-        "SoftBank Corp."
       ],
       [
         "4-087-2",
@@ -18924,38 +19080,32 @@
       [
         "2-000-0",
         "4096",
-        "TLI Vaduz",
+        "GMSC 1+2",
         "Telecom Liechtenstein AG"
       ],
       [
-        "2-000-1",
-        "4097",
-        "TLI Eschen",
-        "Telecom Liechtenstein AG"
+        "2-000-2",
+        "4098",
+        "SMSC 01 Frankfurt",
+        "iBASlS Communications AG"
       ],
       [
         "2-000-3",
         "4099",
-        "TLI Mauren 01",
+        "GMSC 1",
         "Telecom Liechtenstein AG"
       ],
       [
         "2-000-4",
         "4100",
-        "TLI Mauren 02",
+        "GMSC 2",
         "Telecom Liechtenstein AG"
-      ],
-      [
-        "2-000-5",
-        "4101",
-        "iMetrik STP 01",
-        "iMetrik Global (Europe) AG"
       ],
       [
         "2-000-6",
         "4102",
-        "Orange Balzers GMSC",
-        "Orange (Liechtenstein) AG"
+        "vMSSFLCR",
+        "Salt (Liechtenstein) AG"
       ],
       [
         "2-000-7",
@@ -18964,51 +19114,69 @@
         "iMetrik Global (Europe) AG"
       ],
       [
+        "7-210-0",
+        "16016",
+        "STP1 INAT0 Frankfurt",
+        "SORACOM CORPORATION LTD."
+      ],
+      [
+        "7-210-1",
+        "16017",
+        "STP2 INAT0 Frankfurt",
+        "SORACOM CORPORATION LTD."
+      ],
+      [
+        "7-210-2",
+        "16018",
+        "Dublin-STP-1",
+        "Cubic AG"
+      ],
+      [
+        "7-210-3",
+        "16019",
+        "Dublin-STP-2",
+        "Cubic AG"
+      ],
+      [
+        "7-210-4",
+        "16020",
+        "Frankfurt-STP-1",
+        "Cubic AG"
+      ],
+      [
+        "7-210-5",
+        "16021",
+        "Frankfurt-STP-2",
+        "Cubic AG"
+      ],
+      [
         "7-255-0",
         "16376",
-        "Orange Balzers MGW",
-        "Orange (Liechtenstein) AG"
-      ],
-      [
-        "7-255-1",
-        "16377",
-        "First Mobile Vaduz 01",
-        "First Mobile AG"
-      ],
-      [
-        "7-255-2",
-        "16378",
-        "First Mobile Vaduz 02",
-        "First Mobile AG"
-      ],
-      [
-        "7-255-3",
-        "16379",
-        "iMetrik HLR",
-        "iMetrik Global (Europe) AG"
+        "vMSSFLIX",
+        "Salt (Liechtenstein) AG"
       ],
       [
         "7-255-4",
         "16380",
-        "Cubic Vaduz HLR 01",
+        "For future use",
         "Cubic AG"
       ],
       [
         "7-255-5",
         "16381",
-        "Cubic Vaduz HLR 02",
+        "For future use",
         "Cubic AG"
       ],
       [
         "7-255-6",
         "16382",
-        "Cubic Vaduz HSS 01",
+        "For future use",
         "Cubic AG"
       ],
       [
         "7-255-7",
         "16383",
-        "Cubic Vaduz HSS 02",
+        "For future use",
         "Cubic AG"
       ]
     ],
@@ -19016,176 +19184,188 @@
       [
         "2-236-0",
         "5984",
-        "",
-        "TEO LT, AB (former Lietuvos Telekomas)"
+        "Vilnius",
+        "Telia Lietuva, AB"
       ],
       [
         "2-236-1",
         "5985",
-        "",
-        "UAB Mediafon"
+        "Vilnius",
+        "UAB Mediafon Carrier Services"
       ],
       [
         "2-236-2",
         "5986",
-        "",
+        "Vilnius",
         "UAB Tele2"
       ],
       [
         "2-236-3",
         "5987",
-        "",
+        "Vilnius",
         "UAB Bit\u00e9 Lietuva"
       ],
       [
         "2-236-4",
         "5988",
-        "\\",
-        "UAB Omnitel"
+        "Vilnius",
+        "Telia Lietuva, AB"
       ],
       [
         "2-236-5",
         "5989",
-        "\\",
+        "Vilnius",
         "UAB Tele2"
       ],
       [
         "2-236-6",
         "5990",
-        "",
-        "TEO LT, AB (former Lietuvos Telekomas)"
+        "Vilnius",
+        "Telia Lietuva, AB"
       ],
       [
         "2-236-7",
         "5991",
-        "",
+        "Vilnius",
         "UAB Bit\u00e9 Lietuva"
       ],
       [
         "4-236-0",
         "10080",
-        "",
-        "UAB Omnitel"
+        "Vilnius",
+        "Telia Lietuva, AB"
       ],
       [
         "4-236-1",
         "10081",
-        "",
+        "Vilnius",
         "UAB Telco Consulting Group"
       ],
       [
         "4-236-2",
         "10082",
-        "",
+        "Vilnius",
         "UAB EcoFon"
       ],
       [
         "4-236-3",
         "10083",
-        "",
+        "Vilnius",
         "UAB EcoFon"
       ],
       [
         "4-236-4",
         "10084",
-        "",
-        "UAB Omnitel"
+        "Vilnius",
+        "Telia Lietuva, AB"
       ],
       [
         "4-236-5",
         "10085",
-        "",
-        "AB Lietuvos gelezinkelial"
+        "Vilnius",
+        "AB LTG Infra"
       ],
       [
         "4-236-6",
         "10086",
-        "",
-        "UAB Omnitel"
+        "Vilnius",
+        "Telia Lietuva, AB"
       ],
       [
         "4-236-7",
         "10087",
-        "",
-        "UAB Omnitel"
+        "Vilnius",
+        "Telia Lietuva, AB"
       ],
       [
         "7-230-0",
         "16176",
-        "",
+        "Vilnius",
         "UAB Tele2"
       ],
       [
         "7-230-1",
         "16177",
-        "",
+        "Vilnius",
         "UAB Tele2"
       ],
       [
         "7-230-2",
         "16178",
-        "",
+        "Vilnius",
         "UAB Tele2"
       ],
       [
         "7-230-3",
         "16179",
-        "",
+        "Vilnius",
         "UAB Tele2"
       ],
       [
         "7-230-4",
         "16180",
-        "",
-        "UAB Mediafon"
+        "Vilnius",
+        "UAB Mediafon Carrier Services"
+      ],
+      [
+        "7-230-5",
+        "16181",
+        "Vilnius",
+        "UAB Bit\u00e9 Lietuva"
+      ],
+      [
+        "7-230-6",
+        "16182",
+        "Vilnius",
+        "UAB Bit\u00e9 Lietuva"
       ],
       [
         "7-252-0",
         "16352",
-        "",
+        "Vilnius",
         "UAB Tele2 fiksuotas rysys"
       ],
       [
         "7-252-1",
         "16353",
-        "",
-        "UAB Omnitel"
+        "Vilnius",
+        "Telia Lietuva, AB"
       ],
       [
         "7-252-2",
         "16354",
-        "",
+        "Vilnius",
         "UAB CSC Telecom"
       ],
       [
         "7-252-3",
         "16355",
-        "",
-        "UAB Telekomunikaciju grupa"
+        "Vilnius",
+        "UAB CSC Telecom"
       ],
       [
         "7-252-4",
         "16356",
-        "",
+        "Vilnius",
         "UAB Tele2"
       ],
       [
         "7-252-5",
         "16357",
-        "",
+        "Vilnius",
         "UAB Nacionanalinis telekomunikaciju tinklas"
       ],
       [
         "7-252-6",
         "16358",
-        "",
-        "AB Lietuvos gelezinkeliai"
+        "Vilnius",
+        "AB LTG Infra"
       ],
       [
         "7-252-7",
         "16359",
-        "",
-        "UAB Omnitel"
+        "Vilnius",
+        "Telia Lietuva, AB"
       ]
     ],
     "Luxembourg": [
@@ -19392,7 +19572,7 @@
       [
         "4-110-6",
         "9078",
-        "CTMO",
+        "CTMO_ZHSG",
         "China Telecom (Macau) Limitada"
       ],
       [
@@ -19424,6 +19604,18 @@
         "9147",
         "MACSMC2",
         "SmarTone - Comunica\u00e7\u00f5es M\u00f3veis, S.A."
+      ],
+      [
+        "4-119-4",
+        "9148",
+        "CTMO_SG01",
+        "China Telecom (Macau) Limitada"
+      ],
+      [
+        "4-119-5",
+        "9149",
+        "CTMO_SMC",
+        "China Telecom (Macau) Limitada"
       ]
     ],
     "Madagascar": [
@@ -19883,25 +20075,25 @@
         "2-156-3",
         "5347",
         "VOD1-MT",
-        "Vodafone Malta Ltd."
+        "Epic Communications Ltd"
       ],
       [
         "2-156-4",
         "5348",
         "VOD2-MT",
-        "Vodafone Malta Ltd."
+        "Epic Communications Ltd"
       ],
       [
         "2-156-7",
         "5351",
         "3GT",
-        "Melita plc - Mobile"
+        "Melita Ltd \u2013 Mobile"
       ],
       [
         "5-235-0",
         "12120",
         "3GT",
-        "Melita plc - Mobile"
+        "Melita Ltd \u2013 Mobile"
       ],
       [
         "5-235-1",
@@ -19925,31 +20117,43 @@
         "5-235-4",
         "12124",
         "HMMGW01",
-        "Vodafone Malta Ltd."
+        "Epic Communications Ltd"
       ],
       [
         "5-235-5",
         "12125",
         "HMMSS01",
-        "Vodafone Malta Ltd."
+        "Epic Communications Ltd"
       ],
       [
         "5-235-6",
         "12126",
         "HMMGW02",
-        "Vodafone Malta Ltd."
+        "Epic Communications Ltd"
       ],
       [
         "5-235-7",
         "12127",
         "HMMSS02",
-        "Vodafone Malta Ltd."
+        "Epic Communications Ltd"
       ],
       [
         "7-222-0",
         "16112",
         "Melita-Int.",
-        "Melita PLC"
+        "Melita Ltd"
+      ],
+      [
+        "7-222-1",
+        "16113",
+        "Melita-STP01",
+        "Melita Ltd"
+      ],
+      [
+        "7-222-2",
+        "16114",
+        "Melita-STP02",
+        "Melita Ltd"
       ]
     ],
     "Martinique": [
@@ -19970,6 +20174,12 @@
         "7426",
         "Dauphin Telecom - Martinique 2",
         "Dauphin T\u00e9l\u00e9com"
+      ],
+      [
+        "3-160-3",
+        "7427",
+        "Free Cara\u00efbe - Fort de France - Martinique",
+        "Free Cara\u00efbe"
       ]
     ],
     "Mauritania": [
@@ -21190,26 +21400,50 @@
       [
         "4-225-0",
         "9992",
-        "YGIG01_01",
-        "Myanmar National Tele & Communication Co.,Ltd"
+        "YGMS01",
+        "MyTel"
       ],
       [
         "4-225-1",
         "9993",
-        "YGST01_01",
-        "Myanmar National Tele & Communication Co.,Ltd"
+        "YGSS01",
+        "MyTel"
       ],
       [
         "4-225-2",
         "9994",
-        "MDIG01_01",
-        "Myanmar National Tele & Communication Co.,Ltd"
+        "MDMS01",
+        "MyTel"
       ],
       [
         "4-225-3",
         "9995",
-        "MDST01_01",
-        "Myanmar National Tele & Communication Co.,Ltd"
+        "MDSS01",
+        "MyTel"
+      ],
+      [
+        "4-225-4",
+        "9996",
+        "MSSZYA101",
+        "Ooredoo Myanmar Limited"
+      ],
+      [
+        "4-225-5",
+        "9997",
+        "MSSZMA101",
+        "Ooredoo Myanmar Limited"
+      ],
+      [
+        "4-225-6",
+        "9998",
+        "STPZYA101",
+        "Ooredoo Myanmar Limited"
+      ],
+      [
+        "4-225-7",
+        "9999",
+        "STPZMA101",
+        "Ooredoo Myanmar Limited"
       ],
       [
         "4-226-0",
@@ -21304,12 +21538,6 @@
         "Powercom Ltd."
       ],
       [
-        "6-098-7",
-        "13079",
-        "DemshiNAM",
-        "Demshi Investments CC"
-      ],
-      [
         "6-099-0",
         "13080",
         "WTNNAM2",
@@ -21326,6 +21554,30 @@
         "13082",
         "MTCNAM2",
         "Mobile Telecommunications Ltd."
+      ],
+      [
+        "6-099-3",
+        "13083",
+        "MTCNAM3",
+        "Mobile Telecommunications Ltd."
+      ],
+      [
+        "6-099-4",
+        "13084",
+        "Telepassport",
+        "Telepassport Communications (Pty) Ltd"
+      ],
+      [
+        "6-099-5",
+        "13085",
+        "TNNAM05",
+        "Telecom Namibia Ltd."
+      ],
+      [
+        "6-099-6",
+        "13086",
+        "TNNAM06",
+        "Telecom Namibia Ltd."
       ]
     ],
     "Nauru": [
@@ -22792,6 +23044,24 @@
         "AD T-Mobile"
       ],
       [
+        "5-221-0",
+        "12008",
+        "Skopje-Madzari",
+        "MTEL DOOEL Skopje"
+      ],
+      [
+        "5-221-1",
+        "12009",
+        "TAG-Wien",
+        "A1 Makedonija"
+      ],
+      [
+        "5-221-2",
+        "12010",
+        "TAG-Linz",
+        "A1 Makedonija"
+      ],
+      [
         "5-231-0",
         "12088",
         "MSC BL2 (SPX2)",
@@ -23096,6 +23366,12 @@
         "Iristel Norway AS"
       ],
       [
+        "7-217-5",
+        "16077",
+        "GJOSTP2",
+        "Com4 AS"
+      ],
+      [
         "7-231-0",
         "16184",
         "HMG9-MSS01",
@@ -23150,12 +23426,6 @@
         "NextGenTel AS"
       ],
       [
-        "7-240-1",
-        "16257",
-        "Oslo3",
-        "Verizon Norway AS"
-      ],
-      [
         "7-240-2",
         "16258",
         "C4MGW1",
@@ -23202,19 +23472,115 @@
       [
         "4-044-2",
         "8546",
-        "Nawras 1",
-        "Nawras"
+        "Nawras1",
+        "Ooredoo"
       ],
       [
         "4-044-3",
         "8547",
-        "Nawras 2",
-        "Nawras"
+        "Nawras2",
+        "Ooredoo"
       ],
       [
         "4-044-4",
         "8548",
-        "TCC (Soft Switch)",
+        "SOHSS02",
+        "Omantel"
+      ],
+      [
+        "4-044-5",
+        "8549",
+        "MUSTP01(INAT0)",
+        "Ooredoo"
+      ],
+      [
+        "4-044-6",
+        "8550",
+        "WCSSS01 and SOHSS02",
+        "Omantel"
+      ],
+      [
+        "4-044-7",
+        "8551",
+        "STP Quram",
+        "Omantel"
+      ],
+      [
+        "4-045-0",
+        "8552",
+        "STP Gala",
+        "Omantel"
+      ],
+      [
+        "4-045-1",
+        "8553",
+        "BOIGW1",
+        "Ooredoo"
+      ],
+      [
+        "4-045-2",
+        "8554",
+        "MUSTP1",
+        "Vodafone"
+      ],
+      [
+        "4-045-3",
+        "8555",
+        "BSSTP1",
+        "Vodafone"
+      ],
+      [
+        "4-045-4",
+        "8556",
+        "MUMSC1",
+        "Vodafone"
+      ],
+      [
+        "4-045-5",
+        "8557",
+        "MUMGW1",
+        "Vodafone"
+      ],
+      [
+        "4-045-6",
+        "8558",
+        "SOIGW1",
+        "Ooredoo"
+      ],
+      [
+        "4-045-7",
+        "8559",
+        "204170",
+        "Awasr"
+      ],
+      [
+        "4-202-0",
+        "9808",
+        "BSMSC1",
+        "Vodafone"
+      ],
+      [
+        "4-202-1",
+        "9809",
+        "BSMGW1",
+        "Vodafone"
+      ],
+      [
+        "4-202-2",
+        "9810",
+        "Muscat Messaging Hub",
+        "Omantel"
+      ],
+      [
+        "4-202-3",
+        "9811",
+        "SEEB vSTP",
+        "Omantel"
+      ],
+      [
+        "4-202-4",
+        "9812",
+        "TCC vSTP DRA",
         "Omantel"
       ]
     ],
@@ -23414,6 +23780,18 @@
         "Palau Communication & Electronics Company"
       ],
       [
+        "5-110-1",
+        "11121",
+        "PNCC IG",
+        "Palau National Communications Corporation"
+      ],
+      [
+        "5-110-2",
+        "11122",
+        "PNCC MG",
+        "Palau National Communications Corporation"
+      ],
+      [
         "5-110-5",
         "11125",
         "PMCI STP01",
@@ -23428,16 +23806,16 @@
     ],
     "Panama": [
       [
-        "7-026-3",
-        "14547",
-        "NetUno INT",
-        "Telecomunicaciones NetUno de Panama SA"
-      ],
-      [
         "7-026-4",
         "14548",
         "JFHLR1",
         "Cable and Wireless Panama S.A."
+      ],
+      [
+        "7-026-5",
+        "14549",
+        "vSTP Clayton 1",
+        "GRUPO DE COMUNICACIONES DIGITALES, S.A."
       ],
       [
         "7-026-6",
@@ -23449,7 +23827,13 @@
         "7-026-7",
         "14551",
         "PANSL4M",
-        "Telef\u00f3nica M\u00f3viles Panam\u00e1, S.A."
+        "GRUPO DE COMUNICACIONES DIGITALES, S.A."
+      ],
+      [
+        "7-027-0",
+        "14552",
+        "vSTP Clayton 2",
+        "GRUPO DE COMUNICACIONES DIGITALES, S.A."
       ],
       [
         "7-027-1",
@@ -23462,12 +23846,6 @@
         "14554",
         "Mobil Red I",
         "Mobil Red Inc."
-      ],
-      [
-        "7-027-4",
-        "14556",
-        "Nodo Intl para Central de Rio Abajo",
-        "Cable and Wireless Panama S.A."
       ],
       [
         "7-027-5",
@@ -23502,25 +23880,13 @@
       [
         "7-028-2",
         "14562",
-        "ISC2 (San Francisco)",
+        "RASTP",
         "Cable and Wireless Panama S.A."
       ],
       [
         "7-028-3",
         "14563",
         "GSM LR Data Base",
-        "Cable and Wireless Panama S.A."
-      ],
-      [
-        "7-028-4",
-        "14564",
-        "BSC",
-        "Telef\u00f3nica M\u00f3viles de Panam\u00e1"
-      ],
-      [
-        "7-028-5",
-        "14565",
-        "Nodo Intl para Central de Juan Franco",
         "Cable and Wireless Panama S.A."
       ],
       [
@@ -23551,7 +23917,13 @@
         "7-029-6",
         "14574",
         "DAVTE1P",
-        "Telef\u00f3nica M\u00f3viles de Panam\u00e1"
+        "GRUPO DE COMUNICACIONES DIGITALES, S.A."
+      ],
+      [
+        "7-029-7",
+        "14575",
+        "vSTP Evolution 1",
+        "GRUPO DE COMUNICACIONES DIGITALES, S.A."
       ],
       [
         "7-030-0",
@@ -23575,7 +23947,7 @@
         "7-030-3",
         "14579",
         "PANSL2P",
-        "Telef\u00f3nica M\u00f3viles de Panam\u00e1"
+        "GRUPO DE COMUNICACIONES DIGITALES, S.A."
       ],
       [
         "7-030-4",
@@ -23587,19 +23959,13 @@
         "7-030-5",
         "14581",
         "PANSL4M_SPX1",
-        "Telef\u00f3nica M\u00f3viles de Panam\u00e1"
+        "GRUPO DE COMUNICACIONES DIGITALES, S.A."
       ],
       [
         "7-030-6",
         "14582",
         "PANSL4M_SPX2",
-        "Telef\u00f3nica M\u00f3viles de Panam\u00e1"
-      ],
-      [
-        "7-031-0",
-        "14584",
-        "BTPTY1",
-        "Telecomunicaciones NetUno de Panama SA"
+        "GRUPO DE COMUNICACIONES DIGITALES, S.A."
       ],
       [
         "7-031-1",
@@ -23614,18 +23980,6 @@
         "Digicel (Panama), S.A."
       ],
       [
-        "7-031-3",
-        "14587",
-        "PANSL 2M",
-        "Telef\u00f3nica M\u00f3viles de Panam\u00e1"
-      ],
-      [
-        "7-031-4",
-        "14588",
-        "PANSL 1P",
-        "Telef\u00f3nica M\u00f3viles de Panam\u00e1"
-      ],
-      [
         "7-031-5",
         "14589",
         "ITP Internacional",
@@ -23635,7 +23989,7 @@
         "7-031-6",
         "14590",
         "MGW PANSL3G",
-        "Telef\u00f3nica M\u00f3viles Panam\u00e1, S.A."
+        "GRUPO DE COMUNICACIONES DIGITALES, S.A."
       ],
       [
         "7-031-7",
@@ -24218,398 +24572,434 @@
       [
         "5-030-0",
         "10480",
-        "",
-        "Isla Communications (ISLACOM)"
+        "Cebu IGF",
+        "INNOVE COMMUNICATIONS, INC. (INNOVE)"
       ],
       [
         "5-030-1",
         "10481",
-        "Metro Manila 1 (PLDT)",
-        "Philippine Long Distance Telephone Company"
+        "Makati Toll Switch 1 (PLDT)",
+        "Philippine Long Distance Telephone Company Inc."
       ],
       [
         "5-030-2",
         "10482",
-        "Metro Manila 2 (PLDT)",
-        "Philippine Long Distance Telephone Company"
+        "Sampaloc Toll Swich (PLDT)",
+        "Philippine Long Distance Telephone Company Inc."
       ],
       [
         "5-030-3",
         "10483",
-        "Metro Manila 3 (PLDT)",
-        "Philippine Long Distance Telephone Company"
+        "Makat Toll Switch 2 (PLDT)",
+        "Philippine Long Distance Telephone Company Inc."
       ],
       [
         "5-030-4",
         "10484",
-        " (PLDT)",
-        "Philippine Long Distance Telephone Company"
+        "Pasay Toll Switch (PLDT)",
+        "Philippine Long Distance Telephone Company Inc."
       ],
       [
         "5-030-5",
         "10485",
-        " (PLDT)",
-        "Philippine Long Distance Telephone Company"
+        "Lucena Toll Switch (PLDT)",
+        "Philippine Long Distance Telephone Company Inc."
       ],
       [
         "5-030-6",
         "10486",
-        "",
+        "PGC Makati 1 - National",
         "Philippine Global Communications Inc. (PHILCOM)"
       ],
       [
         "5-030-7",
         "10487",
-        "",
+        "PGC Makati 2 - IGF",
         "Philippine Global Communications Inc. (PHILCOM)"
       ],
       [
         "5-031-0",
         "10488",
-        "",
-        "Bayantel"
+        "Metro Manila 1",
+        "BAYAN TELECOMMUNICATIONS INC. (BAYANTEL)"
       ],
       [
         "5-031-1",
         "10489",
-        "",
-        "Bayantel"
+        "Metro Manila 2",
+        "BAYAN TELECOMMUNICATIONS INC. (BAYANTEL)"
       ],
       [
         "5-031-2",
         "10490",
-        "",
-        "Globe Telecom Inc. (GMCR)"
+        "Ermita IGF",
+        "Globe Telecom Inc. (GLOBE)"
       ],
       [
         "5-031-3",
         "10491",
-        "",
-        "Globe Telecom Inc. (GMCR)"
+        "Mandaluyong IGF",
+        "Globe Telecom Inc. (GLOBE)"
       ],
       [
         "5-031-4",
         "10492",
-        "",
-        "Isla Communications (ISLACOM)"
+        "Cebu IGF 2",
+        "INNOVE COMMUNICATIONS, INC. (INNOVE)"
       ],
       [
         "5-031-5",
         "10493",
-        "SCC, Makati City",
-        "CAPWIRE"
+        "Makati-1",
+        "DITO TELECOMMUNITY (DITO)"
       ],
       [
         "5-031-6",
         "10494",
-        "SCC, Makati City",
-        "CAPWIRE"
+        "Makati-3",
+        "DITO TELECOMMUNITY (DITO)"
       ],
       [
         "5-031-7",
         "10495",
-        "SCC, Makati City",
-        "CAPWIRE"
+        "Carmona-3",
+        "DITO TELECOMMUNITY (DITO)"
       ],
       [
         "5-032-0",
         "10496",
-        "",
-        "SMART (Smart Communications inc)"
+        "Para\u00f1aque 1",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-032-1",
         "10497",
-        "",
-        "SMART (Smart Communications inc)"
+        "Para\u00f1aque 2",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-032-2",
         "10498",
-        "",
-        "SMART (Smart Communications inc)"
+        "Sampaloc 1",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-032-3",
         "10499",
-        "",
-        "SBMA"
+        "Subic Bay Freeport",
+        "Subic Bay Metropolitan Authority (SBMA)"
       ],
       [
         "5-032-4",
         "10500",
-        "Manila GSM",
-        "Isla Communications (ISLACOM)"
+        "Ermita IGF 2",
+        "INNOVE COMMUNICATIONS, INC. (INNOVE)"
       ],
       [
         "5-032-5",
         "10501",
-        "GSM",
-        "Isla Communications (ISLACOM)"
+        "Mandaluyong IGF 2",
+        "INNOVE COMMUNICATIONS, INC. (INNOVE)"
       ],
       [
         "5-032-6",
         "10502",
-        "GSM",
-        "Globe Telecom Inc. (GMCR)"
+        "SCCP Aurora",
+        "Globe Telecom Inc. (GLOBE)"
       ],
       [
         "5-032-7",
         "10503",
-        "Cebu City GSM",
-        "Isla Communications (ISLACOM)"
+        "Valero IGF 2",
+        "INNOVE COMMUNICATIONS, INC. (INNOVE)"
       ],
       [
         "5-033-0",
         "10504",
-        "",
-        "Philippine Global Communications Inc. (PhilComsat)"
+        "Cebu CORPORATION (PHILCOMSAT)",
+        "PHILIPPINE COMMUNICATIONS SATELLITE"
       ],
       [
         "5-033-1",
         "10505",
-        "",
-        "Philippine Global Communications Inc. (PhilComsat)"
+        "Makati CORPORATION (PHILCOMSAT)",
+        "PHILIPPINE COMMUNICATIONS SATELLITE"
       ],
       [
         "5-033-2",
         "10506",
-        "",
-        "Philippine Global Communications Inc. (PhilComsat)"
+        "Baras CORPORATION (PHILCOMSAT)",
+        "PHILIPPINE COMMUNICATIONS SATELLITE"
       ],
       [
         "5-033-3",
         "10507",
-        "",
+        "Sampaloc MSO",
         "Nextel"
       ],
       [
         "5-033-4",
         "10508",
-        "",
-        "Aces"
+        "Sampaloc 9",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-033-5",
         "10509",
-        "",
-        "Aces"
+        "Sampaloc 10",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-033-6",
         "10510",
-        "",
-        "Capwire"
+        "Makati-4",
+        "DITO TELECOMMUNITY (DITO)"
       ],
       [
         "5-033-7",
         "10511",
-        "",
-        "BellTelecom"
+        "Carmona-4",
+        "DITO TELECOMMUNITY (DITO)"
       ],
       [
         "5-034-0",
         "10512",
-        "Makati City",
-        "ETPI"
+        "Makati 1 INC. (EPTI)",
+        "EASTERN TELECOMMUNICATIONS PHILIPPINES,"
       ],
       [
         "5-034-1",
         "10513",
-        "Makati City",
-        "ETPI"
+        "Makati 2 INC. (EPTI)",
+        "EASTERN TELECOMMUNICATIONS PHILIPPINES,"
       ],
       [
         "5-034-2",
         "10514",
-        "Makati City",
-        "ETPI"
+        "Makati 3 INC. (EPTI)",
+        "EASTERN TELECOMMUNICATIONS PHILIPPINES,"
       ],
       [
         "5-034-3",
         "10515",
-        "",
-        "Capwire"
+        "Makati-5",
+        "DITO TELECOMMUNITY (DITO)"
       ],
       [
         "5-034-4",
         "10516",
-        "",
-        "Digitel"
+        "Manila 2",
+        "DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)"
       ],
       [
         "5-034-5",
         "10517",
-        "",
-        "Digitel"
+        "Makati 1",
+        "DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)"
       ],
       [
         "5-034-6",
         "10518",
-        "",
-        "Digitel"
+        "QC 2",
+        "DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)"
       ],
       [
         "5-034-7",
         "10519",
-        "",
-        "Capwire"
+        "Carmona-5",
+        "DITO TELECOMMUNITY (DITO)"
       ],
       [
         "5-035-0",
         "10520",
-        "",
-        "Capwire"
+        "Carmona-1",
+        "DITO TELECOMMUNITY (DITO)"
       ],
       [
         "5-035-1",
         "10521",
-        "GSM",
-        "Globe Telecom Inc. (GMCR)"
+        "SCCP Canero",
+        "Globe Telecom Inc. (GLOBE)"
       ],
       [
         "5-035-2",
         "10522",
-        "GSM",
-        "Digitel"
+        "QC 3",
+        "DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)"
       ],
       [
         "5-035-3",
         "10523",
-        "",
-        "Globe Telecom Inc. (GMCR)"
+        "Valero IGF",
+        "Globe Telecom Inc. (GLOBE)"
       ],
       [
         "5-035-4",
         "10524",
-        "",
-        "SMART (Smart Communications inc)"
+        "Paranaque 3",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-035-5",
         "10525",
-        "",
-        "Digitel IGF"
+        "Cebu 1 (DIGITEL)",
+        "DIGITAL TELECOMMUNICATIONS PHILIPPINES INC."
       ],
       [
         "5-035-6",
         "10526",
-        "",
-        "Digitel IGF"
+        "Cebu 2 (DIGITEL)",
+        "DIGITAL TELECOMMUNICATIONS PHILIPPINES INC."
       ],
       [
         "5-035-7",
         "10527",
-        "",
+        "PGC Makati 3",
         "Philippine Global Communications Inc. (PHILCOM)"
       ],
       [
         "5-036-0",
         "10528",
-        "",
+        "PGC Makati 4",
         "Philippine Global Communications Inc. (PHILCOM)"
       ],
       [
         "5-036-1",
         "10529",
-        "",
-        "Digitel IGF"
+        "Cebu 3 (DIGITEL)",
+        "DIGITAL TELECOMMUNICATIONS PHILIPPINES INC."
       ],
       [
         "5-036-2",
         "10530",
-        "",
-        "CURE CMTS"
+        "Sampaloc 7",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-036-3",
         "10531",
-        "",
-        "CURE CMTS"
+        "Sampaloc 8",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-036-4",
         "10532",
-        "",
-        "SMART (Smart Communications inc)"
+        "Subic 1",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-036-5",
         "10533",
-        "",
-        "SMART (Smart Communications inc)"
+        "Subic 2",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-036-6",
         "10534",
-        "",
-        "SMART (Smart Communications inc)"
+        "Sampaloc 2",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-036-7",
         "10535",
-        "",
-        "SMART (Smart Communications inc)"
+        "Para\u00f1aque 4",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-037-0",
         "10536",
-        "",
-        "Bayantel"
+        "Metro Manila 3",
+        "BAYAN TELECOMMUNICATIONS INC. (BAYANTEL)"
       ],
       [
         "5-037-1",
         "10537",
-        "philipppines",
-        "SMART (Smart Communications inc)"
+        "Metro Manila 4",
+        "BAYAN TELECOMMUNICATIONS INC. (BAYANTEL)"
       ],
       [
         "5-037-2",
         "10538",
-        "",
-        "SMART (Smart Communications inc)"
+        "Sampaloc 3",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-037-3",
         "10539",
-        "",
-        "Digitel"
+        "QC 1",
+        "DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)"
       ],
       [
         "5-037-4",
         "10540",
-        "",
-        "Digitel"
+        "Mandaluyong 1",
+        "DIGITEL MOBILE PHILIPPINES, INC. (DIGITEL)"
       ],
       [
         "5-037-5",
         "10541",
-        "",
-        "Digitel"
+        "Manila1 (DIGITEL)",
+        "DIGITAL TELECOMMUNICATIONS PHILIPPINES INC."
       ],
       [
         "5-037-6",
         "10542",
-        "",
-        "FIBERTEL/Fiber Telecommunications, Inc."
+        "Makati-2",
+        "DITO TELECOMMUNITY (DITO)"
       ],
       [
         "5-037-7",
         "10543",
-        "",
-        "Philippines (SMART/Smart Communications, Inc.)"
+        "Para\u00f1aque 5",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-038-0",
         "10544",
-        "",
-        "Philippines (SMART/Smart Communications, Inc.)"
+        "Para\u00f1aque 6",
+        "Smart Communications Inc. (SMART)"
+      ],
+      [
+        "5-038-1",
+        "10545",
+        "Para\u00f1aque 7",
+        "Smart Communications Inc. (SMART)"
       ],
       [
         "5-038-2",
         "10546",
-        "Philippines",
-        "SMART (Smart Communications inc)"
+        "Sampaloc 6",
+        "Smart Communications Inc. (SMART)"
+      ],
+      [
+        "5-038-3",
+        "10547",
+        "Carmona-2",
+        "DITO TELECOMMUNITY (DITO)"
+      ],
+      [
+        "5-038-4",
+        "10548",
+        "Makati-6",
+        "DITO TELECOMMUNITY (DITO)"
+      ],
+      [
+        "5-038-5",
+        "10549",
+        "Carmona-6",
+        "DITO TELECOMMUNITY (DITO)"
+      ],
+      [
+        "5-038-6",
+        "10550",
+        "Sampaloc 4",
+        "Smart Communications Inc. (SMART)"
+      ],
+      [
+        "5-038-7",
+        "10551",
+        "Sampaloc 5",
+        "Smart Communications Inc. (SMART)"
       ]
     ],
     "Poland": [
@@ -25075,43 +25465,43 @@
         "2-136-0",
         "5184",
         "Stand Alone Linda-a-Velha (SA1)",
-        "MEO (Fixed)"
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
       ],
       [
         "2-136-1",
         "5185",
         "Stand Alone Picoas (SA2)",
-        "MEO (Fixed)"
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
       ],
       [
         "2-136-2",
         "5186",
         "TDM Switch Linda-a-Velha (LRM4)",
-        "MEO (Fixed)"
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
       ],
       [
         "2-136-3",
         "5187",
         "Planned for Stand Alone Linda-a-Velha (SA1)",
-        "MEO (Fixed)"
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
       ],
       [
         "2-136-4",
         "5188",
         "Planned for Stand Alone Picoas (SA2)",
-        "MEO (Fixed)"
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
       ],
       [
         "2-136-5",
         "5189",
         "Planned for Stand Alone Linda-a-Velha (SA1)",
-        "MEO (Fixed)"
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
       ],
       [
         "2-136-6",
         "5190",
         "Planned for Stand Alone Picoas (SA2)",
-        "MEO (Fixed)"
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
       ],
       [
         "2-137-0",
@@ -25123,19 +25513,19 @@
         "2-137-1",
         "5193",
         "Planned for Stand Alone Linda-a-Velha (SA1)",
-        "MEO (Fixed)"
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
       ],
       [
         "2-137-2",
         "5194",
         "Planned for Stand Alone Picoas (SA2)",
-        "MEO (Fixed)"
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
       ],
       [
         "2-137-3",
         "5195",
         "TDM Switch Picoas (LRM3)",
-        "MEO (Fixed)"
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia, S.A."
       ],
       [
         "2-137-4",
@@ -25206,19 +25596,13 @@
       [
         "2-139-1",
         "5209",
-        "VODAFONE (MAT1FS) LISBOA-MATINHA",
-        "Vodafone Portugal - Comunica\u00e7\u00f5es Pessoais, S.A."
+        "GSMR-INT1, Lisboa-Bra\u00e7o de Prata",
+        "Infraestruturas de Portugal, S.A."
       ],
       [
         "2-139-2",
         "5210",
         "VODAFONE (ALF1ME) CASAL DE ALFRAGIDE",
-        "Vodafone Portugal - Comunica\u00e7\u00f5es Pessoais, S.A."
-      ],
-      [
-        "2-139-3",
-        "5211",
-        "VODAFONE (BOA1FS) PORTO/BOAVISTA",
         "Vodafone Portugal - Comunica\u00e7\u00f5es Pessoais, S.A."
       ],
       [
@@ -25243,7 +25627,7 @@
         "2-139-7",
         "5215",
         "IP (RTINT1) LISBOA-GARE DO ORIENTE",
-        "Infraestruturas de Portugal, S.A."
+        "IP Telecom - Servi\u00e7os de Telecomunica\u00e7\u00f5es, S.A"
       ],
       [
         "2-223-0",
@@ -25272,8 +25656,8 @@
       [
         "2-223-4",
         "5884",
-        "ARTELECOM (ALC01-SSW02) LISBOA Telecomunica\u00e7\u00f5es, S.A.",
-        "AR Telecom - Acessos e Redes de"
+        "ARTELECOM (ALC01-SSW02) LISBOA",
+        "AR Telecom - Acessos e Redes de Telecomunica\u00e7\u00f5es, S.A."
       ],
       [
         "2-223-5",
@@ -25296,14 +25680,26 @@
       [
         "3-249-0",
         "8136",
-        "SPIC1 (STP Picoas Lisboa)",
-        "MEO (Fixed)"
+        "SPIC1 (STP Picoas Lisboa) S.A.",
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia,"
       ],
       [
         "3-249-1",
         "8137",
-        "SLAP1 (STP Lapa Porto)",
-        "MEO (Fixed)"
+        "SLAP1 (STP Lapa Porto) S.A.",
+        "MEO - Servi\u00e7os de Comunica\u00e7\u00f5es e Multim\u00e9dia,"
+      ],
+      [
+        "3-249-6",
+        "8142",
+        "DGLSB1, Lisboa",
+        "Digi Portugal, Lda."
+      ],
+      [
+        "3-249-7",
+        "8143",
+        "DGPRT2, Porto",
+        "Digi Portugal, Lda."
       ]
     ],
     "Puerto Rico": [
@@ -26418,6 +26814,12 @@
         "Cable and Wireless (Seychelles) Ltd."
       ],
       [
+        "6-066-3",
+        "12819",
+        "CWS_TH_USC01",
+        "Cable and Wireless (Seychelles) Ltd."
+      ],
+      [
         "6-066-4",
         "12820",
         "INTV-MAHE-01",
@@ -26446,6 +26848,12 @@
         "12824",
         "Kokonet - 0",
         "Kokonet Ltd"
+      ],
+      [
+        "6-067-1",
+        "12825",
+        "CWS_SLH_USC01",
+        "Cable and Wireless (Seychelles) Ltd."
       ],
       [
         "6-067-2",
@@ -27580,12 +27988,6 @@
         "Mega M d.o.o."
       ],
       [
-        "2-182-6",
-        "5558",
-        "Inlife - LJ1",
-        "Detel Global d.o.o."
-      ],
-      [
         "2-182-7",
         "5559",
         "TUS Telekom d.d. 1",
@@ -27616,10 +28018,10 @@
         "Slovenske \u017eeleznice - infrastruktura d.o.o."
       ],
       [
-        "4-232-4",
-        "10052",
-        "AKTON Ljubljana 2",
-        "AKTON Telekomunikacijski in\u017eeniring d.o.o."
+        "4-232-5",
+        "10053",
+        "MGW2 T-2 Mobile T-2 d.o.o",
+        "T-2 d.o.o."
       ],
       [
         "5-247-0",
@@ -27668,30 +28070,6 @@
         "12223",
         "MGw22",
         "Telekom Slovenije d.d."
-      ],
-      [
-        "5-250-0",
-        "12240",
-        "Inlife-LJ2",
-        "Detel Global d.o.o."
-      ],
-      [
-        "5-250-1",
-        "12241",
-        "Inlife - LJ3",
-        "Detel Global d.o.o."
-      ],
-      [
-        "5-250-2",
-        "12242",
-        "Inlife - LJ4",
-        "Detel Global d.o.o."
-      ],
-      [
-        "5-250-3",
-        "12243",
-        "T-2 d.o.o. Gateway - Trunk T-2 d.o.o. Ljubljana 1",
-        "T-2 d.o.o."
       ],
       [
         "5-250-4",
@@ -27764,6 +28142,12 @@
         "14312",
         "MGW-T-2 Mobile",
         "T-2 d.o.o."
+      ],
+      [
+        "6-253-1",
+        "14313",
+        "Novatel-INTL1",
+        "Novatel d.o.o."
       ],
       [
         "6-253-2",
@@ -27926,6 +28310,12 @@
         "MTN"
       ],
       [
+        "6-110-6",
+        "13174",
+        "JHIGMS2",
+        "MTN (Pty) Ltd"
+      ],
+      [
         "6-110-7",
         "13175",
         "Brongberg Test Exchange",
@@ -27948,6 +28338,12 @@
         "13178",
         "Cell C",
         "Cell C (Pty) Ltd"
+      ],
+      [
+        "6-111-3",
+        "13179",
+        "GEIGMS2",
+        "MTN (Pty) Ltd"
       ],
       [
         "6-111-5",
@@ -28074,6 +28470,18 @@
         "13451",
         "VSMTO 11",
         "Vodacom Pty Ltd"
+      ],
+      [
+        "6-145-4",
+        "13452",
+        "MSIMD",
+        "Vodacom Pty Ltd"
+      ],
+      [
+        "6-145-5",
+        "13453",
+        "MSISP",
+        "Vodacom Pty Ltd"
       ]
     ],
     "South Sudan": [
@@ -28146,34 +28554,22 @@
         "ENTIDAD P\u00daBLICA EMPRESARIAL ADMINISTRADOR"
       ],
       [
-        "2-027-3",
-        "4315",
-        "Barcelona",
-        "SYMA MOBILE ESPA\u00d1A, S.L."
-      ],
-      [
-        "2-027-4",
-        "4316",
-        "Madrid",
-        "SYMA MOBILE ESPA\u00d1A, S.L."
-      ],
-      [
-        "2-027-5",
-        "4317",
-        "",
-        "Vodafone Enabler Espa\u00f1a, S.L."
-      ],
-      [
-        "2-027-6",
-        "4318",
-        "",
-        "Vodafone Enabler Espa\u00f1a, S.L."
-      ],
-      [
         "2-027-7",
         "4319",
         "Madrid",
         "Neo Sky 2002, S.A."
+      ],
+      [
+        "2-028-0",
+        "4320",
+        "Madrid-Delicias",
+        "TELEF\u00d3NICA DE ESPA\u00d1A, S.A. UNIPERSONAL"
+      ],
+      [
+        "2-028-1",
+        "4321",
+        "Barcelona-Torras i Bages",
+        "TELEF\u00d3NICA DE ESPA\u00d1A, S.A. UNIPERSONAL"
       ],
       [
         "2-028-7",
@@ -28254,12 +28650,6 @@
         "France Telecom Espa\u00f1a, S.A. Unipersonal"
       ],
       [
-        "2-031-3",
-        "4347",
-        "Madrid",
-        "COLT TECHNOLOGY SERVICES,S.A. UNIPERSONAL"
-      ],
-      [
         "2-031-4",
         "4348",
         "Madrid Norte SERVICES, S.L. UNIPERSONAL",
@@ -28270,36 +28660,6 @@
         "4349",
         "Madrid Alias SERVICES, S.L. UNIPERSONAL",
         "TELEF\u00d3NICA INTERNATIONAL WHOLESALE"
-      ],
-      [
-        "2-031-7",
-        "4351",
-        "Barcelona telecomunicaciones, S.A.U.",
-        "BT Espa\u00f1a Compa\u00f1\u00eda de servicios globales de"
-      ],
-      [
-        "2-237-0",
-        "5992",
-        "Madrid-Atocha",
-        "Telef\u00f3nica M\u00f3viles Espa\u00f1a, S.A.U."
-      ],
-      [
-        "2-237-1",
-        "5993",
-        "Madrid-Bellas Vistas",
-        "Telef\u00f3nica M\u00f3viles Espa\u00f1a, S.A.U."
-      ],
-      [
-        "2-237-2",
-        "5994",
-        "Barcelona-Guip\u00fazcoa",
-        "Telef\u00f3nica M\u00f3viles Espa\u00f1a, S.A.U."
-      ],
-      [
-        "2-237-3",
-        "5995",
-        "Barcelona-Cerd\u00e1",
-        "Telef\u00f3nica M\u00f3viles Espa\u00f1a, S.A.U."
       ],
       [
         "2-237-4",
@@ -28350,12 +28710,6 @@
         "Tata Communications (Spain), S.L."
       ],
       [
-        "2-238-4",
-        "6004",
-        "Madrid",
-        "Cableuropa, S.A."
-      ],
-      [
         "2-238-5",
         "6005",
         "Barcelona",
@@ -28366,12 +28720,6 @@
         "6006",
         "Madrid",
         "Xfera M\u00f3viles S.A."
-      ],
-      [
-        "2-238-7",
-        "6007",
-        "Barcelona telecomunicaciones, S.A.U.",
-        "BT Espa\u00f1a Compa\u00f1\u00eda de servicios globales de"
       ],
       [
         "2-239-1",
@@ -28386,28 +28734,10 @@
         "France Telecom Espa\u00f1a, S.A. Unipersonal"
       ],
       [
-        "2-239-6",
-        "6014",
-        "",
-        "Cableuropa, S.A.U."
-      ],
-      [
         "2-239-7",
         "6015",
         "",
         "Vodafone Espa\u00f1a S.A.U."
-      ],
-      [
-        "2-240-0",
-        "6016",
-        "Madrid telecomunicaciones, S.A.U.",
-        "BT Espa\u00f1a Compa\u00f1\u00eda de servicios globales de"
-      ],
-      [
-        "2-240-1",
-        "6017",
-        "Madrid telecomunicaciones, S.A.U.",
-        "BT Espa\u00f1a Compa\u00f1\u00eda de servicios globales de"
       ],
       [
         "2-240-2",
@@ -28434,18 +28764,6 @@
         "Cable & Wireless, S.L.U."
       ],
       [
-        "2-241-0",
-        "6024",
-        "",
-        "Cableuropa, S.A.U."
-      ],
-      [
-        "2-241-2",
-        "6026",
-        "Barcelona",
-        "COLT TECHNOLOGY SERVICES,S.A. UNIPERSONAL"
-      ],
-      [
         "2-241-3",
         "6027",
         "Madrid",
@@ -28456,12 +28774,6 @@
         "6028",
         "",
         "Tata Communications (Spain), S.L."
-      ],
-      [
-        "2-241-5",
-        "6029",
-        "Manresa",
-        "ALTA TECNOLOGIA EN COMUNICACIONS, S.L."
       ],
       [
         "2-241-6",
@@ -28518,12 +28830,6 @@
         "KPN SPAIN,S.L. UNIPERSONAL"
       ],
       [
-        "4-235-4",
-        "10076",
-        "",
-        "COLT TECHNOLOGY SERVICES,S.A. UNIPERSONAL"
-      ],
-      [
         "4-235-5",
         "10077",
         "",
@@ -28536,22 +28842,10 @@
         "Telef\u00f3nica de Espa\u00f1a, S.A.U."
       ],
       [
-        "6-244-0",
-        "14240",
-        "Madrid telecomunicaciones, S.A.U.",
-        "BT Espa\u00f1a Compa\u00f1\u00eda de servicios globales de"
-      ],
-      [
-        "6-244-1",
-        "14241",
-        "Madrid telecomunicaciones, S.A.U.",
-        "BT Espa\u00f1a Compa\u00f1\u00eda de servicios globales de"
-      ],
-      [
         "6-244-2",
         "14242",
-        "Madrid",
-        "Least Cost Routing Telecom, S.L."
+        "Madrid UNIPERSONAL",
+        "AIRE NETWORKS DEL MEDITERR\u00c1NEO, S.L."
       ],
       [
         "6-244-3",
@@ -28582,12 +28876,6 @@
         "14247",
         "",
         "Xtra Telecom, S.L."
-      ],
-      [
-        "7-236-0",
-        "16224",
-        " telecomunicaciones, S.A.U.",
-        "BT Espa\u00f1a Compa\u00f1\u00eda de servicios globales de"
       ],
       [
         "7-236-2",
@@ -28665,7 +28953,7 @@
         "7-254-3",
         "16371",
         "Madrid",
-        "Marin Telecom, S.L.U."
+        "AVATEL TELECOM, S.A."
       ]
     ],
     "Sri Lanka": [
@@ -28812,6 +29100,44 @@
         "9719",
         "Etisalat SL2",
         "Etisalat Lanka (vt) Ltd"
+      ]
+    ],
+    "State of Palestine": [
+      [
+        "4-175-0",
+        "9592",
+        "MSC_Rosh (MSC02)",
+        "Ooredoo Palestine MSC Rosh Hayen"
+      ],
+      [
+        "4-175-1",
+        "9593",
+        "C7INT1",
+        "Paltel"
+      ],
+      [
+        "4-175-2",
+        "9594",
+        "INTNODE",
+        "Paltel"
+      ],
+      [
+        "4-175-5",
+        "9597",
+        "MSC_Med1 (MSC01)",
+        "Ooredoo Palestine MSC Petah Tiqva Med 1"
+      ],
+      [
+        "4-175-6",
+        "9598",
+        "MGW_Rosh (MGW01)",
+        "Ooredoo Palestine MGW Rosh Hayen"
+      ],
+      [
+        "4-175-7",
+        "9599",
+        "MRS_Med1 (MRS02)",
+        "Ooredoo Palestine MRS Petah Tiqva Med1"
       ]
     ],
     "Sudan": [
@@ -28973,25 +29299,25 @@
         "2-080-1",
         "4737",
         "VMS1 (Stockholm)",
-        "A3 F\u00f6retag AB"
+        "Bredband2 Allm\u00e4nna IT AB"
       ],
       [
         "2-080-2",
         "4738",
-        "MSC 1 (Stockholm)",
+        "STP-1",
         "Tele2 Sverige AB"
       ],
       [
         "2-080-3",
         "4739",
-        "MSC 2 (Stockholm)",
+        "STP-2",
         "Tele2 Sverige AB"
       ],
       [
         "2-080-4",
         "4740",
         "GTS-STO-S1 (Stockholm)",
-        "A3 F\u00f6retag AB"
+        "Bredband2 Allm\u00e4nna IT AB"
       ],
       [
         "2-080-5",
@@ -29002,8 +29328,8 @@
       [
         "2-080-6",
         "4742",
-        "NMT STHLM MSC1 (Stockholm)",
-        "Netett Sverige AB"
+        "TMT1",
+        "TMT Analysis Limited"
       ],
       [
         "2-080-7",
@@ -29044,26 +29370,32 @@
       [
         "2-081-5",
         "4749",
-        "SNVH1-INT (Stockholm)",
-        "Tele2 Business AB"
+        "SNVH1-INT",
+        "Tele2 Sverige AB"
       ],
       [
         "2-081-6",
         "4750",
-        "SNKT1-INT (Stockholm)",
-        "Tele2 Business AB"
+        "SNKT1-INT",
+        "Tele2 Sverige AB"
+      ],
+      [
+        "2-081-7",
+        "4751",
+        "TMT2",
+        "TMT Analysis Limited"
       ],
       [
         "2-082-0",
         "4752",
         "RIX1",
-        "Com Hem AB"
+        "Tele2 Sverige AB"
       ],
       [
         "2-082-1",
         "4753",
-        "IQVM4 (Stockholm)",
-        "Tele2 Sverige AB"
+        "SOA1",
+        "Soatso AB"
       ],
       [
         "2-082-2",
@@ -29084,21 +29416,33 @@
         "HI3G Access AB"
       ],
       [
+        "2-082-5",
+        "4757",
+        "TMT3",
+        "TMT Analysis Limited"
+      ],
+      [
         "2-082-6",
         "4758",
         "MGW 102 (Stockholm)",
         "HI3G Access AB"
       ],
       [
+        "2-082-7",
+        "4759",
+        "TMT4",
+        "TMT Analysis Limited"
+      ],
+      [
         "2-083-0",
         "4760",
-        "Kista/TL2 (Stockholm)",
+        "JFA_STP",
         "Tele2 Sverige AB"
       ],
       [
         "2-083-1",
         "4761",
-        "Gothenburg/TL2 (G\u00f6teborg)",
+        "MPLO_STP",
         "Tele2 Sverige AB"
       ],
       [
@@ -29129,7 +29473,7 @@
         "2-083-6",
         "4766",
         "RSL-SWE 2 (Stockholm)",
-        "A3 F\u00f6retag AB"
+        "Bredband2 Allm\u00e4nna IT AB"
       ],
       [
         "2-192-2",
@@ -29159,7 +29503,7 @@
         "2-192-7",
         "5639",
         "VMS2 (Stockholm)",
-        "A3 F\u00f6retag AB"
+        "Bredband2 Allm\u00e4nna IT AB"
       ],
       [
         "2-193-0",
@@ -29183,19 +29527,7 @@
         "2-193-3",
         "5643",
         "RSL_SWE (Stockholm)",
-        "A3 F\u00f6retag AB"
-      ],
-      [
-        "2-193-4",
-        "5644",
-        "VTP (Stockholm)",
-        "Tele2 Sverige AB"
-      ],
-      [
-        "2-193-5",
-        "5645",
-        "SAV (G\u00f6teborg)",
-        "Tele2 Sverige AB"
+        "Bredband2 Allm\u00e4nna IT AB"
       ],
       [
         "2-193-6",
@@ -29208,12 +29540,6 @@
         "5647",
         "STO-B1-GMSC01 (Stockholm)",
         "Lycamobile Sweden Limited"
-      ],
-      [
-        "2-194-1",
-        "5649",
-        "Stockholm COLT SWE1 (Stockholm)",
-        "Colt Technology Services AB"
       ],
       [
         "2-194-2",
@@ -29246,12 +29572,6 @@
         "Lycamobile Sweden Limited"
       ],
       [
-        "2-194-7",
-        "5655",
-        "MGW 161 (Stockholm)",
-        "Netett Sverige AB"
-      ],
-      [
         "2-195-0",
         "5656",
         "MSC 101 (Stockholm)",
@@ -29282,12 +29602,6 @@
         "Telenor Connexion AB"
       ],
       [
-        "2-195-7",
-        "5663",
-        "MSC1 (Stockholm)",
-        "Tele2 Sverige AB"
-      ],
-      [
         "2-205-0",
         "5736",
         "GN1S (Stockholm)",
@@ -29314,26 +29628,20 @@
       [
         "2-205-4",
         "5740",
-        "STH1 (Stockholm)",
-        "Twilio Sweden AB"
+        "STH1",
+        "Twilio Ireland Ltd."
       ],
       [
         "2-205-5",
         "5741",
-        "EuSWE1 (Link\u00f6ping)",
-        "Eu Tel AB"
+        "EuSWE1",
+        "42 Telecom AB"
       ],
       [
         "2-205-6",
         "5742",
-        "EuSWE2 (Link\u00f6ping)",
-        "Eu Tel AB"
-      ],
-      [
-        "2-205-7",
-        "5743",
-        "CoolTEL SMSC-KLD-1 (Kolding)",
-        "LINK Mobile A/S"
+        "EuSWE2",
+        "42 Telecom AB"
       ],
       [
         "3-012-7",
@@ -29345,25 +29653,25 @@
         "3-229-0",
         "7976",
         "CLXSTH-1 (Stockholm)",
-        "CLX Networks AB"
+        "Sinch Sweden AB"
       ],
       [
         "3-229-1",
         "7977",
         "CLXSTH-2 (Stockholm)",
-        "CLX Networks AB"
+        "Sinch Sweden AB"
       ],
       [
         "3-229-2",
         "7978",
         "CLXSTH-3 (Stockholm)",
-        "CLX Networks AB"
+        "Sinch Sweden AB"
       ],
       [
         "3-229-3",
         "7979",
         "CLXSTH-4 (Stockholm)",
-        "CLX Networks AB"
+        "Sinch Sweden AB"
       ],
       [
         "3-229-4",
@@ -29416,8 +29724,8 @@
       [
         "6-226-4",
         "14100",
-        "BSU2 (Stockholm)",
-        "Twilio Sweden AB"
+        "BSU2",
+        "Twilio Ireland Ltd."
       ],
       [
         "6-226-5",
@@ -29441,13 +29749,13 @@
         "6-229-0",
         "14120",
         "MISTH-3 (Stockholm)",
-        "Mercury International Carrier Services"
+        "MI Carrier Services AB"
       ],
       [
         "6-229-1",
         "14121",
         "MISTH-4 (Stockholm)",
-        "Mercury International Carrier Services"
+        "MI Carrier Services AB"
       ],
       [
         "6-229-3",
@@ -29537,13 +29845,13 @@
         "6-232-2",
         "14146",
         "MISTH-1 (Stockholm)",
-        "Mercury International Carrier Services"
+        "MI Carrier Services AB"
       ],
       [
         "6-232-3",
         "14147",
         "MISTH-2 (Stockholm)",
-        "Mercury International Carrier Services"
+        "MI Carrier Services AB"
       ],
       [
         "6-232-6",
@@ -29652,6 +29960,24 @@
         "15999",
         "FTS-SW2",
         "Fink Telecom Services"
+      ],
+      [
+        "7-208-0",
+        "16000",
+        "BSG-SMSC2",
+        "BSG Estonia O\u00dc"
+      ],
+      [
+        "7-208-1",
+        "16001",
+        "TVX-STP1",
+        "eRate Sverige AB"
+      ],
+      [
+        "7-208-2",
+        "16002",
+        "TVX-STP2",
+        "eRate Sverige AB"
       ]
     ],
     "Switzerland": [
@@ -29659,7 +29985,7 @@
         "2-053-0",
         "4520",
         "Z\u00fcrich",
-        "Interoute Managed Services"
+        "GTT Switzerland S\u00e0rl"
       ],
       [
         "2-053-1",
@@ -29674,10 +30000,16 @@
         "Belgacom International SA"
       ],
       [
-        "2-053-4",
-        "4524",
-        "Zurich",
-        "Switchover AG"
+        "2-053-3",
+        "4523",
+        "Z\u00fcrich-1",
+        "Datatrade AG"
+      ],
+      [
+        "2-053-5",
+        "4525",
+        "Z\u00fcrich",
+        "TelcoTest AG"
       ],
       [
         "2-053-6",
@@ -29776,12 +30108,6 @@
         "Beeone Communications SA"
       ],
       [
-        "2-055-6",
-        "4542",
-        "Z\u00fcrich",
-        "Colt Technology Services AG"
-      ],
-      [
         "2-055-7",
         "4543",
         "RenensVD",
@@ -29810,12 +30136,6 @@
         "4547",
         "Gen\u00e8ve",
         "Swisscom (Schweiz) AG"
-      ],
-      [
-        "2-056-4",
-        "4548",
-        "Z\u00fcrich",
-        "Colt Technology Services AG"
       ],
       [
         "2-056-5",
@@ -29878,12 +30198,6 @@
         "Comfone AG"
       ],
       [
-        "2-057-7",
-        "4559",
-        "Z\u00fcrich",
-        "Calltrade Carrier Services AG"
-      ],
-      [
         "2-058-0",
         "4560",
         "Z\u00fcrich",
@@ -29902,28 +30216,10 @@
         "Sunrise Communications AG"
       ],
       [
-        "2-058-3",
-        "4563",
-        "Z\u00fcrich",
-        "Calltrade Carrier Services AG"
-      ],
-      [
         "2-058-4",
         "4564",
         "Lausanne S01",
         "Sunrise Communications AG"
-      ],
-      [
-        "2-058-5",
-        "4565",
-        "Z\u00fcrich",
-        "LTN Liechtenstein Telenet AG"
-      ],
-      [
-        "2-058-6",
-        "4566",
-        "Z\u00fcrich",
-        "Colt Technology Services AG"
       ],
       [
         "2-058-7",
@@ -29959,7 +30255,7 @@
         "2-059-4",
         "4572",
         "Z\u00fcrich",
-        "TelCommunication Services AG"
+        "Sunrise Communications AG"
       ],
       [
         "2-059-5",
@@ -29983,7 +30279,7 @@
         "2-061-0",
         "4584",
         "Z\u00fcrich",
-        "TelServ BV"
+        "Global Premium Telecom B.V."
       ],
       [
         "2-061-1",
@@ -30006,8 +30302,14 @@
       [
         "2-061-4",
         "4588",
-        "",
-        "IVY Telecom SA"
+        "Z\u00fcrich-2",
+        "Datatrade AG"
+      ],
+      [
+        "2-061-5",
+        "4589",
+        "Z\u00fcrich-3",
+        "Datatrade AG"
       ],
       [
         "2-061-6",
@@ -30042,8 +30344,8 @@
       [
         "2-062-3",
         "4595",
-        "Z\u00fcrich",
-        "Calltrade Carrier Services AG"
+        "Z\u00fcrich4",
+        "Datatrade Managed AG"
       ],
       [
         "2-062-4",
@@ -30055,7 +30357,7 @@
         "2-062-5",
         "4597",
         "Z\u00fcrich",
-        "TelCommunication Services AG"
+        "Sunrise Communications AG"
       ],
       [
         "2-062-6",
@@ -30082,16 +30384,28 @@
         "Sunrise Communications AG"
       ],
       [
+        "2-063-2",
+        "4602",
+        "Z\u00fcrich-1",
+        "Intellico AG"
+      ],
+      [
         "2-063-3",
         "4603",
-        "Z\u00fcrich",
-        "Calltrade Carrier Services AG"
+        "Z\u00fcrich5",
+        "Intellico AG"
       ],
       [
         "2-063-4",
         "4604",
-        "Zurich",
-        "IVY Telecom SA"
+        "Z\u00fcrich-2",
+        "Intellico AG"
+      ],
+      [
+        "2-063-5",
+        "4605",
+        "Z\u00fcrich",
+        "rational brands service AG"
       ],
       [
         "2-063-6",
@@ -30121,7 +30435,7 @@
         "5-246-2",
         "12210",
         "Z\u00fcrich",
-        "TelCommunication Services AG"
+        "Sunrise Communications AG"
       ],
       [
         "5-246-3",
@@ -30152,6 +30466,24 @@
         "12215",
         "Z\u00fcrich7",
         "Comfone AG"
+      ],
+      [
+        "7-209-0",
+        "16008",
+        "Schlieren",
+        "GlobaHub AG"
+      ],
+      [
+        "7-209-1",
+        "16009",
+        "Schlieren1",
+        "GlobaHub AG"
+      ],
+      [
+        "7-209-7",
+        "16015",
+        "Z\u00fcrich4",
+        "Intellico AG"
       ],
       [
         "7-228-0",
@@ -30196,10 +30528,10 @@
         "Telecom26 AG"
       ],
       [
-        "7-247-0",
-        "16312",
-        "Chiasso",
-        "Comunica I.T. Services"
+        "7-228-7",
+        "16167",
+        "Z\u00fcrich-3",
+        "Intellico AG"
       ],
       [
         "7-247-1",
@@ -30216,8 +30548,8 @@
       [
         "7-247-3",
         "16315",
-        "Chiasso",
-        "Comunica I.T. Services"
+        "SOL_BSE",
+        "BSE Software GmbH"
       ],
       [
         "7-247-4",
@@ -30228,8 +30560,8 @@
       [
         "7-247-5",
         "16317",
-        "Zurich",
-        "Netstream AG"
+        "Z\u00fcrich",
+        "Nexphone AG"
       ],
       [
         "7-247-6",
@@ -30245,6 +30577,12 @@
       ]
     ],
     "Syrian Arab Republic": [
+      [
+        "4-034-0",
+        "8464",
+        "",
+        "WAFA Telecom"
+      ],
       [
         "4-034-1",
         "8465",
@@ -30280,6 +30618,12 @@
         "8470",
         "Syriatel-STD MDUM1",
         "Syriatel"
+      ],
+      [
+        "4-034-7",
+        "8471",
+        "",
+        "WAFA Telecom"
       ]
     ],
     "Tajikistan": [
@@ -30394,12 +30738,6 @@
         "MIC Tanzania Limited"
       ],
       [
-        "6-080-3",
-        "12931",
-        "ITSC ZNZ",
-        "Zanzibar Telecom Limited"
-      ],
-      [
         "6-080-4",
         "12932",
         "MSDA1",
@@ -30466,10 +30804,16 @@
         "Smile Communications Tanzania Limited"
       ],
       [
-        "6-123-1",
-        "13273",
-        "WTLSC01",
-        "Wiafrica Tanzania Limited"
+        "6-123-2",
+        "13274",
+        "DSMMSC01",
+        "Tanzania Telecommunications Corporation"
+      ],
+      [
+        "6-123-3",
+        "13275",
+        "DODMSC01",
+        "Tanzania Telecommunications Corporation"
       ]
     ],
     "Thailand": [
@@ -30489,25 +30833,37 @@
         "5-039-2",
         "10554",
         "TIC-TYN-1",
-        "True International"
+        "True Move H Universal Communication"
       ],
       [
         "5-039-3",
         "10555",
         "TIC-MTG-1",
-        "True International"
+        "True Move H Universal Communication"
       ],
       [
         "5-039-4",
         "10556",
         "TIC-TYN-3",
-        "True International"
+        "True Move H Universal Communication"
       ],
       [
         "5-039-5",
         "10557",
         "TIC-MTG-3",
-        "True International"
+        "True Move H Universal Communication"
+      ],
+      [
+        "5-039-6",
+        "10558",
+        "TUC-MTG(IDD)",
+        "True Move H Universal Communication"
+      ],
+      [
+        "5-039-7",
+        "10559",
+        "TUC-PBI(IDD)",
+        "True Move H Universal Communication"
       ],
       [
         "5-040-0",
@@ -30561,7 +30917,7 @@
         "5-041-0",
         "10568",
         "ST-RST",
-        "DTAC Network"
+        "DTAC TriNet"
       ],
       [
         "5-041-1",
@@ -30609,7 +30965,7 @@
         "5-042-0",
         "10576",
         "IG \u2013 RST",
-        "DTAC Network"
+        "DTAC TriNet"
       ],
       [
         "5-042-1",
@@ -30627,31 +30983,31 @@
         "5-042-3",
         "10579",
         "N&T STP \u2013 A",
-        "True International"
+        "True Move H Universal Communication"
       ],
       [
         "5-042-4",
         "10580",
         "N&T STP \u2013 B",
-        "True International"
+        "True Move H Universal Communication"
       ],
       [
         "5-042-5",
         "10581",
         "N&T SG",
-        "True International"
+        "True Move H Universal Communication"
       ],
       [
         "5-042-6",
         "10582",
         "ST \u2013 SNK",
-        "DTAC Network"
+        "DTAC TriNet"
       ],
       [
         "5-042-7",
         "10583",
         "IG \u2013 SNK",
-        "DTAC Network"
+        "DTAC TriNet"
       ],
       [
         "5-043-0",
@@ -30668,14 +31024,14 @@
       [
         "5-043-2",
         "10586",
-        "STP \u2013 C",
-        "True International"
+        "TUC-TYN SCCP",
+        "True Move H Universal Communication"
       ],
       [
         "5-043-3",
         "10587",
-        "STP \u2013 D",
-        "True International"
+        "TIC-MTG SCCP",
+        "True Move H Universal Communication"
       ],
       [
         "5-043-4",
@@ -30717,25 +31073,25 @@
         "5-044-2",
         "10594",
         "IGW_RST2 (MSC-S)",
-        "DTAC Network"
+        "DTAC TriNet"
       ],
       [
         "5-044-3",
         "10595",
         "IGW_RST2 (MGW)",
-        "DTAC Network"
+        "DTAC TriNet"
       ],
       [
         "5-044-4",
         "10596",
         "IGW_SNK2 (MSC-S)",
-        "DTAC Network"
+        "DTAC TriNet"
       ],
       [
         "5-044-5",
         "10597",
         "IGW_SNK2 (MGW)",
-        "DTAC Network"
+        "DTAC TriNet"
       ],
       [
         "5-044-6",
@@ -30747,6 +31103,42 @@
         "5-044-7",
         "10599",
         "TWA/POI (AWN-STP2)",
+        "Advance Wireless Network"
+      ],
+      [
+        "5-135-0",
+        "11320",
+        "TUC-TYN SCCP",
+        "True Move H Universal Communication"
+      ],
+      [
+        "5-135-1",
+        "11321",
+        "TIC-MTG SCCP",
+        "True Move H Universal Communication"
+      ],
+      [
+        "5-135-2",
+        "11322",
+        "TUC-TYN SCCP",
+        "True Move H Universal Communication"
+      ],
+      [
+        "5-135-3",
+        "11323",
+        "TIC-MTG SCCP",
+        "True Move H Universal Communication"
+      ],
+      [
+        "5-135-4",
+        "11324",
+        "BPL2/POI",
+        "Advance Wireless Network"
+      ],
+      [
+        "5-135-5",
+        "11325",
+        "TWA2/POI",
         "Advance Wireless Network"
       ]
     ],
@@ -31000,7 +31392,113 @@
         "Orascom T\u00e9l\u00e9com Tunisie"
       ]
     ],
-    "Turkey": [
+    "Turkmenistan": [
+      [
+        "4-160-1",
+        "9473",
+        "Ashgabat",
+        "Turkmentelecom"
+      ]
+    ],
+    "Turks and Caicos Islands": [
+      [
+        "3-152-0",
+        "7360",
+        "MTX-PSTN-LS",
+        "Cable & Wireless Ltd"
+      ],
+      [
+        "3-152-1",
+        "7361",
+        "PSTN-MTX-LS7",
+        "Cable & Wireless Ltd"
+      ],
+      [
+        "3-152-2",
+        "7362",
+        "PSTN-PPD-LS7",
+        "Cable & Wireless Ltd"
+      ],
+      [
+        "3-152-3",
+        "7363",
+        "MTX-VM-LS",
+        "Cable & Wireless Ltd"
+      ],
+      [
+        "3-152-4",
+        "7364",
+        "G-MSC",
+        "Digicel (TCI) Ltd"
+      ],
+      [
+        "3-152-5",
+        "7365",
+        "TCIBSC91LS",
+        "Cable & Wireless Ltd"
+      ],
+      [
+        "3-152-6",
+        "7366",
+        "",
+        "Andrew's Communications Ltd"
+      ],
+      [
+        "3-152-7",
+        "7367",
+        "",
+        "IslandCom Communications Ltd"
+      ],
+      [
+        "3-153-0",
+        "7368",
+        "",
+        "IslandCom Communications Ltd"
+      ],
+      [
+        "3-153-1",
+        "7369",
+        "MGW",
+        "IslandCom Communications Ltd"
+      ],
+      [
+        "3-153-2",
+        "7370",
+        "MSS",
+        "IslandCom Communications Ltd"
+      ],
+      [
+        "3-153-3",
+        "7371",
+        "RNC",
+        "IslandCom Communications Ltd"
+      ],
+      [
+        "3-153-4",
+        "7372",
+        "HLR",
+        "IslandCom Communications Ltd"
+      ],
+      [
+        "3-153-5",
+        "7373",
+        "MSC",
+        "Digicel (TCI) Ltd"
+      ],
+      [
+        "3-153-6",
+        "7374",
+        "RNC",
+        "Digicel (TCI) Ltd"
+      ],
+      [
+        "3-153-7",
+        "7375",
+        "MGW",
+        "Digicel (TCI) Ltd"
+      ]
+    ],
+    "T\u00fcrkiye": [
       [
         "2-171-0",
         "5464",
@@ -31188,112 +31686,6 @@
         "Avea"
       ]
     ],
-    "Turkmenistan": [
-      [
-        "4-160-1",
-        "9473",
-        "Ashgabat",
-        "Turkmentelecom"
-      ]
-    ],
-    "Turks and Caicos Islands": [
-      [
-        "3-152-0",
-        "7360",
-        "MTX-PSTN-LS",
-        "Cable & Wireless Ltd"
-      ],
-      [
-        "3-152-1",
-        "7361",
-        "PSTN-MTX-LS7",
-        "Cable & Wireless Ltd"
-      ],
-      [
-        "3-152-2",
-        "7362",
-        "PSTN-PPD-LS7",
-        "Cable & Wireless Ltd"
-      ],
-      [
-        "3-152-3",
-        "7363",
-        "MTX-VM-LS",
-        "Cable & Wireless Ltd"
-      ],
-      [
-        "3-152-4",
-        "7364",
-        "G-MSC",
-        "Digicel (TCI) Ltd"
-      ],
-      [
-        "3-152-5",
-        "7365",
-        "TCIBSC91LS",
-        "Cable & Wireless Ltd"
-      ],
-      [
-        "3-152-6",
-        "7366",
-        "",
-        "Andrew's Communications Ltd"
-      ],
-      [
-        "3-152-7",
-        "7367",
-        "",
-        "IslandCom Communications Ltd"
-      ],
-      [
-        "3-153-0",
-        "7368",
-        "",
-        "IslandCom Communications Ltd"
-      ],
-      [
-        "3-153-1",
-        "7369",
-        "MGW",
-        "IslandCom Communications Ltd"
-      ],
-      [
-        "3-153-2",
-        "7370",
-        "MSS",
-        "IslandCom Communications Ltd"
-      ],
-      [
-        "3-153-3",
-        "7371",
-        "RNC",
-        "IslandCom Communications Ltd"
-      ],
-      [
-        "3-153-4",
-        "7372",
-        "HLR",
-        "IslandCom Communications Ltd"
-      ],
-      [
-        "3-153-5",
-        "7373",
-        "MSC",
-        "Digicel (TCI) Ltd"
-      ],
-      [
-        "3-153-6",
-        "7374",
-        "RNC",
-        "Digicel (TCI) Ltd"
-      ],
-      [
-        "3-153-7",
-        "7375",
-        "MGW",
-        "Digicel (TCI) Ltd"
-      ]
-    ],
     "Uganda": [
       [
         "6-082-0",
@@ -31422,24 +31814,6 @@
         "Airtel Uganda Limited"
       ],
       [
-        "6-131-2",
-        "13338",
-        "Kmpms - 01/S11",
-        "Sure Telecom"
-      ],
-      [
-        "6-131-3",
-        "13339",
-        "Sure Telecom",
-        "kmpms - 01/S2I"
-      ],
-      [
-        "6-131-4",
-        "13340",
-        "Kmpms - 01/S31",
-        "Sure Telecom"
-      ],
-      [
         "6-131-5",
         "13341",
         "MGGC1",
@@ -31456,6 +31830,30 @@
         "13343",
         "MSGC1",
         "Warid Telecom Uganda Ltd"
+      ],
+      [
+        "6-132-3",
+        "13347",
+        "ISPC-1",
+        "Hamilton Telecom"
+      ],
+      [
+        "6-132-4",
+        "13348",
+        "ISPC-2",
+        "Hamilton Telecom"
+      ],
+      [
+        "6-132-6",
+        "13350",
+        "INTL_GW_PC",
+        "Talkio Mobile Ltd"
+      ],
+      [
+        "6-132-7",
+        "13351",
+        "INTL_GW_PC_RED",
+        "Talkio Mobile Ltd"
       ]
     ],
     "Ukraine": [
@@ -31463,12 +31861,6 @@
         "2-214-0",
         "5808",
         "KIVISC1",
-        "Ukrtelecom JSC"
-      ],
-      [
-        "2-214-1",
-        "5809",
-        "LVVISC2",
         "Ukrtelecom JSC"
       ],
       [
@@ -31526,28 +31918,16 @@
         "JSC \"Kyivstar\""
       ],
       [
-        "4-242-6",
-        "10134",
-        "FRTKV2",
-        "PrJSC \"Farlep-Invest\""
-      ],
-      [
         "4-242-7",
         "10135",
         "ETTUA",
         "Eurotranstelecom LLC"
       ],
       [
-        "6-241-1",
-        "14217",
-        "IMSISC",
-        "Ukrtelecom JSC"
-      ],
-      [
-        "6-241-3",
-        "14219",
-        "KSTP2",
-        "Ukrtelecom JSC"
+        "6-241-2",
+        "14218",
+        "AT894UA",
+        "Atlantis Telecom, LLC"
       ],
       [
         "6-241-4",
@@ -32235,13 +32615,13 @@
         "2-154-5",
         "5333",
         "Slough VOIP1",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "2-154-6",
         "5334",
         "Docklands VOIP 1",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "2-154-7",
@@ -32265,13 +32645,13 @@
         "2-155-3",
         "5339",
         "KJCOPM01",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-155-4",
         "5340",
         "GC Slough 1",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "2-155-5",
@@ -32343,13 +32723,13 @@
         "2-162-2",
         "5394",
         "Poplar Business Park Local",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-162-3",
         "5395",
         "CLTLN9P0",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-162-5",
@@ -32463,7 +32843,7 @@
         "2-165-0",
         "5416",
         "GC Birmingham",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "2-165-1",
@@ -32481,7 +32861,7 @@
         "2-165-3",
         "5419",
         "London 2",
-        "PCCW Global UK Limited"
+        "OPTIFY MEDIAFORCE LIMITED"
       ],
       [
         "2-165-5",
@@ -32493,7 +32873,7 @@
         "2-165-7",
         "5423",
         "Kg John Carrier 1",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-166-0",
@@ -32505,13 +32885,13 @@
         "2-166-1",
         "5425",
         "Slough",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "2-166-2",
         "5426",
         "BHXGSX1",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-166-3",
@@ -32523,7 +32903,7 @@
         "2-166-4",
         "5428",
         "HTUKSMS1",
-        "Hutchison Global Communications (UK) Limited"
+        "HGC Global Communications (UK) Limited"
       ],
       [
         "2-166-5",
@@ -32542,12 +32922,6 @@
         "5431",
         "Luton BED6000-E17",
         "EE Limited (Orange)"
-      ],
-      [
-        "2-167-0",
-        "5432",
-        "BMSTP",
-        "SKD 4 Limited"
       ],
       [
         "2-167-1",
@@ -32583,7 +32957,7 @@
         "2-169-0",
         "5448",
         "HTUKSMS2",
-        "Hutchison Global Communications (UK) Limited"
+        "HGC Global Communications (UK) Limited"
       ],
       [
         "2-169-1",
@@ -32661,7 +33035,7 @@
         "2-170-6",
         "5462",
         "King Johns Local",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-170-7",
@@ -32673,7 +33047,7 @@
         "2-174-0",
         "5488",
         "Kg John Carrier 2",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-174-2",
@@ -32698,12 +33072,6 @@
         "5493",
         "STPER1",
         "VODAFONE LIMITED"
-      ],
-      [
-        "2-174-7",
-        "5495",
-        "IRT8",
-        "Wavecrest (UK) Ltd"
       ],
       [
         "2-175-1",
@@ -32739,7 +33107,7 @@
         "2-175-6",
         "5502",
         "Switch 1 - Goswell1",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "2-175-7",
@@ -32770,12 +33138,6 @@
         "5507",
         "Park Royal-T04",
         "EE Limited (Orange)"
-      ],
-      [
-        "2-176-4",
-        "5508",
-        "UK2",
-        "SKD 4 Limited"
       ],
       [
         "2-176-5",
@@ -32859,19 +33221,13 @@
         "2-178-5",
         "5525",
         "Paul Street DMS",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "2-178-6",
         "5526",
         "C&W Jersey",
         "Sure (Jersey) Limited"
-      ],
-      [
-        "2-178-7",
-        "5527",
-        "IRT7",
-        "Wavecrest (UK) Ltd"
       ],
       [
         "2-179-0",
@@ -32882,8 +33238,8 @@
       [
         "2-179-1",
         "5529",
-        "London 1",
-        "Level 3 Communications Ltd"
+        "",
+        "CenturyLink Communications UK Limited"
       ],
       [
         "2-179-2",
@@ -32919,7 +33275,7 @@
         "2-185-0",
         "5576",
         "Marylebone",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-185-1",
@@ -32932,12 +33288,6 @@
         "5579",
         "KDD-E",
         "KDDI Europe Limited"
-      ],
-      [
-        "2-185-4",
-        "5580",
-        "UKLHCO5-Mercur",
-        "Wavecrest (UK) Ltd"
       ],
       [
         "2-185-5",
@@ -33054,6 +33404,12 @@
         "Telefonica UK Limited"
       ],
       [
+        "2-188-2",
+        "5602",
+        "RAN1",
+        "BlueWave Communications"
+      ],
+      [
         "2-188-7",
         "5607",
         "London1",
@@ -33120,6 +33476,12 @@
         "MTN GlobalConnect Solutions Limited"
       ],
       [
+        "2-190-2",
+        "5618",
+        "Titan",
+        "CIRCLES MVNE International B.V."
+      ],
+      [
         "2-190-3",
         "5619",
         "ZZ2 BQ3 Pop",
@@ -33135,13 +33497,13 @@
         "2-190-6",
         "5622",
         "Bishopsgate",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-190-7",
         "5623",
         "City",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-191-0",
@@ -33165,13 +33527,13 @@
         "2-191-3",
         "5627",
         "Switch 2 \u2013 Goswell 2",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "2-191-4",
         "5628",
         "ipLCR Leman",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "2-191-5",
@@ -33264,10 +33626,16 @@
         "Lycamobile UK Limited"
       ],
       [
+        "2-210-4",
+        "5780",
+        "Titan",
+        "CIRCLES MVNE International B.V."
+      ],
+      [
         "2-210-5",
         "5781",
         "ipLCR Poplar",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "2-210-7",
@@ -33279,13 +33647,19 @@
         "2-211-0",
         "5784",
         "BM1",
-        "Colt Technology Services Ltd"
+        "Colt Technology Services"
       ],
       [
         "2-211-1",
         "5785",
         "Reading-M64",
         "EE Limited (Orange)"
+      ],
+      [
+        "2-211-2",
+        "5786",
+        "RAN1",
+        "BlueWave Communications"
       ],
       [
         "2-211-3",
@@ -33328,6 +33702,48 @@
         "7989",
         "TNZUK London 2",
         "TNZI UK Ltd"
+      ],
+      [
+        "3-230-6",
+        "7990",
+        "LEBSTP3",
+        "LEBARA LIMITED"
+      ],
+      [
+        "3-235-0",
+        "8024",
+        "Slough Colo Site (SL02)",
+        "Hutchison 3G UK Ltd"
+      ],
+      [
+        "3-235-1",
+        "8025",
+        "London Telehouse North 2 Colo Site (LN03)",
+        "Hutchison 3G UK Ltd"
+      ],
+      [
+        "3-235-2",
+        "8026",
+        "London Powergate Colo (LN02)",
+        "Hutchison 3G UK Ltd"
+      ],
+      [
+        "3-235-3",
+        "8027",
+        "AMCSTP3",
+        "AEROMOBILE COMMUNICATIONS LIMITED"
+      ],
+      [
+        "3-235-4",
+        "8028",
+        "AMCSTP4",
+        "AEROMOBILE COMMUNICATIONS LIMITED"
+      ],
+      [
+        "3-235-5",
+        "8029",
+        "LEBSTP4",
+        "LEBARA LIMITED"
       ],
       [
         "3-235-7",
@@ -33406,12 +33822,6 @@
         "8047",
         "Synective -UK",
         "Synectiv Ltd"
-      ],
-      [
-        "4-229-0",
-        "10024",
-        "London 1",
-        "Limitless Mobile Ltd"
       ],
       [
         "4-229-1",
@@ -33498,10 +33908,22 @@
         "Icron Network Limited"
       ],
       [
+        "4-240-0",
+        "10112",
+        "HGCUKSTP5",
+        "HGC Global Communications (UK) Limited"
+      ],
+      [
         "4-240-1",
         "10113",
         "London 1",
         "ELCom Management Ltd"
+      ],
+      [
+        "4-240-3",
+        "10115",
+        "HGCUKSTP6",
+        "HGC Global Communications (UK) Limited"
       ],
       [
         "4-240-4",
@@ -33519,7 +33941,7 @@
         "4-240-6",
         "10118",
         "Switch 3 \u2013 Docklands 2",
-        "CenturyLink Communications UK Limited"
+        "Lumen Technologies UK Limited"
       ],
       [
         "4-240-7",
@@ -33642,6 +34064,12 @@
         "EE Limited (Orange)"
       ],
       [
+        "4-254-6",
+        "10230",
+        "Mobile App FW",
+        "Sky UK Limited"
+      ],
+      [
         "4-254-7",
         "10231",
         "ZTA London",
@@ -33672,6 +34100,12 @@
         "Vodafone Ltd (Energis)"
       ],
       [
+        "4-255-4",
+        "10236",
+        "Mobile App FW",
+        "Sky UK Limited"
+      ],
+      [
         "4-255-5",
         "10237",
         "Manchester DMS100 1",
@@ -33699,19 +34133,13 @@
         "5-226-1",
         "12049",
         "UKSTP01",
-        "Hutchison Global Communications (UK) Limited"
+        "HGC Global Communications (UK) Limited"
       ],
       [
         "5-226-2",
         "12050",
         "UKSTP02",
-        "Hutchison Global Communications (UK) Limited"
-      ],
-      [
-        "5-226-3",
-        "12051",
-        "Cisco STP",
-        "Limitless Mobile Ltd"
+        "HGC Global Communications (UK) Limited"
       ],
       [
         "5-226-4",
@@ -33780,6 +34208,18 @@
         "China Mobile International (UK) Limited"
       ],
       [
+        "5-243-0",
+        "12184",
+        "amsg-tchub-c01-n02",
+        "Annecto Telecom"
+      ],
+      [
+        "5-243-1",
+        "12185",
+        "Mobile App FW",
+        "Sky UK Limited"
+      ],
+      [
         "5-243-2",
         "12186",
         "LMUK-STP1",
@@ -33822,6 +34262,12 @@
         "Interoute Networks Limited"
       ],
       [
+        "5-248-2",
+        "12226",
+        "Mobile App FW",
+        "Sky UK Limited"
+      ],
+      [
         "5-248-3",
         "12227",
         "UKSA1 UKSA2",
@@ -33858,6 +34304,12 @@
         "Inclarity Communications Limited"
       ],
       [
+        "6-242-2",
+        "14226",
+        "Mobile App FW",
+        "Sky UK Limited"
+      ],
+      [
         "6-242-3",
         "14227",
         "MN-TK1",
@@ -33868,6 +34320,18 @@
         "14228",
         "MN-TK2",
         "Spacetel UK Ltd"
+      ],
+      [
+        "6-242-5",
+        "14229",
+        "Mobile App FW",
+        "Sky UK Limited"
+      ],
+      [
+        "6-242-6",
+        "14230",
+        "telet-stp-1",
+        "Telet Research (N.I.) Limited"
       ],
       [
         "6-242-7",
@@ -33900,12 +34364,6 @@
         "Samitel Limited"
       ],
       [
-        "6-252-4",
-        "14308",
-        "Global Switch",
-        "Cheers International Sales Limited"
-      ],
-      [
         "6-252-5",
         "14309",
         "Jukej 1",
@@ -33921,19 +34379,37 @@
         "6-252-7",
         "14311",
         "LONDON1",
-        "PCCW Global UK Limited"
+        "OPTIFY MEDIAFORCE LIMITED"
+      ],
+      [
+        "6-254-0",
+        "14320",
+        "STP-1 Volta",
+        "BRINGO GROUP LTD"
+      ],
+      [
+        "6-254-1",
+        "14321",
+        "STP-2 Volta",
+        "BRINGO GROUP LTD"
       ],
       [
         "6-254-2",
         "14322",
         "UKVZ02",
-        "Hutchison Global Communications (UK) Limited"
+        "HGC Global Communications (UK) Limited"
       ],
       [
         "6-254-3",
         "14323",
         "ITP 1A",
         "Syniverse Technologies Inc"
+      ],
+      [
+        "6-254-4",
+        "14324",
+        "telet-stp-2",
+        "Telet Research (N.I.) Limited"
       ],
       [
         "6-254-5",
@@ -33994,6 +34470,24 @@
         "16130",
         "NN.02",
         "Neutrino Networks Limited"
+      ],
+      [
+        "7-224-3",
+        "16131",
+        "atl-uk01-stp-01",
+        "Annecto Telecom"
+      ],
+      [
+        "7-229-0",
+        "16168",
+        "THE1",
+        "ESEYE LIMITED"
+      ],
+      [
+        "7-229-1",
+        "16169",
+        "THE2",
+        "ESEYE LIMITED"
       ],
       [
         "7-229-3",
@@ -34074,6 +34568,12 @@
         "Telefonica UK Limited"
       ],
       [
+        "7-234-0",
+        "16208",
+        "Stour Marine 3",
+        "Stour Marine Limited"
+      ],
+      [
         "7-234-3",
         "16211",
         "LONDON",
@@ -34096,6 +34596,18 @@
         "16215",
         "Stour Marine",
         "Stour Marine Limited"
+      ],
+      [
+        "7-237-0",
+        "16232",
+        "TB1.E03",
+        "Sky UK Limited"
+      ],
+      [
+        "7-237-1",
+        "16233",
+        "Alaris_002",
+        "Protel S.A.L offshore"
       ],
       [
         "7-237-2",
@@ -34230,12 +34742,6 @@
         "Telefonica UK Limited"
       ],
       [
-        "7-253-5",
-        "16365",
-        "London",
-        "Modus Telecom Ltd"
-      ],
-      [
         "7-253-6",
         "16366",
         "MSC 26",
@@ -34270,8 +34776,8 @@
       [
         "3-020-3",
         "6307",
-        "White Plains, NY",
-        "AT&T"
+        "Atlanta, GA",
+        "AT&T Corp"
       ],
       [
         "3-020-4",
@@ -34294,8 +34800,8 @@
       [
         "3-020-7",
         "6311",
-        "Warrenville, IL",
-        "AT&T"
+        "Sacramento, CA",
+        "AT&T Corp"
       ],
       [
         "3-021-0",
@@ -34325,25 +34831,25 @@
         "3-021-4",
         "6316",
         "West Orange, NJ",
-        "WorldCom, Inc"
+        "Verizon Business Global LLC"
       ],
       [
         "3-021-5",
         "6317",
-        "Dominguez Hills, CA",
-        "WorldCom, Inc"
+        "Rialto, CA",
+        "Verizon Business Global LLC"
       ],
       [
         "3-021-6",
         "6318",
         "San Antonio, TX",
-        "WorldCom, Inc"
+        "Verizon Business Global LLC"
       ],
       [
         "3-021-7",
         "6319",
         "Pottstown, PA",
-        "WorldCom, Inc"
+        "Verizon Business Global LLC"
       ],
       [
         "3-022-0",
@@ -34352,16 +34858,10 @@
         "Choice Wireless, LC"
       ],
       [
-        "3-022-1",
-        "6321",
-        "Pompano Beach, FL",
-        "WorldCom, Inc"
-      ],
-      [
         "3-022-2",
         "6322",
         "Pottstown, PA",
-        "WorldCom, Inc"
+        "Verizon Business Global LLC"
       ],
       [
         "3-022-3",
@@ -34380,12 +34880,6 @@
         "6325",
         "Dallas (1), TX",
         "Syniverse Technologies"
-      ],
-      [
-        "3-022-6",
-        "6326",
-        "San Antonio, TX",
-        "WorldCom, Inc"
       ],
       [
         "3-022-7",
@@ -34414,8 +34908,8 @@
       [
         "3-023-3",
         "6331",
-        "Atlanta",
-        "AT&T"
+        "White Plains, NY",
+        "AT&T Corp"
       ],
       [
         "3-023-4",
@@ -34508,22 +35002,10 @@
         "Syniverse Technologies"
       ],
       [
-        "3-025-3",
-        "6347",
-        "Albuquerque",
-        "AT&T"
-      ],
-      [
         "3-025-4",
         "6348",
         "San Antonio",
         "AT&T"
-      ],
-      [
-        "3-025-5",
-        "6349",
-        "Honolulu, HI",
-        "Verizon Hawaii International Inc"
       ],
       [
         "3-025-6",
@@ -34600,8 +35082,8 @@
       [
         "3-027-3",
         "6363",
-        "Los Angeles (2),CA",
-        "China Telecom (Americas) Corporation"
+        "Johnstown, OH",
+        "E-MARCONI LLC"
       ],
       [
         "3-027-4",
@@ -34656,12 +35138,6 @@
         "6372",
         "Hollywood, FL",
         "BellSouth International"
-      ],
-      [
-        "3-028-5",
-        "6373",
-        "Miami, FL",
-        "UniPlex Telecom Technologies, Inc"
       ],
       [
         "3-028-6",
@@ -34720,8 +35196,8 @@
       [
         "3-029-7",
         "6383",
-        "Olympia, WA",
-        "Verisign Inc"
+        "San Antonio, TX",
+        "Transaction Network Services, Inc."
       ],
       [
         "3-030-0",
@@ -34802,24 +35278,6 @@
         "New Global Telecom, Inc"
       ],
       [
-        "3-031-5",
-        "6397",
-        "Washington DC",
-        "Startec Global Communications Corporation"
-      ],
-      [
-        "3-031-6",
-        "6398",
-        "Honolulu (2), HI",
-        "Verizon Hawaii International Inc"
-      ],
-      [
-        "3-031-7",
-        "6399",
-        "Honolulu (3), HI",
-        "Verizon Hawaii International Inc"
-      ],
-      [
         "3-032-0",
         "6400",
         "Los Angeles, CA",
@@ -34846,14 +35304,14 @@
       [
         "3-032-4",
         "6404",
-        "Pompano Beach, FL",
-        "WorldCom, Inc"
+        "Rialto, CA",
+        "Verizon Business Global LLC"
       ],
       [
         "3-032-5",
         "6405",
         "Pompano Beach, FL",
-        "WorldCom, Inc"
+        "Verizon Business Global LLC"
       ],
       [
         "3-032-6",
@@ -34888,32 +35346,20 @@
       [
         "3-033-3",
         "6411",
-        "Los Angeles,CA",
-        "China Telecom (Americas) Corporation"
+        "Atlanta, GA Gensitel",
+        "GENESIS INTERNATIONAL TELECOM LLC dba"
       ],
       [
         "3-033-4",
         "6412",
-        "New York, NY",
-        "Mundetel Communications. Inc"
+        "Atlanta, GA (2) Gensitel",
+        "GENESIS INTERNATIONAL TELECOM LLC dba"
       ],
       [
         "3-033-5",
         "6413",
         "Miami, FL",
         "Newcom, Inc."
-      ],
-      [
-        "3-033-6",
-        "6414",
-        "Southbury, CT",
-        "Comsat Mobile Communications"
-      ],
-      [
-        "3-033-7",
-        "6415",
-        "Santa Paula, CA",
-        "Comsat Mobile Communications"
       ],
       [
         "3-034-0",
@@ -34988,12 +35434,6 @@
         "Sprint"
       ],
       [
-        "3-035-4",
-        "6428",
-        "Newark, NJ",
-        "TotalTel"
-      ],
-      [
         "3-035-5",
         "6429",
         "New York (1), NY",
@@ -35038,8 +35478,8 @@
       [
         "3-036-4",
         "6436",
-        "Santa Paula, CA",
-        "Comsat, Inc."
+        "Dallas, TX",
+        "Airlinq, Inc."
       ],
       [
         "3-036-5",
@@ -35063,37 +35503,25 @@
         "3-037-0",
         "6440",
         "Pittsburgh, PA",
-        "AT&T"
+        "AT&T Corp"
       ],
       [
         "3-037-1",
         "6441",
-        "Pittsburg, PA",
-        "AT&T"
-      ],
-      [
-        "3-037-2",
-        "6442",
-        "White Plains, NY",
-        "AT&T"
+        "Atlanta, GA",
+        "AT&T Corp"
       ],
       [
         "3-037-3",
         "6443",
-        "Sacramento, CA",
-        "AT&T"
-      ],
-      [
-        "3-037-4",
-        "6444",
-        "Sherman Oaks, CA",
-        "AT&T"
+        "White Plains, NY",
+        "AT&T Corp"
       ],
       [
         "3-037-5",
         "6445",
         "Atlanta, GA",
-        "AT&T"
+        "AT&T Corp"
       ],
       [
         "3-037-6",
@@ -35120,12 +35548,6 @@
         "Globaltron Communications Corporation"
       ],
       [
-        "3-038-2",
-        "6450",
-        "Miami (1), FL",
-        "Go2Tel.com, Inc"
-      ],
-      [
         "3-038-3",
         "6451",
         "New York, NY",
@@ -35136,12 +35558,6 @@
         "6452",
         "San Francisco, CA",
         "Graphnet Inc"
-      ],
-      [
-        "3-038-5",
-        "6453",
-        "Miami, FL",
-        "Go2Tel.com, Inc"
       ],
       [
         "3-038-6",
@@ -35180,18 +35596,6 @@
         "Telemedia International USA Inc"
       ],
       [
-        "3-039-4",
-        "6460",
-        "Miami, FL",
-        "Go2Tel.com, Inc"
-      ],
-      [
-        "3-039-5",
-        "6461",
-        "Miami, FL",
-        "Go2Tel.com, Inc"
-      ],
-      [
         "3-039-6",
         "6462",
         "New York, NY",
@@ -35220,12 +35624,6 @@
         "6466",
         "Miami, FL",
         "Star Telecommunications Inc"
-      ],
-      [
-        "3-040-3",
-        "6467",
-        "New York, NY",
-        "Startec Global Communications Corporation"
       ],
       [
         "3-040-4",
@@ -35447,7 +35845,7 @@
         "3-045-1",
         "6505",
         "Richardson, TX",
-        "WorldCom, Inc"
+        "Verizon Business Global LLC"
       ],
       [
         "3-045-2",
@@ -35459,7 +35857,7 @@
         "3-045-3",
         "6507",
         "Pottstown, PA",
-        "WorldCom, Inc"
+        "Verizon Business Global LLC"
       ],
       [
         "3-045-4",
@@ -35472,60 +35870,6 @@
         "6509",
         "Hayward, CA",
         "IXC Communications, Inc"
-      ],
-      [
-        "3-045-6",
-        "6510",
-        "Jersey City (1), NJ",
-        "Qwest Communications International Corp"
-      ],
-      [
-        "3-045-7",
-        "6511",
-        "Jersey City (2), NJ",
-        "Qwest Communications International Corp"
-      ],
-      [
-        "3-046-0",
-        "6512",
-        "Atlanta, GA",
-        "Qwest Communications International Corp"
-      ],
-      [
-        "3-046-1",
-        "6513",
-        "Sunnyvale, CA",
-        "Qwest Communications International Corp"
-      ],
-      [
-        "3-046-2",
-        "6514",
-        "Dublin, OH",
-        "Qwest Communications International Corp"
-      ],
-      [
-        "3-046-3",
-        "6515",
-        "Houston, TX",
-        "Qwest Communications International Corp"
-      ],
-      [
-        "3-046-4",
-        "6516",
-        "Dublin, OH",
-        "Qwest Communications International Corp"
-      ],
-      [
-        "3-046-5",
-        "6517",
-        "Houston, TX",
-        "Qwest Communications International Corp"
-      ],
-      [
-        "3-046-6",
-        "6518",
-        "Southbury, CT",
-        "Comsat, Inc."
       ],
       [
         "3-046-7",
@@ -35616,18 +35960,6 @@
         "6534",
         "San Francisco, CA",
         "ABS-CBN Telecom, North America Inc"
-      ],
-      [
-        "3-048-7",
-        "6535",
-        "New York, NY",
-        "PCCW Pacific Ltd"
-      ],
-      [
-        "3-049-0",
-        "6536",
-        "New York, NY",
-        "Compass Global, Inc"
       ],
       [
         "3-049-1",
@@ -35756,18 +36088,6 @@
         "IXC Communications, Inc"
       ],
       [
-        "3-051-7",
-        "6559",
-        "Los Angeles, CA",
-        "Startec Global Communications Corporation"
-      ],
-      [
-        "3-052-0",
-        "6560",
-        "Miami, FL",
-        "Startec Global Communications Corporation"
-      ],
-      [
         "3-052-1",
         "6561",
         "Miami, FL",
@@ -35825,19 +36145,7 @@
         "3-053-2",
         "6570",
         "Elmsford, NY",
-        "MCI International, Inc"
-      ],
-      [
-        "3-053-3",
-        "6571",
-        "New York, NY",
-        "Dial-Around Telecom, Inc"
-      ],
-      [
-        "3-053-4",
-        "6572",
-        "New York, NY",
-        "NuLink, Inc"
+        "MCI International, LLC"
       ],
       [
         "3-053-5",
@@ -35880,18 +36188,6 @@
         "6579",
         "Seattle,WA",
         "TeleCommunication Systems, Inc."
-      ],
-      [
-        "3-054-4",
-        "6580",
-        "Seattle, WA",
-        "TeleCommunication Systems, Inc."
-      ],
-      [
-        "3-054-5",
-        "6581",
-        "Seattle, WA",
-        "Telecommunication Systems, Inc."
       ],
       [
         "3-054-6",
@@ -35948,16 +36244,10 @@
         "Teldelnort Communication LLC"
       ],
       [
-        "3-055-7",
-        "6591",
-        "Jackson Heights, NY",
-        "Savontel Communications"
-      ],
-      [
         "3-056-0",
         "6592",
         "Rialto, CA",
-        "WorldCom, Inc"
+        "Verizon Business Global LLC"
       ],
       [
         "3-056-1",
@@ -36022,8 +36312,8 @@
       [
         "3-057-3",
         "6603",
-        "Sacramento (3), CA",
-        "AT&T"
+        "New York, NY",
+        "AT&T Corp"
       ],
       [
         "3-057-4",
@@ -36034,8 +36324,8 @@
       [
         "3-057-5",
         "6605",
-        "Sacramento (5), CA",
-        "AT&T"
+        "New York, NY",
+        "AT&T Corp"
       ],
       [
         "3-057-6",
@@ -36068,12 +36358,6 @@
         "Justice Technology Corporation"
       ],
       [
-        "3-058-3",
-        "6611",
-        "New York, NY",
-        "I-21 USA Inc"
-      ],
-      [
         "3-058-4",
         "6612",
         "New York, NY",
@@ -36082,14 +36366,14 @@
       [
         "3-058-5",
         "6613",
-        "Atlanta, GA",
-        "AT&T"
+        "Houston, TX",
+        "AT&T Corp"
       ],
       [
         "3-058-6",
         "6614",
-        "White Plains, NY",
-        "AT&T"
+        "San Diego, CA",
+        "AT&T Corp"
       ],
       [
         "3-058-7",
@@ -36098,22 +36382,10 @@
         "Telecom Argentina USA, Inc"
       ],
       [
-        "3-059-0",
-        "6616",
-        "New York, NY",
-        "Data Access America Inc"
-      ],
-      [
-        "3-059-1",
-        "6617",
-        "New York, NY",
-        "WorldCom, Inc"
-      ],
-      [
         "3-059-2",
         "6618",
         "San Antonio, TX",
-        "WorldCom, Inc"
+        "Verizon Business Global LLC"
       ],
       [
         "3-059-3",
@@ -36215,7 +36487,7 @@
         "3-181-4",
         "7596",
         "Dallas, TX",
-        "Fogg Mobile Inc."
+        "Airlinq, Inc."
       ],
       [
         "3-181-5",
@@ -36230,24 +36502,6 @@
         "Belgacom International Carrier Services North"
       ],
       [
-        "3-181-7",
-        "7599",
-        "Los Angeles, CA",
-        "Unified Worldwide Transport, LLC"
-      ],
-      [
-        "3-182-0",
-        "7600",
-        "New York, NY",
-        "NextCarrier Telecom, Inc"
-      ],
-      [
-        "3-182-1",
-        "7601",
-        "Los Angeles, CA international)",
-        "International Access, Inc (d/b/a Access"
-      ],
-      [
         "3-182-2",
         "7602",
         "Boca Raton, FL Inc",
@@ -36256,14 +36510,14 @@
       [
         "3-182-3",
         "7603",
-        "Sherman Oaks (4), CA",
-        "AT&T"
+        "San Diego, CA",
+        "AT&T Corp"
       ],
       [
         "3-182-5",
         "7605",
-        "Elmswood, NY",
-        "WorldCom, Inc"
+        "Elmsford, NY",
+        "Verizon Business Global LLC"
       ],
       [
         "3-182-6",
@@ -36290,40 +36544,10 @@
         "Far East Gateway, Inc"
       ],
       [
-        "3-183-2",
-        "7610",
-        "New York (2), NY",
-        "Startec Global Communications Corporation"
-      ],
-      [
-        "3-183-3",
-        "7611",
-        "New York (3), NY",
-        "Startec Global Communications Corporation"
-      ],
-      [
-        "3-183-5",
-        "7613",
-        "Atlanta, GA",
-        "AT&T"
-      ],
-      [
-        "3-183-6",
-        "7614",
-        "Jersey City, NJ",
-        "SK Telink America, Inc"
-      ],
-      [
         "3-183-7",
         "7615",
         "San Antonio, TX",
         "iLine, LLC"
-      ],
-      [
-        "3-184-0",
-        "7616",
-        "New York, NY",
-        "Tricom USA, Inc"
       ],
       [
         "3-184-2",
@@ -36378,12 +36602,6 @@
         "7627",
         "New York, NY",
         "KPN International Network Services Inc"
-      ],
-      [
-        "3-185-4",
-        "7628",
-        "Miami, FL",
-        "IDS Telcom"
       ],
       [
         "3-185-6",
@@ -36458,22 +36676,10 @@
         "ITXC Data Transport Services, LLC"
       ],
       [
-        "3-187-3",
-        "7643",
-        "Miami, FL",
-        "Tricom USA, Inc"
-      ],
-      [
         "3-187-4",
         "7644",
         "Newark, NJ",
         "Integration Services International (ISI)"
-      ],
-      [
-        "3-187-5",
-        "7645",
-        "Holmdale, NJ",
-        "Sakon, LLC"
       ],
       [
         "3-187-6",
@@ -36656,12 +36862,6 @@
         "Digital Communications Consulting LLC"
       ],
       [
-        "3-191-6",
-        "7678",
-        "Los Angeles, CA",
-        "ComNet (USA) LLC"
-      ],
-      [
         "3-191-7",
         "7679",
         "Boca Raton, FL Inc",
@@ -36684,12 +36884,6 @@
         "7684",
         "Dallas, TX",
         "IP Deliver"
-      ],
-      [
-        "3-192-5",
-        "7685",
-        "Los Angeles, CA",
-        "China Telecom (USA) Corporation"
       ],
       [
         "3-192-6",
@@ -36722,12 +36916,6 @@
         "Orbitel S.A. E.S.P."
       ],
       [
-        "3-193-4",
-        "7692",
-        "Los Angeles, CA",
-        "ComNet (USA) LLC"
-      ],
-      [
         "3-193-5",
         "7693",
         "New York, NY",
@@ -36736,14 +36924,14 @@
       [
         "3-193-6",
         "7694",
-        "Dallas, TX",
-        "Verisign Inc"
+        "San Antonio, TX",
+        "Transaction Network Services, Inc."
       ],
       [
         "3-193-7",
         "7695",
-        "San Antonio, TX",
-        "Verisign Inc"
+        "Dallas, TX",
+        "Transaction Network Services, Inc."
       ],
       [
         "3-194-0",
@@ -36758,22 +36946,10 @@
         "New World Telecom International Inc"
       ],
       [
-        "3-194-2",
-        "7698",
-        "Los Angeles, CA",
-        "China Netcom (USA) Operations Ltd"
-      ],
-      [
         "3-194-3",
         "7699",
         "Temple Terrace (7), FL",
         "TSI Telecommunication Services, Inc"
-      ],
-      [
-        "3-194-4",
-        "7700",
-        "Miami, FL",
-        "Latin Node, Inc"
       ],
       [
         "3-194-5",
@@ -36792,18 +36968,6 @@
         "7703",
         "New York, NY",
         "ComoreTel Holdings Ltd"
-      ],
-      [
-        "3-195-0",
-        "7704",
-        "Los Angeles, CA",
-        "China Unicom USA Corporation"
-      ],
-      [
-        "3-195-1",
-        "7705",
-        "New York, NY",
-        "Telco Group, Inc"
       ],
       [
         "3-195-2",
@@ -36958,8 +37122,8 @@
       [
         "3-198-4",
         "7732",
-        "Mattoon, IL",
-        "Verisign Inc"
+        "Chicago, IL",
+        "Transaction Network Services, Inc."
       ],
       [
         "3-198-5",
@@ -36992,16 +37156,10 @@
         "Touch-Tel USA, L.P."
       ],
       [
-        "3-199-2",
-        "7738",
-        "Los Angeles, CA",
-        "China Unicom USA Corporation"
-      ],
-      [
         "3-199-3",
         "7739",
         "Pompano Beach, FL",
-        "Verizon Business Group"
+        "Verizon Business Global LLC"
       ],
       [
         "3-199-4",
@@ -37126,14 +37284,8 @@
       [
         "3-202-0",
         "7760",
-        "San Antonio, TX",
-        "Verisign Inc"
-      ],
-      [
-        "3-202-1",
-        "7761",
-        "Overland Park, KS",
-        "Verisign Inc"
+        "Ashburn, VA",
+        "Transaction Network Services, Inc."
       ],
       [
         "3-202-2",
@@ -37164,48 +37316,6 @@
         "7766",
         "Boca Raton, FL Inc",
         "Telefonica International Wholesale Services USA,"
-      ],
-      [
-        "3-202-7",
-        "7767",
-        "Sunnyvale, CA",
-        "Qwest Communications Corporation"
-      ],
-      [
-        "3-203-0",
-        "7768",
-        "Los Angeles, CA",
-        "Qwest Communications Corporation"
-      ],
-      [
-        "3-203-1",
-        "7769",
-        "Houston, TX",
-        "Qwest Communications Corporation"
-      ],
-      [
-        "3-203-2",
-        "7770",
-        "Los Angeles, CA",
-        "MiNO Wireless USA, Inc"
-      ],
-      [
-        "3-203-3",
-        "7771",
-        "Los Angeles (2), CA",
-        "MiNO Wireless USA, Inc"
-      ],
-      [
-        "3-203-4",
-        "7772",
-        "Los Angeles (3), CA",
-        "MiNO Wireless USA, Inc"
-      ],
-      [
-        "3-203-5",
-        "7773",
-        "Los Angeles (4), CA",
-        "MiNO Wireless USA, Inc"
       ],
       [
         "3-203-6",
@@ -37272,26 +37382,14 @@
       [
         "7-096-1",
         "15105",
-        "CTI1, Montevideo Aguada (AXE10)",
-        "Administraci\u00f3n Nacional de Telecomunicaciones (ANTEL)"
+        "CTI1, Montevideo Aguada (AXE10) (ANTEL)",
+        "Administraci\u00f3n Nacional de Telecomunicaciones"
       ],
       [
         "7-096-2",
         "15106",
-        "CTI2, Montevideo Uni\u00f3n (AXE10)",
-        "Administraci\u00f3n Nacional de Telecomunicaciones (ANTEL)"
-      ],
-      [
-        "7-096-3",
-        "15107",
-        "MSC-GSM/Montevideo 1",
-        "Administraci\u00f3n Nacional de Telecomunicaciones (ANTEL)"
-      ],
-      [
-        "7-096-4",
-        "15108",
-        "MSC-GSM/Montevideo 2",
-        "Administraci\u00f3n Nacional de Telecomunicaciones (ANTEL)"
+        "CTI2, Montevideo Uni\u00f3n (AXE10) (ANTEL)",
+        "Administraci\u00f3n Nacional de Telecomunicaciones"
       ],
       [
         "7-096-5",
@@ -37314,8 +37412,8 @@
       [
         "7-097-0",
         "15112",
-        "Montevideo Softswitch NGN",
-        "Administraci\u00f3n Nacional de Telecomunicaciones (ANTEL)"
+        "Montevideo Softswitch NGN (ANTEL)",
+        "Administraci\u00f3n Nacional de Telecomunicaciones"
       ],
       [
         "7-097-2",
@@ -37334,26 +37432,110 @@
         "15116",
         "STPSMA",
         "Telef\u00f3nica M\u00f3viles del Uruguay S.A."
+      ],
+      [
+        "7-097-5",
+        "15117",
+        "STP Aguada, Montevideo Aguada (Huawei) (ANTEL)",
+        "Administraci\u00f3n Nacional de Telecomunicaciones"
+      ],
+      [
+        "7-097-6",
+        "15118",
+        "STP Uni\u00f3n, Montevideo Uni\u00f3n (Huawei) (ANTEL)",
+        "Administraci\u00f3n Nacional de Telecomunicaciones"
       ]
     ],
     "Uzbekistan": [
       [
+        "4-164-0",
+        "9504",
+        "STP1",
+        "Universal Mobile Systems LLC"
+      ],
+      [
         "4-164-1",
         "9505",
-        "Tashkent EWSD",
-        "UzInter Telecom (JSC Uzintel)"
+        "SPS-2",
+        "UzMobile branch of Uzbektelecom JSC"
       ],
       [
         "4-164-2",
         "9506",
-        "Tashkent AXE-10",
-        "UzInter Telecom (JSC Uzintel)"
+        "Tashkent AXE-810",
+        "Uzbektelecom JSC"
       ],
       [
         "4-164-3",
         "9507",
-        "Tashkent NEAX-61",
-        "UzInter Telecom (JSC Uzintel)"
+        "Pakhta AXE-810",
+        "Uzbektelecom JSC"
+      ],
+      [
+        "4-164-4",
+        "9508",
+        "MSS",
+        "Coscom LLC"
+      ],
+      [
+        "4-164-5",
+        "9509",
+        "MSC151003",
+        "Unitel LLC"
+      ],
+      [
+        "4-164-6",
+        "9510",
+        "Kokand",
+        "Uzbektelecom JSC"
+      ],
+      [
+        "4-164-7",
+        "9511",
+        "Bukhara",
+        "Uzbektelecom JSC"
+      ],
+      [
+        "4-165-0",
+        "9512",
+        "STP2",
+        "Universal Mobile Systems LLC"
+      ],
+      [
+        "4-165-1",
+        "9513",
+        "Bukhara AXE-810",
+        "Uzbektelecom JSC"
+      ],
+      [
+        "4-165-2",
+        "9514",
+        "Kokand AXE-810",
+        "Uzbektelecom JSC"
+      ],
+      [
+        "4-165-3",
+        "9515",
+        "IMS",
+        "Uzbektelecom JSC"
+      ],
+      [
+        "4-165-4",
+        "9516",
+        "SPS-1",
+        "UzMobile branch of Uzbektelecom JSC"
+      ],
+      [
+        "4-165-5",
+        "9517",
+        "IMS-1",
+        "Uzbektelecom JSC"
+      ],
+      [
+        "4-165-6",
+        "9518",
+        "IMS-2",
+        "Uzbektelecom JSC"
       ]
     ],
     "Vanuatu": [
@@ -37464,8 +37646,8 @@
       [
         "7-069-5",
         "14893",
-        "Avenida de Libertador, Caracas Venezuela (CANTV)",
-        "Compa\u00f1\u00eda An\u00f3nima Nacional Tel\u00e9fonos de"
+        "Avenida de Libertador, Caracas",
+        "Compa\u00f1\u00eda An\u00f3nima Nacional Tel\u00e9fonos de Venezuela (CANTV)"
       ],
       [
         "7-069-6",
@@ -37524,8 +37706,8 @@
       [
         "7-070-7",
         "14903",
-        "Barquisimeto - BTO - NDC00 Venezuela (CANTV)",
-        "Compa\u00f1\u00eda An\u00f3nima Nacional Tel\u00e9fonos de"
+        "Barquisimeto - BTO - NDC00",
+        "Compa\u00f1\u00eda An\u00f3nima Nacional Tel\u00e9fonos de Venezuela (CANTV)"
       ],
       [
         "7-071-0",
@@ -37580,6 +37762,18 @@
         "15136",
         "Nodo Principal, C\u00f3digo: GCCS1",
         "TOP COMUNICATIONS ESTEGIA, C.A."
+      ],
+      [
+        "7-100-1",
+        "15137",
+        "SPS - CC3",
+        "Telecomunicaciones Movilnet, CA"
+      ],
+      [
+        "7-100-2",
+        "15138",
+        "SPS - MCY",
+        "Telecomunicaciones Movilnet, CA"
       ]
     ],
     "Viet Nam": [
@@ -37872,6 +38066,30 @@
         "NetOne (Pvt) Ltd"
       ],
       [
+        "6-095-4",
+        "13052",
+        "Econet Willowvale vSTP (WVVSTP01)",
+        "Econet Wireless"
+      ],
+      [
+        "6-095-5",
+        "13053",
+        "Econet PocketsHill vSTP (PHVSTP01)",
+        "Econet Wireless"
+      ],
+      [
+        "6-095-6",
+        "13054",
+        "Econet Willowvale vMSS (WVVMSS01)",
+        "Econet Wireless"
+      ],
+      [
+        "6-095-7",
+        "13055",
+        "Econet PocketsHill vMSS (PHVMSS01)",
+        "Econet Wireless"
+      ],
+      [
         "6-096-0",
         "13056",
         "Harare TS(F150)",
@@ -37950,10 +38168,10 @@
         "Africom (Pvt) Ltd"
       ],
       [
-        "6-097-5",
-        "13069",
-        "Aquiva Wireless",
-        "Aquiva Wireless (Pvt) Ltd"
+        "6-097-6",
+        "13070",
+        "DANDEMUTANDE VoIP",
+        "DANDEMUTANDE INVESTMENTS"
       ],
       [
         "6-097-7",

@@ -1,0 +1,464 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1339              1.V.2026                   (Information received by 15 April 2026) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                3
+Approval and deletion of ITU-T Recommendations……………………………………………………………………………………                                                                                      4
+Telephone Service:
+     Ascension (Ascension Island Government, Georgetown)..........................................................................                                  5
+     Malta (Malta Communications Authority (MCA), Floriana) ......................................................................                                  6
+     Saint Helena and Tristan da Cunha (Sure South Atlantic Limited, Jamestown) ........................................                                            7
+Service Restrictions .........................................................................................................................................      8
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                 8
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V)..........................................                                           9
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................         10
+List of ITU Carrier Codes .................................................................................................................................        10
+List of International Signalling Point Codes (ISPC) ..........................................................................................                     11
+National Numbering Plan ...............................................................................................................................            11
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1340             15.V.2026              30.IV.2026
+               1341              1.VI.2026             15.V.2026
+               1342             15.VI.2026             29.V.2026
+               1343             1.VII.2026             15.VI.2026
+               1344             15.VII.2026            30.VI.2026
+               1345             1.VIII.2026           15.VII.2026
+               1346            15.VIII.2026           31.VII.2026
+               1347              1.IX.2026            14.VIII.2026
+               1348             15.IX.2026            31.VIII.2026
+               1349              1.X.2026              15.IX.2026
+               1350             15.X.2026              30.IX.2026
+               1351              1.XI.2026             15.X.2026
+               1352             15.XI.2026             31.X.2026
+               1353             1.XII.2026             13.XI.2026
+               1354             15.XII.2026            30.XI.2026
+               1355              1.I.2027             11.XII.2026
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1317 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 June 2025)
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                         Approval and deletion of ITU-T Recommendations
+Approved Recommendations:
+By AAP-34, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+-        ITU-T M.3163/F.743.38 (04/2026): Generic information model for data asset management
+-        ITU-T Y.2352 (04/2026): Network capability enhancement for distributed artificial intelligent computing centers
+         in next generation network evolution
+-        ITU-T Y.2353 (04/2026): Functional architecture of distributed software-defined network intelligence capability
+         enhancement based on distributed ledger technology
+-        ITU-T Y.2504 (04/2026): Computing power network - Requirements and functional architecture of transaction
+         platform
+-        ITU-T Y.3094 (04/2026): Digital twin network - General technical requirements of model domain in digital twin
+         layer
+-        ITU-T Y.3193 (04/2026): Distributed intelligence collaboration for IMT-2020 and beyond
+-        ITU-T Y.3227 (04/2026): Fixed, mobile and satellite convergence - Multi-path transmission control for IMT-2020
+         networks and beyond
+-        ITU-T Y.3228 (04/2026): Fixed, mobile and satellite convergence - Dedicated networks for IMT-2020 networks
+         and beyond
+-        ITU-T Y.3229 (04/2026): Fixed, mobile and satellite convergence - Enhanced architecture for IMT-2020 networks
+         and beyond in support of integrated user-centric service units
+-        ITU-T Y.3230 (04/2026): Fixed, mobile and satellite convergence - QoS assurance requirements and framework
+         for IMT-2020 networks and beyond
+-        ITU-T Y.3328 (04/2026): Information-centric networking in networks beyond IMT-2020 - Requirements and
+         functional framework of ICN-enabled user plane
+-        ITU-T Y.3329 (04/2026): Requirements and capability framework of IMT-2020 networks and beyond from the
+         energy efficiency perspective
+-        ITU-T Y.3441 (04/2026): QoS requirements and framework for deterministic communication services enabled by
+         machine learning based joint resource scheduling
+-        ITU-T Y.3510 (04/2026): Cloud computing infrastructure requirements
+-        ITU-T Y.3534 (04/2026): Cloud computing - Functional requirements of function as a service
+-        ITU-T Y.3541 (04/2026): Edge computing - Functional requirements of edge computing service
+-        ITU-T Y.3558 (04/2026): Cloud computing - Functional architecture of container management in inter-cloud
+-        ITU-T Y.3559 (04/2026): Cloud computing - Functional architecture for container and container management
+-        ITU-T Y.3560 (04/2026): Cloud computing - Framework and functional requirements of resource scheduling
+         among multiple cloud service providers
+-        ITU-T Y.3662 (04/2026): Big data driven networking- Data transmission mechanism
+-        ITU-T Y.3682 (04/2026): Functional architecture of human-like networking
+-        ITU-T Y.3823 (04/2026): Quantum key distribution networks - Allocation of the end-to-end quality of service
+-        ITU-T Y.3835 (04/2026): Integration of quantum key distribution network and user network supporting end-to-
+         end modern cryptography services - functional architecture for quality of service assurance
+Deleted Recommendations:
+None.
+
+
+
+
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                                 See URL: www.itu.int/itu-t/nnp
+
+Ascension (country code +247)
+Communication of 01.IV.2026:
+The Ascension Island Government, Georgetown, announces the following updated National Numbering Plan of
+Ascension (country code +247):
+As from 1 March 2026, the length of all +247 numbers has increased to a uniform 11 digits (including the country code
++247) to ensure compliance with international numbering formats. The digits ‘247’ have been inserted as a prefix at the
+beginning of the subscriber number for all numbers from the +247 national numbering plan (Geographic, Mobile and
+Non-geographic numbers). For example, a number that was previously +247 4XXXX is now +247 247 4XXXX.
+
+
+a)                 Overview:
+                   The minimum number length (excluding the country code) is 8 digits
+                   The maximum number length (excluding the country code) is 8 digits
+
+b)                 Detail of numbering scheme:
+
+
+     N(S)N (national           N(S)N number length
+      (significant)                              Minimum         Usage of E.164 number      Additional information
+        number)          Maximum length
+                                                  length
+       247 4XXXX                8                    8         Mobile services
+       247 5XXXX                8                    8         Non-geographic
+       247 62XXX                8                    8         Geographic                US Base
+       247 63XXX                8                    8         Geographic                Travellers Hill & Airhead
+       247 64XXX                8                    8         Geographic                Two Boats
+       247 66XXX                8                    8         Geographic                Georgetown
+       247 67XXX                8                    8         Geographic                Georgetown
+
+All Administrations and Recognized Operating Agencies (ROAs) are kindly requested to initiate the programming of the
+above changes into their switches, and to ensure connectivity with Ascension (country code +247) by routing the traffic
+via EssexTel.
+
+
+Contact:
+         Ascension Island Government
+         GEORGETOWN
+         Ascension, South Atlantic
+         E-mail: aigenquiries@ascension.gov.ac
+
+
+
+
+Malta (country code +356)
+Communication of 8.IV.2026:
+The Malta Communications Authority (MCA), Floriana, announces an update of the National Numbering Plan (NNP) of
+Malta. The main numbering ranges are:
+
+
+                       Service                               Operator              Numbering Ranges
+                                                                                   2100 ‒ 2399 XXXX
+                                                                GO
+                                                                                   2500 ‒ 2599 XXXX
+                                                                                   2600 ‒ 2609 XXXX
+                                                                                   2700 ‒ 2799 XXXX
+                                                               Melita              2010 ‒ 2018 XXXX
+                        Fixed
+                                                                                   2060 XXXX
+                                                                                   2065 XXXX
+                                                              Vanilla              2031 ‒ 2034 XXXX
+                                                                                   2069 XXXX
+                                                                Epic               2090 ‒ 2099 XXXX
+                                                                                   7900 ‒ 7999 XXXX
+                                                             GO Mobile             9889 XXXX
+                                                                                   7210 XXXX
+                                                                                   9900 ‒ 9999 XXXX
+                                                                                   9696 XXXX
+                        Mobile
+                                                                Epic               9897 XXXX
+                                                                                   9210 ‒ 9211 XXXX
+                                                                                   9231 XXXX
+                                                                                   7700 ‒ 7799 XXXX
+                                                           Melita Mobile
+                                                                                   9811 ‒ 9813 XXXX
+                                                                                   40001 – 40051 XXXXX
+                                                               Melita              40060 – 40069 XXXXX
+       M2M/IoT Connectivity Services and other                                     40080 – 40089 XXXXX
+      Non-Interpersonal Communications Services
+                                                                GO                 40079 XXXXX
+                                                                Epic               40099 XXXXX
+
+All Administrations and Recognized Operating Agencies (ROAs) are requested to urgently programme their switches to
+enable immediate access to these numbering ranges. Furthermore, the National Numbering Plan is updated in real-
+time and is made available on the MCA website at the following link:
+https://www.mca.org.mt/regulatory/numbering/numbering-plans.
+
+Contact:
+     Alistair Farrugia / Deborah Pisani
+     Malta Communications Authority (MCA)
+     Valletta Waterfront
+     Pinto Wharf
+     Floriana FRN1913
+     Malta
+     Tel:        +356 2133 6840
+     E-mail: numbering@mca.org.mt
+     URL:        www.mca.org.mt
+
+
+
+
+Saint Helena and Tristan da Cunha (country code +290)
+Communication of 01.IV.2026:
+The Sure South Atlantic Limited, Jamestown, announces the following updated numbering plan for Saint Helena and
+Tristan da Cunha which will become effective from 1 August 2015:
+      International prefix:         00
+      St Helena country code:       290
+      National number range:        5 digits
+
+                Format of
+                                                                      Remarks
+            Subscriber Number
+    1XX – 19XX                           PSTN Service Numbers
+    9XX                                  Emergency Services
+
+    20XXX                                PSTN Services
+    21XXX                                PSTN Services
+    22XXX                                PSTN Services
+    23XXX                                PSTN Services
+    24XXX                                PSTN Services
+    25XXX                                PSTN Services
+    260XX – 261XX                        Information Service
+    262XX                                Voice Messaging
+    263XX                                Flexible Access
+    264XX                                PSTN Services
+    265XX – 269XX                        PSTN Services
+    270XX – 271XX                        PSTN Services
+    272XX – 279XX                        PSTN Services
+    28XXX                                PSTN Services
+    29XXX                                PSTN Services
+
+    3XXXX                                Reserved for future Telephone Services
+    4XXXX                                Reserved for future Telephone Services
+    5XXXX                                Mobile Services
+    6XXXX                                Mobile Services
+    7XXXX                                Reserved for future Telephone Services
+
+    80XX – 89XX                          Tristan Da Cunha Telephone Services
+
+
+
+Contact:
+      Mrs Wendy Henry
+      Traffic Management
+      Sure South Atlantic Limited
+      P.O. Box 2
+      JAMESTOWN
+      St Helena Island STHL 1ZZ
+      South Atlantic Ocean
+      Tel:     +290 22205
+      Fax:     +290 22220
+      E-mail: wendy.henry@sure.co.sh
+
+
+
+
+                                         Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                            See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                      AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+                              ADD    Insert                    PAR   Paragraph
+                              COL    Column                    REP   Replace
+                              LIR    Read                      SUP   Delete
+                              P      Page(s)
+
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2025
+
+                                                  Section VI
+
+
+REP
+
+      GR01     ORBIT-MARITEL, 6 Astiggos, Karaiskaki Square, 18531 Piraeus, Greece,
+               E-mail: panagiotis.parousis@orbyt-maritel.com,
+               Tel: +30 210 7007600, +30 210 7007624,
+               Contact Person: Mr. Panagiotis Parousis.
+
+
+
+
+        Mobile Network Codes (MNC) for the international identification plan
+                       for public networks and subscriptions
+               (According to Recommendation ITU-T E.212 (09/2016))
+                         - Position on 15 November 2023 -
+                             Annex to ITU Operational Bulletin No. 1280 – 15.XI.2023
+                                                  Amendment No. 55
+
+
+ Country/Geographical area
+ MCC + MNC                       Operator / Network
+ Canada SUP
+ 302 151                         Cogeco Connexion Inc.
+ 302 152                         Cogeco Connexion Inc.
+ 302 160                         Sugar Mobile Inc.
+ Canada ADD
+ 302 480                         SSi Connexions Inc.
+ Canada LIR
+ 302 480                         SSi Micro Ltd.
+
+
+____________
+MCC: Mobile Country Code
+MNC: Mobile Network Code
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                             Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014
+                                             Amendment No. 205
+
+
+ Country or area/ISO code                              Company Code          Contact
+ Company Name/Address                                   (carrier code)
+
+
+Germany (Federal Republic of) / DEU        ADD
+
+
+ Aircall SAS                                               AIRCAL            Alain Bensimon
+ 11-15 rue Saint Georges                                                     Tel.: +1 941 726 3385
+ F-75009 PARIS                                                               E-mail: telcoupdates@aircall.io
+ Frankreich
+
+
+
+
+                         List of International Signalling Point Codes (ISPC)
+                      (According to Recommendation ITU-T Q.708 (03/1999))
+                                      - Position on 01 July 2024 -
+                                    Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024
+                                                     Amendment No. 36
+
+
+   Country / Geographical area            Unique name of the signalling point       Name of the signalling point operator
+ ISPC                DEC
+ South Africa ADD
+ 6-113-3             13195              GQvSTP                                     MTN Pty Ltd
+ United States ADD
+ 3-187-3             7643               Jacksonville Beach, FL                     Latam Telecommunications, L.L.C.
+ 3-203-0             7768               Jacksonville Beach, FL                     Latam Telecommunications, L.L.C.
+
+
+____________
+ISPC: International Signalling Point Codes.
+
+
+
+
+                                      National Numbering Plan
+                       (According to Recommendation ITU-T E.129 (01/2013))
+                                                 See URL: www.itu.int/itu-t/nnp
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 1.IV.2026, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                               Country/Geographical area                        Country Code (CC)
+                     Hungary                                                          +36
+
+
+
+

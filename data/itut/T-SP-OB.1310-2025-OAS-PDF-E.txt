@@ -1,0 +1,822 @@
+                             ITU Operational Bulletin
+                                                               www.itu.int/itu-t/bulletin
+
+            No. 1310               15.II.2025                  (Information received by 31 January 2025) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                       Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                      3
+Approval of ITU-T Recommendations.............................................................................................................                            4
+Assignment of Signalling Area/Network Codes (SANC): Note from TSB .........................................................                                               5
+The International Public Telecommunication Numbering Plan
+   (Recommendation ITU-T E.164): Note from TSB .......................................................................................                                    5
+International Identification Plan for Public Networks and Subscriptions
+    (Recommendation ITU-T E.212): Note from TSB .......................................................................................                                   6
+Telephone Service:
+     Malta (Malta Communications Authority (MCA), Floriana) ......................................................................                                        7
+Other communication:
+     Serbia ........................................................................................................................................................      8
+Service Restrictions .........................................................................................................................................            9
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                       9
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V)...........................................                                               10
+List of International Monitoring Stations (List VIII).........................................................................................                           11
+List of Issuer Identifier Numbers ....................................................................................................................                   14
+List of Recommendation ITU-T E.164 assigned Country Codes ......................................................................                                         15
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................               16
+List of ITU Carrier Codes ................................................................................................................................               17
+List of Signalling Area/Network Codes (SANC) ...............................................................................................                             18
+List of International Signalling Point Codes (ISPC) ..........................................................................................                           18
+National Numbering Plan ...............................................................................................................................                  19
+
+
+
+
+                                                                                                                                           www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1311              1.III.2025            14.II.2025
+               1312             15.III.2025            28.II.2025
+               1313              1.IV.2025             15.III.2025
+               1314             15.IV.2025             31.III.2025
+               1315              1.V.2025              11.IV.2025
+               1316             15.V.2025              30.IV.2025
+               1317              1.VI.2025             15.V.2025
+               1318             15.VI.2025             31.V.2025
+               1319             1.VII.2025             13.VI.2025
+               1320             15.VII.2025            30.VI.2025
+               1321             1.VIII.2025            8.VII.2025
+               1322            15.VIII.2025           25.VII.2025
+               1323              1.IX.2025            15.VIII.2025
+               1324             15.IX.2025            29.VIII.2025
+               1325              1.X.2025              12.IX.2025
+               1326             15.X.2025              30.IX.2025
+               1327              1.XI.2025             15.X.2025
+               1328             15.XI.2025             31.X.2025
+               1329             1.XII.2025             14.XI.2025
+               1330             15.XII.2025            28.XI.2025
+               1331              1.I.2026              5.XII.2025
+               1332              15.I.2026             17.XII.2025
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                Approval of ITU-T Recommendations
+By TSB Circular 15 of 28 January 2025, it was announced that the following ITU-T Recommendations were approved in
+accordance with the procedures outlined in Resolution 1:
+−     ITU-T Y.4506 (01/2025): Reference architecture for the interworking of autonomous urban delivery robots
+−     ITU-T Y.4229 (01/2025): Requirements and reference functional model for an Internet of things-based smart
+      forest firefighting system
+−     ITU-T Y.4230 (01/2025): Requirements and capability framework for a public smart charging service for electric
+      vehicles
+−     ITU-T Y.4231 (01/2025): Requirements and capability framework of the Internet of things for vision
+−     ITU-T Y.4232 (01/2025): Requirements, capabilities and use cases of Internet of things infrastructures in roadside
+      traffic perception system
+−     ITU-T Y.4233 (01/2025): Framework for smart public health emergency management in smart and sustainable
+      cities
+−     ITU-T Y.4234/F.742.3 (01/2025): Requirements, capabilities and deployment models for e-learning in remote
+      classrooms
+−     ITU-T Y.4222 (01/2025): Framework of smart evacuation in a disaster or emergency in smart cities and
+      communities
+−     ITU-T Y.4507 (01/2025): A functional architecture of power supply facilities warning system
+−     ITU-T Y.4508 (01/2025): Functional requirements and architecture of blockchain-based activity log management
+      for Internet of things (IoT) data processing and management
+−     ITU-T Y.4706 (01/2025): Data exchange model for Internet of things (IoT) devices in power transmission and
+      transformation equipment
+−     ITU-T Y.4499 (01/2025): Framework for urban infrastructure monitoring based on crowdsourcing
+
+
+
+
+                          Assignment of Signalling Area/Network Codes (SANC)
+                               (Recommendation ITU-T Q.708 (03/1999))
+Note from TSB
+At the request of the Administration of China, the Director of TSB has assigned the following signalling area/network
+code (SANC) for use in the international part of the signalling system No. 7 network of this country/geographical area,
+in accordance with Recommendation ITU-T Q.708 (03/1999):
+
+                                    Country/geographical area or signalling network                    SANC
+
+                                    Hong Kong, China                                                   4-186
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                  The International Public Telecommunication Numbering Plan
+                                (Recommendation ITU-T E.164)
+Note from TSB
+
+                                          Identification codes for international networks
+
+
+Associated with shared country code 882 for international networks, the following two-digit identification codes have
+been withdrawn:
+
+                                                                                  Country Code and       Date of withdrawal
+              Applicant                                Network
+                                                                                 Identification Code
+
+
+ Athalos Global Services BV             Athalos Global Services BV                    +882 51                  24.I.2025
+
+
+ SITA (Formerly OnAir N.V.)             SITA (Formerly Onair GSM services)            +882 98                  24.I.2025
+
+
+
+Associated with shared country code 883 for international networks, the following three-digit identification code has
+been assigned:
+
+                                                                                  Country Code and       Date of assignment
+              Applicant                                Network
+                                                                                 Identification Code
+
+
+ Lynk Global, Inc.                      Lynk Global, Inc.                             +883 500                 24.I.2025
+
+
+
+
+        International Identification Plan for Public Networks and Subscriptions
+                            (Recommendation ITU-T E.212)
+
+Note from TSB
+                                Identification codes for International Mobile Networks
+
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) have
+been withdrawn.
+
+                                                  Mobile Country Code (MCC) and          Date of withdrawal
+                   Network
+                                                   Mobile Network Code (MNC)
+
+   Athalos Global Services BV                                  901 99                        24.I.2025
+
+
+   SITA (Formerly OnAir N.V.)                                  901 15                        24.I.2025
+
+
+
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been
+assigned.
+
+                                                  Mobile Country Code (MCC) and          Date of assignment
+                   Network
+                                                   Mobile Network Code (MNC)
+
+   Bloxtel Inc.                                                901 23                        24.I.2025
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                            url: www.itu.int/itu-t/inr/nnp
+
+Malta (country code +356)
+Communication of 24.I.2025:
+The Malta Communications Authority (MCA), Floriana, announces an update of the National Numbering Plan (NNP) of
+Malta. The main numbering ranges are:
+
+
+                        Service                                 Operator           Numbering Ranges
+                                                                                   2100 ‒ 2399 XXXX
+                                                                   GO
+                                                                                   2500 ‒ 2599 XXXX
+                                                                                   2600 ‒ 2609 XXXX
+                                                                                   2700 ‒ 2799 XXXX
+                                                                 Melita            2010 ‒ 2018 XXXX
+                            Fixed
+                                                                                   2060 XXXX
+                                                                                   2065 XXXX
+                                                                 Vanilla           2031 ‒ 2034 XXXX
+                                                                                   2069 XXXX
+                                                                   Epic            2090 ‒ 2099 XXXX
+                                                                                   7900 ‒ 7999 XXXX
+                                                               GO Mobile           9889 XXXX
+                                                                                   7210 XXXX
+                                                                                   9900 ‒ 9999 XXXX
+                                                                                   9696 XXXX
+                        Mobile
+                                                                   Epic            9897 XXXX
+                                                                                   9210 ‒ 9211 XXXX
+                                                                                   9231 XXXX
+                                                                                   7700 ‒ 7799 XXXX
+                                                             Melita Mobile
+                                                                                   9811 ‒ 9813 XXXX
+                                                                 Melita            40001 – 40037 XXXXX
+       M2M/IoT Connectivity Services and other
+                                                                   GO              40079 XXXXX
+      Non-Interpersonal Communications Services
+                                                                   Epic            40099 XXXXX
+
+All Administrations and Recognized Operating Agencies (ROAs) are requested to urgently programme their switches to
+enable immediate access to these numbering ranges. Furthermore, the National Numbering Plan is updated in real-
+time and is made available on the MCA website at the following link:
+https://www.mca.org.mt/regulatory/numbering/numbering-plans.
+Contact:
+     Alistair Farrugia / Deborah Pisani
+     Malta Communications Authority (MCA)
+     Valletta Waterfront
+     Pinto Wharf
+     Floriana FRN1913
+     Malta
+     Tel:        +356 2133 6840
+     E-mail: numbering@mca.org.mt
+     URL:        www.mca.org.mt
+
+
+                                         Other communication
+
+Serbia
+Communication of 13.I.2025:
+On the occasion of the jubilee of the foundation of the "Amateur Radio klub Novi Sad", the Serbian Administration
+authorizes radio stations of the "Amateur Radio klub Novi Sad" to use the special call sign YU100BPQ from 1 March
+to 31 December 2025.
+
+
+
+
+                                          Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                          Call-Back
+                  and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                              Abbreviations used
+                              ADD   Insert                  PAR    Paragraph
+                              COL   Column                  REP    Replace
+                              LIR   Read                    SUP    Delete
+                              P     Page(s)
+
+
+
+
+                            List of Ship Stations and Maritime Mobile
+                                    Service Identity Assignments
+                                               (List V)
+                                           Edition of 2024
+
+                                                 Section VI
+
+ADD
+
+      DP13      AXESS Networks Solutions Germany GmbH, Falkenweg 1, 53809 Ruppichteroth,
+                Germany.
+                E-mail: guido.neumann@hisapsat.com, Tel: +49 017 153 225 98,
+                URL: www.axessnet.com, Contact person: Guido Neumann.
+
+
+      DP17      Telespazio Germany GmbH, Europaplatz 5, 64293 Darmstadt, Germany.
+                E-mail: joerg.seifert@telespazio.de, Mob: +49 151 58156075,
+                Tel: +49 6151 8257173, Fax: +49 6151 8257 799,
+                URL: www.telespazio.de, Contact person: Jörg Seifert.
+
+
+
+
+                                List of International Monitoring Stations
+                                                 (List VIII)
+                                              Edition of 2022
+                                                      (Amendment No. 2)
+
+
+                                                              PART I
+                           STATIONS IN THE TERRESTRIAL RADIOCOMMUNICATION SERVICES
+
+
+ARS – Saudi Arabia
+          ADD (Centralizing office)
+
+         Centralizing office               Postal address       Telephone, Telefax, Electronic-mail            Remarks
+
+                                        AlNakeel Quarter
+ Communications, Space &                Abdulaziz Alawal
+ Technology                             P.O.Box 75606          EMAIL: spectrum_FOC@cst.gov.sa
+ Commission (CST)                       11588 Riyadh
+                                        Saudi Arabia
+
+P1        ADD by alphabetical order
+                  Station: Regional Fixed Monitoring Station - Dammam
+
+       Name of the station                         Postal address                      Telephone, Telefax, Electronic-mail
+
+                                       8184 Prince Mohammed Bin Fahd Rd
+ Regional Fixed Monitoring             Tihama
+                                                                                   EMAIL: spectrum_FOC@cst.gov.sa
+ Station - Dammam                      34255 Dhahran
+                                       Saudi Arabia
+
+
+
+  Geographical          Types of            Ranges of frequencies        Hours of                     Remarks
+  coordinates         measurements          for each measurement       service (UTC)
+ 26°18'25"N        Frequency
+                                            9 kHz - 30 MHz             H24
+ 050°02'51"E       measurements
+                   Field strength or                                                      Vertical Pol starting from 600 kHz
+ 26°18'25"N
+                   power flux-density       9 kHz - 30 MHz             H24                - Horizontal Pol starting from 8
+ 050°02'51"E
+                   measurements                                                           kHz.
+                                                                                          Vertical polarization via array
+ 26°18'25"N        Direction-finding
+                                            20 MHz - 30 MHz            H24                Horizontal polarization with LPDA
+ 050°02'51"E       measurements
+                                                                                          measurements.
+ 26°18'25"N        Bandwidth
+                                            9 kHz - 30 MHz             H24
+ 050°02'51"E       measurements
+ 26°18'25"N        Automatic spectrum
+                                            9 kHz - 30 MHz             H24
+ 050°02'51"E       occupancy surveys
+
+
+
+
+                   Station: Regional Fixed Monitoring Station - Jeddah
+
+       Name of the station                          Postal address                 Telephone, Telefax, Electronic-mail
+
+                                       King Abdulaziz road
+ Regional Fixed Monitoring             Al-Hamra'a
+                                                                                  EMAIL: spectrum_FOC@cst.gov.sa
+ Station - Jeddah                      23525 Jeddah
+                                       Saudi Arabia
+
+
+
+  Geographical          Types of            Ranges of frequencies       Hours of                      Remarks
+  coordinates         measurements          for each measurement      service (UTC)
+ 21°36'09"N        Frequency
+                                            9 kHz - 30 MHz            H24
+ 039°08'38"E       measurements
+                   Field strength or                                                   Vertical Pol starting from 600
+ 21°36'09"N
+                   power flux-density       9 kHz - 30 MHz            H24              kHz - Horizontal Pol starting
+ 039°08'38"E
+                   measurements                                                        from 8 kHz.
+                                                                                       Vertical polarization via array
+ 21°36'09"N        Direction-finding
+                                            20 MHz - 30 MHz           H24              Horizontal polarization with
+ 039°08'38"E       measurements
+                                                                                       LPDA measurements.
+ 21°36'09"N        Bandwidth
+                                            9 kHz - 30 MHz            H24
+ 039°08'38"E       measurements
+ 21°36'09"N        Automatic spectrum
+                                            9 kHz - 30 MHz            H24
+ 039°08'38"E       occupancy surveys
+
+
+AUT – Austria
+           REP     (Centralizing office)
+
+         Centralizing office               Postal address       Telephone, Telefax, Electronic-mail          Remarks
+
+ Federal Ministry of Finance                                  PHONE: +43 1 51433 506424
+                                        Radetzkystrasse 2
+ Directorate-General VI/3                                     EMAIL: ernst.cerny@bmf.gv.at
+                                        1030 Wien
+ Centralizing Office for Monitoring                           EMAIL: post.vi-3@bmf.gv.at
+
+           MOD by alphabetical order
+                   Station: Wien (IMS)
+
+       Name of the station                          Postal address                 Telephone, Telefax, Electronic-mail
+
+                                       Fernmeldebüro
+                                       Telecommunications Authority
+                                       Republic Austria                           PHONE: +43 1 71100 654488
+ Wien (IMS)
+                                       17 Krapfenwaldgasse                        EMAIL: funkmonitoring@fb.gv.at
+                                       1190 Wien
+                                       Austria
+
+
+
+
+ Geographical        Types of          Ranges of frequencies   Hours of service                  Remarks
+ coordinates       measurements        for each measurement        (UTC)
+ 48°19'41"N     Direction-finding
+                                      (100) 500 kHz - 30 MHz   HX                 Correlative interferometer.
+ 016°28'42"E    measurements
+                                                                                  If necessary, direction-finding
+ 48°15'45"N     Direction-finding                                                 measurements are carried out by
+                                      30 MHz - 3 GHz           H24                mobile monitoring stations (van).
+ 016°20'08"E    measurements
+                                                                                  Correlation.
+ 48°15'45"N     Frequency
+                                      9 kHz - 90 GHz           H24
+ 016°20'08"E    measurements
+                Field strength or                                                 If necessary, measurements are
+ 48°15'45"N
+                power flux-density    9 kHz - 90 GHz           H24                carried out by mobile monitoring
+ 016°20'08"E
+                measurements                                                      stations (van).
+                                                                                  If necessary, measurements are
+ 48°15'45"N     Bandwidth
+                                      9 kHz - 90 GHz           H24                carried out by mobile monitoring
+ 016°20'08"E    measurements
+                                                                                  stations (van).
+ 48°15'45"N     Automatic spectrum
+                                      9 kHz - 90 GHz           H24
+ 016°20'08"E    occupancy surveys
+ 46°38'07"N     Frequency
+                                      9 kHz - 30 MHz           HX
+ 014°29'43"E    measurements
+                Field strength or
+ 46°38'07"N
+                power flux-density    9 kHz - 30 MHz           HK
+ 014°29'43"E
+                measurements
+ 46°38'07"N     Direction-finding     (100) 300 kHz -
+                                                               HX                 Correlative interferometer.
+ 014°29'43"E    measurements          30 MHz
+ 43°38'08"N     Automatic spectrum
+                                      9 kHz - 30 MHz           HX
+ 014°29'43"E    occupancy surveys
+
+
+D – Germany
+          MOD (Centralizing office)
+
+        Centralizing office            Postal address      Telephone, Telefax, Electronic-mail         Remarks
+
+                                                          TF : +49 6131 185151
+ Bundesnetzagentur                   Postfach 80 01
+                                                          FAX : +49 6131 185621
+ Referat 511                         55003 Mainz
+                                                          EMAIL : 511.postfach@bnetza.de
+
+
+
+
+                                                        PART II
+                              STATIONS IN THE SPACE RADIOCOMMUNICATION SERVICES
+
+
+D – Germany
+          MOD (Centralizing office)
+
+        Centralizing office            Postal address      Telephone, Telefax, Electronic-mail         Remarks
+
+                                                          TF : +49 6131 185151
+ Bundesnetzagentur                   Postfach 80 01
+                                                          FAX : +49 6131 185621
+ Referat 511                         55003 Mainz
+                                                          EMAIL : 511.postfach@bnetza.de
+
+
+
+
+                               List of Issuer Identifier Numbers
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                               (Position on 31 December 2023)
+                               (Annex to ITU Operational Bulletin No. 1283 – 1.I.2024)
+                                               (Amendment No. 15)
+
+Colombia     ADD
+
+  Country/       Company Name/Address                   Issuer      Contact                                Effective
+Geographical                                          Identifier                                         date of usage
+    area                                               Number
+Colombia         LOV TELECOMUNICACIONES SAS           89 57 730     LOV IIN,                               31.I.2025
+                 Calle 97 # 23-60 Of. 306                           LOV TELECOMUNICACIONES SAS
+                 BOGOTÁ                                             Calle 97 # 23-60 Of. 306
+                                                                    BOGOTÁ
+                                                                    Tel: +57 1 7042284
+                                                                    E-mail: lov-iin@lov.com.co
+
+Japan      LIR
+   Country/      Company Name/Address                   Issuer      Contact
+ geographical                                         Identifier
+     area                                              Number
+Japan            Panasonic Connect Co. Ltd            89 81 07      Panasonic Connect Co. Ltd,
+                 4-1-62 Minoshima, Hakata-ku                        Technical Strategy Division
+                 FUKUOKA CITY 812-8531                              Technical Strategy Department,
+                                                                    Gemba Solutions Company, 600 Saedocho,
+                                                                    Tsuzuki-ku
+                                                                    YOKOHAMA CITY 224-8539
+                                                                    Tel: +81 90 1445 8126
+                                                                    E-mail: pco.telecom@ml.jp.panasonic.com
+
+
+Sweden LIR
+   Country/      Company Name/Address                   Issuer      Contact
+ geographical                                         Identifier
+     area                                              Number
+Sweden           eRate Sverige AB                     89 46 04      Peter Bergkvist
+                 Stora Varvsgatan 6 A                               Stora Varvsgatan 6 A
+                 211 19 MALMÖ                                       211 19 MALMÖ
+                                                                    Tel: +46 70 609 55 88
+                                                                    E-mail: peter.bergkvist@telavox.se
+
+
+United States ADD
+  Country/       Company Name/Address                   Issuer      Contact                                Effective
+Geographical                                          Identifier                                         date of usage
+     area                                              Number
+United States    Tampa Electric Company               89 1 068      Jeffrey L Ogden                        23.I.2025
+                 702 N. Franklin St.                                Tampa Electric Company
+                 Tampa, FL 33602                                    P.O. Box 111
+                                                                    Tampa, FL 33601-0111
+                                                                    Tel: +1 8132753660
+                                                                    E-mail: jogden@tecoenergy.com
+
+
+
+
+                   List of Recommendation ITU-T E.164 assigned Country Codes
+                     (Complement to Recommendation ITU-T E.164 (11/2010))
+                                (Position on 15 December 2016)
+                                    (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                     (Amendment No. 41)
+
+       Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+
+
+o        Associated with shared country code 882, the following two-digit identification code reservations or assignments
+         have been made for the international networks of:
+
+
+Note o)      +882 51, +882 98        SUP*
+
+                                                                                   Country Code and
+                Applicant                               Network                                            Status
+                                                                                  Identification Code
+
+    Athalos Global Services BV           Athalos Global Services BV                    +882 51           Withdrawn
+
+    SITA (Formerly OnAir N.V.)           SITA (Formerly Onair GSM services)            +882 98           Withdrawn
+
+* 24.I.2025
+
+
+
+p        Associated with shared country code 883, the following three-digit identification code reservations or
+         assignments have been made for the international networks of:
+
+
+Note p)      +883 250       LIR
+
+                                                                                    Country Code and
+                   Applicant                               Network                                         Status
+                                                                                   Identification Code
+
+    Bird B.V.                                  Bird B.V.                               +883 250           Assigned
+    (formerly MessageBird B.V.)                (formerly MessageBird B.V.)
+
+
+
+Note p)      +883 500       ADD**
+
+                                                                                    Country Code and
+                   Applicant                               Network                                         Status
+                                                                                   Identification Code
+
+    Lynk Global, Inc.                          Lynk Global, Inc.                       +883 500           Assigned
+
+** 24.I.2025
+
+
+
+
+          Mobile Network Codes (MNC) for the international identification plan
+                         for public networks and subscriptions
+                 (According to Recommendation ITU-T E.212 (09/2016))
+                            (Position on 15 November 2023)
+                                 (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                     (Amendment No. 27)
+
+
+Country/Geographical area                        MCC+MNC                   Operator/Network
+Canada      ADD
+                                                         302 301           ECOTEL inc.
+Mexico     ADD
+                                                         334 220           MEGA CABLE, S.A. DE C.V
+Sweden      LIR
+                                                          240 50           eRate Sverige AB
+International Mobile,
+shared code SUP
+                                                          901 15           SITA (Formerly OnAir N.V.)
+                                                          901 99           Athalos Global Services BV
+International Mobile,
+shared code ADD
+                                                          901 23           Bloxtel Inc.
+International Mobile,
+shared code LIR
+                                                          901 59           Bird B.V. (formerly MessageBird B.V.)
+
+
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                  List of ITU Carrier Codes
+                  (According to Recommendation ITU-T M.1400 (03/2013))
+                              (Position on 15 September 2014)
+                              (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                              (Amendment No. 183)
+
+
+ Country or area/ISO code                             Company Code              Contact
+  Company Name/Address                                 (carrier code)
+
+
+Germany (Federal Republic of) / DEU         ADD
+
+ BKN GmbH & Co.KG                                          BKNETZ               Mr Maximilian Knicker
+ Kerkpatt 25                                                                    Tel.: +49 2387 55302 0
+ D-48317 DRENSTEINFURT                                                          Fax: +49 2387 55302 99
+                                                                                Email: knicker@bknetzwerk.de
+
+ Breitbandnetz GmbH & Co.KG                                BNGNF                Mr Daniel Pastewka
+ Husumer Strasse 63                                                             Tel.: +49 4671 79796 23
+ D-25821 BREKLUM                                                                Email: pastewka@breitbandnetz-nf.de
+
+
+
+Namibia (Republic of) / NAM                 ADD
+
+ Loc Eight Mobile (Pty) Ltd                                LOC801               Mr Collin Nico Uirab
+ Maerua Park                                                                    Tel.: +264 813472309
+ Centaurus Road                                                                 Email: collin@loc8it.com.na
+ WINDHOEK
+
+
+
+
+                          List of Signalling Area/Network Codes (SANC)
+                     (Complement to Recommendation ITU-T Q.708 (03/1999))
+                                     (Position on 1 June 2024)
+                                      (Annex to ITU Operational Bulletin No. 1293 – 1.VI.2024)
+                                                       (Amendment No. 1)
+
+
+
+ Numerical order           ADD
+               4-186        Hong Kong, China
+
+
+
+ Alphabetical order ADD
+               4-186        Hong Kong, China
+
+____________
+SANC:   Signalling Area/Network Code.
+        Code de zone/réseau sémaphore (CZRS).
+        Código de zona/red de señalización (CZRS).
+
+
+
+
+                          List of International Signalling Point Codes (ISPC)
+                       (According to Recommendation ITU-T Q.708 (03/1999))
+                                        (Position on 1 July 2024)
+                                     (Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024)
+                                                      (Amendment No. 14)
+
+ Country/ Geographical Area
+ ISPC          DEC                     Unique name of the signalling point      Name of the signalling point operator
+
+
+ Namibia ADD
+ 6-098-7       13079                   Loc8 Mobile                              Loc Eight Mobile (Pty) Ltd
+
+ Panama        SUP
+ 7-027-5       14557                   Claro Panama 1                           Claro Panamá S.A.
+ 7-027-6       14558                   Claro Panama 2                           Claro Panamá S.A.
+ 7-029-4       14572                   STP01DAV01                               Claro Panamá, S.A.
+
+ Sweden        LIR
+ 7-208-1       16001                   TVX-STP1                                 eRate Sverige AB
+ 7-208-2       16002                   TVX-STP2                                 eRate Sverige AB
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                      Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 15.I.2025, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                            Country/ Geographical area                  Country Code (CC)
+
+                  New Caledonia                                                +687
+
+
+
+

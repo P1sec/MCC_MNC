@@ -196,6 +196,25 @@ def mnc_itut(cntr, mno, mccmnc):
 
 def gen_dict_mnc_compl():
     #
+    # Data source priority and merge strategy:
+    #
+    # Wikipedia is the primary source: MNC is fully populated from Wikipedia
+    # first (see gen_dict_mnc above). Wikipedia provides broad coverage including
+    # commercial brand names, operational status, frequency bands and CC2 codes.
+    #
+    # ITU-T is a complementary source. By the time this function runs,
+    # ITUT_MNC_1162 has already been patched in-place by patch_dataset.py with
+    # all incremental updates from ITUT_MNC_INCR (bulletins 1163 onward), so it
+    # represents the latest known ITU-T state.
+    #
+    # For each ITU-T entry:
+    #   - If the MCC+MNC is NOT in Wikipedia -> add it (src='ITU-T').
+    #     These are typically private, government, or infrastructure operators
+    #     that Wikipedia does not cover.
+    #   - If the MCC+MNC IS in Wikipedia -> keep Wikipedia's data as-is.
+    #     Only the CC2 country code is enriched from ITU-T if missing.
+    #     Wikipedia operator names, brands and status are never overwritten.
+    #
     R = {}
     #
     # 1) complete MNC dict with new MNC from ITU-T 1162 bulletin (2018)
@@ -384,7 +403,7 @@ MSISDN, MSISDNEXT = gen_dict_msisdn()
 
 # no transform is required for the SANC dict
 
-SANC = ITUT_SANC_1125
+SANC = ITUT_SANC_1293
 
 
 # ------------------------------------------------------------------------------#
@@ -397,7 +416,7 @@ def gen_dict_ispc():
     print('[+] generate ISPC dict')
     R_383, R_dec = {}, {}
     #
-    for cntr, spcs in sorted(ITUT_SPC_1199.items()):
+    for cntr, spcs in sorted(ITUT_SPC_1295.items()):
         for spc_info in spcs:
             if spc_info[0] in R_383:
                 print('> duplicated ISPC: %s' % spc_info[0])

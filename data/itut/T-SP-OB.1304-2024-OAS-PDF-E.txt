@@ -1,0 +1,796 @@
+                             ITU Operational Bulletin
+                                                               www.itu.int/itu-t/bulletin
+
+            No. 1304               15.XI.2024                  (Information received by 1 November 2024) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                       Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                      3
+Approval of ITU-T Recommendations.............................................................................................................                            4
+International Identification Plan for Public Networks and Subscriptions (
+    Recommendation ITU-T E.212): Notes from TSB ......................................................................................                                    5
+Telephone Service:
+     Congo (Agence de Régulation des Postes et des Communications Electroniques (ARPCE), Brazzaville) ...                                                                 6
+     Denmark (Agency for Digital Government, Copenhagen).........................................................................                                         7
+     Tanzania (Tanzania Communications Regulatory Authority (TCRA), Dar-Es-Salaam) ...............................                                                        9
+     Uganda (Uganda Communications Commission (UCC), Kampala) ............................................................                                               12
+Other communication:
+     Serbia ........................................................................................................................................................     15
+Service Restrictions .........................................................................................................................................           16
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                      16
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers ....................................................................................................................                   17
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................                18
+List of ITU Carrier Codes .................................................................................................................................              19
+
+
+
+
+                                                                                                                                           www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1305             1.XII.2024             15.XI.2024
+               1306             15.XII.2024            29.XI.2024
+               1307              1.I.2025              6.XII.2024
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                Approval of ITU-T Recommendations
+By AAP-01, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T F.748.31 (10/2024): Technical requirements and evaluation methods of 3D digital human system based on
+      smart mobile devices
+–     ITU-T F.748.32 (10/2024): Requirements and architecture of AI-based detection technologies for multimedia
+      messages
+–     ITU-T F.748.33 (10/2024): Metrics and evaluation methods for image-based re-identification algorithm
+–     ITU-T F.748.40 (10/2024): Technical specification for artificial intelligence cloud platform: Data annotation
+–     ITU-T G.807 (10/2024): Generic functional architecture of the optical media layer
+–     ITU-T H.872 (10/2024): Safe listening for video gameplay and esports
+–     ITU-T J.224 (10/2024): Fifth-generation transmission systems for interactive cable television services - IP cable
+      modems
+–     ITU-T J.225 (10/2024): Fourth-generation transmission systems for interactive cable television services - IP cable
+      modems
+–     ITU-T J.1040 (10/2024): Digital rights management for video and audio content distribution - Requirements
+–     ITU-T J.1207 (10/2024): Smart television operating system - Conformance test
+–     ITU-T J.1292 (10/2024): Functional requirements for cable set-top box supporting Ultra-High-Definition video
+      and virtual reality services
+–     ITU-T J.1318 (10/2024): Requirements of E2E Network Platform for Cloud-based Object Wave Transmissions
+–     ITU-T X.500 (2019) Amd. 1 (10/2024)
+–     ITU-T X.501 (2019) Amd. 2 (10/2024)
+–     ITU-T X.508 (10/2024): The Directory: Key management and public-key infrastructure establishment and
+      maintenance
+–     ITU-T X.509 (2019) Amd. 1 (10/2024)
+–     ITU-T X.511 (2019) Amd. 1 (10/2024)
+–     ITU-T X.518 (2019) Amd. 1 (10/2024)
+–     ITU-T X.519 (2019) Amd. 1 (10/2024)
+–     ITU-T X.520 (2019) Amd. 1 (10/2024)
+–     ITU-T X.521 (2019) Amd. 1 (10/2024)
+–     ITU-T X.525 (2019) Amd. 1 (10/2024)
+–     ITU-T X.1600 (10/2024): Security architecture of edge cloud
+–     ITU-T X.1647 (10/2024): Security guidelines for selecting computing methods and resources from Cloud Service
+      Providers
+–     ITU-T X.1716 (10/2024): Authentication and authorization in quantum key distribution network (QKDN)
+–     ITU-T X.1717 (10/2024): Security requirements and measures for quantum key distribution network (QKDN) -
+      control and management
+–     ITU-T X.2012 (10/2024): Security measures for digital twin system of smart cities
+
+
+
+
+        International Identification Plan for Public Networks and Subscriptions
+                            (Recommendation ITU-T E.212)
+
+Note from TSB
+                               Identification codes for International Mobile Networks
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been
+assigned.
+
+                                                  Mobile Country Code (MCC) and             Date of assignment
+                   Network
+                                                   Mobile Network Code (MNC)
+
+   OQ Technology                                               901 30                           18.X.2024
+
+
+
+
+Note from TSB
+                             Identification codes for international non-commercial trials
+
+Associated with shared mobile country code 991 (MCC), for trial, the two-digit trial mobile network code (MNC) “04”
+has been temporarily assigned until 17 October 2025 to E-Space Inc. for its trial of its Semaphore Network. The
+temporary assignment of the E.212 shared MCC and trial-MNC 991 04 is effective from 18 October 2024.
+
+
+                                  Mobile Country Code (MCC) and         Effective date of     Reclamation date
+            Applicant
+                                 trial-Mobile Network Code (MNC)           assignment
+
+    E-Space Inc.                               991 04                      18.X.2024             18.X.2025
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/inr/nnp
+Congo (country code +242)
+Communication of 1.XI.2024:
+The Agence de Régulation des Postes et des Communications Electroniques (ARPCE), Brazzaville, announces the
+assignment of the following new number series in the national numbering plan of the Republic of the Congo.
+
+                                   Number series
+           Operator                                             Types of services   Date of introduction
+                                     (9 digits)
+
+                            +242 06 100 00 00 -              Voice, SMS and Data         9.X.2024
+    MTN CONGO S.A.
+                            +242 06 199 99 99
+
+
+X= 0 to 9
+International dialling format:                             +242 XX XXX XX XX
+The minimum number length (excluding the country code) is: Nine (9) digits
+The maximum number length (excluding the country code) is: Nine (9) digits
+
+
+Contact:
+      Agence de Régulation des Postes et des Communications Electroniques (ARPCE)
+      Immeuble ARPCE
+      91 bis, Avenue de l'Amitié
+      B.P. 2490
+      BRAZZAVILLE
+      Congo (Rep. of the)
+      Tel:      +242 05 510 7272
+      E-mail: contact@arpce.cg
+      URL:      www.arpce.cg
+
+
+
+
+Denmark (country code +45)
+Communication of 1.XI.2024:
+The Agency for Digital Government, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•      Withdrawals
+
+    Type                       Numbering resource                        Provider             Date of withdrawal
+
+                               82110fgh, 82168fgh, 82178fgh, 82212fgh,   Telia Mobil          31 March 2024
+                               82214fgh, 82220fgh, 82248fgh              Danmark A/S
+
+                               72199fgh, 72213fgh, 72214fgh, 72248fgh,   Telenor A/S          30 June 2024
+                               72249fgh, 72254fgh, 72256fgh, 72257fgh,
+                               72258fgh, 72272fgh, 72298fgh, 72316fgh,
+                               72426fgh, 72427fgh, 72446fgh, 72477fgh,
+    Fixed communication        72478fgh, 72479fgh, 72677fgh, 72678fgh,
+                               72679fgh, 77360fgh, 77361fgh, 77362fgh,
+                               77363fgh, 77364fgh, 77367fgh, 77368fgh,
+                               77369fgh, 77404fgh, 77408fgh, 77409fgh
+
+                               44217fgh, 46967fgh, 33388fgh, 47931fgh,   TDC Net A/S          30 June 2024
+                               47932fgh, 47933fgh, 47934fgh, 47935fgh,
+                               79247fgh, 54798fgh
+
+
+    Type                       Numbering resource                        Provider             Date of withdrawal
+                                                                         Telia Mobil
+    5 digit short code         16190, 16191, 16192                                            31 March 2024
+                                                                         Danmark A/S
+
+    Type                       Numbering resource                        Provider             Date of withdrawal
+
+    Premium-rate numbers       90240fgh, 90540fgh, 90560fgh, 90140fgh,   Telia Mobil          29 May 2024
+                               90141fgh                                  Danmark A/S
+
+
+    Type                       Numbering resource                        Provider             Date of withdrawal
+
+                               91304fgh, 66220fgh, 77110fgh, 66201fgh,   Maxtel.dk ApS        17 June 2024
+                               77102fgh, 66332fgh, 66338fgh, 92296fgh,
+                               24729fgh, 29191fgh, 29755fgh, 29971fgh,
+                               29961fgh, 29950fgh, 29952fgh, 51651fgh,
+                               61210fgh, 61520fgh, 61533fgh, 61571fgh,
+    Mobile communication       61581fgh, 66401fgh, 66402fgh, 66403fgh,
+                               66405fgh, 66406fgh, 66407fgh, 66408fgh,
+                               66409fgh
+
+                               4740efgh, 4741efgh, 4742efgh, 4743efgh,   Telenor A/S          30 June 2024
+                               4744efgh, 7176efgh
+
+
+
+
+•     Assignments
+
+    Type                       Numbering resource              Provider                    Date of assignment
+                               3227efgh, 32231fgh, 32233fgh,   Telavox ApS                 8 January 2024
+                               32235fgh, 32237fgh, 32154fgh
+                               32639fgh                        IPNORDIC A/S                11 January 2024
+                               45429fgh, 86956fgh, 56394fgh    Viptel A/S                  11 January 2024
+                               3939efgh                        Firstcom Europe A/S         29 February 2024
+    Fixed communication
+                               70608fgh                        Relatel A/S                 1 March 2024
+                               39192fgh                        IPNORDIC A/S                12 March 2024
+                               8650efgh                        Telia Mobil Danmark A/S     1 April 2024
+                               3233efgh                        DIDWW Ireland Limited       18 June 2024
+                               3229efgh                        Nuuday A/S                  19 June 2024
+
+    Type                       Numbering resource              Provider                    Date of assignment
+                               7175efgh, 7194efgh, 7195efgh    CBB Mobil A/S               1 January 2024
+                               3577efgh                        Ipvision A/S                1 January 2024
+                               4311efgh, 4312efgh              Mobilevalue ApS             1 January 2024
+                               66221fgh, 77112fgh, 66203fgh,   HBM IT INFRASTRUCTURE       18 January 2024
+                               77103fgh, 66331fgh, 4682efgh,
+                               24136fgh, 24332fgh, 24380fgh,
+                               24576fgh, 24717fgh, 29196fgh,
+    Mobile communication       29756fgh, 51654fgh, 61211fgh,
+                               61521fgh
+                               24334fgh                        Cobira ApS                  15 February 2024
+                               5431efgh, 5432efgh, 9240efgh,   Nuuday A/S                  1 April 2024
+                               3574efgh, 93704fgh
+                               24384fgh, 29757fgh              Telavox ApS                 8 April 2024
+                               66226fgh                        Telecom X ApS               1 May 2024
+
+
+    Type                      Numbering ressource              Provider                    Date of assignment
+    NSPC                      NSPC1-0-12, NSPC1-0-13,          Onomondo ApS                19 January 2024
+                              NSPC1-0-115, NSPC1-0-116,
+                              NSPC1-0-117, NSPC1-0-118,
+                              NSPC1-0-119, NSPC1-0-120,
+                              NSPC1-0-121, NSPC1-0-122
+
+
+    Type                      Numbering ressource              Provider                    Date of assignment
+    Freephone numbers         809909gh                         Maxtel.dk ApS               16 April 2024
+
+
+Contact:
+           Agency for Digital Government
+           Landgreven 4
+           1301 Copenhagen K
+           Denmark
+           URL: www.digst.dk
+
+
+
+
+Tanzania (country code +255)
+Communication of 1.XI.2024:
+The Tanzania Communications Regulatory Authority (TCRA), Dar-Es-Salaam, announces the following updates to the
+National Numbering Plan (NNP) for Tanzania.
+
+                                   Presentation of national ITU-T E.164 numbering plan
+                                                  for country code +255
+
+a)    Overview:
+      The minimum number length (excluding the country code) is nine (9) digits.
+      The maximum number length (excluding the country code) is twelve (12) digits.
+
+b)    Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers within the national
+         numbering plan:
+      https://www.tcra.go.tz/uploads/documents/sw-1719951564-
+         National%20Numbering%20Plan%20and%20Signaling%20Point%20Code%20June%202024.pdf
+
+c)    Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): N/A
+
+d)    Detail of the numbering plan:
+
+
+     NDC (national          N(S)N number length
+  destination code) or
+                                                                 Usage of
+leading digits of N(S)N     Maximum       Minimum                                           Additional information
+                                                            ITU-T E.164 number
+ (national (significant)     length        length
+        number)
+       22 (NDC)                9               9       Geographic number for fixed       Area code for Dar-Es-Salaam
+                                                       telephony services (Area code)    Region
+       23 (NDC)                9               9       Geographic number for fixed       Area code for Coast, Morogoro,
+                                                       telephony services (Area code)    Lindi and Mtwara Regions
+       24 (NDC)                9               9       Geographic number for fixed       Area code for Zanzibar
+                                                       telephony services (Area code)    (Unguja and Pemba)
+       25 (NDC)                9               9       Geographic number for fixed       Area code for Mbeya, Songwe,
+                                                       telephony services (Area code)    Ruvuma, Katavi and Rukwa
+                                                                                         Regions
+       26 (NDC)                9               9       Geographic number for fixed       Area code for Dodoma, Iringa,
+                                                       telephony services (Area code)    Njombe, Singida and Tabora
+                                                                                         Regions
+       27 (NDC)                9               9       Geographic number for fixed       Area code for Arusha, Manyara,
+                                                       telephony services (Area code)    Kilimanjaro and Tanga Regions
+       28 (NDC)                9               9       Geographic number for fixed       Area code for Mwanza,
+                                                       telephony services (Area code)    Shinyanga, Mara, Geita, Simiyu,
+                                                                                         Kagera and Kigoma Regions
+     300XX (NDC)               12             12       Machine to Machine (M2M)          Numbers for M2M
+                                                       Numbers                           communication
+      30000(NDC)               12             12       Machine to Machine (M2M)          Honora Tanzania Public Limited
+                                                       Numbers                           Company
+      30001(NDC)               12             12       Machine to Machine (M2M)          Airtel Tanzania Public Limited
+                                                       Numbers                           Company
+      30002(NDC)               12             12       Machine to Machine (M2M)          Viettel Tanzania Public Limited
+                                                       Numbers                           Company
+      30003(NDC)               12             12       Machine to Machine (M2M)          Vodacom Tanzania Public
+                                                       Numbers                           Limited Company
+      30004(NDC)               12             12       Machine to Machine (M2M)          Honora Tanzania Public Limited
+                                                       Numbers                           Company
+
+
+     NDC (national         N(S)N number length
+  destination code) or
+                                                          Usage of
+leading digits of N(S)N    Maximum    Minimum                                     Additional information
+                                                     ITU-T E.164 number
+ (national (significant)    length     length
+        number)
+     30005(NDC)              12          12      Machine to Machine (M2M)      Tanzania Telecommunication
+                                                 Numbers                       Corporation
+       4X (NDC)               9           9      Non-geographic number for     VoIP Services
+                                                 corporate services e.g VoIP
+       41 (NDC)               9           9      Non-geographic number for     Tanzania Telecommunication
+                                                 corporate services            Corporation
+       5X (NDC)               9           9      Non-geographic number for     Corporate Data Networks
+                                                 Corporate Networks
+      5100 (NDC)              9           9      Non-geographic number for     Tanzania Railways Corporation
+                                                 Private
+                                                 Corporate Networks
+      5601 (NDC)              9           9      Non-geographic number for     WIA Company Limited
+                                                 Public
+                                                 Corporate Networks
+       6X (NDC)               9           9      Non-geographic number for     Find Me Anywhere
+                                                 mobile telephony services
+       61 (NDC)               9           9      Non-geographic number for     Viettel Tanzania Public Limited
+                                                 mobile telephony services –   Company
+                                                 (Find Me Anywhere)
+       62 (NDC)               9           9      Non-geographic number for     Viettel Tanzania Public Limited
+                                                 mobile telephony services –   Company
+                                                 (Find Me Anywhere)
+       65 (NDC)               9           9      Non-geographic number for     Honora Tanzania Public Limited
+                                                 mobile telephony services –   Company
+                                                 (Find Me Anywhere)
+       66 (NDC)               9           9      Non-geographic number for     Vodacom Tanzania Public
+                                                 mobile telephony services –   Limited Company
+                                                 (Find Me Anywhere)
+       67 (NDC)               9           9      Non-geographic number for     Honora Tanzania Public Limited
+                                                 mobile telephony services –   Company
+                                                 (Find Me Anywhere)
+       68 (NDC)               9           9      Non-geographic number for     Airtel Tanzania Public Limited
+                                                 mobile telephony services –   Company
+                                                 (Find Me Anywhere)
+       69 (NDC)               9           9      Non-geographic number –       Airtel Tanzania Public Limited
+                                                 (Find Me Anywhere)            Company
+       7X (NDC)               9           9      Non-geographic number –       Mobile telephony services for
+                                                 (Find Me Anywhere)            Find Me Anywhere services
+       71 (NDC)               9           9      Non-geographic number for     Honora Tanzania Public Limited
+                                                 mobile telephony services –   Company
+                                                 (Find Me Anywhere)
+       73 (NDC)               9           9      Non-geographic number for     Tanzania Telecommunications
+                                                 mobile telephony services –   Corporation
+                                                 (Find Me Anywhere)
+       74 (NDC)               9           9      Non-geographic number for     Vodacom Tanzania Public
+                                                 mobile telephony services –   Limited Company
+                                                 (Find Me Anywhere)
+       75 (NDC)               9           9      Non-geographic number for     Vodacom Tanzania Public
+                                                 mobile telephony services –   Limited Company
+                                                 (Find Me Anywhere)
+
+
+
+
+     NDC (national           N(S)N number length
+  destination code) or
+                                                               Usage of
+leading digits of N(S)N     Maximum      Minimum                                           Additional information
+                                                          ITU-T E.164 number
+ (national (significant)     length       length
+        number)
+       76 (NDC)                 9            9       Non-geographic number for          Vodacom Tanzania Public
+                                                     mobile telephony services –        Limited Company
+                                                     (Find Me Anywhere)
+       77 (NDC)                 9            9       Non-geographic number for          Honora Tanzania Public Limited
+                                                     mobile telephony services –        Company
+                                                     (Find Me Anywhere)
+       78 (NDC)                 9            9       Non-geographic number for          Airtel Tanzania Public Limited
+                                                     mobile telephony services –        Company
+                                                     (Find Me Anywhere)
+      800 (NDC)                 9            9       Non-geographic number –            Allocated for national
+                                                     (National free phone)              toll-free services
+      808 (NDC)                 9            9       Non-geographic number –            Allocated for international
+                                                     (International Special Rate        services
+                                                     Services)
+      840 (NDC)                 9            9       Non-geographic number –            Allocated for national shared
+                                                     (National special services local   cost services on fixed network
+                                                     rate)
+      860 (NDC)                 9            9       Non-geographic number –            Allocated for national toll-rate
+                                                     (National special services         services on fixed network
+                                                     toll rate)
+      861 (NDC)                 9            9       Non-geographic number –            Allocated for national special
+                                                     (National special services fixed   rates on fixed network
+                                                     rate)
+      90X (NDC)                 9            9       Non-geographic number –            Allocated for national
+                                                     (Premium rate services)            premium services
+       900(NDC)                 9            9       Non-geographic number –            Information Services
+                                                     (Premium rate services)
+       901(NDC)                 9            9       Non-geographic number –            Entertainments Services
+                                                     (Premium rate services)
+       11X(NDC)                 3            3       Non-geographic number for          Emergency services
+                                                     emergencies for human life
+                                                     and safety services
+      19X (NDC)                 3            3       Non-geographic number for          Emergency services
+                                                     emergencies for human life
+                                                     and safety services
+
+Contact:
+           Tanzania Communications Regulatory Authority (TCRA)
+           Dr. Jabiri K. Bakari
+           20 Sam Nujoma Road
+           Mawasiliano Towers
+           P.O. Box 474
+           14414 DAR-ES-SALAAM
+           Tanzania
+           Tel: +255 222199760-9
+           Fax: +255 222412009-10
+           E-mail: dg@tcra.go.tz
+           URL: www.tcra.go.tz
+
+
+
+
+Uganda (country code +256)
+Communication of 1.XI.2024:
+The Uganda Communications Commission (UCC), Kampala, announces the following National Numbering Plan of
+Uganda.
+                         ITU-T E.164 NATIONAL NUMBERING PLAN FOR COUNTRY CODE 256
+
+a)      Overview
+        The minimum number length (excluding the country code) is 9 digits
+        The maximum number length (excluding the country code) is 9 digits
+
+b)      Details of numbering scheme
+
+     NDC (National         N(S)N Number Length
+  Destination Code) or
+                                                                Usage of
+    leading digits of     Maximum       Minimum                                          Additional information
+                                                          ITU-T E.164 Number
+    N(S)N (National        Length        Length
+ (Significant) Number)
+ 200                          9             9       Fixed telephony services for      Network fully operational
+ 201                                                Airtel Uganda Limited
+ 20240                        9             9       Fixed telephony services for      Network fully operational
+                                                    Liquid Intelligent Technologies
+ 2031                         9             9       Fixed telephony services for      Network not yet operational
+                                                    Talkio Mobile Limited
+ 2032                         9             9       Fixed telephony services for      Network fully operational
+                                                    Echotel Proprietary Uganda
+                                                    Limited
+ 2050                         9             9       Fixed telephony services for      Network fully operational
+ 2051                                               Roke Investment International
+ 2052                                               Limited
+ 2053
+ 2054
+ 20611                        9             9       Fixed telephony services for      Network operational
+                                                    Hamilton Telecom Limited
+ 206300                       9             9       Fixed telephony services for      Network fully operational
+ 206301                                             Simbanet Uganda Limited
+ 206302
+ 206303
+ 206304
+ 207                          9             9       Fixed telephony services for      Network fully operational
+                                                    Airtel Uganda Limited
+ 3                            9             9       Fixed telephony services for      Network is fully operational
+                                                    MTN Uganda Limited
+ 4                            9             9       Fixed telephony services for      Network is fully operational
+                                                    Uganda Telecommunication
+                                                    Corporation Limited
+ 700                          9             9       Mobile telephony services for     Network is fully operational
+ 701                                                Airtel Uganda Limited
+ 702
+ 703
+ 704
+ 705
+ 706
+ 707
+ 708
+ 709
+
+
+
+    NDC (National          N(S)N Number Length
+ Destination Code) or
+                                                            Usage of
+   leading digits of       Maximum    Minimum                                       Additional information
+                                                      ITU-T E.164 Number
+   N(S)N (National          Length     Length
+(Significant) Number)
+710                           9           9      Mobile telephony services for   Network is fully operational
+711                                              Uganda Telecommunication
+712                                              Corporation Limited
+713
+714
+715
+716
+717
+718
+719
+7240                          9           9      Mobile telephony services for   Network not yet operational
+                                                 Hamilton Telecom Limited
+726                           9           9      Mobile telephony services for   Network is fully operational
+                                                 Tangerine Limited
+727                           9           9      Mobile telephony services for   Network is fully operational
+                                                 Tangerine Limited
+728000000 -                   9           9      Mobile telephony services for   Network not yet operational
+728099999                                        Talkio Mobile Limited
+740                           9           9      Mobile telephony services for   Network is fully operational
+741                                              Airtel Uganda Limited
+742
+743
+744
+745
+746
+750                           9           9      Mobile telephony services for   Network is fully operational
+751                                              Airtel Uganda Limited
+752
+753
+754
+755
+756
+757
+758
+759
+760                           9           9      Mobile telephony services for   Network is fully operational
+761                                              MTN Uganda Limited
+762
+763
+764
+765
+766
+767
+768
+
+
+
+
+     NDC (National       N(S)N Number Length
+  Destination Code) or
+                                                          Usage of
+    leading digits of    Maximum    Minimum                                       Additional information
+                                                    ITU-T E.164 Number
+    N(S)N (National       Length     Length
+ (Significant) Number)
+ 770                        9           9      Mobile telephony services for   Network is fully operational
+ 771                                           MTN Uganda Limited
+ 772
+ 773
+ 774
+ 775
+ 776
+ 777
+ 778
+ 779
+ 780                        9           9      Mobile telephony services for   Network is fully operational
+ 781                                           MTN Uganda Limited
+ 782
+ 783
+ 784
+ 785
+ 786
+ 787
+ 788
+ 789
+
+Contact:
+      Uganda Communications Commission (UCC)
+      Plot 42-44 Spring Road, Bugolobi
+      P.O. Box 7376, Kampala, Uganda
+      Tel:     +256 41 433 9000
+      Fax:     +256 41 434 8832
+      E-mail: ucc@ucc.co.ug
+      URL:     www.ucc.co.ug
+
+
+
+
+                                          Other communication
+
+Serbia
+Communication of 14.X.2024:
+On the occasion of the promotion of the "Youngsters on the Air (YOTA) program", the Serbian Administration authorizes
+radio stations of the Amateur Radio Union of Serbia to use the special call sign YT24YOTA from 1 December 2024
+to 31 December 2025.
+
+
+
+
+                                          Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                      AMENDMENTS TO SERVICE PUBLICATIONS
+                                              Abbreviations used
+                            ADD     Insert                    PAR    Paragraph
+                            COL     Column                    REP    Replace
+                            LIR     Read                      SUP    Delete
+                            P       Page(s)
+
+
+
+
+                               List of Issuer Identifier Numbers
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                               (Position on 31 December 2023)
+                             (Annex to ITU Operational Bulletin No. 1283 – 1.I.2024)
+                                             (Amendment No. 10)
+
+
+Colombia              ADD
+
+    Country/        Company Name/Address           Issuer                   Contact             Effective
+  Geographical                                   Identifier                                   date of usage
+      area                                        Number
+ Colombia          PLINTRON COLOMBIA SAS         89 57 111     Legal, PLINTRON COLOMBIA SAS     1.III.2022
+                   Carrera 19 # 100-45                         Carrera 19 # 100-45
+                   Oficina 13-107                              Oficina 13-107
+                   BOGOTÁ D.C.                                 BOGOTÁ D.C.
+                                                               E-mail: legal@plintron.com
+
+
+
+
+          Mobile Network Codes (MNC) for the international identification plan
+                         for public networks and subscriptions
+                 (According to Recommendation ITU-T E.212 (09/2016))
+                            (Position on 15 November 2023)
+                                 (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                  (Amendment No. 21)
+
+
+           Country/Geographical area                     MCC+MNC                          Operator/Network
+Canada ADD
+                                                           302 724       Rogers Communications Canada Inc. (Wireless)
+Hungary ADD
+                                                           216 25        Yettel Hungary Ltd.
+Japan ADD
+                                                           440 24        Japan Communications Inc.
+Japan LIR
+                                                           441 211       STARCAT Co., Ltd.
+International Mobile,
+shared code ADD*
+                                                           901 30        OQ Technology
+Trial of a proposed new international
+telecommunication service,
+                                                                         E-Space Inc.
+shared code ADD*                                           991 04
+                                                                         (temporary assignment for trial until 17.X.2025)
+
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+* 18.X.2024, see page 5 of the present Operational Bulletin No. 1304 of 15.XI.2024.
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                            (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                            (Amendment No. 179)
+
+
+ Country or area/ISO code                           Company Code              Contact
+  Company Name/Address                               (carrier code)
+
+
+Germany (Federal Republic of) / DEU       ADD
+
+ OCT office GmbH & Co. KG                            FONSU1                   Mr Lubomir Schiller
+ Lindemannstrasse 47                                                          Tel.: +49 211 9595777 0
+ D-40237 DUESSELDORF                                                          Fax: +49 211 9595777 9
+                                                                              Email: info@fonsuite.de
+
+Germany (Federal Republic of) / DEU       LIR
+
+ 1N Telecom GmbH                                      1NTE                    Mr Philipp Hoffmann
+ Flughafenstrasse 103                                                         Tel: +49 211 73511000
+ D-40474 DUESSELDORF                                                          E-mail: phoffmann@1n.de
+
+
+ Northern Access GmbH                                NA000                    Mr Joscha Voigts
+ Lange Strasse 42 - 44                                                        Tel.: +49 151 51042037
+ D-31618 LIEBENAU                                                             Email: joscha.voigts@northern-access.de
+
+
+
+

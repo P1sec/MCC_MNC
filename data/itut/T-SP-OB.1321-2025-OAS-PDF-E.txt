@@ -1,0 +1,609 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1321              1.VIII.2025                (Information received by 22 July 2025) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                3
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164):
+   Note from TSB ...........................................................................................................................................        4
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212):
+    Note from TSB ...........................................................................................................................................       4
+The international telecommunication charge card (Recommendation ITU-T E.118): Note from TSB ............                                                            5
+Data Transmission Service:
+     Spain (Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, Madrid) .....................                                                  6
+Telephone Service:
+     Eswatini (Eswatini Communications Commission, Ezulwini) .....................................................................                                  7
+     Kyrgyzstan (Service for Regulation and Supervision in the Communication Industry under the
+        Ministry of Digital Development of the Kyrgyz Republic, Bishkek) ......................................................                                     8
+     Mauritius (Information and Communication Technologies Authority (ICTA), Port-Louis) ........................                                                   9
+Service Restrictions .........................................................................................................................................     10
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                10
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers ....................................................................................................................             11
+List of Recommendation ITU-T E.164 assigned Country Codes ......................................................................                                   12
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................         13
+List of ITU Carrier Codes .................................................................................................................................        14
+List of International Signalling Point Codes (ISPC) ..........................................................................................                     15
+List of Data Network Identification Codes (DNIC) ..........................................................................................                        16
+National Numbering Plan ...............................................................................................................................            17
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1322            15.VIII.2025           25.VII.2025
+               1323              1.IX.2025            15.VIII.2025
+               1324             15.IX.2025            29.VIII.2025
+               1325              1.X.2025              12.IX.2025
+               1326             15.X.2025              30.IX.2025
+               1327              1.XI.2025             15.X.2025
+               1328             15.XI.2025             31.X.2025
+               1329             1.XII.2025             14.XI.2025
+               1330             15.XII.2025            28.XI.2025
+               1331              1.I.2026              5.XII.2025
+               1332              15.I.2026            17.XII.2025
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1317 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 June 2025)
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                The International Public Telecommunication Numbering Plan
+                              (Recommendation ITU-T E.164)
+Note from TSB
+
+                                        Identification codes for IoT/M2M
+
+
+Associated with shared country code 883 for IoT/M2M, the following three-digit identification code has been
+transferred:
+
+                                                                        Country Code and                  Date of
+            Applicant                         Network
+                                                                       Identification Code        transfer of assignment
+
+
+ Giesecke+Devrient Mobile         Giesecke+Devrient Mobile                 +883 340                    24.III.2025
+ Security TCD UK Limited          Security TCD UK Limited
+ (Formerly Podsystem Ltd.)        (Formerly Podsystem Ltd.)
+
+
+
+
+        International Identification Plan for Public Networks and Subscriptions
+                            (Recommendation ITU-T E.212)
+
+Note from TSB
+                              Identification codes for International Mobile Networks
+
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been
+transferred.
+
+
+                                                Mobile Country Code (MCC) and                        Date of
+                   Network
+                                                 Mobile Network Code (MNC)                   transfer of assignment
+
+
+   Giesecke+Devrient Mobile Security TCD                      901 75                              24.III.2025
+   UK Limited
+   (Formerly Podsystem Ltd.)
+
+
+
+
+                       The international telecommunication charge card
+                                (Recommendation ITU-T E.118)
+
+Note from TSB
+                                           Global Issuer Identifier Number
+
+
+The following global Issuer Identifier Number has been transferred.
+
+
+         Company Name/Address                   Issuer                   Contact                  Date of
+                                              Identifier                                        transfer of
+                                               Number                                           assignment
+ Giesecke+Devrient Mobile Security TCD        89 883 08     Alistair Elliott                    24.III.2025
+ UK Limited                                                 Globe House, Unit 1, Westlinks,
+ (Formerly Podsystem Ltd.)                                  Alperton Lane,
+ Globe House, Unit 1, Westlinks,                            HA0 1ER Wembley, Middlesex
+ Alperton Lane,                                             (United Kingdom)
+ HA0 1ER Wembley, Middlesex                                 Tel: +44 (0) 20 8799 8100
+ (United Kingdom)                                           E-mail: GD-IOT@gi-de.com
+
+
+
+The following global Issuer Identifier Number has been assigned.
+
+
+         Company Name/Address                   Issuer                       Contact               Date of
+                                              Identifier                                         assignment
+                                               Number
+ Telefónica Germany GmbH & Co. OHG            89 883 15     Roaming department,                   24.I.2025
+ Georg-Brauchle-Ring 50                                     Telefónica Germany GmbH & Co. OHG
+ 80992 MÜNCHEN                                              Georg-Brauchle-Ring 50
+ (Germany)                                                  80992 MÜNCHEN
+                                                            (Germany)
+                                                            E-mail: Roaming-DE@telefonica.com
+
+
+
+
+                                   Data Transmission Service
+                             (Recommendation ITU-T X.121 (10/2000))
+                                International numbering plan for public data networks
+
+Spain
+Communication of 10.VII.2025:
+The Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, Madrid, announces the withdrawal, on
+30 June 2025, of the following Data Network Identification Codes (DNIC):
+
+
+         Country/Area            DNIC No.             Name of network to which a DNIC is withdrawn
+
+                1                    2                                           3
+
+
+ ESPAGNE                           214 0      Administración Pública
+ SPAIN                             214 2      RETEVISIÓN
+ ESPAÑA                            214 5      Red IBERPAC
+                                   214 7      France Telecom Redes y Servicios
+                                   214 9      MegaRed
+
+
+
+
+Accordingly, there are no DNIC assigned in Spain.
+
+
+For further information, please contact:
+         Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales
+         C/ Poeta Joan Maragall, 41
+         28071 MADRID
+         Spain
+         URL: https://avance.digital.gob.es
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                               url: www.itu.int/itu-t/nnp
+Eswatini (country code +268)
+Communication of 11.VII.2025
+The Eswatini Communications Commission, Ezulwini, announces update to the National Numbering Plan in Eswatini.
+
+                                      Description of introduction of new resource
+                               for national E.164 numbering plan for country code 268:
+
+      NDC (national         N(S)N number length
+   destination code) or
+                                                                       Usage of              Time and date of
+ leading digits of N(S)N    Maximum      Minimum                  ITU-T E.164 number           introduction
+  (national (significant)    length       length
+         number)
+            75                  8            8         Non-geographic number for Eswatini       2025-06-21
+                                                       Mobile GSM operator
+
+
+Contact:
+   Mr Thulani Fakudze, Director Technical Services
+   Eswatini Communications Commission
+   P.O Box 7811 Mbabane,
+   ESCCOM Head Office,
+   Plot 11/850, MR103 Ezulwini
+   Eswatini
+   Tel: +268 24067000
+   E-mail: thulani.fakudze@esccom.org.sz
+   URL: www.esccom.org.sz
+
+
+
+
+Kyrgyzstan (country code +996)
+Communications of 15.VII.2025 and 18.VII.2025:
+The Service for Regulation and Supervision in the Communication Industry under the Ministry of Digital Development
+of the Kyrgyz Republic, Bishkek, announces update to the national numbering plan.
+
+            Description of introduction of new resource for national E.164 numbering plan for country code 996:
+
+      NDC (national            N(S)N number length
+   destination code) or
+                                                                      Usage of                    Time and date of
+ leading digits of N(S)N      Maximum       Minimum              ITU-T E.164 number                 introduction
+  (national (significant)      length        length
+         number)
+            99                    9             9        Non-geographic number –                     14 July 2025
+                                                         Mobile telephony services               (Alfa Telekom CJSC)
+                                                         (+996 99 6 XXX XXX)
+            39 47                 9             9        Geographic number –                         18 July 2025
+                                                         Fixed-line services                    (Kyrgyztelecom OJSC)
+                                                         (+996 3947 604 XX)
+
+
+Contacts:
+   Service for Regulation and Supervision in the Communication Industry
+   under the Ministry of Digital Development of the Kyrgyz Republic
+   119 Akhunbaev str.
+   BISHKEK 720005
+   Kyrgyzstan
+   Tel: +996 312 544450
+   Fax: +996 312 544105
+   E-mail: v.emets@nas.gov.kg
+   URL: http://nas.gov.kg/dp/pri-videl-tel-nom-res/
+
+   Alfa Telekom CJSC – Interconnection business and roaming Department
+   E-mail: interconnect@megacom.kg
+
+   Kyrgyztelecom OJSC – Commercial department interconnect sector
+   E-mail: edushembieva@kt.kg
+
+
+
+
+Mauritius (country code +230)
+Communication of 10.VII.2025:
+The Information and Communication Technologies Authority (ICTA), Port-Louis, announces that a new mobile number
+range has been opened in the Republic of Mauritius by the following mobile operator in July 2025.
+
+
+ Operator                                 Usage of ITU-T E.164 number               Dialling Format
+ Cellplus Mobile Communications Ltd       Non-geographic mobile numbers             +230 555X XXXX
+
+Contact:
+           Mr J. Louis
+           Information and Communication Technologies Authority (ICTA)
+           Level 12, The Celicourt
+           6, Sir Celicourt Antelme Street
+           PORT LOUIS
+           Mauritius
+           Tel: +230 211 5333/4
+           Fax: +230 211 9444
+           E-mail: info@icta.mu
+           URL: www.icta.mu/telecom-numbering/
+
+
+
+
+                                          Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                          AMENDMENTS TO SERVICE PUBLICATIONS
+                                                       Abbreviations used
+                                   ADD       Insert                       PAR   Paragraph
+                                   COL       Column                       REP   Replace
+                                   LIR       Read                         SUP   Delete
+                                   P         Page(s)
+
+
+
+
+                               List of Issuer Identifier Numbers
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                               (Position on 31 December 2023)
+                                   (Annex to ITU Operational Bulletin No. 1283 – 1.I.2024)
+                                                   (Amendment No. 22)
+
+Global Issuer Identifier Number        LIR
+
+
+
+    Country/                 Company Name/Address                           Issuer                      Contact
+  geographical                                                            Identifier
+      area                                                                 Number
+ Global             Giesecke+Devrient Mobile Security TCD                 89 883 08     Alistair Elliott
+                    UK Limited                                                          Globe House, Unit 1, Westlinks,
+                    (Formerly Podsystem Ltd.)                                           Alperton Lane,
+                    Globe House, Unit 1, Westlinks, Alperton                            HA0 1ER Wembley, Middlesex
+                    Lane,                                                               (United Kingdom)
+                    HA0 1ER Wembley, Middlesex                                          Tel: +44 (0) 20 8799 8100
+                                                                                        E-mail: GD-IOT@gi-de.com
+                    (United Kingdom)
+
+
+
+Global Issuer Identifier Number        ADD
+
+
+  Country/                Company Name/Address                      Issuer                    Contact                     Effective
+ geographica                                                      Identifier                                               date of
+    l area                                                         Number                                                  usage
+
+ Global            Telefónica Germany GmbH & Co.                 89 883 15       Roaming department,                      1.II.2025
+                   OHG                                                           Telefónica Germany GmbH & Co.
+                   Georg-Brauchle-Ring 50                                        OHG
+                   80992 MÜNCHEN                                                 Georg-Brauchle-Ring 50
+                   (Germany)                                                     80992 MÜNCHEN
+                                                                                 (Germany)
+                                                                                 E-mail: Roaming-DE@telefonica.com
+
+__________
+
+See page 5 of the present Operational Bulletin No. 1321 of 1.VIII.2025.
+
+
+
+
+                  List of Recommendation ITU-T E.164 assigned Country Codes
+                    (Complement to Recommendation ITU-T E.164 (11/2010))
+                               (Position on 15 December 2016)
+                                 (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                  (Amendment No. 44)
+
+
+
+      Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+
+
+p        Associated with shared country code 883, the following three-digit identification code reservations or
+         assignments have been made for the IoT/M2M of:
+
+
+Note p)      +883 340    LIR
+
+                                                                                  Country Code and
+                Applicant                                  Network                                         Status
+                                                                                 Identification Code
+
+    Giesecke+Devrient Mobile              Giesecke+Devrient Mobile Security          +883 340            Assigned
+    Security TCD UK Limited               TCD UK Limited
+    (Formerly Podsystem Ltd.)             (Formerly Podsystem Ltd.)
+
+
+
+__________
+
+See page 4 of the present Operational Bulletin No. 1321 of 1.VIII.2025.
+
+
+
+
+          Mobile Network Codes (MNC) for the international identification plan
+                         for public networks and subscriptions
+                 (According to Recommendation ITU-T E.212 (09/2016))
+                            (Position on 15 November 2023)
+                                  (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                   (Amendment No. 38)
+
+Country/Geographical area                            MCC+MNC          Operator/Network
+Australia SUP
+                                                        505 05        The Ozitel Network Pty. Ltd.
+                                                        505 08        One.Tel GSM 1800 Pty. Ltd.
+                                                        505 09        Airnet Commercial Australia Ltd.
+                                                        505 20        Ausgrid Corporation
+                                                        505 22        iiNet Ltd
+                                                        505 28        RCOM International Pty Ltd
+                                                        505 30        Compatel Limited
+                                                        505 47        Woodside Energy Limited
+                                                        505 99        One.Tel GSM 1800 Pty. Ltd.
+Australia ADD
+                                                        505 60        Starlink Internet Services Pte Ltd
+                                                        505 63        March IT Pty Ltd
+Australia LIR
+                                                        505 01        Telstra Limited
+                                                        505 11        Telstra Limited
+                                                        505 26        Sinch Australia Pty Ltd
+                                                        505 33        Sinch Australia Pty Ltd
+                                                        505 35        Bird.com Pty Ltd
+                                                        505 38        TP Operations Australia Pty Ltd
+                                                        505 39        Telstra Limited
+                                                        505 51        Fortescue Ltd
+                                                        505 71        Telstra Limited
+                                                        505 72        Telstra Limited
+Estonia SUP
+                                                        248 18        CLOUD COMMUNICATIONS OÜ
+Spain SUP
+                                                        214 29        XFERA MÓVILES, S.A.U.
+International Mobile,
+shared code LIR*                                                      Giesecke+Devrient Mobile Security TCD UK Limited
+                                                        901 75
+                                                                      (Formerly Podsystem Ltd.)
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+* See page 4 of the present Operational Bulletin No. 1321 of 1.VIII.2025.
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                              (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                              (Amendment No. 192)
+
+
+ Country or area/ISO code                              Company Code             Contact
+  Company Name/Address                                  (carrier code)
+
+
+Germany (Federal Republic of) / DEU         ADD
+
+ FusionFlare GmbH                                          FUSION               Mr Philipp Waldow
+ Ernst-Sachs-Straße 12                                                          Tel.: +49 911 7489399 201
+ D-90441 NUREMBERG                                                              Fax: +49 911 7489399 9
+                                                                                Email: pw@fusionflare-it.de
+
+
+ Indusys GmbH                                              INDUS1               Zoran Trajkovic
+ Kerkhagen 9                                                                    Tel.: +49 2351 997410
+ D-58513 LUEDENSCHEID                                                           Email: trajkovic@indusys.de
+
+
+ net services GmbH & Co. KG                                NETSER               Klaus Horter
+ Lise-Meitner-Straße 4                                                          Tel.: +49 461 404848 60
+ D-24941 FLENSBURG                                                              Email: klaus.horter@netservices.de
+
+
+
+
+                          List of International Signalling Point Codes (ISPC)
+                       (According to Recommendation ITU-T Q.708 (03/1999))
+                                        (Position on 1 July 2024)
+
+                                     (Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024)
+                                                      (Amendment No. 20)
+
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point         Name of the signalling point operator
+
+
+ Switzerland ADD
+ 2-056-4       4548         STPHorisen_ROR1                             Horisen AG
+ 2-057-7       4559         STPHorisen_ROR2                             Horisen AG
+ 7-209-3       16011        Zürich-6                                    Intellico AG
+ 7-209-4       16012        Zürich-7                                    Intellico AG
+ 7-209-5       16013        Zürich-8                                    Intellico AG
+ 7-209-6       16014        Zürich-9                                    Intellico AG
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                         List of Data Network Identification Codes (DNIC)
+                      (According to Recommendation ITU-T X.121(10/2000))
+                                     (Position on 1 June 2025)
+                                  (Annex to ITU Operational Bulletin No. 1317 – 1.VI.2025)
+                                                   (Amendment No. 1)
+
+Spain     SUP
+
+
+         Country/Area                DNIC No.                Name of network to which a DNIC is withdrawn
+                 1                        2                                            3
+
+
+ ESPAGNE                                214 0       Administración Pública
+ SPAIN                                  214 2       RETEVISIÓN
+ ESPAÑA                                 214 5       Red IBERPAC
+                                        214 7       France Telecom Redes y Servicios
+                                        214 9       MegaRed
+
+
+
+
+__________
+
+See page 6 of the present Operational Bulletin No. 1321 of 1.VIII.2025.
+
+
+
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                              Web: www.itu.int/itu-t/nnp
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 1.VII.2025, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                            Country/ Geographical area                     Country Code (CC)
+                  Guyana                                                         +592
+
+
+
+

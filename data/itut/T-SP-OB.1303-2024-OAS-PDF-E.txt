@@ -1,0 +1,655 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1303              1.XI.2024                  (Information received by 16 October 2024) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                3
+Approval of ITU-T Recommendations.............................................................................................................                      4
+Telephone Service:
+     Cayman Islands (Utility Regulation and Competition Office (OfReg), Grand Cayman) .............................                                                 5
+     Myanmar (Ministry of Transport and Communications, Nay Pyi Taw) .....................................................                                          8
+     State of Palestine (Ministry of Telecommunications and Digital Economy, Ramallah) .............................                                                8
+Changes in Administrations/ROAs and other entities or Organizations:
+     Armenia (ArmenTel CJSC (Armenia Telephone Company), Yerevan): Change of name ............................                                                      9
+Service Restrictions .........................................................................................................................................     10
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                10
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers ....................................................................................................................             11
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................          12
+List of International Signalling Point Codes (ISPC) ..........................................................................................                     13
+National Numbering Plan ...............................................................................................................................            16
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1304             15.XI.2024             31.X.2024
+               1305             1.XII.2024             15.XI.2024
+               1306             15.XII.2024            29.XI.2024
+               1307              1.I.2025              6.XII.2024
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                               Approval of ITU-T Recommendations
+By AAP-61, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.8262 (10/2024): Timing characteristics of synchronous equipment clock
+
+
+
+
+                                         Telephone Service
+                                    (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/inr/nnp
+Cayman Islands (country code +1 345)
+Communication of 7.X.2024:
+
+The Utility Regulation and Competition Office (OfReg), Grand Cayman, announces the following numbering plan for the
+Cayman Islands:
+
+
+               Presentation of E.164 National Numbering Plan for country code +1 345, Cayman Islands:
+
+a)    Overview:
+      The minimum number length (excluding the country code) is 7 digits
+      The maximum number length (excluding the country code) is 7 digits
+      international dialling format: +1 345 NXX XXXX
+
+b)    Detail of numbering scheme:
+
+      NDC (national          N(S)N number length
+   destination code) or
+ leading digits of N(S)N    Maximum       Minimum          Usage of E.164 number      Additional information
+  (national (significant)    length        length
+         number)
+           222                  7             7          Non-geographic number –    Assigned to Cable &
+                                                         Fixed line                 Wireless (CI) Ltd T/A Flow
+           232                  7             7          Non-geographic – Fixed     Assigned to Infinity
+                                                         line                       Broadband T/A C3
+           233                  7             7          Non-geographic – Fixed     Assigned to Infinity
+                                                         line                       Broadband T/A C3
+           244                  7             7          Non-geographic – Fixed     Assigned to Cable &
+                                                         line                       Wireless (CI) Ltd T/A
+                                                                                    Flow. Used for
+                                                                                    Government PBX.
+           266                  7             7          Non-geographic – Fixed     Assigned to Cable &
+                                                         line                       Wireless (CI) Ltd
+                                                                                    T/A Flow.
+        321-329                 7             7          Non-geographic – mobile    Assigned to Digicel
+                                                         services                   Cayman Ltd.
+           333                  7             7          Non-geographic – Fixed     Assigned to Infinity
+                                                         line                       Broadband T/A C3
+        420-424                 7             7          Non-geographic – mobile    Assigned to Digicel
+                                                         services                   Cayman Ltd.
+           444                  7             7          Non-geographic number –    Assigned to Cable &
+                                                         Fixed line                 Wireless (CI) Ltd T/A Flow
+           516                  7             7          Non-geographic – mobile    Assigned to Digicel
+                                                         services                   Cayman Ltd.
+           517                  7             7          Non-geographic – mobile    Assigned to Digicel
+                                                         services                   Cayman Ltd.
+        525-527                 7             7          Non-geographic – mobile    Assigned to Digicel
+                                                         services                   Cayman Ltd.
+        546-550                 7             7          Non-geographic – mobile    Assigned to Digicel
+                                                         services                   Cayman Ltd.
+           623                  7             7          Non-geographic – fixed     Assigned to Digicel
+                                                         line                       Cayman Ltd.
+     NDC (national          N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum     Minimum     Usage of E.164 number       Additional information
+ (national (significant)    length      length
+        number)
+          638                 7            7      Non-geographic – fixed      Assigned to Cable &
+                                                  line                        Wireless (CI) Ltd
+                                                                              T/A Flow,
+                                                                              *7873 &*4638 used for
+                                                                              Internet service.
+          640                 7            7      Non-geographic – fixed      Assigned to Digicel
+                                                  line                        Cayman Ltd.
+          649                 7            7      Non-geographic – fixed      Assigned to Digicel
+                                                  line                        Cayman Ltd.
+          730                 7            7      Non-geographic – fixed      Assigned to Cable &
+                                                  line                        Wireless (CI) Ltd T/A Flow
+                                                                              for internal use only.
+          743                 7            7      Non-geographic – fixed      Assigned to WestTel Ltd
+                                                  line                        T/A Logic
+          745                 7            7      Non-geographic – fixed      Assigned to WestTel Ltd
+                                                  line                        T/A Logic
+          746                 7            7      Non-geographic – fixed      Assigned to WestTel Ltd
+                                                  line                        T/A Logic
+          747                 7            7      Non-geographic number –     Assigned to Cable &
+                                                  Fixed line                  Wireless (CI) Ltd T/A Flow
+          749                 7            7      Non-geographic – fixed      Assigned to WestTel Ltd
+                                                  line                        T/A Logic
+          766                 7            7      Non-geographic – fixed      Assigned to WestTel Ltd
+                                                  line                        T/A Logic
+          767                                     Reserved                    Reserved for use with
+                                                                              LNP
+       768-769                7            7      Non-geographic – fixed      Assigned to WestTel Ltd
+                                                  line                        T/A Logic
+          777                 7            7      Non-geographic number –     Assigned to Cable &
+                                                  Fixed line                  Wireless (CI) Ltd T/A Flow
+          800                 7            7      Non-geographic number –     Assigned to Cable &
+                                                  Fixed line                  Wireless (CI) Ltd T/A
+                                                                              Flow, national use only.
+       814-815                7            7      Non-geographic number –     Assigned to Cable &
+                                                  Fixed line                  Wireless (CI) Ltd T/A
+                                                                              Flow, DID service
+       825-826                7            7      Non-geographic – mobile     Assigned to WestTel Ltd
+                                                  services                    T/A Logic
+       848-849                7            7      Non-geographic number –     Assigned to Cable &
+                                                  Fixed line                  Wireless (CI) Ltd T/A Flow
+          888                 7            7      Non-geographic number –     Assigned to Cable &
+                                                  Fixed line                  Wireless (CI) Ltd T/A Flow
+          914                 7            7      Non-geographic number –     Assigned to Cable &
+                                                  Fixed line                  Wireless (CI) Ltd T/A
+                                                                              Flow, DID service
+       916-917                7            7      Non-geographic number –     Assigned to Cable &
+                                                  mobile services             Wireless (CI) Ltd T/A Flow
+          919                 7            7      Non-geographic number –     Assigned to Cable &
+                                                  mobile services, reserved   Wireless (CI) Ltd T/A Flow
+                                                  for TLDNs
+       922-929                7            7      Non-geographic number –     Assigned to Cable &
+                                                  mobile services             Wireless (CI) Ltd T/A Flow
+
+      NDC (national             N(S)N number length
+   destination code) or
+ leading digits of N(S)N      Maximum        Minimum           Usage of E.164 number     Additional information
+  (national (significant)      length         length
+         number)
+             930                  7              7        Non-geographic number –       Assigned to Cable &
+                                                          mobile services               Wireless (CI) Ltd T/A Flow
+           936-939                7              7        Non-geographic number –       Assigned to Cable &
+                                                          mobile services               Wireless (CI) Ltd T/A Flow
+             940                  7              7        Non-geographic number –       Assigned to Cable &
+                                                          fixed line                    Wireless (CI) Ltd T/A Flow
+             943                  7              7        Non-geographic number –       Assigned to Cable &
+                                                          fixed line                    Wireless (CI) Ltd T/A Flow
+           945-949                7              7        Non-geographic number –       Assigned to Cable &
+                                                          fixed line                    Wireless (CI) Ltd T/A Flow
+             976                  7              7        Non-geographic number –       Assigned to Cable &
+                                                          premium services              Wireless (CI) Ltd T/A Flow
+             990                  7              7        Non-geographic number –       Assigned to Cable &
+                                                          mobile services               Wireless (CI) Ltd T/A Flow
+             995                  7              7        Non-dialable, national stop   Assigned to Cable &
+                                                          line allocation               Wireless (CI) Ltd T/A Flow
+
+Contact:
+           Numbering department
+           Utility Regulation and Competition Office (OfReg)
+           PO Box 10189
+           Grand Cayman, KY1-1002
+           Cayman Islands
+           Tel:       +1 345 946 4282
+           Fax:       +1 345 945 8284
+           E-mail: ict@ofreg.ky
+           URL:       www.ofreg.ky
+
+
+
+
+Myanmar (country code +95)
+Communication of 4.X.2024:
+The Ministry of Transport and Communications, Nay Pyi Taw, announces the withdrawal of the following auto
+exchange numbering scheme in the national numbering plan of Myanmar:
+
+
+Auto Exchange Numbering (Geographic)
+
+                                               Digit Length                                         Date of         Date of
+ Sr     Area                                                                                        Number          Number
+                Number Series       Area        (including                Licensee
+ No.    Code                                                                                       Allocation      Withdrawal
+                                               area code)
+  1        1       468 xxxx       Yangon            8         VoIP Myanmar Group Co.,Ltd           1.6.2017         26.9.2024
+
+  2        2       468 xxxx      Mandalay           8         VoIP Myanmar Group Co.,Ltd           1.6.2017         26.9.2024
+
+
+
+Contact:
+           Ministry of Transport and Communications
+           Posts and Telecommunications Department (PTD)
+           Building No. 2,
+           NAY PYI TAW
+           Myanmar
+           Tel: +95 67 3407 225
+           Fax: +95 67 3407 216
+           E-mail: dg@ptd.gov.mm
+
+
+
+
+State of Palestine (country code +970)
+Communication of 1.X.2024:
+
+The Palestinian Ministry of Telecommunications and Digital Economy announces that the implementation of the new
+assigned CC +970 has not been fully completed yet. The transition has not ended yet and it will be done gradually to
+ensure that the service will not be interrupted. The operations should not change to use CC +970 until further notice.
+
+The State of Palestine will carry out all necessary tests to ensure that the service is in place and will publicize in various
+ways once the transition is completed.
+
+
+Contact:
+           Ministry of Telecommunications and Digital Economy
+           RAMALLAH
+           State of Palestine
+
+
+
+
+                  Changes in Administrations/ROAs and other entities
+                                  or Organizations
+Armenia
+Communication of 20.IX.2024:
+
+                                              Change of name
+
+ArmenTel CJSC (Armenia Telephone Company), Yerevan, announces that it has changed its name. It is now called:
+«"Telecom Armenia" Open Joint Stock Company».
+
+
+      "Telecom Armenia" Open Joint Stock Company
+      International Carrier Relations and Wholesale Business Division
+      24/1 Azatutyan Street
+      0014 YEREVAN
+      Armenia
+      Tel:     +374 91 200575
+      E-mail: interconnect@telecomarmenia.am; NKuroyan@telecomarmenia.am
+      URL:     www.telecomarmenia.am
+
+
+
+
+                                          Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                          AMENDMENTS TO SERVICE PUBLICATIONS
+                                                  Abbreviations used
+                                 ADD    Insert                     PAR    Paragraph
+                                 COL    Column                     REP    Replace
+                                 LIR    Read                       SUP    Delete
+                                 P      Page(s)
+
+
+
+
+                               List of Issuer Identifier Numbers
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                               (Position on 31 December 2023)
+                                 (Annex to ITU Operational Bulletin No. 1283 – 1.I.2024)
+                                                 (Amendment No. 9)
+Austria                  ADD
+
+   Country/            Company Name/Address          Issuer                      Contact                       Effective
+ Geographical                                      Identifier                                                date of usage
+     area                                           Number
+ Austria          AICALL                           89 43 29       Guenther Frattner                            8.X.2024
+                  Telekommunikations-                             AICALL Telekommunikations-
+                  Dienstleistungs GmbH                            Dienstleistungs GmbH
+                  Burggasse 15                                    Burggasse 15
+                  8750 JUDENBURG                                  8750 JUDENBURG
+                                                                  Tel: +43 (0) 50/30 50 300
+                                                                  Fax: +43 (0) 50 30 5 330
+                                                                  E-mail: info@aicall.at
+
+Colombia         ADD
+
+    Country/           Company Name/Address           Issuer                      Contact                      Effective
+  Geographical                                      Identifier                                                  date of
+      area                                           Number                                                     usage
+ Colombia          COLOMBIA MÓVIL S.A. E.S.P.       89 57 732      COLOMBIA MÓVIL S.A. E.S.P.                 1.XII.2021
+                   Av. Calle 26 No 92 –                            Carrera 50 # 96-12
+                   32 Modulo G1                                    BOGOTÁ D.C.
+                   BOGOTÁ D.C.                                     E-mail:
+                                                                   gerenciacontrolyreportes@tigo.com.co;
+                                                                   notificacionesjudiciales@tigo.com.co
+
+Japan            LIR
+
+    Country/            Company Name/Address           Issuer                               Contact
+  geographical                                       Identifier
+      area                                            Number
+ Japan             Panasonic Connect Co. Ltd       89 81 07         Panasonic Connect Co. Ltd,
+                   4-1-62 Minoshima, Hakata-ku                      Technical Strategy Division
+                   FUKUOKA CITY 812-8531                            Planning Department, Gemba Solutions Company,
+                                                                    600 Saedocho, Tsuzuki-ku
+                                                                    YOKOHAMA CITY 224-8539
+                                                                    Tel: +81 90 1445 8126
+                                                                    E-mail: pco.telecom@ml.jp.panasonic.com
+
+
+
+
+United States ADD
+
+    Country/             Company Name/Address                     Issuer                             Contact                 Effective
+  Geographical                                                  Identifier                                                 date of usage
+      area                                                       Number
+ United States       OXIO CORP INC.                              89 1 065         OXIO CORP INC.                             1.I.2025
+                     5 West 19th Street 2c                                        5 West 19th Street 2c
+                     NEW YORK, 10011                                              NEW YORK, 10011
+                                                                                  E-mail: telecom@oxio.io
+
+
+
+
+           Mobile Network Codes (MNC) for the international identification plan
+                          for public networks and subscriptions
+                  (According to Recommendation ITU-T E.212 (09/2016))
+                             (Position on 15 November 2023)
+                                     (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                      (Amendment No. 20)
+
+
+Country/Geographical area                MCC+MNC                Operator/Network
+Canada       ADD
+                                               302 722          Rogers Communications Canada Inc. (Wireless)
+                                               302 723          Rogers Communications Canada Inc. (Wireless)
+Japan      ADD
+                                               441 215          KYOCERA Mirai Envision Co., Ltd.
+                                               441 216          Eureka Wireless K.K.
+
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                       List of International Signalling Point Codes (ISPC)
+                    (According to Recommendation ITU-T Q.708 (03/1999))
+                                     (Position on 1 July 2024)
+                                (Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024)
+                                                 (Amendment No. 8)
+
+Country/
+Geographical Area
+ISPC       DEC        Unique name of the signalling point          Name of the signalling point operator
+
+
+Georgia ADD
+5-222-5    12021      Tbilisi, MVNO                                Global cell
+
+United Kingdom SUP
+2-068-1    4641       ZZ5                                          Vodafone Ltd (C&W)
+2-068-3    4643       ZZ6                                          Vodafone Ltd (C&W)
+2-068-5    4645       Belfast Cromac DXA                           British Telecom
+2-069-0    4648       JER-TPSTA                                    Truphone Ltd
+2-069-1    4649       Belfast City Unit B                          British Telecom
+2-069-2    4650       Portadown DCCE Unit 1                        British Telecom
+2-069-4    4652       LON-TPSTB                                    Truphone Ltd
+2-070-1    4657       London GSX 9                                 TalkTalk Communications Limited
+2-071-2    4666       Arun                                         Vodafone Limited
+2-071-3    4667       Bollin                                       Vodafone Limited
+2-071-7    4671       Brentwood1                                   Greystone Telecom Limited
+2-072-0    4672       BKLSW2 2-072-0                               Vodafone Ltd (C&W)
+2-072-1    4673       ZZ1 CT2 Pop                                  Vodafone Ltd (C&W)
+2-072-2    4674       VHXSW2 2-072                                 Vodafone Ltd (C&W)
+2-072-3    4675       BKLSW5 2-072-3                               Vodafone Ltd (C&W)
+2-072-4    4676       CHTSW3 2-072-4                               Vodafone Ltd (C&W)
+2-072-5    4677       SQYSW4 2-072-5                               Vodafone Ltd (C&W)
+2-072-6    4678       Bracknell West 1 International STP           Vodafone Ltd (C&W)
+2-072-7    4679       Surrey Quays 5 International STP             Vodafone Ltd (C&W)
+2-073-3    4683       Brentwood2                                   Greystone Telecom Limited
+2-073-4    4684       Telsis                                       Atlas Interactive Group Limited
+2-073-6    4686       TELEHOUSE 2                                  Global Electroteks Ltd
+2-074-0    4688       Nokia 1                                      Core Communication Services Ltd
+2-074-2    4690       L/PSX/5                                      Orange Business Holdings UK Limited
+2-074-4    4692       London 1                                     GCI Network Solutions Limited
+2-075-3    4699       UK 2                                         Idt Global Ltd
+2-075-4    4700       London 1                                     Interoute Networks Limited
+2-147-0    5272       LQ-DG1-THO                                   Liquid Telecommunications Limited
+2-147-3    5275       GBS2                                         Verizon UK Limited
+2-147-7    5279       SQTC2                                        Bellingham Telecommunications Limited
+2-153-2    5322       LMUK-iSTP3                                   Lycamobile (UK) Limited
+2-153-3    5323       LMUK-iSTP4                                   Lycamobile (UK) Limited
+2-154-0    5328       London 1                                     AT&T Global Network Services (UK) B.V.
+
+Country/
+Geographical Area
+ISPC       DEC      Unique name of the signalling point   Name of the signalling point operator
+2-154-1    5329     LONDON TH B                           Magrathea Telecommunications Limited
+2-155-0    5336     London 178GSX1                        Interoute Networks Limited
+2-155-3    5339     KJCOPM01                              Colt Technology Services
+2-155-6    5342     London 178GSX2                        Interoute Networks Limited
+2-161-5    5389     London 7                              Verizon UK Limited
+2-161-6    5390     Eircom SQP1                           Eircom UK Ltd
+2-161-7    5391     London STP                            Tata Communications (UK) Limited
+2-162-2    5394     Poplar Business Park Local            Colt Technology Services
+2-163-4    5404     Fareham01                             Gamma Telecom Holdings Limited
+2-164-2    5410     TRIAx01                               Triaxcess
+2-164-5    5413     CMIV01                                China Mobile International (UK) Limited
+2-164-7    5415     CMIS05                                China Mobile International (UK) Limited
+2-165-1    5417     L/CWX/1                               CFL Communications Limited
+2-165-7    5423     Kg John Carrier 1                     Colt Technology Services
+2-166-3    5427     Telsis                                Atlas Interactive Group Limited
+2-166-5    5429     L/TZX/6                               TalkTalk Communications Limited
+2-169-1    5449     GB04                                  Verizon UK Limited
+2-169-2    5450     Telehouse 3                           Global Electroteks Ltd
+2-170-0    5456     Lond - 03                             Idt Global Ltd
+2-170-1    5457     Lond - 04                             Idt Global Ltd
+2-170-6    5462     King Johns Local                      Colt Technology Services
+2-170-7    5463     Telehouse 1                           Global Electroteks Ltd
+2-174-0    5488     Kg John Carrier 2                     Colt Technology Services
+2-175-1    5497     Citrus-1                              Citrus Telecommunications Ltd
+2-175-5    5501     SQ2                                   Symmetric Quorum Limited
+2-176-5    5509     Cs2k Basingstoke                      Sky UK Limited
+2-176-6    5510     Cs2k Reading                          Sky UK Limited
+2-177-2    5514     PLSUKDMS1I                            Idt Global Ltd
+2-178-4    5524     London 3                              Tata Communications (UK) Limited
+2-178-6    5526     C&W Jersey                            Sure (Jersey) Limited
+2-179-1    5529                                           CenturyLink Communications UK Limited
+2-179-4    5532     Watford STP                           Vodafone Ltd (Energis)
+2-185-0    5576     Marylebone                            Colt Technology Services
+2-185-1    5577     L/TZX/3                               TalkTalk Communications Limited
+2-186-4    5588     H18_LN                                CITIC Telecom 1616 (Uk) Ltd
+2-186-7    5591     Lon1                                  Mintaka Limited
+2-187-0    5592     L/PSX/3                               Orange Business Holdings UK Limited
+2-187-4    5596     London1                               Teltac Worldwide Offshore
+2-187-5    5597     London1                               Teltac Worldwide Offshore
+2-188-0    5600     New STP/SSP                           Nexus Telecommunications Limited
+2-188-7    5607     London1                               Teltac Worldwide Offshore
+2-189-0    5608     London1                               Teltac Worldwide Offshore
+2-189-6    5614     CW IoM No.1                           Sure (Isle of Man) Limited
+2-190-0    5616     Birmingham STP                        Vodafone Ltd (Energis)
+2-190-3    5619     ZZ2 BQ3 Pop                           Vodafone Ltd (C&W)
+
+Country/
+Geographical Area
+ISPC       DEC       Unique name of the signalling point   Name of the signalling point operator
+2-190-6    5622      Bishopsgate                           Colt Technology Services
+2-190-7    5623      City                                  Colt Technology Services
+2-191-7    5631      L/TZX/5                               TalkTalk Communications Limited
+2-210-0    5776      DDCLZTE1                              Docklands Data Centre Ltd
+2-210-7    5783      Fleet                                 Vodafone Limited
+2-211-0    5784      BM1                                   Colt Technology Services
+2-211-3    5787      Chet                                  Vodafone Limited
+3-230-0    7984      MSCS R1                               Network Rail Infrastructure Limited
+3-230-1    7985      STP R1                                Network Rail Infrastructure Limited
+3-230-2    7986      ECO-MSC1-THO                          Liquid Telecommunications Limited
+3-230-5    7989      TNZUK London 2                        TNZI UK Ltd
+3-236-1    8033      GBS1                                  Verizon UK Limited
+3-236-2    8034      GVSUKD                                Telekom Malaysia (UK) Limited
+3-237-0    8040      LON STP1                              TNZI UK Ltd
+4-229-1    10025     LON STP2                              TNZI UK Ltd
+4-229-4    10028     LON001 GSX2                           Interoute Networks Limited
+4-229-5    10029     LON002 GSX2                           Interoute Networks Limited
+4-229-6    10030     Lon-MSS1                              Truphone Ltd
+4-239-3    10107     London GSX                            TalkTalk Communications Limited
+4-240-4    10116     London 1                              China Telecom (Europe) Ltd
+4-240-5    10117     DDCLVERAZ1                            Docklands Data Centre Ltd
+4-247-6    10174     Lovat                                 Vodafone Limited
+4-253-2    10218     Colne                                 Vodafone Limited
+4-253-7    10223     UC LONDON1                            United Connect Limited
+4-255-0    10232     Beult                                 Vodafone Limited
+4-255-3    10235     Belfast Switch 1                      Vodafone Ltd (Energis)
+4-255-5    10237     Manchester DMS100 1                   Gamma Telecom Holdings Limited
+4-255-6    10238     Tufnell Park                          British Telecom
+5-226-0    12048     Islay                                 Gamma Telecom Holdings Limited
+5-227-0    12056                                           Hutchison 3G UK Ltd
+5-227-1    12057                                           Hutchison 3G UK Ltd
+5-227-3    12059     LON-MGW1                              Truphone Ltd
+5-227-5    12061     EPSILON-VERAZ                         Epsilon Telecommunications Ltd
+5-243-6    12190     SQ1                                   Symmetric Quorum Limited
+5-248-0    12224     London 2                              Interoute Networks Limited
+5-248-7    12231     London 3                              Invoco Ltd
+6-242-0    14224     MLOA - Belfast                        Eircom UK Ltd
+6-242-1    14225     London 2                              Inclarity Communications Limited
+6-242-7    14231     JER-TPSTC                             Truphone Ltd
+6-252-0    14304     Paul Street                           TalkTalk Communications Limited
+6-252-1    14305     Brentford                             TalkTalk Communications Limited
+6-252-6    14310     LON-TPSTD                             Truphone Ltd
+6-255-7    14335     UK STP 3                              Idt Global Ltd
+7-229-4    16172     LON-TPCPC                             Truphone Ltd
+7-234-4    16212     London ISC                            Bangla Trac Communication Ltd
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point          Name of the signalling point operator
+ 7-237-2       16234        London Poplar                                PTGI International Carrier Services Ltd
+ 7-251-4       16348        UK Sonus                                     Idt Global Ltd
+ 7-251-5       16349        Meon                                         Vodafone Limited
+ 7-251-6       16350        Rea                                          Vodafone Limited
+ 7-253-0       16360        Manchester                                   TalkTalk Communications Limited
+ 7-253-2       16362        Severn                                       Vodafone Limited
+
+ United Kingdom ADD
+ 2-174-1       5489         Ernie                                        3 G TELECOMMUNICATIONS LIMITED
+ 4-229-6       10030        ISTP-3                                       TP GLOBAL OPERATIONS LIMITED
+ 5-227-3       12059        ISTP-4                                       TP GLOBAL OPERATIONS LIMITED
+ 6-242-7       14231        ISTP-1                                       TP GLOBAL OPERATIONS LIMITED
+ 6-252-6       14310        ISTP-2                                       TP GLOBAL OPERATIONS LIMITED
+ 7-229-4       16172        ISTP-5                                       TP GLOBAL OPERATIONS LIMITED
+ 7-234-1       16209        Volta-STP3                                   BRINGO GROUP LTD
+ 7-234-5       16213        Volta-STP4                                   BRINGO GROUP LTD
+
+ United Kingdom LIR
+ 2-165-3       5419         London 2                                     Wifinity Limited
+ 4-239-0       10104        London 1                                     Vectone Mobile (Denmark) Limited
+ 4-239-1       10105        London 2                                     Vectone Mobile (Denmark) Limited
+ 6-252-7       14311        LONDON1                                      Wifinity Limited
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                                       National Numbering Plan
+                        (According to Recommendation ITU-T E.129 (01/2013))
+                                              Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 1.X.2024, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                                          Country/ Geographical area                        Country Code (CC)
+                       Azerbaijan                                                                 +994
+                       Malta                                                                      +356
+
+
+
+
