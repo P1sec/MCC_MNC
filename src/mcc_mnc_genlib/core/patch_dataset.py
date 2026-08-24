@@ -214,7 +214,6 @@ COUNTRY_RENAME = {
     'The Former Yugoslav Republic of Macedonia': 'North Macedonia',
     'Bosnia & Herzegov.': 'Bosnia and Herzegovina',
     'Metropolitan France': 'France',
-    'Macedonia': 'North Macedonia',
     #
     # Middle-East / Asia
     'Burma': 'Myanmar',
@@ -561,7 +560,10 @@ def patch_wikip_borders():
                 )
         for n in r['neigh'][:]:
             for oldname, newname in sorted(COUNTRY_RENAME.items()):
-                if country_match(n, oldname):
+                if not country_match(n, oldname):
+                    continue
+                # Rename each original neighbour at most once.
+                if n in r['neigh']:
                     r['neigh'].remove(n)
                     r['neigh'].append(newname)
                     r['neigh'].sort()
@@ -569,6 +571,7 @@ def patch_wikip_borders():
                         '> border changed from %s to %s, country %s'
                         % (oldname, newname, r['country_name'])
                     )
+                break
         for s in r['country_sub'][:]:
             if country_match(s[0], r['country_name']):
                 # simply remove territory

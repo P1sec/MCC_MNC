@@ -582,66 +582,105 @@ def parse_table_mnc_all():
 # International phone number prefixes
 URL_MSISDN = 'https://en.wikipedia.org/wiki/List_of_country_calling_codes'
 
+MSISDN_CC2_ALIAS = {
+    'bahamas': 'BS',
+    'brunei darussalam': 'BN',
+    'congo': 'CG',
+    'congo, democratic republic of the': 'CD',
+    'east timor': 'TL',
+    'gambia': 'GM',
+    'ireland': 'IE',
+    'ivory coast': 'CI',
+    'korea, north': 'KP',
+    'korea, south': 'KR',
+    'micronesia, federated states of': 'FM',
+    'netherlands': 'NL',
+    'united kingdom': 'GB',
+    'united states': 'US',
+    'us virgin islands': 'VI',
+    'vatican city state': 'VA',
+}
 
-def parse_table_msisdn_pref_over(T):
-    # parse the table from the "Summary" section, with
-    # {prefix: [(CC2 code, country name, country url, prefix url), ...]}
-    D = {}
-    re_seg = re.compile(
-        r'([0-9][0-9 ()]{0,12})\s*:\s*(.*?)(?=(?:\s+[0-9][0-9 ()]{0,12}\s*:)|$)'
-    )
-    re_cc2 = re.compile(r'\b[A-Z]{2}\b')
-    #
-    for row in T[2:]:
-        for cell in row:
-            txt = re.sub(r'\s+', ' ', ''.join(cell.itertext())).strip()
-            if ':' not in txt:
-                continue
-            segs = list(re_seg.finditer(txt))
-            if not segs:
-                continue
-            anchors = []
-            for a in cell.xpath('.//a[@href]'):
-                a_txt = re.sub(r'\s+', ' ', ''.join(a.itertext())).strip()
-                anchors.append((a_txt, _normalize_wiki_url(a.attrib['href']), a.attrib.get('title', '').strip()))
-            # map CC2 to country metadata from this cell anchors
-            cc2_meta = {}
-            for a_txt, a_url, a_title in anchors:
-                if len(a_txt) == 2 and a_txt.isalpha() and a_txt.isupper():
-                    cc2_meta[a_txt] = (a_title or a_txt, a_url)
-            #
-            for m in segs:
-                pref_lbl = m.group(1).strip()
-                pref = ''.join([c for c in pref_lbl if c.isdigit()])
-                if not pref:
-                    continue
-                cc2_codes = sorted(set(re_cc2.findall(m.group(2))))
-                if not cc2_codes:
-                    continue
-                pref_url = ''
-                for a_txt, a_url, a_title in anchors:
-                    if ''.join([c for c in a_txt if c.isdigit()]) == pref and any(
-                        c.isdigit() for c in a_txt
-                    ):
-                        pref_url = a_url
-                        break
-                if not pref_url:
-                    pref_url = _get_first_href(cell)
-                if not pref_url:
-                    continue
-                if pref not in D:
-                    D[pref] = []
-                for cc2 in cc2_codes:
-                    if cc2 not in cc2_meta:
-                        continue
-                    cntr_name, cntr_url = cc2_meta[cc2]
-                    rec = (cc2, cntr_name, cntr_url, pref_url)
-                    if rec not in D[pref]:
-                        D[pref].append(rec)
-    #
-    for vals in D.values():
-        vals.sort(key=lambda x: x[0])
-    return D
+MSISDN_NAME_DROP = {
+    'and',
+    'darussalam',
+    'democratic',
+    'federated',
+    'islamic',
+    'kingdom',
+    'of',
+    'republic',
+    'state',
+    'states',
+    'the',
+}
+
+
+def _canon_msisdn_name(name):
+    n = name.lower()
+    n = n.replace('côte', 'cote')
+    n = n.replace('saint ', 'st ')
+    n = n.replace('&', ' and ')
+    n = re.sub(r'\(.*?\)', ' ', n)
+    n = re.sub(r'[^a-z0-9, ]+', ' ', n)
+    n = re.sub(r'\s+', ' ', n).strip(' ,')
+    return n
+
+
+def _canon_msisdn_tokens(name):
+    toks = re.findall(r'[a-z0-9]+', _canon_msisdn_name(name))
+    return tuple(sorted(set([t for t in toks if t not in MSISDN_NAME_DROP])))
+
+
+def _resolve_msisdn_country_cc2(raw_name, by_name, by_tokens):
+    name_key = _canon_msisdn_name(raw_name)
+    if name_key in by_name:
+        return by_name[name_key]
+    if name_key in MSISDN_CC2_ALIAS:
+        return MSISDN_CC2_ALIAS[name_key]
+    toks = _canon_msisdn_tokens(raw_name)
+    if toks in by_tokens and len(by_tokens[toks]) == 1:
+        return by_tokens[toks][0]
+    return None
+
+
+def _extract_parenthetical_link_titles(cell):
+    txt = re.sub(r'\s+', ' ', ''.join(cell.itertext())).strip()
+    paren = re.findall(r'\(([^)]*)\)', txt)
+    if not paren:
+        return ()
+    paren_norm = [p.lower() for p in paren]
+    titles = []
+    for a in cell.xpath('.//a[@title]'):
+        title = a.attrib.get('title', '').strip()
+        if not title:
+            continue
+        title_norm = title.lower()
+        if any(title_norm in p for p in paren_norm) and title not in titles:
+            titles.append(title)
+    return tuple(titles)
+
+
+RE_WIKI_MSISDN_PREF_ALL = re.compile(
+    r'([1-9]{1}[0-9]{0,2})(?:\s*\(([0-9]{1,}(?:,\s*[0-9]{1,})*)\))?'
+)
+
+
+def _extract_msisdn_prefixes(pref_txt):
+    prefs = []
+    for m in RE_WIKI_MSISDN_PREF_ALL.finditer(pref_txt):
+        pref, pref_exts = m.groups()
+        if pref_exts:
+            prefs.extend(
+                [
+                    pref + ext
+                    for ext in sorted(map(str.strip, pref_exts.split(',')))
+                ]
+            )
+        else:
+            prefs.append(pref)
+    # Keep order while removing duplicates.
+    return tuple(dict.fromkeys(prefs))
 
 
 # from simple 1 to 3 digits string to extended prefixes e.g., 374 (47, 97)
@@ -661,20 +700,107 @@ def parse_table_msisdn_pref_alphaord(T):
         prefs = re.sub(r'\s+', ' ', ''.join(L[1].itertext())).strip()
         if not name or not prefs:
             continue
-        m = RE_WIKI_MSISDN_PREF.match(prefs)
-        if not m:
+        pref_list = _extract_msisdn_prefixes(prefs)
+        if not pref_list:
             continue
-        pref, pref_exts = m.groups()
-        if pref_exts:
-            D[name] = tuple(
-                [
-                    pref + ext
-                    for ext in sorted(map(str.strip, pref_exts.split(',')))
-                ]
-            )
-        else:
-            D[name] = (pref,)
+        D[name] = pref_list
     #
+    return D
+
+
+def parse_table_msisdn_pref_over(T, root=None):
+    # Parse serving/code table (current Wikipedia layout).
+    # Returns {prefix: [(CC2, country name, country url, prefix url), ...]}
+    D = {}
+    D_iso = parse_table_iso3166()
+    by_cc2 = {}
+    by_name = {}
+    by_tokens = {}
+    for cc2, rec in sorted(D_iso.items()):
+        by_cc2[cc2] = rec
+        by_name[_canon_msisdn_name(rec['country_name'])] = cc2
+        toks = _canon_msisdn_tokens(rec['country_name'])
+        if toks not in by_tokens:
+            by_tokens[toks] = [cc2]
+        else:
+            by_tokens[toks].append(cc2)
+    unresolved = set()
+    for L in T[2:]:
+        if len(L) < 2:
+            continue
+        raw_name = re.sub(r'\s+', ' ', ''.join(L[0].itertext())).strip()
+        prefs_txt = re.sub(r'\s+', ' ', ''.join(L[1].itertext())).strip()
+        if not raw_name or not prefs_txt:
+            continue
+        pref_list = _extract_msisdn_prefixes(prefs_txt)
+        if not pref_list:
+            continue
+        cc2_list = []
+        cc2_main = _resolve_msisdn_country_cc2(raw_name, by_name, by_tokens)
+        if cc2_main in by_cc2:
+            cc2_list.append(cc2_main)
+        # Keep backward-safe behavior: only enrich from explicit links inside
+        # parenthesized text, e.g. "Morocco (including Western Sahara)".
+        for title in _extract_parenthetical_link_titles(L[0]):
+            cc2_extra = _resolve_msisdn_country_cc2(title, by_name, by_tokens)
+            if cc2_extra in by_cc2 and cc2_extra not in cc2_list:
+                cc2_list.append(cc2_extra)
+        if not cc2_list:
+            unresolved.add(raw_name)
+            continue
+        pref_url = _get_first_href(L[1])
+        for cc2 in cc2_list:
+            rec_iso = by_cc2[cc2]
+            rec_pref_url = pref_url or rec_iso['country_url'] or URL_MSISDN
+            rec = (
+                cc2,
+                rec_iso['country_name'],
+                rec_iso['country_url'],
+                rec_pref_url,
+            )
+            for pref in pref_list:
+                if pref not in D:
+                    D[pref] = [rec]
+                elif rec not in D[pref]:
+                    D[pref].append(rec)
+    for vals in D.values():
+        vals.sort(key=lambda x: x[0])
+
+    if root is not None:
+        for li in root.xpath('//li'):
+            txt = re.sub(r'\s+', ' ', ''.join(li.itertext())).strip()
+            if not txt or '(' not in txt or 'including' not in txt.lower():
+                continue
+            pref_list = _extract_msisdn_prefixes(txt)
+            if not pref_list:
+                continue
+            pref_url = _get_first_href(li)
+            for title in _extract_parenthetical_link_titles(li):
+                cc2 = _resolve_msisdn_country_cc2(title, by_name, by_tokens)
+                if cc2 is None or cc2 not in by_cc2:
+                    continue
+                rec_iso = by_cc2[cc2]
+                rec_pref_url = pref_url or rec_iso['country_url'] or URL_MSISDN
+                rec = (
+                    cc2,
+                    rec_iso['country_name'],
+                    rec_iso['country_url'],
+                    rec_pref_url,
+                )
+                for pref in pref_list:
+                    if pref not in D:
+                        D[pref] = [rec]
+                    elif rec not in D[pref]:
+                        D[pref].append(rec)
+
+    for vals in D.values():
+        vals.sort(key=lambda x: x[0])
+
+    if unresolved:
+        print(
+            '> unresolved MSISDN serving rows: %s'
+            % ', '.join(sorted(unresolved))
+        )
     return D
 
 
@@ -712,10 +838,10 @@ def parse_table_msisdn_pref_locnocount(T):
 
 
 def parse_table_msisdn_pref():
-    T = import_html_doc(URL_MSISDN).xpath('//table')
+    root = import_html_doc(URL_MSISDN)
+    T = root.xpath('//table')
     #
-    # Pick tables by header content instead of fixed indices (layout changes over time).
-    t_over = None
+    # Pick tables by header content from the current Wikipedia layout.
     t_alpha = None
     t_loc = None
     for table in T:
@@ -725,14 +851,14 @@ def parse_table_msisdn_pref():
         if not len(body):
             continue
         row0 = re.sub(r'\s+', ' ', ''.join(body[0].itertext())).strip().lower()
-        if 'x = 0' in row0 and 'x = 9' in row0:
-            t_over = body
-        elif 'serving' in row0 and 'code' in row0:
+        if 'serving' in row0 and 'code' in row0:
             t_alpha = body
         elif 'location' in row0 and 'reasons for no code' in row0:
             t_loc = body
-    if t_over is None or t_alpha is None:
-        raise Exception('unable to locate required MSISDN tables on %s' % URL_MSISDN)
+    if t_alpha is None:
+        raise Exception(
+            'unable to locate required MSISDN tables on %s' % URL_MSISDN
+        )
     if t_loc is None:
         t_loc = []
     #
@@ -741,7 +867,7 @@ def parse_table_msisdn_pref():
     # extract the dict of {location with no country code: country code info}
     return (
         parse_table_msisdn_pref_alphaord(t_alpha),
-        parse_table_msisdn_pref_over(t_over),
+        parse_table_msisdn_pref_over(t_alpha, root),
         parse_table_msisdn_pref_locnocount(t_loc),
     )
 
