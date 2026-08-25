@@ -339,12 +339,12 @@ def patch_wikip_iso3166():
                 r['country_url'] = infos['url']
             WIKIP_ISO3166[r['code_alpha_2']] = r
             print(
-                '> CC2 %s, %s added' % (r['code_alpha_2'], r['country_name'])
+                '> CC2 {}, {} added'.format(r['code_alpha_2'], r['country_name'])
             )
     for new, old in sorted(CC2_ALIAS.items()):
         if new not in WIKIP_ISO3166:
             WIKIP_ISO3166[new] = WIKIP_ISO3166[old]
-            print('> CC2 %s, alias to %s' % (new, old))
+            print('> CC2 {}, alias to {}'.format(new, old))
     #
     # 1bis) add more entries, extracted from the international telephone numbering listing
     for pref, infos in sorted(WIKIP_MSISDN.items()):
@@ -355,7 +355,7 @@ def patch_wikip_iso3166():
                 r['country_name'] = name
                 r['country_url'] = url
                 WIKIP_ISO3166[cc2] = r
-                print('> CC2 %s, %s added from WIKIP_MSISDN' % (cc2, name))
+                print('> CC2 {}, {} added from WIKIP_MSISDN'.format(cc2, name))
     #
     # 2) patch country names
     for cc2, infos in sorted(WIKIP_ISO3166.items()):
@@ -367,8 +367,7 @@ def patch_wikip_iso3166():
                     if 'url' in COUNTRY_SPEC[newname]:
                         infos['country_url'] = COUNTRY_SPEC[newname]['url']
                 print(
-                    '> country name changed from %s to %s, CC2 %s'
-                    % (oldname, newname, cc2)
+                    '> country name changed from {} to {}, CC2 {}'.format(oldname, newname, cc2)
                 )
     #
     # 3) ensure all tld are lower case, and CC codes are upper case
@@ -388,8 +387,7 @@ def patch_wikip_iso3166():
             for j, nameset_totest in enumerate(names[1 + i :]):
                 if name in nameset_totest:
                     print(
-                        '>>> country name collision %s / %s'
-                        % (
+                        '>>> country name collision {} / {}'.format(
                             sorted(WIKIP_ISO3166)[i],
                             sorted(WIKIP_ISO3166)[i + 1 + j],
                         )
@@ -402,8 +400,7 @@ def patch_wikip_iso3166():
         wc = WIKIP_ISO3166[cc2]
         if country != wc['country_name']:
             print(
-                '> country name changed from %s to %s, CC2 %s'
-                % (wc['country_name'], country, cc2)
+                '> country name changed from {} to {}, CC2 {}'.format(wc['country_name'], country, cc2)
             )
             wc['country_name'] = country
             if 'url' in COUNTRY_SPEC[country]:
@@ -411,15 +408,14 @@ def patch_wikip_iso3166():
         if 'sub_cc2' in COUNTRY_SPEC[country]:
             for cc2_s in COUNTRY_SPEC[country]['sub_cc2']:
                 if cc2_s not in WIKIP_ISO3166:
-                    print('>>> missing CC2 %s, part of %s' % (cc2_s, country))
+                    print('>>> missing CC2 {}, part of {}'.format(cc2_s, country))
                 else:
                     wc_s = WIKIP_ISO3166[cc2_s]
                     if wc_s['sovereignity'] == '':
                         wc_s['sovereignity'] = cc2
                     elif wc_s['sovereignity'] != cc2:
                         print(
-                            '>>> CC2 %s, %s, sovereignity mismatch %s / %s'
-                            % (
+                            '>>> CC2 {}, {}, sovereignity mismatch {} / {}'.format(
                                 cc2_s,
                                 wc_s['country_name'],
                                 wc_s['sovereignity'],
@@ -456,8 +452,7 @@ def extend_country_spec():
             if r['country_name'] not in sovs['sub']:
                 sovs['sub'].append(r['country_name'])
                 print(
-                    '> country %s (%s) added under %s'
-                    % (r['country_name'], cc2, sov['country_name'])
+                    '> country {} ({}) added under {}'.format(r['country_name'], cc2, sov['country_name'])
                 )
             if cc2 not in sovs['sub_cc2']:
                 sovs['sub_cc2'].append(cc2)
@@ -553,7 +548,7 @@ def patch_wikip_borders():
                 if newname in COUNTRY_SPEC and 'url' in COUNTRY_SPEC[newname]:
                     r['country_url'] = COUNTRY_SPEC[newname]['url']
                 print(
-                    '> country name changed from %s to %s' % (oldname, newname)
+                    '> country name changed from {} to {}'.format(oldname, newname)
                 )
         for n in r['neigh'][:]:
             for oldname, newname in sorted(COUNTRY_RENAME.items()):
@@ -565,8 +560,7 @@ def patch_wikip_borders():
                     r['neigh'].append(newname)
                     r['neigh'].sort()
                     print(
-                        '> border changed from %s to %s, country %s'
-                        % (oldname, newname, r['country_name'])
+                        '> border changed from {} to {}, country {}'.format(oldname, newname, r['country_name'])
                     )
                 break
         for s in r['country_sub'][:]:
@@ -586,34 +580,31 @@ def patch_wikip_borders():
                     r['country_sub'].append(new_s)
                     r['country_sub'].sort(key=lambda t: t[0])
                     print(
-                        '> sub changed from %s to %s, country %s'
-                        % (oldname, newname, r['country_name'])
+                        '> sub changed from {} to {}, country {}'.format(oldname, newname, r['country_name'])
                     )
     #
     # 2) delete entries
     for r in WIKIP_BORDERS[:]:
         if r['country_name'] in BORD_COUNTRY_DEL:
             WIKIP_BORDERS.remove(r)
-            print('> country %s deleted' % r['country_name'])
+            print('> country {} deleted'.format(r['country_name']))
         elif r['country_name'] in BORD_DUP_DEL and r['country_sub']:
             WIKIP_BORDERS.remove(r)
-            print('> duplicated country %s deleted' % r['country_name'])
+            print('> duplicated country {} deleted'.format(r['country_name']))
             # ensure all sub-territories are referenced within COUNTRY_SPEC
             for name, url in r['country_sub']:
                 if not country_present(
                     name, COUNTRY_SPEC[r['country_name']]['sub']
                 ):
                     print(
-                        '>>> country %s, sub-territory %s not present in COUNTRY_SPEC'
-                        % (r['country_name'], name)
+                        '>>> country {}, sub-territory {} not present in COUNTRY_SPEC'.format(r['country_name'], name)
                     )
         else:
             for n in r['neigh'][:]:
                 if country_present(n[0], BORD_COUNTRY_DEL):
                     r['neigh'].remove(n)
                     print(
-                        '> country %s, border %s deleted'
-                        % (r['country_name'], n[0])
+                        '> country {}, border {} deleted'.format(r['country_name'], n[0])
                     )
     #
     # 4) remove borders to FR, NL, UK when actually against an oversea territory
@@ -628,8 +619,7 @@ def patch_wikip_borders():
                     # delete entry
                     r['neigh'].remove(r_neigh)
                     print(
-                        '> country %s, neighbour %s deleted'
-                        % (r['country_name'], r_neigh)
+                        '> country {}, neighbour {} deleted'.format(r['country_name'], r_neigh)
                     )
     #
     # 5) ensure all country / borders are in the ISO3166 dict
@@ -648,16 +638,14 @@ def patch_wikip_borders():
             if country_present(r['country_name'], SUBTERR_TO_COUNTRY):
                 # warning: SUBTERR_TO_COUNTRY lookup could fail here
                 print(
-                    '> not present in ISO3166 dict but referenced as sub of %s, country %s'
-                    % (
+                    '> not present in ISO3166 dict but referenced as sub of {}, country {}'.format(
                         SUBTERR_TO_COUNTRY[r['country_name']],
                         r['country_name'],
                     )
                 )
             else:
                 print(
-                    '>>> not present in ISO3166 dict, country %s'
-                    % r['country_name']
+                    '>>> not present in ISO3166 dict, country {}'.format(r['country_name'])
                 )
         if (
             r['country_name'] in COUNTRY_SPEC
@@ -667,21 +655,18 @@ def patch_wikip_borders():
             for b in COUNTRY_SPEC[r['country_name']]['bord']:
                 if b not in [n[0] for n in r['neigh']]:
                     print(
-                        '>>> missing border %s, country %s'
-                        % (b, r['country_name'])
+                        '>>> missing border {}, country {}'.format(b, r['country_name'])
                     )
         for n in r['neigh']:
             if not any([name in isonames for name in country_name_canon(n)]):
                 if country_present(n, SUBTERR_TO_COUNTRY):
                     # warning: SUBTERR_TO_COUNTRY lookup could fail here
                     print(
-                        '> border %s not present in ISO3166 dict but referenced as sub of %s, country %s'
-                        % (n, SUBTERR_TO_COUNTRY[n], r['country_name'])
+                        '> border {} not present in ISO3166 dict but referenced as sub of {}, country {}'.format(n, SUBTERR_TO_COUNTRY[n], r['country_name'])
                     )
                 else:
                     print(
-                        '>>> border %s not present in ISO3166 dict, country %s'
-                        % (n, r['country_name'])
+                        '>>> border {} not present in ISO3166 dict, country {}'.format(n, r['country_name'])
                     )
 
 
@@ -728,8 +713,7 @@ def patch_wikip_mcc():
                 if newname in COUNTRY_SPEC and 'url' in COUNTRY_SPEC[newname]:
                     r['country_url'] = COUNTRY_SPEC[newname]['url']
                 print(
-                    '> country name changed from %s to %s, MCC %s'
-                    % (oldname, newname, r['mcc'])
+                    '> country name changed from {} to {}, MCC {}'.format(oldname, newname, r['mcc'])
                 )
         if r['code_alpha_2'] in MCC_CC2_LUT:
             r['code_alpha_2'] = MCC_CC2_LUT[r['code_alpha_2']]
@@ -764,8 +748,7 @@ def patch_wikip_mnc():
                 if country_match(r['country_name'], oldname):
                     r['country_name'] = newname
                     print(
-                        '> country name changed from %s to %s, MCC %s MNC %s'
-                        % (oldname, newname, r['mcc'], r['mnc'])
+                        '> country name changed from {} to {}, MCC {} MNC {}'.format(oldname, newname, r['mcc'], r['mnc'])
                     )
             r['codes_alpha_2'] = sorted(map(str.upper, r['codes_alpha_2']))
             if r['codes_alpha_2']:
@@ -776,8 +759,7 @@ def patch_wikip_mnc():
                         'country_name'
                     ]
                     logs.add(
-                        '> country name changed from %s to %s, CC2 %s, MCC %s, all MNC'
-                        % (
+                        '> country name changed from {} to {}, CC2 {}, MCC {}, all MNC'.format(
                             r['country_name'],
                             newname,
                             r['codes_alpha_2'][0],
@@ -788,13 +770,11 @@ def patch_wikip_mnc():
                 for cc2 in r['codes_alpha_2']:
                     if cc2 not in WIKIP_ISO3166:
                         print(
-                            '>>> CC2 %s unknown, MCC %s MNC %s'
-                            % (cc2, r['mcc'], r['mnc'])
+                            '>>> CC2 {} unknown, MCC {} MNC {}'.format(cc2, r['mcc'], r['mnc'])
                         )
             elif r['mcc'] not in MCC_INTL:
                 print(
-                    '>>> no CC2 but not intl network, MCC %s MNC %s'
-                    % (r['mcc'], r['mnc'])
+                    '>>> no CC2 but not intl network, MCC {} MNC {}'.format(r['mcc'], r['mnc'])
                 )
     aliases = []
     for mcc0 in sorted(WIKIP_MNC):
@@ -805,8 +785,7 @@ def patch_wikip_mnc():
                 alias['mcc'], alias['mnc'] = MNC_ALIAS[(r['mcc'], r['mnc'])]
                 aliases.append(alias)
                 print(
-                    '> added MNC alias %s.%s -> %s.%s'
-                    % (r['mcc'], r['mnc'], alias['mcc'], alias['mnc'])
+                    '> added MNC alias {}.{} -> {}.{}'.format(r['mcc'], r['mnc'], alias['mcc'], alias['mnc'])
                 )
     for alias in aliases:
         WIKIP_MNC[alias['mcc'][0:1]].append(alias)
@@ -852,8 +831,7 @@ def patch_wikip_msisdn():
                 )
                 upd = True
                 print(
-                    '> country name changed from %s to %s, MSISDN +%s'
-                    % (name, new[1], pref)
+                    '> country name changed from {} to {}, MSISDN +{}'.format(name, new[1], pref)
                 )
             if url != WIKIP_ISO3166[cc2]['country_url']:
                 new = (
@@ -882,7 +860,7 @@ def patch_wikip_country():
             newname = COUNTRY_RENAME[country]
             WIKIP_COUNTRY[newname] = preflist
             del WIKIP_COUNTRY[country]
-            print('> country name changed from %s to %s' % (country, newname))
+            print('> country name changed from {} to {}'.format(country, newname))
             country = newname
             found = True
         elif country in isonameset:
@@ -900,8 +878,7 @@ def patch_wikip_country():
                     WIKIP_COUNTRY[newname] = preflist
                     del WIKIP_COUNTRY[country]
                     print(
-                        '> country name changed from %s to %s'
-                        % (country, newname)
+                        '> country name changed from {} to {}'.format(country, newname)
                     )
                     country = newname
                     found = True
@@ -911,8 +888,7 @@ def patch_wikip_country():
         ):
             # satellite / international operators
             print(
-                '>>> country name %s, prefix %s, not found in WIKIP_ISO3166'
-                % (country, ', '.join(['+%s' % pref for pref in preflist]))
+                '>>> country name {}, prefix {}, not found in WIKIP_ISO3166'.format(country, ', '.join(['+{}'.format(pref) for pref in preflist]))
             )
         for pref in preflist:
             if pref not in WIKIP_MSISDN:
@@ -921,19 +897,17 @@ def patch_wikip_country():
                     if pref[:i] in WIKIP_MSISDN:
                         if i == 1:
                             print(
-                                '> country %s, prefix +%s not in WIKIP_MSISDN, corresponds to +%s'
-                                % (country, pref, pref[:i])
+                                '> country {}, prefix +{} not in WIKIP_MSISDN, corresponds to +{}'.format(country, pref, pref[:i])
                             )
                         else:
                             print(
-                                '> country %s, prefix +%s not in WIKIP_MSISDN, but +%s corresponds to %s'
-                                % (
+                                '> country {}, prefix +{} not in WIKIP_MSISDN, but +{} corresponds to {}'.format(
                                     country,
                                     pref,
                                     pref[:i],
                                     ', '.join(
                                         [
-                                            '%s (%s)' % (r[1], r[0])
+                                            '{} ({})'.format(r[1], r[0])
                                             for r in WIKIP_MSISDN[pref[:i]]
                                         ]
                                     ),
@@ -942,8 +916,7 @@ def patch_wikip_country():
                         found = True
                 if not found:
                     print(
-                        '>>> country name %s, prefix +%s not in WIKIP_MSISDN'
-                        % (country, pref)
+                        '>>> country name {}, prefix +{} not in WIKIP_MSISDN'.format(country, pref)
                     )
 
 
@@ -977,12 +950,12 @@ def patch_egal_min_dist():
     for src, dst_dist in sorted(CSV_EGAL_MIN_DIST.items()):
         for dst in dst_dist:
             if dst not in CSV_EGAL_MIN_DIST:
-                print('>>> dst country %s in %s, not in src' % (dst, src))
+                print('>>> dst country {} in {}, not in src'.format(dst, src))
         if src not in isonameset:
             if src not in SUBTERR_TO_COUNTRY:
-                print('>>> country %s, not matching any territory name' % src)
+                print('>>> country {}, not matching any territory name'.format(src))
             else:
-                print('> country %s, matching only a sub-territory name' % src)
+                print('> country {}, matching only a sub-territory name'.format(src))
 
 
 patch_egal_min_dist()
@@ -1040,14 +1013,14 @@ def patch_wfb():
                 infos[k] = ''
         if name in WFB_COUNTRY_DEL:
             del WORLD_FB[name]
-            print('> country %s deleted' % name)
+            print('> country {} deleted'.format(name))
     for name, infos in sorted(WORLD_FB.items()):
         if name in COUNTRY_RENAME:
             newname = COUNTRY_RENAME[name]
             assert newname not in WORLD_FB
             WORLD_FB[newname] = infos
             del WORLD_FB[name]
-            print('> country name changed from %s to %s' % (name, newname))
+            print('> country name changed from {} to {}'.format(name, newname))
         # patch borders' names too
         try:
             bord = infos['infos']['boundaries']['bord']
@@ -1067,8 +1040,7 @@ def patch_wfb():
                     and infos['cc2'] != COUNTRY_SPEC[country]['cc2']
                 ):
                     print(
-                        '>>> country %s, exists as sub-territory, CC2 mismatch %s / %s'
-                        % (name, infos['cc2'], COUNTRY_SPEC[country]['cc2'])
+                        '>>> country {}, exists as sub-territory, CC2 mismatch {} / {}'.format(name, infos['cc2'], COUNTRY_SPEC[country]['cc2'])
                     )
                 else:
                     pass
@@ -1078,8 +1050,7 @@ def patch_wfb():
                 if infos['cc2']:
                     if infos['cc2'] not in WIKIP_ISO3166:
                         print(
-                            '>>> country %s, CC2 %s, not in WIKIP_ISO3166'
-                            % (name, infos['cc2'])
+                            '>>> country {}, CC2 {}, not in WIKIP_ISO3166'.format(name, infos['cc2'])
                         )
                     else:
                         newname = WIKIP_ISO3166[infos['cc2']]['country_name']
@@ -1087,13 +1058,11 @@ def patch_wfb():
                         WORLD_FB[newname] = infos
                         del WORLD_FB[name]
                         print(
-                            '> country name changed from %s to %s'
-                            % (name, newname)
+                            '> country name changed from {} to {}'.format(name, newname)
                         )
                 elif name not in WFB_UNINHABITED:
                     print(
-                        '>>> country %s, no CC2, not referenced, unknown'
-                        % name
+                        '>>> country {}, no CC2, not referenced, unknown'.format(name)
                     )
 
 
@@ -1103,16 +1072,16 @@ patch_wfb()
 def _patch_country_name(name):
     if name in COUNTRY_RENAME:
         newname = COUNTRY_RENAME[name]
-        print('> country name changed from %s to %s' % (name, newname))
+        print('> country name changed from {} to {}'.format(name, newname))
         return newname
     nameset = country_name_canon(name)
     for cinf in WIKIP_ISO3166.values():
         for namesub in nameset:
             if country_match_set(namesub, cinf['nameset']):
                 newname = cinf['country_name']
-                print('> country name changed from %s to %s' % (name, newname))
+                print('> country name changed from {} to {}'.format(name, newname))
                 return newname
-    print('>>> country name %s not found' % name)
+    print('>>> country name {} not found'.format(name))
     return ''
 
 
@@ -1139,8 +1108,7 @@ def _patch_country_name(name):
 
 def patch_itut_mnc(mncs):
     print(
-        '[+] patch ITU-T 1111, 1162 and incremental lists of MCC-MNC: %r'
-        % id(mncs)
+        '[+] patch ITU-T 1111, 1162 and incremental lists of MCC-MNC: {!r}'.format(id(mncs))
     )
     isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
     for cntr, mnos in list(mncs.items()):
@@ -1157,8 +1125,7 @@ patch_itut_mnc(ITUT_MNC_1162)
 
 def patch_itut_mncincr(mncs):
     print(
-        '[+] patch ITU-T incremental list of international MCC-MNC: %r'
-        % id(mncs)
+        '[+] patch ITU-T incremental list of international MCC-MNC: {!r}'.format(id(mncs))
     )
     # merge "Trial of a proposed new international telecommunication service, shared code"
     # into "International Mobile, shared code"
@@ -1208,8 +1175,7 @@ def patch_itut_mnc_incr(mnc1162, mncincr):
             mno_upd, rule = mnc_upd[mnc]
             if rule == 'SUP' and mno_upd[:8] != mno[:8]:
                 print(
-                    '>>> not updating ITU-T 1162 %s - %s: %s with %s'
-                    % (cntr, mnc, mno, mno_upd)
+                    '>>> not updating ITU-T 1162 {} - {}: {} with {}'.format(cntr, mnc, mno, mno_upd)
                 )
                 continue
             mnclist[i] = (mno_upd, mnc)
@@ -1221,7 +1187,7 @@ def patch_itut_mnc_incr(mnc1162, mncincr):
     #
     # add additional list of MNO, MNC for new countries
     for cntr in cntr_upd:
-        print('> updating ITU-T 1162 with MNC from %s' % cntr)
+        print('> updating ITU-T 1162 with MNC from {}'.format(cntr))
         mnclist = []
         for mnc, (mno, rule) in mncincr[cntr].items():
             mnclist.append((mno, mnc))
@@ -1232,7 +1198,7 @@ patch_itut_mnc_incr(ITUT_MNC_1162, ITUT_MNC_INCR)
 
 
 def patch_itut_spc(spclist):
-    print('[+] patch ITU-T list of SPC: %r' % id(spclist))
+    print('[+] patch ITU-T list of SPC: {!r}'.format(id(spclist)))
     isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
     for cntr, spcs in list(spclist.items()):
         if cntr not in isonameset:
@@ -1246,7 +1212,7 @@ patch_itut_spc(ITUT_SPC_1295)
 
 
 def patch_itut_sanc(sanclist):
-    print('[+] patch ITU-T list of SANC: %r' % id(sanclist))
+    print('[+] patch ITU-T list of SANC: {!r}'.format(id(sanclist)))
     isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
     for sanc, cntr in list(sanclist.items()):
         if cntr not in isonameset:

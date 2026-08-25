@@ -93,8 +93,7 @@ def get_egal_min_dist():
                 D[src] = {}
             elif dst in D[src]:
                 print(
-                    '> duplicate entry in Egallic csv for %s in %s'
-                    % (dst, src)
+                    '> duplicate entry in Egallic csv for {} in {}'.format(dst, src)
                 )
             D[src][dst] = float(dist)
         print(
@@ -128,7 +127,7 @@ def main():
     try:
         DE = get_egal_min_dist()
     except Exception as err:
-        print('> error occured: %s' % err)
+        print('> error occured: {}'.format(err))
         return 1
     if args.j:
         generate_json(

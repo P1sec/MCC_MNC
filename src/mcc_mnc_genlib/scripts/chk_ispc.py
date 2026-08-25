@@ -51,11 +51,11 @@ def print_ispc(ispc, ext=0):
         pc_pref = '-'.join(ispc.split('-')[:2])
         cntr = P1_SANC.get(pc_pref, 'unknown')
     assert int(pcint) == conv_pc_383(ispc)
-    print('> %s: International Signaling Point Code' % ispc)
-    print('  PC integer    : %s' % pcint)
-    print('  country       : %s' % cntr)
-    print('  unique name   : %s' % uname)
-    print('  operator      : %s' % ope)
+    print('> {}: International Signaling Point Code'.format(ispc))
+    print('  PC integer    : {}'.format(pcint))
+    print('  country       : {}'.format(cntr))
+    print('  unique name   : {}'.format(uname))
+    print('  operator      : {}'.format(ope))
     if ext:
         if cntr in P1_CNTR:
             print_cntr(P1_CNTR[cntr], ext=ext - 1, indent='  ')
@@ -77,7 +77,7 @@ def print_ispc(ispc, ext=0):
                         print_cntr(P1_CC2[cc2], ext=ext - 1, indent='  ')
                 found = True
             if not found and cntr.lower() not in ('reserved', 'unknown'):
-                print('> unknown country: %s' % cntr)
+                print('> unknown country: {}'.format(cntr))
 
 
 def main():

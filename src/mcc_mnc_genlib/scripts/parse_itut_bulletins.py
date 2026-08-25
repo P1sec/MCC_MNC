@@ -96,14 +96,14 @@ def strip_footer(fn, dbg=True):
     lines = []
     with open(fn, encoding='utf-8') as fd:
         bnum = fn.split('.')[1].split('-')[0]
-        re1 = re.compile(r'No\. %s\s{0,}–\s{0,}[0-9]{1,}' % bnum)
-        re2 = re.compile(r'Annex to ITU OB %s-E\s{0,}–\s{0,}[0-9]{1,}' % bnum)
+        re1 = re.compile(r'No\. {}\s{{0,}}–\s{{0,}}[0-9]{{1,}}'.format(bnum))
+        re2 = re.compile(r'Annex to ITU OB {}-E\s{{0,}}–\s{{0,}}[0-9]{{1,}}'.format(bnum))
         for line in fd:
             # starts or ends with:  No. 1111 – $page_number
             # Annex to ITU OB 1111-E
             if re1.search(line) or re2.search(line):
                 if dbg:
-                    print('> stripping footer: %s' % line.strip())
+                    print('> stripping footer: {}'.format(line.strip()))
                 continue
             lines.append(line)
     #
@@ -141,7 +141,7 @@ def dl_bull(bnum=1111, byear=2016, dbg=True, rmpdf=True):
     with open(PATH_PRE + fn, 'wb') as fd:
         fd.write(resp.read())
         if dbg:
-            print('> downloaded %s into %s' % (fn, PATH_PRE))
+            print('> downloaded {} into {}'.format(fn, PATH_PRE))
         # convert it into a txt file
         conv = subprocess.Popen(
             PDFTOTXT + [PATH_PRE + fn],
@@ -152,14 +152,14 @@ def dl_bull(bnum=1111, byear=2016, dbg=True, rmpdf=True):
                 # error
                 print('> unable to convert pdf to text ; error %i' % err)
             else:
-                print('> converted pdf to text file %s.txt' % fn[:-3])
+                print('> converted pdf to text file {}.txt'.format(fn[:-3]))
         if not err:
             # strip header line into the txt file
             strip_footer(PATH_PRE + fn[:-3] + 'txt', dbg=dbg)
         if rmpdf:
             os.remove(PATH_PRE + fn)
         return True
-    raise (Exception('unable to write local file %s' % (PATH_PRE + fn,)))
+    raise (Exception('unable to write local file {}'.format(PATH_PRE + fn)))
 
 
 def dl_bull_all(bnum=1111, dbg=False):
@@ -183,7 +183,7 @@ def strip_all_txt(dbg=True):
     fns = os.listdir(PATH_PRE)
     for fn in fns:
         if fn[-4:] == '.txt':
-            print('[+] stripping %s' % fn)
+            print('[+] stripping {}'.format(fn))
             strip_footer(PATH_PRE + fn, dbg=dbg)
 
 
@@ -430,13 +430,13 @@ def parse_mnc_upd_list(
         beg = RE_MNC_UPD_LIST_BEG.search(txt)
         if not beg:
             if dbg:
-                print('> %s: MNC update list not found, beg' % fn)
+                print('> {}: MNC update list not found, beg'.format(fn))
             return None
         txt = txt[beg.end() :].strip()
         end = RE_MNC_UPD_LIST_END.search(txt)
         if not end:
             if dbg:
-                print('> %s: MNC update list not found, end' % fn)
+                print('> {}: MNC update list not found, end'.format(fn))
             return None
         # check if need to remove some crappy declaration at the end
         endalt = RE_MNC_UPD_LIST_ENDALT.search(txt)
@@ -445,7 +445,7 @@ def parse_mnc_upd_list(
         else:
             txt = txt[: end.start()].strip()
         if dbg:
-            print('> %s: MNC update list found' % fn)
+            print('> {}: MNC update list found'.format(fn))
         mncdecl = []
         for line in txt.split('\n'):
             if not line.strip():
@@ -455,7 +455,7 @@ def parse_mnc_upd_list(
             for drop_meth, drop_expr in MNC_UPD_LINEDROP:
                 if getattr(line, drop_meth)(drop_expr):
                     if dbg:
-                        print('>>> %s: dropping %r' % (fn, line))
+                        print('>>> {}: dropping {!r}'.format(fn, line))
                     ins = False
                     break
             if ins:
@@ -510,7 +510,7 @@ def parse_mnc_upd_lines(lines, dbg=True):
             rest.clear()
             line = line[m.end() :]
             if dbg:
-                print('>>> rule: %s %s' % (cntr, rule))
+                print('>>> rule: {} {}'.format(cntr, rule))
         m = RE_MNC_UPD_MNC.search(line)
         if m:
             assert rule and cntr
@@ -534,7 +534,7 @@ def parse_mnc_upd_lines(lines, dbg=True):
                         mnclist.append((mnc, [mnclist[-1][1].pop()]))
                         pre_rule_mno = ''
                     elif dbg:
-                        print('>>> buggy MNC declaration: %r' % line)
+                        print('>>> buggy MNC declaration: {!r}'.format(line))
                 else:
                     mnclist.append((mnc, [mnclist[-1][1].pop()]))
                 mnc_empt = True
@@ -550,7 +550,7 @@ def parse_mnc_upd_lines(lines, dbg=True):
                     # pat 2, MNO stop
                     if not mnclist:
                         if dbg:
-                            print('>>> buggy MNC declaration: %r' % line)
+                            print('>>> buggy MNC declaration: {!r}'.format(line))
                     else:
                         mnclist[-1][1].append(m.group(1).strip())
                 else:
@@ -581,14 +581,13 @@ def _mnclist_to_mnclut(cntr, rule, mnclist, dbg):
                     # exceptional pat 4, MNO start
                     if dbg:
                         print(
-                            '>>> splitted MNO description: %r, %r'
-                            % (mnclist[i], mnclist[i + 1])
+                            '>>> splitted MNO description: {!r}, {!r}'.format(mnclist[i], mnclist[i + 1])
                         )
                     assert len(mno_its) == 1
                     mnclist[i + 1][1].insert(0, mno_its[0])
                 else:
                     if dbg:
-                        print('>>> buggy MNC collection: %r' % mno_its)
+                        print('>>> buggy MNC collection: {!r}'.format(mno_its))
             continue
         mnclut[mnc] = (' '.join(mno_its), cntr, rule)
     mnclist.clear()
@@ -804,7 +803,7 @@ def parse_spc_lines(lines, dbg=True):
             # name_ope continuation
             assert spcs
             line = line.lstrip()
-            spcs[-1][3] += ' %s' % line.rstrip()
+            spcs[-1][3] += ' {}'.format(line.rstrip())
             continue
         if line.startswith(20 * ' '):
             # name_spc continuation
@@ -814,10 +813,10 @@ def parse_spc_lines(lines, dbg=True):
                 name_spc, name_ope = map(
                     str.strip, re.split(r'\s{2,}', line.strip())
                 )
-                spcs[-1][2] += ' %s' % name_spc
-                spcs[-1][3] += ' %s' % name_ope
+                spcs[-1][2] += ' {}'.format(name_spc)
+                spcs[-1][3] += ' {}'.format(name_ope)
             else:
-                spcs[-1][2] += ' %s' % line.rstrip()
+                spcs[-1][2] += ' {}'.format(line.rstrip())
             continue
 
         assert ()
@@ -862,7 +861,7 @@ def main():
         try:
             dl_bull_all(bnum=args.b, dbg=False)
         except Exception as err:
-            print('> error occured during downloading: %r' % err)
+            print('> error occured during downloading: {!r}'.format(err))
             return 1
     try:
         MNC_1111 = parse_mnc_list(
@@ -872,26 +871,26 @@ def main():
             PATH_PRE + 'T-SP-OB.1162-2018-OAS-PDF-E.txt', dbg=False
         )
     except Exception as err:
-        print('> error occured during MNC extraction: %r' % err)
+        print('> error occured during MNC extraction: {!r}'.format(err))
         return 1
     try:
         SPC_1295 = parse_spc_list(
             PATH_PRE + 'T-SP-OB.1295-2024-OAS-PDF-E.txt', dbg=False
         )
     except Exception as err:
-        print('> error occured during SPC extraction: %r' % err)
+        print('> error occured during SPC extraction: {!r}'.format(err))
         return 1
     try:
         SANC_1293 = parse_sanc_list(
             PATH_PRE + 'T-SP-OB.1293-2024-OAS-PDF-E.txt', dbg=False
         )
     except Exception as err:
-        print('> error occured during SANC extraction: %r' % err)
+        print('> error occured during SANC extraction: {!r}'.format(err))
         return 1
     try:
         MNC_1162INCR = parse_mnc_incr(1163, fnpre=PATH_PRE, dbg=False)
     except Exception as err:
-        print('> error occured during MNC incremental extraction: %r' % err)
+        print('> error occured during MNC incremental extraction: {!r}'.format(err))
         return 1
     if args.j:
         generate_json(

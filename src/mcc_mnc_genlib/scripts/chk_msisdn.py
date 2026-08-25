@@ -61,14 +61,13 @@ def main():
     else:
         for msisdn in args.MSISDN:
             if not msisdn.isdigit():
-                print('> invalid MSISDN: %s\n' % msisdn)
+                print('> invalid MSISDN: {}\n'.format(msisdn))
                 continue
             found = False
             if msisdn in P1_MSISDN:
                 cntrs = P1_MSISDN[msisdn]
                 print(
-                    '> +%s: known prefix for countries:\n  %s'
-                    % (msisdn, ',\n  '.join(cntrs))
+                    '> +{}: known prefix for countries:\n  {}'.format(msisdn, ',\n  '.join(cntrs))
                 )
                 if args.x:
                     for cntr in cntrs:
@@ -82,8 +81,7 @@ def main():
                     if msisdn[:-i] in P1_MSISDN:
                         cntrs = P1_MSISDN[msisdn[:-i]]
                         print(
-                            '> %s: known prefix +%s for countries:\n  %s'
-                            % (msisdn, msisdn[:-i], ',\n  '.join(cntrs))
+                            '> {}: known prefix +{} for countries:\n  {}'.format(msisdn, msisdn[:-i], ',\n  '.join(cntrs))
                         )
                         if args.x:
                             for cntr in cntrs:
@@ -100,7 +98,7 @@ def main():
                         found = True
                         break
             if not found:
-                print('> unknown MSISDN: %s\n' % msisdn)
+                print('> unknown MSISDN: {}\n'.format(msisdn))
     return 0
 
 

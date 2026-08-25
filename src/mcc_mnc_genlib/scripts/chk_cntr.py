@@ -39,12 +39,12 @@ from mcc_mnc_lut.p1_terr import P1_TERR
 def printext_cntr(infos, ext=1, indent=''):
     c = infos['codes']
     try:
-        print('%s  alpha-3 code  : %s' % (indent, c['cc3']))
-        print('%s  numeric code  : %s' % (indent, c['ccn']))
+        print('{}  alpha-3 code  : {}'.format(indent, c['cc3']))
+        print('{}  numeric code  : {}'.format(indent, c['ccn']))
     except Exception:
         pass
     g = infos['geo']
-    print('%s  Wold Factbook (geography):' % indent)
+    print('{}  Wold Factbook (geography):'.format(indent))
     try:
         print(
             '%s    boundaries details: length %i km'
@@ -65,22 +65,21 @@ def printext_cntr(infos, ext=1, indent=''):
         pass
     try:
         print('%s    airports          : %i' % (indent, g['airports']))
-        print('%s    ports:' % indent)
+        print('{}    ports:'.format(indent))
         for k, v in sorted(g['ports'].items()):
             print('%s    - %-16s: %s' % (indent, k, v))
     except Exception:
         pass
     t = infos['tel']
-    print('%s  World Factbook (telecommunications):' % indent)
+    print('{}  World Factbook (telecommunications):'.format(indent))
     try:
-        print('%s    tld               : %s' % (indent, t['tld']))
-        print('%s    telephone prefix  : +%s' % (indent, t['code']))
+        print('{}    tld               : {}'.format(indent, t['tld']))
+        print('{}    telephone prefix  : +{}'.format(indent, t['code']))
     except Exception:
         pass
     try:
         print(
-            '%s    subscribers       : %s'
-            % (
+            '{}    subscribers       : {}'.format(
                 indent,
                 ', '.join(
                     ['%s: %i' % (k, v) for (k, v) in sorted(t['subs'].items())]
@@ -94,45 +93,42 @@ def printext_cntr(infos, ext=1, indent=''):
             for tkey in ('general', 'domestic', 'intl'):
                 print('%s    %s (%i):' % (indent, tkey, t[tkey][-1]))
                 for l in t[tkey][:-1]:
-                    print('%s      - %s' % (indent, l))
+                    print('{}      - {}'.format(indent, l))
         except Exception:
             pass
 
 
 def print_cntr(cntr, dep=None, ext=0, indent=''):
     if dep is None:
-        print('%s> %s (%s)' % (indent, cntr['name'], cntr['cc2']))
+        print('{}> {} ({})'.format(indent, cntr['name'], cntr['cc2']))
         neigh = P1_TERR[cntr['name']]['neigh']
     else:
         print(
-            '%s> %s, dependent to country %s (%s)'
-            % (indent, cntr, dep['name'], dep['cc2'])
+            '{}> {}, dependent to country {} ({})'.format(indent, cntr, dep['name'], dep['cc2'])
         )
         neigh = P1_TERR[cntr]['neigh']
         cntr = dep
-    print('%s  MCC           : %s' % (indent, ', '.join(cntr['mcc'])))
-    print('%s  MSISDN prefix : +%s' % (indent, ', +'.join(cntr['msisdn'])))
-    print('%s  url Wikipedia : %s' % (indent, cntr['url']))
-    print('%s  borders       : %s' % (indent, ', '.join(neigh['bord'])))
+    print('{}  MCC           : {}'.format(indent, ', '.join(cntr['mcc'])))
+    print('{}  MSISDN prefix : +{}'.format(indent, ', +'.join(cntr['msisdn'])))
+    print('{}  url Wikipedia : {}'.format(indent, cntr['url']))
+    print('{}  borders       : {}'.format(indent, ', '.join(neigh['bord'])))
     print(
-        '%s  neighbours (< 30km) : %s' % (indent, ', '.join(neigh['less30']))
+        '{}  neighbours (< 30km) : {}'.format(indent, ', '.join(neigh['less30']))
     )
     print(
-        '%s  neighbours (< 100km): %s' % (indent, ', '.join(neigh['less100']))
+        '{}  neighbours (< 100km): {}'.format(indent, ', '.join(neigh['less100']))
     )
     if cntr['dep']:
-        print('%s  dependency    : %s' % (indent, cntr['dep']))
+        print('{}  dependency    : {}'.format(indent, cntr['dep']))
     try:
         print(
-            '%s  url World Factbook  : %s'
-            % (indent, cntr['infos']['geo']['url_wfb'])
+            '{}  url World Factbook  : {}'.format(indent, cntr['infos']['geo']['url_wfb'])
         )
         print(
             '%s  population    : %i' % (indent, cntr['infos']['geo']['popul'])
         )
         print(
-            '%s  capital       : %s, coordinates: %s'
-            % (
+            '{}  capital       : {}, coordinates: {}'.format(
                 indent,
                 cntr['infos']['geo']['capital']['name'],
                 cntr['infos']['geo']['capital']['coord'],
@@ -144,9 +140,9 @@ def print_cntr(cntr, dep=None, ext=0, indent=''):
         printext_cntr(cntr['infos'], ext=ext, indent=indent)
     if ext > 1:
         # give the list of MCC-MNC
-        print('%s  list of MCC-MNC:' % indent)
+        print('{}  list of MCC-MNC:'.format(indent))
         for mccmnc in cntr['mccmnc']:
-            print('%s    %s' % (indent, mccmnc))
+            print('{}    {}'.format(indent, mccmnc))
 
 
 def main():
@@ -197,7 +193,7 @@ def main():
                             found = True
                             break
                 if not found:
-                    print('> unknown country: %s' % country)
+                    print('> unknown country: {}'.format(country))
                 print()
     return 0
 

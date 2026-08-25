@@ -151,7 +151,7 @@ def gen_dict_mnc():
         mno['src'] = 'Wikipedia'
         if mccmnc in R:
             # duplicate entry
-            print('> merging MNOs with same MCC-MNC %s' % mccmnc)
+            print('> merging MNOs with same MCC-MNC {}'.format(mccmnc))
             R[mccmnc] = mnc_merge(R[mccmnc], mno)
         else:
             R[mccmnc] = mno
@@ -175,8 +175,7 @@ def mnc_itut(cntr, mno, mccmnc):
         cc2s = [cc2]
     else:
         print(
-            '> MNO from ITU-T bulletin with MCC-MNC %s (%s), no CC2 found'
-            % (mccmnc, cntr)
+            '> MNO from ITU-T bulletin with MCC-MNC {} ({}), no CC2 found'.format(mccmnc, cntr)
         )
         cc2s = []
     return {
@@ -219,8 +218,7 @@ def gen_dict_mnc_compl():
         for mno, mccmnc in inf:
             if mccmnc not in MNC:
                 print(
-                    '> adding MNO from ITU-T bulletin with MCC-MNC %s (%s)'
-                    % (mccmnc, cntr)
+                    '> adding MNO from ITU-T bulletin with MCC-MNC {} ({})'.format(mccmnc, cntr)
                 )
                 R[mccmnc] = mnc_itut(cntr, mno, mccmnc)
             else:
@@ -240,8 +238,7 @@ def gen_dict_mnc_compl():
                     else:
                         if cc2 not in MNC[mccmnc]['cc2s']:
                             print(
-                                '> adding cc2 %s (%s) from ITU-T bulletin to MCC-MNC %s'
-                                % (cc2, cntr, mccmnc)
+                                '> adding cc2 {} ({}) from ITU-T bulletin to MCC-MNC {}'.format(cc2, cntr, mccmnc)
                             )
                             MNC[mccmnc]['cc2s'].append(cc2)
                             MNC[mccmnc]['cc2s'] = sorted(MNC[mccmnc]['cc2s'])
@@ -323,7 +320,7 @@ def gen_dict_mcc():
         elif mcc[0] == '9':
             R[mcc]['notes'] = 'international networks'
         else:
-            print('> missing MCC %s' % mcc)
+            print('> missing MCC {}'.format(mcc))
         for mccmnc in MNC:
             if mccmnc[:3] == mcc:
                 assert len(MNC[mccmnc]['cc2s']) == 0
@@ -362,12 +359,11 @@ def gen_dict_msisdn():
     Rext = {pref: set(names) for pref, names in R.items()}
     for name, (pref, country, url) in WIKIP_TERRITORY.items():
         if pref not in Rext:
-            print('> unknown prefix +%s for %s, %s' % (pref, name, country))
+            print('> unknown prefix +{} for {}, {}'.format(pref, name, country))
             Rext[pref] = set()
         elif country not in Rext[pref]:
             print(
-                '> special territory prefix +%s for %s, %s'
-                % (pref, name, country)
+                '> special territory prefix +{} for {}, {}'.format(pref, name, country)
             )
         # do not append the country, but only the territory name
         Rext[pref].add(name)
@@ -402,7 +398,7 @@ def gen_dict_ispc():
     for cntr, spcs in sorted(ITUT_SPC_1295.items()):
         for spc_info in spcs:
             if spc_info[0] in R_383:
-                print('> duplicated ISPC: %s' % spc_info[0])
+                print('> duplicated ISPC: {}'.format(spc_info[0]))
             else:
                 R_383[spc_info[0]] = [
                     cntr,
@@ -476,8 +472,7 @@ def gen_dict_cc2():
                         mccset.remove(mccmnc[:3])
         if mccset:
             print(
-                '> CC2 %s, country %s, MCC %s unused'
-                % (cc2, D['name'], ', '.join(mccset))
+                '> CC2 {}, country {}, MCC {} unused'.format(cc2, D['name'], ', '.join(mccset))
             )
         D['mcc'] = sorted(D['mcc'])
         D['mccmnc'] = sorted(D['mccmnc'])
@@ -574,8 +569,7 @@ def gen_dict_cc2():
                             D['msisdn'].append(pref)
         if not D['msisdn'] and cc2 not in CC2_ALIAS:
             print(
-                '> MSISDN prefix: prefix not found for %s, %s'
-                % (cc2, D['name'])
+                '> MSISDN prefix: prefix not found for {}, {}'.format(cc2, D['name'])
             )
         R[cc2] = D
     for k, v in CC2_ALIAS.items():
@@ -660,8 +654,7 @@ def gen_dict_terr():
             if bnew:
                 bord.update(bnew)
                 print(
-                    '> %s, wfb has additional borders: %s'
-                    % (name, ', '.join(sorted(bnew)))
+                    '> {}, wfb has additional borders: {}'.format(name, ', '.join(sorted(bnew)))
                 )
         #
         # 2.3) COUNTRY_SPEC
@@ -672,8 +665,7 @@ def gen_dict_terr():
                 if bnew:
                     bord.update(bnew)
                     print(
-                        '> %s, cs has additional borders: %s'
-                        % (name, ', '.join(sorted(bnew)))
+                        '> {}, cs has additional borders: {}'.format(name, ', '.join(sorted(bnew)))
                     )
                 break
         #
@@ -692,8 +684,7 @@ def gen_dict_terr():
             if bnew:
                 bord.update(bnew)
                 print(
-                    '> %s, emd has additional borders: %s'
-                    % (name, ', '.join(sorted(bnew)))
+                    '> {}, emd has additional borders: {}'.format(name, ', '.join(sorted(bnew)))
                 )
         less30.difference_update(bord)
         less100.difference_update(less30)

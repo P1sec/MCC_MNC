@@ -241,7 +241,7 @@ def parse_table_iso3166():
         else:
             if rec['code_alpha_2'] in D:
                 raise (
-                    Exception('duplicate entries for %s' % rec['code_alpha_2'])
+                    Exception('duplicate entries for {}'.format(rec['code_alpha_2']))
                 )
             else:
                 D[rec['code_alpha_2']] = rec
@@ -353,8 +353,7 @@ def parse_table_mcc():
         cc2.add(rec['code_alpha_2'])
         if rec['mcc'] in mcc:
             print(
-                '> duplicate entry for MCC %s: %s // %s'
-                % (
+                '> duplicate entry for MCC {}: {} // {}'.format(
                     rec['mcc'],
                     mcc[rec['mcc']]['country_name'],
                     rec['country_name'],
@@ -483,8 +482,7 @@ def parse_table_mnc(T_MNC):
             L.append(rec)
         else:
             print(
-                '> invalid MCC MNC entry %s.%s, operator %s'
-                % (rec['mcc'], rec['mnc'], rec['operator'])
+                '> invalid MCC MNC entry {}.{}, operator {}'.format(rec['mcc'], rec['mnc'], rec['operator'])
             )
     print(
         '[+] parsed %i MNC entries for MCC %s'
@@ -501,7 +499,7 @@ def _insert_mnc(D, recs):
             D[mcc0].append(rec)
             mccmnc.add(rec['mcc'] + rec['mnc'])
         else:
-            raise (Exception('invalid MCC %s' % rec['mcc']))
+            raise (Exception('invalid MCC {}'.format(rec['mcc'])))
     return mccmnc
 
 
@@ -785,8 +783,7 @@ def parse_table_msisdn_pref_over(T, root=None):
 
     if unresolved:
         print(
-            '> unresolved MSISDN serving rows: %s'
-            % ', '.join(sorted(unresolved))
+            '> unresolved MSISDN serving rows: {}'.format(', '.join(sorted(unresolved)))
         )
     return D
 
@@ -842,7 +839,7 @@ def parse_table_msisdn_pref():
             t_loc = body
     if t_alpha is None:
         raise Exception(
-            'unable to locate required MSISDN tables on %s' % URL_MSISDN
+            'unable to locate required MSISDN tables on {}'.format(URL_MSISDN)
         )
     if t_loc is None:
         t_loc = []
@@ -1011,7 +1008,7 @@ def parse_table_borders():
             continue
         rec = read_entry_borders(T_B, i)
         if rec['country_name'] in cns:
-            print('> duplicate borders entry for %s' % rec['country_name'])
+            print('> duplicate borders entry for {}'.format(rec['country_name']))
         else:
             cns.add(rec['country_name'])
         L.append(rec)
@@ -1030,40 +1027,35 @@ def get_wiki_infos():
         D_iso = parse_table_iso3166()
     except Exception as err:
         print(
-            'parse_table_iso3166: unable to download and / or parse Wikipedia HTML tables ; exception: %r'
-            % err
+            'parse_table_iso3166: unable to download and / or parse Wikipedia HTML tables ; exception: {!r}'.format(err)
         )
         return None, None, None, None, None, None, None
     try:
         L_mcc = parse_table_mcc()
     except Exception as err:
         print(
-            'parse_table_mcc: unable to download and / or parse Wikipedia HTML tables ; exception: %r'
-            % err
+            'parse_table_mcc: unable to download and / or parse Wikipedia HTML tables ; exception: {!r}'.format(err)
         )
         return None, None, None, None, None, None, None
     try:
         D_mnc = parse_table_mnc_all()
     except Exception as err:
         print(
-            'parse_table_mnc_all: unable to download and / or parse Wikipedia HTML tables ; exception: %r'
-            % err
+            'parse_table_mnc_all: unable to download and / or parse Wikipedia HTML tables ; exception: {!r}'.format(err)
         )
         return None, None, None, None, None, None, None
     try:
         D_count, D_pref, D_terr = parse_table_msisdn_pref()
     except Exception as err:
         print(
-            'parse_table_msisdn_pref: unable to download and / or parse Wikipedia HTML tables ; exception: %r'
-            % err
+            'parse_table_msisdn_pref: unable to download and / or parse Wikipedia HTML tables ; exception: {!r}'.format(err)
         )
         return None, None, None, None, None, None, None
     try:
         L_bord = parse_table_borders()
     except Exception as err:
         print(
-            'parse_table_borders: unable to download and / or parse Wikipedia HTML tables ; exception: %r'
-            % err
+            'parse_table_borders: unable to download and / or parse Wikipedia HTML tables ; exception: {!r}'.format(err)
         )
         return None, None, None, None, None, None, None
     return D_iso, L_mcc, D_mnc, D_pref, D_count, D_terr, L_bord
@@ -1074,7 +1066,7 @@ def generate_json(d, destfile, src, license):
     with open(destfile, 'w', encoding='utf-8') as fd:
         json.dump([meta, d], fp=fd, sort_keys=True, indent=2)
         fd.write('\n')
-    print('[+] %s file generated' % destfile)
+    print('[+] {} file generated'.format(destfile))
 
 
 def generate_python(d, destfile, src, license):
@@ -1082,10 +1074,10 @@ def generate_python(d, destfile, src, license):
     varname = destfile[:-3].split('/')[-1].upper()
     with open(destfile, 'w', encoding='utf-8') as fd:
         fd.write('# -*- coding: UTF-8 -*-\n')
-        fd.write('# source: %s\n' % ',\n#         '.join(src))
-        fd.write('# license: %s\n\n' % license)
-        fd.write('%s = \\\n%s\n' % (varname, pp.pformat(d)))
-    print('[+] %s file generated' % destfile)
+        fd.write('# source: {}\n'.format(',\n#         '.join(src)))
+        fd.write('# license: {}\n\n'.format(license))
+        fd.write('{} = \\\n{}\n'.format(varname, pp.pformat(d)))
+    print('[+] {} file generated'.format(destfile))
 
 
 URL_LICENSE = 'https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'
