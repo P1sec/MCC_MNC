@@ -852,7 +852,7 @@ patch_wikip_msisdn()
 
 def patch_wikip_country():
     print('[+] patch Wikipedia list of country prefixes: WIKIP_COUNTRY')
-    isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    isonameset = {r['country_name'] for r in WIKIP_ISO3166.values()}
     for country, preflist in sorted(WIKIP_COUNTRY.items()):
         assert all([pref.isdigit() for pref in preflist])
         found = False
@@ -930,7 +930,7 @@ patch_wikip_country()
 
 def patch_egal_min_dist():
     print('[+] patch Egallic country distance dataset: CSV_EGAL_MIN_DIST')
-    isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    isonameset = {r['country_name'] for r in WIKIP_ISO3166.values()}
     #
     # 1) rename some countries
     for src, dst_dist in sorted(CSV_EGAL_MIN_DIST.items()):
@@ -1006,7 +1006,7 @@ WFB_UNINHABITED = {
 
 def patch_wfb():
     print('[+] patch the World Factbook dataset: WORLD_FB')
-    isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    isonameset = {r['country_name'] for r in WIKIP_ISO3166.values()}
     for name, infos in sorted(WORLD_FB.items()):
         for k in ('cc2', 'cc3', 'ccn', 'genc'):
             if infos[k] == '-':
@@ -1110,7 +1110,7 @@ def patch_itut_mnc(mncs):
     print(
         '[+] patch ITU-T 1111, 1162 and incremental lists of MCC-MNC: {!r}'.format(id(mncs))
     )
-    isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    isonameset = {r['country_name'] for r in WIKIP_ISO3166.values()}
     for cntr, mnos in list(mncs.items()):
         if cntr not in isonameset:
             newname = _patch_country_name(cntr)
@@ -1199,7 +1199,7 @@ patch_itut_mnc_incr(ITUT_MNC_1162, ITUT_MNC_INCR)
 
 def patch_itut_spc(spclist):
     print('[+] patch ITU-T list of SPC: {!r}'.format(id(spclist)))
-    isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    isonameset = {r['country_name'] for r in WIKIP_ISO3166.values()}
     for cntr, spcs in list(spclist.items()):
         if cntr not in isonameset:
             newname = _patch_country_name(cntr)
@@ -1213,7 +1213,7 @@ patch_itut_spc(ITUT_SPC_1295)
 
 def patch_itut_sanc(sanclist):
     print('[+] patch ITU-T list of SANC: {!r}'.format(id(sanclist)))
-    isonameset = set([r['country_name'] for r in WIKIP_ISO3166.values()])
+    isonameset = {r['country_name'] for r in WIKIP_ISO3166.values()}
     for sanc, cntr in list(sanclist.items()):
         if cntr not in isonameset:
             newname = _patch_country_name(cntr)

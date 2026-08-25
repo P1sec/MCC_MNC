@@ -616,7 +616,7 @@ def _canon_msisdn_name(name):
 
 def _canon_msisdn_tokens(name):
     toks = re.findall(r'[a-z0-9]+', _canon_msisdn_name(name))
-    return tuple(sorted(set([t for t in toks if t not in MSISDN_NAME_DROP])))
+    return tuple(sorted({t for t in toks if t not in MSISDN_NAME_DROP}))
 
 
 def _resolve_msisdn_country_cc2(raw_name, by_name, by_tokens):
