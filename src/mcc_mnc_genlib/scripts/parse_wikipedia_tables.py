@@ -209,7 +209,6 @@ def _get_country_url(e):
 def read_entry_iso3166(T, off):
     L = T[off]
     rec = dict(REC_ISO3166)
-    #
     rec['country_name'], rec['country_url'] = _get_country_url(L[0])
     # Current layout: [country, sovereignty, alpha2, alpha3, num, regions, ccTLD]
     rec['state_name'] = ''
@@ -242,7 +241,7 @@ def parse_table_iso3166():
         else:
             if rec['code_alpha_2'] in D:
                 raise (
-                    Exception('duplicate entries for %s' % rec['code_alpha_2'])
+                    Exception('duplicate entries for {}'.format(rec['code_alpha_2']))
                 )
             else:
                 D[rec['code_alpha_2']] = rec
@@ -341,7 +340,6 @@ def parse_table_mcc():
             rec['mcc'] = '647'
             rec['mcc_url'] = L[-1]['mcc_url']
             rec['code_alpha_2'] = 'YT'
-        #
         if not full:
             if not rec['country_name']:
                 rec['country_name'] = L[-1]['country_name']
@@ -352,12 +350,10 @@ def parse_table_mcc():
                 rec['authority'] = L[-1]['authority']
             if not rec['notes'] and L[-1]['notes']:
                 rec['notes'] = L[-1]['notes']
-        #
         cc2.add(rec['code_alpha_2'])
         if rec['mcc'] in mcc:
             print(
-                '> duplicate entry for MCC %s: %s // %s'
-                % (
+                '> duplicate entry for MCC {}: {} // {}'.format(
                     rec['mcc'],
                     mcc[rec['mcc']]['country_name'],
                     rec['country_name'],
@@ -366,7 +362,6 @@ def parse_table_mcc():
         else:
             mcc[rec['mcc']] = rec
         L.append(rec)
-    #
     L.sort(key=lambda r: (r['mcc'], r['code_alpha_2']))
     print(
         '[+] parsed %i MCC entries (%i unique MCC) for %i ISO-3166 country codes'
@@ -419,19 +414,14 @@ def read_entry_mnc_title(e):
         return name, url, sub, []
     codes = m.group(1)
     if '/' in codes:
-        codes = list(
-            map(lambda s: s.strip().upper(), sorted(codes.split('/')))
-        )
+        codes = [s.strip().upper() for s in sorted(codes.split('/'))]
     elif '-' in codes:
-        codes = list(
-            map(lambda s: s.strip().upper(), sorted(codes.split('-')))
-        )
+        codes = [s.strip().upper() for s in sorted(codes.split('-'))]
     else:
         codes = [codes]
     for code in codes:
         if len(code) != 2 or not code.isalpha():
             raise (Exception('invalid title format'))
-    #
     return name, url, sub, codes
 
 
@@ -449,7 +439,6 @@ def read_entry_mnc(T_MNC, off):
         rec['notes'] = _strip_wiki_refnote(
             _strip_wiki_ref(''.join(L[6].itertext()))
         )
-    #
     if len(rec['mcc']) > 3:
         # some HTML tab/ref in wikipedia may add the country name before the MCC
         rec['mcc'] = rec['mcc'][-3:]
@@ -461,12 +450,10 @@ def read_entry_mnc(T_MNC, off):
 def parse_table_mnc(T_MNC):
     L = []
     mcc = set()
-    mccmnc = {}
     #
     # get table title with country name
     title = T_MNC[1].getparent().getparent().getprevious()
     country_infos = read_entry_mnc_title(title)
-    #
     for i in range(1, len(T_MNC)):
         if len(T_MNC[i]) < 6:
             continue
@@ -490,10 +477,8 @@ def parse_table_mnc(T_MNC):
             L.append(rec)
         else:
             print(
-                '> invalid MCC MNC entry %s.%s, operator %s'
-                % (rec['mcc'], rec['mnc'], rec['operator'])
+                '> invalid MCC MNC entry {}.{}, operator {}'.format(rec['mcc'], rec['mnc'], rec['operator'])
             )
-    #
     print(
         '[+] parsed %i MNC entries for MCC %s'
         % (len(L), ', '.join(sorted(mcc)))
@@ -509,7 +494,7 @@ def _insert_mnc(D, recs):
             D[mcc0].append(rec)
             mccmnc.add(rec['mcc'] + rec['mnc'])
         else:
-            raise (Exception('invalid MCC %s' % rec['mcc']))
+            raise (Exception('invalid MCC {}'.format(rec['mcc'])))
     return mccmnc
 
 
@@ -543,7 +528,6 @@ def parse_table_mnc_all():
     mccmnc.update(_insert_mnc(D, parse_table_mnc(T_MCC[2][0])))
     # UK ocean territory
     mccmnc.update(_insert_mnc(D, parse_table_mnc(T_MCC[3][0])))
-    #
     for url in (
         URL_MNC_EU,
         URL_MNC_NA,
@@ -553,7 +537,7 @@ def parse_table_mnc_all():
         URL_MNC_SA,
     ):
         T_MNC = import_html_doc(url).xpath('//table')
-        for i in range(0, len(T_MNC)):
+        for i in range(len(T_MNC)):
             if not _is_mnc_table(T_MNC[i]):
                 continue
             try:
@@ -564,10 +548,8 @@ def parse_table_mnc_all():
                     % (url, i, err)
                 )
                 raise (err)
-    #
     for L in D.values():
         L.sort(key=lambda r: (r['mcc'], r['mnc']))
-    #
     print(
         '[+] %i MCC MNC entries for %i unique MCC MNC'
         % (sum(map(len, D.values())), len(mccmnc))
@@ -629,7 +611,7 @@ def _canon_msisdn_name(name):
 
 def _canon_msisdn_tokens(name):
     toks = re.findall(r'[a-z0-9]+', _canon_msisdn_name(name))
-    return tuple(sorted(set([t for t in toks if t not in MSISDN_NAME_DROP])))
+    return tuple(sorted({t for t in toks if t not in MSISDN_NAME_DROP}))
 
 
 def _resolve_msisdn_country_cc2(raw_name, by_name, by_tokens):
@@ -692,7 +674,6 @@ RE_WIKI_MSISDN_PREF = re.compile(
 def parse_table_msisdn_pref_alphaord(T):
     # parse the serving/code table, with {country_or_area: tuple(prefixes)}
     D = {}
-    #
     for L in T[2:]:
         if len(L) < 2:
             continue
@@ -704,7 +685,6 @@ def parse_table_msisdn_pref_alphaord(T):
         if not pref_list:
             continue
         D[name] = pref_list
-    #
     return D
 
 
@@ -798,8 +778,7 @@ def parse_table_msisdn_pref_over(T, root=None):
 
     if unresolved:
         print(
-            '> unresolved MSISDN serving rows: %s'
-            % ', '.join(sorted(unresolved))
+            '> unresolved MSISDN serving rows: {}'.format(', '.join(sorted(unresolved)))
         )
     return D
 
@@ -808,7 +787,6 @@ def parse_table_msisdn_pref_locnocount(T):
     # parse the "Locations with no country code" table, with
     # {location name: (prefix, country, location_url)}
     D = {}
-    #
     for L in T[1:]:
         if len(L) < 3:
             continue
@@ -833,7 +811,6 @@ def parse_table_msisdn_pref_locnocount(T):
             cntr = name
         if name not in D:
             D[name] = (pref, cntr, url)
-    #
     return D
 
 
@@ -857,7 +834,7 @@ def parse_table_msisdn_pref():
             t_loc = body
     if t_alpha is None:
         raise Exception(
-            'unable to locate required MSISDN tables on %s' % URL_MSISDN
+            'unable to locate required MSISDN tables on {}'.format(URL_MSISDN)
         )
     if t_loc is None:
         t_loc = []
@@ -944,7 +921,7 @@ def _get_bord(e):
         title = a.attrib.get('title', '').strip()
         if title and title[0].isupper():
             b.add(_stripbordref(title))
-    return list(sorted(b))
+    return sorted(b)
 
 
 def _reconcile_bord(country_name, neigh):
@@ -957,7 +934,7 @@ def _reconcile_bord(country_name, neigh):
             continue
         if keep is None or keep in cur:
             cur.remove(drop)
-    return list(sorted(cur))
+    return sorted(cur)
 
 
 def _get_int(s):
@@ -993,7 +970,6 @@ def read_entry_borders(T, off):
         explore_text(L[2]).text.strip().replace(',', '').split('.')[0]
     )
     rec['neigh_num'] = _get_int(explore_text(L[4]).text.strip())
-    #
     if len(L[0]) >= 3 and len(L[0][2]) >= 2 and len(L[0][2][1]) >= 2:
         # get list of sub countries
         # listed after '→includes:'
@@ -1001,12 +977,10 @@ def read_entry_borders(T, off):
         if subc:
             subc.sort(key=lambda t: t[0])
             rec['country_sub'] = subc
-    #
     if len(L) >= 6:
         # get list of neighbours
 
         rec['neigh'] = _reconcile_bord(rec['country_name'], _get_bord(L[5]))
-        #
         if rec['country_name'] not in BORDER_ISSUE and rec['neigh_num'] != len(
             rec['neigh']
         ):
@@ -1014,7 +988,6 @@ def read_entry_borders(T, off):
                 '> border count mismatch for %s: expected %i, parsed %i'
                 % (rec['country_name'], rec['neigh_num'], len(rec['neigh']))
             )
-    #
     return rec
 
 
@@ -1030,7 +1003,7 @@ def parse_table_borders():
             continue
         rec = read_entry_borders(T_B, i)
         if rec['country_name'] in cns:
-            print('> duplicate borders entry for %s' % rec['country_name'])
+            print('> duplicate borders entry for {}'.format(rec['country_name']))
         else:
             cns.add(rec['country_name'])
         L.append(rec)
@@ -1049,40 +1022,35 @@ def get_wiki_infos():
         D_iso = parse_table_iso3166()
     except Exception as err:
         print(
-            'parse_table_iso3166: unable to download and / or parse Wikipedia HTML tables ; exception: %r'
-            % err
+            'parse_table_iso3166: unable to download and / or parse Wikipedia HTML tables ; exception: {!r}'.format(err)
         )
         return None, None, None, None, None, None, None
     try:
         L_mcc = parse_table_mcc()
     except Exception as err:
         print(
-            'parse_table_mcc: unable to download and / or parse Wikipedia HTML tables ; exception: %r'
-            % err
+            'parse_table_mcc: unable to download and / or parse Wikipedia HTML tables ; exception: {!r}'.format(err)
         )
         return None, None, None, None, None, None, None
     try:
         D_mnc = parse_table_mnc_all()
     except Exception as err:
         print(
-            'parse_table_mnc_all: unable to download and / or parse Wikipedia HTML tables ; exception: %r'
-            % err
+            'parse_table_mnc_all: unable to download and / or parse Wikipedia HTML tables ; exception: {!r}'.format(err)
         )
         return None, None, None, None, None, None, None
     try:
         D_count, D_pref, D_terr = parse_table_msisdn_pref()
     except Exception as err:
         print(
-            'parse_table_msisdn_pref: unable to download and / or parse Wikipedia HTML tables ; exception: %r'
-            % err
+            'parse_table_msisdn_pref: unable to download and / or parse Wikipedia HTML tables ; exception: {!r}'.format(err)
         )
         return None, None, None, None, None, None, None
     try:
         L_bord = parse_table_borders()
     except Exception as err:
         print(
-            'parse_table_borders: unable to download and / or parse Wikipedia HTML tables ; exception: %r'
-            % err
+            'parse_table_borders: unable to download and / or parse Wikipedia HTML tables ; exception: {!r}'.format(err)
         )
         return None, None, None, None, None, None, None
     return D_iso, L_mcc, D_mnc, D_pref, D_count, D_terr, L_bord
@@ -1093,7 +1061,7 @@ def generate_json(d, destfile, src, license):
     with open(destfile, 'w', encoding='utf-8') as fd:
         json.dump([meta, d], fp=fd, sort_keys=True, indent=2)
         fd.write('\n')
-    print('[+] %s file generated' % destfile)
+    print('[+] {} file generated'.format(destfile))
 
 
 def generate_python(d, destfile, src, license):
@@ -1101,10 +1069,10 @@ def generate_python(d, destfile, src, license):
     varname = destfile[:-3].split('/')[-1].upper()
     with open(destfile, 'w', encoding='utf-8') as fd:
         fd.write('# -*- coding: UTF-8 -*-\n')
-        fd.write('# source: %s\n' % ',\n#         '.join(src))
-        fd.write('# license: %s\n\n' % license)
-        fd.write('%s = \\\n%s\n' % (varname, pp.pformat(d)))
-    print('[+] %s file generated' % destfile)
+        fd.write('# source: {}\n'.format(',\n#         '.join(src)))
+        fd.write('# license: {}\n\n'.format(license))
+        fd.write('{} = \\\n{}\n'.format(varname, pp.pformat(d)))
+    print('[+] {} file generated'.format(destfile))
 
 
 URL_LICENSE = 'https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'
@@ -1128,7 +1096,6 @@ def main():
     D_iso, L_mcc, D_mnc, D_pref, D_count, D_terr, L_bord = get_wiki_infos()
     if D_iso is None:
         return 1
-    #
     if args.j:
         generate_json(
             D_iso,

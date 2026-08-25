@@ -58,6 +58,9 @@ mcc-mnc-parse-wikipedia-tables = "mcc_mnc_genlib.scripts.parse_wikipedia_tables:
 [tool.ruff]
 line-length = 79
 
+[tool.ruff.lint]
+ignore = ["ISC004"]
+
 [tool.ruff.format]
 quote-style = "single"
 
