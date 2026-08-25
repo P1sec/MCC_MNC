@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# source: https://github.com/P1sec/mcc_mnc
+# source: data aggregated from Wikipedia, The World Factbook, ITU-T and Egallic blog
 # license: produced by P1 Security, based on openly available data
 
 P1_CC2 = {
