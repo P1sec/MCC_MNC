@@ -394,7 +394,7 @@ SANC = ITUT_SANC_1293
 def gen_dict_ispc():
     """generates a dict of Internation Signaling Point Codes {SPC_383-num: SPC_infos}"""
     print('[+] generate ISPC dict')
-    R_383, R_dec = {}, {}
+    R_383, _R_dec = {}, {}
     for cntr, spcs in sorted(ITUT_SPC_1295.items()):
         for spc_info in spcs:
             if spc_info[0] in R_383:

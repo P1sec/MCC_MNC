@@ -454,7 +454,6 @@ def read_entry_mnc(T_MNC, off):
 def parse_table_mnc(T_MNC):
     L = []
     mcc = set()
-    mccmnc = {}
     #
     # get table title with country name
     title = T_MNC[1].getparent().getparent().getprevious()

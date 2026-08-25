@@ -495,7 +495,7 @@ def parse_mnc_upd_lines(lines, dbg=True):
     # return
     #
     mnclut, mnclist, rest = {}, [], []
-    cntr, rule, mnc, mno, mnc_empt = '', '', '', '', False
+    cntr, rule, mnc, _mno, mnc_empt = '', '', '', '', False
     # MNO line that appears before the rule keyword on the next line (newer bulletin format)
     pre_rule_mno = ''
     for line in lines:
