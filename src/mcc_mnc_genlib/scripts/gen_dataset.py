@@ -781,8 +781,7 @@ def generate_init(path_pre):
 
 
 def main():
-
-    URL_SRC = 'https://github.com/P1sec/mcc_mnc'
+    URL_SRC = 'data aggregated from Wikipedia, The World Factbook, ITU-T and Egallic blog'
     URL_LIC = 'produced by P1 Security, based on openly available data'
 
     generate_json(MNC, PATH_PRE + 'p1_mnc.json', [URL_SRC], URL_LIC)
