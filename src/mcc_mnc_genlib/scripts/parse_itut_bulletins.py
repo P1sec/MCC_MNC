@@ -98,7 +98,7 @@ def strip_footer(fn, dbg=True):
         bnum = fn.split('.')[1].split('-')[0]
         re1 = re.compile(r'No\. %s\s{0,}–\s{0,}[0-9]{1,}' % bnum)
         re2 = re.compile(r'Annex to ITU OB %s-E\s{0,}–\s{0,}[0-9]{1,}' % bnum)
-        for line in fd.readlines():
+        for line in fd:
             # starts or ends with:  No. 1111 – $page_number
             # Annex to ITU OB 1111-E
             if re1.search(line) or re2.search(line):
@@ -132,14 +132,12 @@ def dl_bull(bnum=1111, byear=2016, dbg=True, rmpdf=True):
             resp = urllib.request.urlopen(url)
         except urllib.error.HTTPError:
             return False
-    #
     if resp.code != 200:
         raise (
             Exception(
                 'resource %s not available, HTTP code %i' % (url, resp.code)
             )
         )
-    #
     with open(PATH_PRE + fn, 'wb') as fd:
         fd.write(resp.read())
         if dbg:
@@ -155,16 +153,12 @@ def dl_bull(bnum=1111, byear=2016, dbg=True, rmpdf=True):
                 print('> unable to convert pdf to text ; error %i' % err)
             else:
                 print('> converted pdf to text file %s.txt' % fn[:-3])
-        #
         if not err:
             # strip header line into the txt file
             strip_footer(PATH_PRE + fn[:-3] + 'txt', dbg=dbg)
-        #
         if rmpdf:
             os.remove(PATH_PRE + fn)
-        #
         return True
-    #
     raise (Exception('unable to write local file %s' % (PATH_PRE + fn,)))
 
 
@@ -174,7 +168,6 @@ def dl_bull_all(bnum=1111, dbg=False):
     """
     # start with bulletin 1111 from 2016
     byear = 2016
-    #
     while byear <= time.gmtime().tm_year:
         if dl_bull(bnum, byear, dbg=dbg):
             print(
@@ -228,11 +221,9 @@ def parse_mnc_list(fn=PATH_PRE + 'T-SP-OB.1162-2018-OAS-PDF-E.txt', dbg=False):
             print('> no MNC list found')
             return None
         txt = txt[beg.end() : end.start()].strip()
-        #
         return parse_mnc_lines(
             [l.rstrip() for l in txt.split('\n') if l.strip()], dbg
         )
-    #
     return None
 
 
@@ -291,21 +282,17 @@ RE_DESC = re.compile(r'\s{24,}(.*)$')
 
 
 def parse_mnc_lines(lines, dbg=True):
-    #
     R = {}
     mnos = []
     mno = []
     mnc = ''
     cntr = ''
     cntr_mult = 0
-    #
     for line in lines:
         if RE_MNC_LINE_IGNORE.match(line):
             continue
-        #
         if dbg:
             print(line)
-        #
         m = RE_COUNTRY.match(line)
         if m:
             _cntr = m.group()
@@ -318,7 +305,6 @@ def parse_mnc_lines(lines, dbg=True):
                     mno = []
                     mnc = ''
                     cntr = ''
-                #
                 _cntr_full = _get_cntr_mult(_cntr)
                 if _cntr_full:
                     # 1st line of a multiline country name
@@ -339,13 +325,10 @@ def parse_mnc_lines(lines, dbg=True):
             else:
                 # 1st country of the list
                 cntr = _cntr
-        #
         else:
             mnc = _parse_mnc_line(line, mnos, mno, mnc)
-    #
     assert cntr and mnos
     R[cntr] = mnos
-    #
     return R
 
 
@@ -376,7 +359,6 @@ def _parse_mnc_line(line, mnos, mno, mnc):
             assert mno
             mno.extend([None] * len(mno))
         return mnc
-    #
     m = RE_DESC.match(line)
     if m:
         _mno = m.group()
@@ -396,7 +378,6 @@ def _parse_mnc_line(line, mnos, mno, mnc):
             # one of the 1st line of a 3 lines or more declaration
             mno.append(_mno)
         return mnc
-    #
     assert ()
 
 
@@ -465,7 +446,6 @@ def parse_mnc_upd_list(
             txt = txt[: end.start()].strip()
         if dbg:
             print('> %s: MNC update list found' % fn)
-        #
         mncdecl = []
         for line in txt.split('\n'):
             if not line.strip():
@@ -480,7 +460,6 @@ def parse_mnc_upd_list(
                     break
             if ins:
                 mncdecl.append(line)
-        #
         mnclut = parse_mnc_upd_lines(mncdecl, dbg)
         if dbg:
             print('> %s: %i MNC records' % (fn, len(mnclut)))
@@ -519,7 +498,6 @@ def parse_mnc_upd_lines(lines, dbg=True):
     cntr, rule, mnc, mno, mnc_empt = '', '', '', '', False
     # MNO line that appears before the rule keyword on the next line (newer bulletin format)
     pre_rule_mno = ''
-    #
     for line in lines:
         m = RE_MNC_UPD_RULE.search(line)
         if m:
@@ -533,7 +511,6 @@ def parse_mnc_upd_lines(lines, dbg=True):
             line = line[m.end() :]
             if dbg:
                 print('>>> rule: %s %s' % (cntr, rule))
-        #
         m = RE_MNC_UPD_MNC.search(line)
         if m:
             assert rule and cntr
@@ -621,9 +598,7 @@ def _mnclist_to_mnclut(cntr, rule, mnclist, dbg):
 def parse_mnc_incr(start=1163, fnpre=PATH_PRE, dbg=False):
     mncd = {}
     for fn in sorted(os.listdir(fnpre)):
-        if not fn.startswith('T-SP-OB.'):
-            continue
-        elif int(fn[8:12]) < start:
+        if not fn.startswith('T-SP-OB.') or int(fn[8:12]) < start:
             continue
         mnclut = parse_mnc_upd_list(fnpre + fn, dbg=dbg)
         if not mnclut:
@@ -679,11 +654,9 @@ def parse_sanc_list(
             print('> no SANC list found, end')
             return None
         txt = txt[: end.start()].strip()
-        #
         return parse_sanc_lines(
             [l.strip() for l in txt.split('\n') if l.strip()], dbg
         )
-    #
     return None
 
 
@@ -704,14 +677,11 @@ RE_SANC = re.compile(r'([0-9]-[0-9]{3})\s{1,}(.*)', re.IGNORECASE)
 
 def parse_sanc_lines(lines, dbg=True):
     R = {}
-    #
     for line in lines:
         if RE_SANC_LINE_IGNORE.match(line):
             continue
-        #
         if dbg:
             print(line)
-        #
         m = RE_SANC.match(line)
         if m:
             sanc, cntr = m.groups()
@@ -719,7 +689,6 @@ def parse_sanc_lines(lines, dbg=True):
             R[sanc] = cntr
         else:
             assert len(line) == 0
-    #
     return R
 
 
@@ -762,11 +731,9 @@ def parse_spc_list(fn=PATH_PRE + 'T-SP-OB.1295-2024-OAS-PDF-E.txt', dbg=False):
             print('> no SPC list found, end')
             return None
         txt = txt[: end.start()].strip()
-        #
         return parse_spc_lines(
             [l[1:].rstrip() for l in txt.split('\n') if l.strip()], dbg
         )
-    #
     return None
 
 
@@ -798,14 +765,11 @@ def parse_spc_lines(lines, dbg=True):
     R = {}
     cntr = ''
     spcs = []
-    #
     for line in lines:
         if RE_SPC_LINE_IGNORE.match(line):
             continue
-        #
         if dbg:
             print(line)
-        #
         m = RE_COUNTRY.match(line)
         if m and not line[0:1].isdigit():
             # country name
@@ -813,10 +777,8 @@ def parse_spc_lines(lines, dbg=True):
                 R[cntr] = spcs
                 cntr = ''
                 spcs = []
-            #
             cntr = m.group()
             continue
-        #
         m = RE_ISPC.match(line)
         if m:
             # SPC
@@ -838,14 +800,12 @@ def parse_spc_lines(lines, dbg=True):
                     name_spc = ''
             spcs.append([spc, dec, name_spc, name_ope])
             continue
-        #
         if line.startswith(65 * ' '):
             # name_ope continuation
             assert spcs
             line = line.lstrip()
             spcs[-1][3] += ' %s' % line.rstrip()
             continue
-        #
         if line.startswith(20 * ' '):
             # name_spc continuation
             assert spcs
@@ -861,7 +821,6 @@ def parse_spc_lines(lines, dbg=True):
             continue
 
         assert ()
-    #
     R[cntr] = spcs
     return R
 
@@ -899,14 +858,12 @@ def main():
         help='produce a Python file listing all MNC and SPC (with suffix .py)',
     )
     args = parser.parse_args()
-    #
     if args.d:
         try:
             dl_bull_all(bnum=args.b, dbg=False)
         except Exception as err:
             print('> error occured during downloading: %r' % err)
             return 1
-    #
     try:
         MNC_1111 = parse_mnc_list(
             PATH_PRE + 'T-SP-OB.1111-2016-OAS-PDF-E.txt', dbg=False
@@ -936,7 +893,6 @@ def main():
     except Exception as err:
         print('> error occured during MNC incremental extraction: %r' % err)
         return 1
-    #
     if args.j:
         generate_json(
             MNC_1111,

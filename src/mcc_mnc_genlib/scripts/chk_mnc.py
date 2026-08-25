@@ -28,16 +28,13 @@
 # */
 
 
-import sys
 import argparse
+import sys
 
-#
-from mcc_mnc_lut.p1_mnc import P1_MNC
-from mcc_mnc_lut.p1_mcc import P1_MCC
-from mcc_mnc_lut.p1_cc2 import P1_CC2
-
-#
 from mcc_mnc_genlib.scripts.chk_cntr import print_cntr
+from mcc_mnc_lut.p1_cc2 import P1_CC2
+from mcc_mnc_lut.p1_mcc import P1_MCC
+from mcc_mnc_lut.p1_mnc import P1_MNC
 
 
 def print_mcc(mcc, cc2s, indent=''):
@@ -120,7 +117,7 @@ def main():
                     mncs = set()
                     for mcc_cntr_sin in mcc_cntr:
                         mncs.update(mcc_cntr_sin['mncs'])
-                    mncs = list(sorted(mncs))
+                    mncs = sorted(mncs)
                 else:
                     mncs = mcc_cntr['mncs']
                 for _mccmnc in mncs:
@@ -129,8 +126,7 @@ def main():
                 print('> unknown MCC-MNC: %s\n' % mccmnc)
             else:
                 print_mnos(mccmnc, args.x)
-            print('')
-    #
+            print()
     return 0
 
 

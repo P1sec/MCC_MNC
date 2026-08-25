@@ -78,17 +78,14 @@ COUNTRY_SPEC = {
         ],
         'sub_cc2': [],  # automatically filled from WIKIP_ISO3166, see patch_dataset.py
     },
-    #
     'Saint Martin': {
         'cc2': 'MF',
         'bord': ['Sint Maarten'],
     },
-    #
     'French Guiana': {
         'cc2': 'GF',
         'bord': ['Brazil', 'Suriname'],
     },
-    #
     'French Southern Territories': {
         'cc2': 'TF',
         'sub': [
@@ -113,7 +110,6 @@ COUNTRY_SPEC = {
         ],
         'sub_cc2': ['BL', 'GF', 'GP', 'MF', 'MQ'],
     },
-    #
     'French Departments and Territories in the Indian Ocean': {
         'url': 'https://en.wikipedia.org/wiki/List_of_French_islands_in_the_Indian_and_Pacific_oceans',
         'sub': ['Réunion', 'Mayotte'],
@@ -134,7 +130,6 @@ COUNTRY_SPEC = {
         'url': 'https://en.wikipedia.org/wiki/Abkhazia',
         'state_name': 'Republic of Abkhazia',
     },
-    #
     'Nagorno-Karabakh': {
         'cc2': 'QN',
         'url': 'https://en.wikipedia.org/wiki/Nagorno-Karabakh',
@@ -147,7 +142,6 @@ COUNTRY_SPEC = {
     'Kosovo': {
         'cc2': 'XK',
         'url': 'https://en.wikipedia.org/wiki/Kosovo',
-        #
         'cc_tld': '.xk',
         'cc_tld_url': 'https://en.wikipedia.org/wiki/.xk',
         'code_alpha_3': 'XKS',
@@ -174,13 +168,11 @@ COUNTRY_SPEC = {
         'sub': [],  # automatically filled from WIKIP_ISO3166, see patch_dataset.py
         'sub_cc2': [],  # automatically filled from WIKIP_ISO3166, see patch_dataset.py
     },
-    #
     'Bonaire, Saba and Sint Eustatius': {
         'cc2': 'BQ',
         'url': 'https://en.wikipedia.org/wiki/Caribbean_Netherlands',
         'sub': ['Bonaire', 'Saba', 'Sint Eustatius'],
     },
-    #
     'Sint Maarten': {
         'cc2': 'SX',
         'bord': ['Saint Martin'],
@@ -245,7 +237,6 @@ COUNTRY_SPEC = {
         'sub': ['Northern Cyprus'],
         'sub_cc2': ['CT'],
     },
-    #
     'Northern Cyprus': {
         'cc2': 'CT',
         'url': 'https://en.wikipedia.org/wiki/Northern_Cyprus',
@@ -265,40 +256,33 @@ COUNTRY_SPEC = {
             'AK',
         ],  # automatically filled from WIKIP_ISO3166, see patch_dataset.py
     },
-    #
     'Akrotiri and Dhekelia': {
         'cc2': 'AK',
         'sub': ['Akrotiri', 'Dhekelia'],
         'bord': ['Cyprus'],
         'state_name': 'Akrotiri',
     },
-    #
     'British Indian Ocean Territory': {
         'cc2': 'IO',
         'sub': ['Chagos Archipelago', 'Diego Garcia'],
     },
-    #
     'Gibraltar': {
         'cc2': 'GI',
         'bord': ['Spain'],
     },
-    #
     'Saint Helena, Ascension and Tristan da Cunha': {
         'cc2': 'SH',
         'sub': ['Saint Helena', 'Ascension', 'Tristan da Cunha'],
         'sub_cc2': ['AC', 'TA'],
     },
-    #
     'Ascension': {
         'cc2': 'AC',
         'url': 'https://en.wikipedia.org/wiki/Ascension_Island',
     },
-    #
     'Tristan da Cunha': {
         'cc2': 'TA',
         'url': 'https://en.wikipedia.org/wiki/Tristan_da_Cunha',
     },
-    #
     'South Georgia and the South Sandwich Islands': {
         'cc2': 'GS',
         'sub': ['South Georgia', 'South Sandwich Islands'],

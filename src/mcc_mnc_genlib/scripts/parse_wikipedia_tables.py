@@ -209,7 +209,6 @@ def _get_country_url(e):
 def read_entry_iso3166(T, off):
     L = T[off]
     rec = dict(REC_ISO3166)
-    #
     rec['country_name'], rec['country_url'] = _get_country_url(L[0])
     # Current layout: [country, sovereignty, alpha2, alpha3, num, regions, ccTLD]
     rec['state_name'] = ''
@@ -341,7 +340,6 @@ def parse_table_mcc():
             rec['mcc'] = '647'
             rec['mcc_url'] = L[-1]['mcc_url']
             rec['code_alpha_2'] = 'YT'
-        #
         if not full:
             if not rec['country_name']:
                 rec['country_name'] = L[-1]['country_name']
@@ -352,7 +350,6 @@ def parse_table_mcc():
                 rec['authority'] = L[-1]['authority']
             if not rec['notes'] and L[-1]['notes']:
                 rec['notes'] = L[-1]['notes']
-        #
         cc2.add(rec['code_alpha_2'])
         if rec['mcc'] in mcc:
             print(
@@ -366,7 +363,6 @@ def parse_table_mcc():
         else:
             mcc[rec['mcc']] = rec
         L.append(rec)
-    #
     L.sort(key=lambda r: (r['mcc'], r['code_alpha_2']))
     print(
         '[+] parsed %i MCC entries (%i unique MCC) for %i ISO-3166 country codes'
@@ -431,7 +427,6 @@ def read_entry_mnc_title(e):
     for code in codes:
         if len(code) != 2 or not code.isalpha():
             raise (Exception('invalid title format'))
-    #
     return name, url, sub, codes
 
 
@@ -449,7 +444,6 @@ def read_entry_mnc(T_MNC, off):
         rec['notes'] = _strip_wiki_refnote(
             _strip_wiki_ref(''.join(L[6].itertext()))
         )
-    #
     if len(rec['mcc']) > 3:
         # some HTML tab/ref in wikipedia may add the country name before the MCC
         rec['mcc'] = rec['mcc'][-3:]
@@ -466,7 +460,6 @@ def parse_table_mnc(T_MNC):
     # get table title with country name
     title = T_MNC[1].getparent().getparent().getprevious()
     country_infos = read_entry_mnc_title(title)
-    #
     for i in range(1, len(T_MNC)):
         if len(T_MNC[i]) < 6:
             continue
@@ -493,7 +486,6 @@ def parse_table_mnc(T_MNC):
                 '> invalid MCC MNC entry %s.%s, operator %s'
                 % (rec['mcc'], rec['mnc'], rec['operator'])
             )
-    #
     print(
         '[+] parsed %i MNC entries for MCC %s'
         % (len(L), ', '.join(sorted(mcc)))
@@ -543,7 +535,6 @@ def parse_table_mnc_all():
     mccmnc.update(_insert_mnc(D, parse_table_mnc(T_MCC[2][0])))
     # UK ocean territory
     mccmnc.update(_insert_mnc(D, parse_table_mnc(T_MCC[3][0])))
-    #
     for url in (
         URL_MNC_EU,
         URL_MNC_NA,
@@ -553,7 +544,7 @@ def parse_table_mnc_all():
         URL_MNC_SA,
     ):
         T_MNC = import_html_doc(url).xpath('//table')
-        for i in range(0, len(T_MNC)):
+        for i in range(len(T_MNC)):
             if not _is_mnc_table(T_MNC[i]):
                 continue
             try:
@@ -564,10 +555,8 @@ def parse_table_mnc_all():
                     % (url, i, err)
                 )
                 raise (err)
-    #
     for L in D.values():
         L.sort(key=lambda r: (r['mcc'], r['mnc']))
-    #
     print(
         '[+] %i MCC MNC entries for %i unique MCC MNC'
         % (sum(map(len, D.values())), len(mccmnc))
@@ -692,7 +681,6 @@ RE_WIKI_MSISDN_PREF = re.compile(
 def parse_table_msisdn_pref_alphaord(T):
     # parse the serving/code table, with {country_or_area: tuple(prefixes)}
     D = {}
-    #
     for L in T[2:]:
         if len(L) < 2:
             continue
@@ -704,7 +692,6 @@ def parse_table_msisdn_pref_alphaord(T):
         if not pref_list:
             continue
         D[name] = pref_list
-    #
     return D
 
 
@@ -808,7 +795,6 @@ def parse_table_msisdn_pref_locnocount(T):
     # parse the "Locations with no country code" table, with
     # {location name: (prefix, country, location_url)}
     D = {}
-    #
     for L in T[1:]:
         if len(L) < 3:
             continue
@@ -833,7 +819,6 @@ def parse_table_msisdn_pref_locnocount(T):
             cntr = name
         if name not in D:
             D[name] = (pref, cntr, url)
-    #
     return D
 
 
@@ -944,7 +929,7 @@ def _get_bord(e):
         title = a.attrib.get('title', '').strip()
         if title and title[0].isupper():
             b.add(_stripbordref(title))
-    return list(sorted(b))
+    return sorted(b)
 
 
 def _reconcile_bord(country_name, neigh):
@@ -957,7 +942,7 @@ def _reconcile_bord(country_name, neigh):
             continue
         if keep is None or keep in cur:
             cur.remove(drop)
-    return list(sorted(cur))
+    return sorted(cur)
 
 
 def _get_int(s):
@@ -993,7 +978,6 @@ def read_entry_borders(T, off):
         explore_text(L[2]).text.strip().replace(',', '').split('.')[0]
     )
     rec['neigh_num'] = _get_int(explore_text(L[4]).text.strip())
-    #
     if len(L[0]) >= 3 and len(L[0][2]) >= 2 and len(L[0][2][1]) >= 2:
         # get list of sub countries
         # listed after '→includes:'
@@ -1001,12 +985,10 @@ def read_entry_borders(T, off):
         if subc:
             subc.sort(key=lambda t: t[0])
             rec['country_sub'] = subc
-    #
     if len(L) >= 6:
         # get list of neighbours
 
         rec['neigh'] = _reconcile_bord(rec['country_name'], _get_bord(L[5]))
-        #
         if rec['country_name'] not in BORDER_ISSUE and rec['neigh_num'] != len(
             rec['neigh']
         ):
@@ -1014,7 +996,6 @@ def read_entry_borders(T, off):
                 '> border count mismatch for %s: expected %i, parsed %i'
                 % (rec['country_name'], rec['neigh_num'], len(rec['neigh']))
             )
-    #
     return rec
 
 
@@ -1128,7 +1109,6 @@ def main():
     D_iso, L_mcc, D_mnc, D_pref, D_count, D_terr, L_bord = get_wiki_infos()
     if D_iso is None:
         return 1
-    #
     if args.j:
         generate_json(
             D_iso,

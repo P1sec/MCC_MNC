@@ -28,26 +28,19 @@
 # */
 
 
-import sys
 import argparse
+import sys
 
-#
-from mcc_mnc_lut.p1_ispc import P1_ISPC
-from mcc_mnc_lut.p1_sanc import P1_SANC
+from mcc_mnc_genlib.core.patch_country_dep import COUNTRY_SPEC
+from mcc_mnc_genlib.scripts.chk_cntr import print_cntr
+from mcc_mnc_genlib.scripts.conv_pc_383 import conv_pc_383
 from mcc_mnc_lut.p1_cc2 import P1_CC2
 from mcc_mnc_lut.p1_cntr import P1_CNTR
-from mcc_mnc_lut.p1_terr import P1_TERR
-
-#
-from mcc_mnc_genlib.core.patch_country_dep import COUNTRY_SPEC
-
-#
-from mcc_mnc_genlib.scripts.conv_pc_383 import conv_pc_383
-from mcc_mnc_genlib.scripts.chk_cntr import print_cntr
+from mcc_mnc_lut.p1_ispc import P1_ISPC
+from mcc_mnc_lut.p1_sanc import P1_SANC
 
 
 def print_ispc(ispc, ext=0):
-    #
     if ispc in P1_ISPC:
         cntr, ope, uname, pcint = P1_ISPC[ispc]
     else:
@@ -58,7 +51,6 @@ def print_ispc(ispc, ext=0):
         pc_pref = '-'.join(ispc.split('-')[:2])
         cntr = P1_SANC.get(pc_pref, 'unknown')
     assert int(pcint) == conv_pc_383(ispc)
-    #
     print('> %s: International Signaling Point Code' % ispc)
     print('  PC integer    : %s' % pcint)
     print('  country       : %s' % cntr)
@@ -141,10 +133,8 @@ def main():
                         )
                         return 0
                     ispc = '%i-%.3i-%i' % (a, b, c)
-            #
             print_ispc(ispc, args.x)
-            print('')
-    #
+            print()
     return 0
 
 

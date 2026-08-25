@@ -29,12 +29,12 @@
 
 
 __all__ = [
-    'MNC',  # dict of MNC: operator infos
-    'MCC',  # dict of MCC: operators infos
-    'MSISDN',  # dict of MSISDN prefix: list of countries
-    'MSISDNEXT',  # dict of MSISDN prefix: list of countries and extra-territories
     'CC2',  # dict of CC2: country info
     'CNTR',  # dict of country: country info (values identical to CC2 dict, but different key)
+    'MCC',  # dict of MCC: operators infos
+    'MNC',  # dict of MNC: operator infos
+    'MSISDN',  # dict of MSISDN prefix: list of countries
+    'MSISDNEXT',  # dict of MSISDN prefix: list of countries and extra-territories
     'TERR',  # dict of territory (incl. country): neighbour info
 ]
 
@@ -139,7 +139,6 @@ def gen_dict_mnc():
     # 1) flatten the lists of MNC
     MNC = []
     [MNC.extend(mnc_list) for mnc_list in WIKIP_MNC.values()]
-    #
     for r in MNC:
         mno = {}
         mccmnc = r['mcc'] + r['mnc']
@@ -148,16 +147,14 @@ def gen_dict_mnc():
         mno['brand'] = name_norm(r['brand'])
         mno['operator'] = name_norm(r['operator'])
         mno['country'] = name_norm(r['country_name'])
-        mno['cc2s'] = list(sorted(r['codes_alpha_2']))
+        mno['cc2s'] = sorted(r['codes_alpha_2'])
         mno['src'] = 'Wikipedia'
-        #
         if mccmnc in R:
             # duplicate entry
             print('> merging MNOs with same MCC-MNC %s' % mccmnc)
             R[mccmnc] = mnc_merge(R[mccmnc], mno)
         else:
             R[mccmnc] = mno
-    #
     return R
 
 
@@ -182,7 +179,6 @@ def mnc_itut(cntr, mno, mccmnc):
             % (mccmnc, cntr)
         )
         cc2s = []
-    #
     return {
         'country': cntr,
         'bands': '',  # no info on bands
@@ -248,10 +244,7 @@ def gen_dict_mnc_compl():
                                 % (cc2, cntr, mccmnc)
                             )
                             MNC[mccmnc]['cc2s'].append(cc2)
-                            MNC[mccmnc]['cc2s'] = list(
-                                sorted(MNC[mccmnc]['cc2s'])
-                            )
-    #
+                            MNC[mccmnc]['cc2s'] = sorted(MNC[mccmnc]['cc2s'])
     return R
 
 
@@ -277,7 +270,6 @@ def gen_dict_mcc():
     """
     print('[+] generate MCC dict')
     R = {}
-    #
     for r in WIKIP_MCC:
         mcc = r['mcc']
         assert len(mcc) == 3 and mcc.isdigit()
@@ -297,8 +289,7 @@ def gen_dict_mcc():
                 else:
                     if inf['cc2'] in mno['cc2s']:
                         inf['mncs'].add(mccmnc)
-        inf['mncs'] = list(sorted(inf['mncs']))
-        #
+        inf['mncs'] = sorted(inf['mncs'])
         if mcc in R:
             if isinstance(R[mcc], list):
                 R[mcc].append(inf)
@@ -333,13 +324,11 @@ def gen_dict_mcc():
             R[mcc]['notes'] = 'international networks'
         else:
             print('> missing MCC %s' % mcc)
-        #
         for mccmnc in MNC:
             if mccmnc[:3] == mcc:
                 assert len(MNC[mccmnc]['cc2s']) == 0
                 R[mcc]['mncs'].append(mccmnc)
                 R[mcc]['mncs'].sort()
-    #
     return R
 
 
@@ -358,13 +347,11 @@ def gen_dict_msisdn():
     """
     print('[+] generate MSISDN dict')
     R, Rext = {}, {}
-    #
     for pref, listinf in WIKIP_MSISDN.items():
         if pref not in R:
             R[pref] = set()
         for cc2, name, url, urlpref in listinf:
             R[pref].add(name)
-    #
     for name, listpref in WIKIP_COUNTRY.items():
         for pref in listpref:
             if pref not in R:
@@ -373,7 +360,6 @@ def gen_dict_msisdn():
     #
     # copy R into Rext
     Rext = {pref: set(names) for pref, names in R.items()}
-    #
     for name, (pref, country, url) in WIKIP_TERRITORY.items():
         if pref not in Rext:
             print('> unknown prefix +%s for %s, %s' % (pref, name, country))
@@ -385,12 +371,10 @@ def gen_dict_msisdn():
             )
         # do not append the country, but only the territory name
         Rext[pref].add(name)
-    #
     for pref, countries in list(R.items()):
-        R[pref] = list(sorted(countries))
+        R[pref] = sorted(countries)
     for pref, countries in list(Rext.items()):
-        Rext[pref] = list(sorted(countries))
-    #
+        Rext[pref] = sorted(countries)
     return R, Rext
 
 
@@ -415,7 +399,6 @@ def gen_dict_ispc():
     """generates a dict of Internation Signaling Point Codes {SPC_383-num: SPC_infos}"""
     print('[+] generate ISPC dict')
     R_383, R_dec = {}, {}
-    #
     for cntr, spcs in sorted(ITUT_SPC_1295.items()):
         for spc_info in spcs:
             if spc_info[0] in R_383:
@@ -457,7 +440,6 @@ def gen_dict_cc2():
     """
     print('[+] generate CC2 dict')
     R = {}
-    #
     for cc2, infos in sorted(WIKIP_ISO3166.items()):
         D = {
             'cc2': cc2,
@@ -479,8 +461,7 @@ def gen_dict_cc2():
             else:
                 if mccinf['cc2'] == cc2:
                     mccset.add(mcc)
-        D['mcc'] = list(sorted(mccset))
-        #
+        D['mcc'] = sorted(mccset)
         for mccmnc, mno in MNC.items():
             if isinstance(mno, list):
                 for mno_s in mno:
@@ -493,15 +474,13 @@ def gen_dict_cc2():
                     D['mccmnc'].add(mccmnc)
                     if mccmnc[:3] in mccset:
                         mccset.remove(mccmnc[:3])
-        #
         if mccset:
             print(
                 '> CC2 %s, country %s, MCC %s unused'
                 % (cc2, D['name'], ', '.join(mccset))
             )
-        #
-        D['mcc'] = list(sorted(D['mcc']))
-        D['mccmnc'] = list(sorted(D['mccmnc']))
+        D['mcc'] = sorted(D['mcc'])
+        D['mccmnc'] = sorted(D['mccmnc'])
         #
         # 2) additional infos from Wikipedia
         # - nameset
@@ -529,52 +508,50 @@ def gen_dict_cc2():
                 codes['stan'] = wfb['stan']
             if wfb['cmt']:
                 geo['cmt'] = name_norm(wfb['cmt'])
-            if 'infos' in wfb and wfb['infos']:
+            if wfb.get('infos'):
                 geo['url_wfb'] = wfb['url']
                 if 'country_name' in wfb['infos']:
                     for v in wfb['infos']['country_name'].values():
                         nameset.update(country_name_canon(v))
-                #
                 wfbinf = wfb['infos']
                 # more info from WFB
-                if 'airports' in wfbinf and wfbinf['airports']:
+                if wfbinf.get('airports'):
                     geo['airports'] = wfbinf['airports']
-                if 'boundaries' in wfbinf and wfbinf['boundaries']:
+                if wfbinf.get('boundaries'):
                     geo['bound'] = wfbinf['boundaries']
-                if 'capital' in wfbinf and wfbinf['capital']:
+                if wfbinf.get('capital'):
                     geo['capital'] = wfbinf['capital']
-                if 'coastline' in wfbinf and wfbinf['coastline']:
+                if wfbinf.get('coastline'):
                     geo['coast'] = wfbinf['coastline']
-                if 'coord' in wfbinf and wfbinf['coord']:
+                if wfbinf.get('coord'):
                     geo['coord'] = wfbinf['coord']
-                if 'population' in wfbinf and wfbinf['population']:
+                if wfbinf.get('population'):
                     geo['popul'] = wfbinf['population']
-                if 'ports' in wfbinf and wfbinf['ports']:
+                if wfbinf.get('ports'):
                     geo['ports'] = wfbinf['ports']
-                if 'region' in wfbinf and wfbinf['region']:
+                if wfbinf.get('region'):
                     if len(wfbinf['region']) > 1:
                         geo['region'] = wfbinf['region'][0][1]
                     else:
                         geo['region'] = wfbinf['region'][0]
-                if 'subs_broadband' in wfbinf and wfbinf['subs_broadband']:
+                if wfbinf.get('subs_broadband'):
                     subs['bb'] = wfbinf['subs_broadband']
-                if 'subs_fixed' in wfbinf and wfbinf['subs_fixed']:
+                if wfbinf.get('subs_fixed'):
                     subs['fix'] = wfbinf['subs_fixed']
-                if 'subs_mobile' in wfbinf and wfbinf['subs_mobile']:
+                if wfbinf.get('subs_mobile'):
                     subs['mob'] = wfbinf['subs_mobile']
-                if 'users_internet' in wfbinf and wfbinf['users_internet']:
+                if wfbinf.get('users_internet'):
                     subs['internet'] = wfbinf['users_internet']
                 if subs:
                     tel['subs'] = subs
-                if 'telecom' in wfbinf and wfbinf['telecom']:
+                if wfbinf.get('telecom'):
                     tel.update(wfbinf['telecom'])
-        #
         if 'none' in nameset:
             nameset.remove('none')
         if '' in nameset:
             nameset.remove('')
         D['infos'] = {
-            'nameset': list(sorted(nameset)),
+            'nameset': sorted(nameset),
             'codes': codes,
             'geo': geo,
             'tel': tel,
@@ -600,12 +577,9 @@ def gen_dict_cc2():
                 '> MSISDN prefix: prefix not found for %s, %s'
                 % (cc2, D['name'])
             )
-        #
         R[cc2] = D
-    #
     for k, v in CC2_ALIAS.items():
         R[k] = R[v]
-    #
     return R
 
 
@@ -665,7 +639,6 @@ def gen_dict_terr():
     #
     # 2) add borders and neighbours
     WBORD = wikip_borders_todict(WIKIP_BORDERS)
-    #
     for name, inf in sorted(R.items()):
         bord, less30, less100 = set(), set(), set()
         #
@@ -715,7 +688,6 @@ def gen_dict_terr():
                     less30.add(n)
                 elif dist <= 100.0:
                     less100.add(n)
-            #
             bnew = mdb.difference(bord)
             if bnew:
                 bord.update(bnew)
@@ -723,17 +695,14 @@ def gen_dict_terr():
                     '> %s, emd has additional borders: %s'
                     % (name, ', '.join(sorted(bnew)))
                 )
-        #
         less30.difference_update(bord)
         less100.difference_update(less30)
         less100.difference_update(bord)
-        #
         inf['neigh'] = {
-            'bord': list(sorted(bord)),
-            'less30': list(sorted(less30)),
-            'less100': list(sorted(less100)),
+            'bord': sorted(bord),
+            'less30': sorted(less30),
+            'less100': sorted(less100),
         }
-    #
     return R
 
 
@@ -750,7 +719,6 @@ def complete_cc2():
             inf['dep'] = TERR[inf['name']]['dep']
         else:
             inf['dep'] = None
-    #
     for cc2, inf in CC2.items():
         if not inf['mcc'] and inf['dep']:
             # go check sovereign country for MCC

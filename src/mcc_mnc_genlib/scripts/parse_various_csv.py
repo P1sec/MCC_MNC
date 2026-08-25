@@ -60,7 +60,6 @@ URL_MIN_DIST = (
 
 
 def get_egal_min_dist():
-    #
     if not os.path.exists(PATH_PRE + 'csv_country_dist.csv'):
         resp = urllib.request.urlopen(URL_MIN_DIST)
         if resp.code != 200:
@@ -75,7 +74,6 @@ def get_egal_min_dist():
             # we better keep a local copy of it
             fd.write(resp.read().decode('utf-8'))
         print('> downloaded and stored to csv_country_dist.csv')
-    #
     with open(PATH_PRE + 'csv_country_dist.csv', encoding='utf-8') as fd:
         csv_lines = fd.readlines()
         if 'pays1' in csv_lines[0]:
@@ -99,7 +97,6 @@ def get_egal_min_dist():
                     % (dst, src)
                 )
             D[src][dst] = float(dist)
-        #
         print(
             '[+] parsed Egallic-related csv file with minimum distance between countries'
         )
@@ -133,7 +130,6 @@ def main():
     except Exception as err:
         print('> error occured: %s' % err)
         return 1
-    #
     if args.j:
         generate_json(
             DE,

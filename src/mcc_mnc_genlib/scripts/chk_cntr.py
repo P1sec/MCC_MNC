@@ -28,13 +28,12 @@
 # */
 
 
-import sys
 import argparse
+import sys
 
-#
-from mcc_mnc_lut.p1_terr import P1_TERR
-from mcc_mnc_lut.p1_cntr import P1_CNTR
 from mcc_mnc_lut.p1_cc2 import P1_CC2
+from mcc_mnc_lut.p1_cntr import P1_CNTR
+from mcc_mnc_lut.p1_terr import P1_TERR
 
 
 def printext_cntr(infos, ext=1, indent=''):
@@ -44,7 +43,6 @@ def printext_cntr(infos, ext=1, indent=''):
         print('%s  numeric code  : %s' % (indent, c['ccn']))
     except Exception:
         pass
-    #
     g = infos['geo']
     print('%s  Wold Factbook (geography):' % indent)
     try:
@@ -72,7 +70,6 @@ def printext_cntr(infos, ext=1, indent=''):
             print('%s    - %-16s: %s' % (indent, k, v))
     except Exception:
         pass
-    #
     t = infos['tel']
     print('%s  World Factbook (telecommunications):' % indent)
     try:
@@ -98,7 +95,7 @@ def printext_cntr(infos, ext=1, indent=''):
                 print('%s    %s (%i):' % (indent, tkey, t[tkey][-1]))
                 for l in t[tkey][:-1]:
                     print('%s      - %s' % (indent, l))
-        except Exception as err:
+        except Exception:
             pass
 
 
@@ -113,7 +110,6 @@ def print_cntr(cntr, dep=None, ext=0, indent=''):
         )
         neigh = P1_TERR[cntr]['neigh']
         cntr = dep
-    #
     print('%s  MCC           : %s' % (indent, ', '.join(cntr['mcc'])))
     print('%s  MSISDN prefix : +%s' % (indent, ', +'.join(cntr['msisdn'])))
     print('%s  url Wikipedia : %s' % (indent, cntr['url']))
@@ -124,10 +120,8 @@ def print_cntr(cntr, dep=None, ext=0, indent=''):
     print(
         '%s  neighbours (< 100km): %s' % (indent, ', '.join(neigh['less100']))
     )
-    #
     if cntr['dep']:
         print('%s  dependency    : %s' % (indent, cntr['dep']))
-    #
     try:
         print(
             '%s  url World Factbook  : %s'
@@ -146,7 +140,6 @@ def print_cntr(cntr, dep=None, ext=0, indent=''):
         )
     except Exception:
         pass
-    #
     if ext:
         printext_cntr(cntr['infos'], ext=ext, indent=indent)
     if ext > 1:
@@ -183,10 +176,10 @@ def main():
         for country in args.COUNTRY:
             if len(country) == 2 and country.upper() in P1_CC2:
                 print_cntr(P1_CC2[country.upper()], ext=args.x)
-                print('')
+                print()
             elif country in P1_CNTR:
                 print_cntr(P1_CNTR[country], ext=args.x)
-                print('')
+                print()
             else:
                 found = False
                 for name, inf in P1_CNTR.items():
@@ -205,8 +198,7 @@ def main():
                             break
                 if not found:
                     print('> unknown country: %s' % country)
-                print('')
-    #
+                print()
     return 0
 
 
