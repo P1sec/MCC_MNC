@@ -981,6 +981,8 @@ def _get_subcntr(ec):
 def read_entry_borders(T, off):
     L = T[off]
     rec = dict(REC_BORDERS)
+    rec['country_sub'] = []
+    rec['neigh'] = []
     #
     # rec['dbg']           = L
     rec['country_name'], rec['country_url'] = _get_country_url(L[0])
