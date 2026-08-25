@@ -57,7 +57,7 @@ source .venv/bin/activate
 
 The code from this repository that is used to generate the dataset, and the command-line tools, is licensed under the terms of the AGPLv3.
 The data downloaded from Wikipedia is licensed under the terms of the Creative Commons Attribution-ShareAlike license.
-The 3 other websites used as source do not indicate any specific licensing for the data provided however, we provide an explicit indication
+The 3 other websites used as sources do not indicate any specific licensing for the data they provide. However, we provide an explicit indication
 of the data sources used in each JSON and Python dictionnary.
 
 
