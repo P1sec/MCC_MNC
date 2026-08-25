@@ -705,12 +705,12 @@ TERR = gen_dict_terr()
 
 
 def complete_cc2():
-    for cc2, inf in CC2.items():
+    for inf in CC2.values():
         if inf['name'] in TERR and 'dep' in TERR[inf['name']]:
             inf['dep'] = TERR[inf['name']]['dep']
         else:
             inf['dep'] = None
-    for cc2, inf in CC2.items():
+    for inf in CC2.values():
         if not inf['mcc'] and inf['dep']:
             # go check sovereign country for MCC
             inf['mcc'].extend(CC2[inf['dep']]['mcc'])

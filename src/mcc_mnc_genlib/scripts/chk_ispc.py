@@ -61,7 +61,7 @@ def print_ispc(ispc, ext=0):
             print_cntr(P1_CNTR[cntr], ext=ext - 1, indent='  ')
         else:
             found = False
-            for name, inf in P1_CNTR.items():
+            for inf in P1_CNTR.values():
                 if cntr in inf['infos']['nameset']:
                     print_cntr(inf, ext=ext - 1, indent='  ')
                     found = True
