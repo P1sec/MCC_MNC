@@ -86,9 +86,7 @@ def get_egal_min_dist():
         # make it a dictionnary
         D = {}
         for n, src, dst, dist in csv.reader(csv_lines, delimiter=','):
-            src, dst, dist = map(
-                lambda t: t.replace('"', '').strip(), (src, dst, dist)
-            )
+            src, dst, dist = (t.replace('"', '').strip() for t in (src, dst, dist))
             if src not in D:
                 D[src] = {}
             elif dst in D[src]:

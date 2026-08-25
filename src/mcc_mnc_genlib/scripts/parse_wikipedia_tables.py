@@ -414,13 +414,9 @@ def read_entry_mnc_title(e):
         return name, url, sub, []
     codes = m.group(1)
     if '/' in codes:
-        codes = list(
-            map(lambda s: s.strip().upper(), sorted(codes.split('/')))
-        )
+        codes = [s.strip().upper() for s in sorted(codes.split('/'))]
     elif '-' in codes:
-        codes = list(
-            map(lambda s: s.strip().upper(), sorted(codes.split('-')))
-        )
+        codes = [s.strip().upper() for s in sorted(codes.split('-'))]
     else:
         codes = [codes]
     for code in codes:
