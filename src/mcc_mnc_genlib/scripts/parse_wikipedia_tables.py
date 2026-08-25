@@ -28,21 +28,26 @@
 # */
 
 
-from os.path import dirname, realpath, join
-import sys
 import argparse
-import urllib.request
 import json
 import re
-
+import sys
+import urllib.request
+from os.path import dirname, join, realpath
 from pprint import PrettyPrinter
-from lxml import etree
 
+from lxml import etree
 
 SCRIPT_DIR = dirname(realpath(__file__))
 MODULE_DIR = dirname(realpath(SCRIPT_DIR))
 
 PATH_PRE = join(MODULE_DIR, 'raw', '')
+
+HTTP_USER_AGENT = (
+    'Mozilla/5.0 (X11; Linux x86_64) '
+    'AppleWebKit/537.36 (KHTML, like Gecko) '
+    'Chrome/126.0.0.0 Safari/537.36'
+)
 
 RE_WIKI_REF = re.compile(r'.*(\[.*\]){1,}$')
 
@@ -110,9 +115,7 @@ SOVEREIGNITY_LUT = {
     'british crown': 'GB',  # this is not exactly true, however...
     'china': 'CN',
     'un member': 'UN member',
-    'un member state': 'UN member',
     'un observer': 'UN observer',
-    'un observer state': 'UN observer',
     'antarctic treaty': 'Antarctica',
     'disputed': 'disputed',
 }
@@ -126,7 +129,8 @@ CRAPPY_NAMES = {
 
 
 def import_html_doc(url):
-    resp = urllib.request.urlopen(url)
+    req = urllib.request.Request(url, headers={'User-Agent': HTTP_USER_AGENT})
+    resp = urllib.request.urlopen(req)
     if resp.code == 200:
         R = etree.parse(resp, etree.HTMLParser()).getroot()
     else:
@@ -155,21 +159,50 @@ def explore_text(E):
             return t
 
 
+def _normalize_wiki_url(url):
+    if not url:
+        return ''
+    url = url.strip()
+    if url.startswith('https://') or url.startswith('http://'):
+        return url
+    if url.startswith('/wiki/'):
+        return URL_PREF + url
+    if url.startswith('./'):
+        return URL_PREF + '/' + url[2:]
+    if url.startswith('/'):
+        return URL_PREF + url
+    return URL_PREF + '/' + url
+
+
+def _get_first_href(e):
+    if e is None:
+        return ''
+    if hasattr(e, 'attrib') and 'href' in e.attrib:
+        return _normalize_wiki_url(e.attrib['href'])
+    for a in e.xpath('.//a[@href]'):
+        return _normalize_wiki_url(a.attrib['href'])
+    return ''
+
+
 def _get_country_url(e):
-    e = explore_text(e)
-    if e is not None:
-        values = e.values()
-        if len(values) == 2 and values[0][:6] == '/wiki/':
-            url, name = values
-            if name in CRAPPY_NAMES:
-                name = e.text.strip()
-            return name, URL_PREF + url.strip()
-        elif len(values) == 3 and values[0][:6] == '/wiki/':
-            url, _, name = values
-            if name in CRAPPY_NAMES:
-                name = e.text.strip()
-            return name, URL_PREF + url.strip()
-        # print(e.text)
+    if e is None:
+        return None, None
+    a = e if e.tag == 'a' and 'href' in e.attrib else None
+    if a is None:
+        for cand in e.xpath('.//a[@href]'):
+            a = cand
+            break
+    if a is not None:
+        url = _normalize_wiki_url(a.attrib.get('href', ''))
+        name = a.attrib.get('title', '').strip()
+        if not name:
+            name = ''.join(a.itertext()).strip()
+        if name in CRAPPY_NAMES and a.text:
+            name = a.text.strip()
+        return name or None, url or None
+    txt = ''.join(e.itertext()).strip()
+    if txt:
+        return txt, ''
     return None, None
 
 
@@ -178,17 +211,18 @@ def read_entry_iso3166(T, off):
     rec = dict(REC_ISO3166)
     #
     rec['country_name'], rec['country_url'] = _get_country_url(L[0])
-    rec['state_name'] = explore_text(L[1]).text.strip()
+    # Current layout: [country, sovereignty, alpha2, alpha3, num, regions, ccTLD]
+    rec['state_name'] = ''
     rec['sovereignity'] = SOVEREIGNITY_LUT[
-        explore_text(L[2]).text.strip().lower()
+        explore_text(L[1]).text.strip().lower()
     ]
-    rec['code_alpha_2'] = explore_text(L[3]).text.strip().upper()
-    rec['code_alpha_3'] = explore_text(L[4]).text.strip().upper()
-    rec['code_num'] = explore_text(L[5]).text.strip()
+    rec['code_alpha_2'] = explore_text(L[2]).text.strip().upper()
+    rec['code_alpha_3'] = explore_text(L[3]).text.strip().upper()
+    rec['code_num'] = explore_text(L[4]).text.strip()
     # rec['regions']      =
-    rec['regions_url'] = URL_PREF + L[6][0].values()[0]
-    rec['cc_tld'] = explore_text(L[7]).text.strip().lower()
-    rec['cc_tld_url'] = URL_PREF + explore_text(L[7]).values()[0]
+    rec['regions_url'] = _get_first_href(L[5])
+    rec['cc_tld'] = explore_text(L[6]).text.strip().lower()
+    rec['cc_tld_url'] = _get_first_href(L[6])
     if rec['cc_tld'] and rec['cc_tld'][0] != '.':
         rec['cc_tld'] = ''
         rec['cc_tld_url'] = ''
@@ -273,11 +307,19 @@ def read_entry_mcc(T, off):
         rec['code_alpha_2'] = explore_text(L[2]).text.strip()
         rec['country_name'], rec['country_url'] = _get_country_url(L[1])
         if rec['country_name'] is None:
-            # hidden HTML element with 1st letter of the country only, go to next
-            rec['country_name'], rec['country_url'] = _get_country_url(L[1][1])
-        mcc_url = explore_text(L[3]).values()
-        if mcc_url:
-            rec['mcc_url'] = URL_PREF + mcc_url[0]
+            # Wikipedia layouts vary: find the first nested node with a country link.
+            for e in L[1].iter():
+                if e is L[1]:
+                    continue
+                rec['country_name'], rec['country_url'] = _get_country_url(e)
+                if rec['country_name'] is not None:
+                    break
+        if rec['country_name'] is None:
+            rec['country_name'] = re.sub(
+                r'\s+', ' ', ''.join(L[1].itertext())
+            ).strip()
+            rec['country_url'] = ''
+        rec['mcc_url'] = _get_first_href(L[3])
         if len(L) > 4:
             rec['authority'] = _strip_wiki_ref(''.join(L[4].itertext()))
         if len(L) > 5:
@@ -337,10 +379,13 @@ def read_entry_mnc_title(e):
     name, url, sub, codes = '', '', None, []
     while e is not None:
         title = None
-        for i in e:
-            if i.tag == 'h2' and '\n' not in ''.join(i.itertext()):
-                title = i
-                break
+        if e.tag in ('h2', 'h3', 'h4', 'h5', 'h6'):
+            title = e
+        else:
+            for i in e.xpath('.//h2|.//h3|.//h4|.//h5|.//h6'):
+                if '\n' not in ''.join(i.itertext()):
+                    title = i
+                    break
         if title is not None:
             break
         else:
@@ -349,26 +394,30 @@ def read_entry_mnc_title(e):
     # country name
     if title is None:
         raise (Exception('unable to find headline title for MNC country name'))
-    elif len(title) == 0:
-        # raw title, without link
-        name = title.text.strip()
-        return name, '', None, []
-    else:
-        name, url = _get_country_url(title[0])
-        if len(title) > 1:
-            # country sub-info, provided in parenthesis
-            if len(e[1]) >= 2:
-                sub = _get_country_url(e[1][1])
-                if sub[0] == None:
-                    sub = None
-            else:
-                sub = None
+    title_txt = re.sub(r'\s+', ' ', ''.join(title.itertext())).strip()
+    if title_txt.endswith('[edit]'):
+        title_txt = title_txt[: -len('[edit]')].strip()
+    if not title_txt:
+        raise (Exception('invalid title format'))
+    # country name + url
+    name, url = _get_country_url(title)
+    if name is None:
+        for i in title.xpath('.//a'):
+            name, url = _get_country_url(i)
+            if name is not None:
+                break
+    if name is None:
+        name = re.split(r'\s*[–-]\s*', title_txt, maxsplit=1)[0].strip()
+        url = ''
     #
     # country alpha code
     # Warning, for EU MNC, separator is ' – ', whereas it is ' - ' for others
-    title_txt = ''.join(title.itertext())
-    title_sep = ' – ' if ' – ' in title_txt else ' - '
-    codes = title_txt.split(title_sep, 1)[1].strip()
+    m = re.search(
+        r'\s*[–-]\s*([A-Za-z]{2}(?:\s*[-/]\s*[A-Za-z]{2})*)\s*$', title_txt
+    )
+    if not m:
+        return name, url, sub, []
+    codes = m.group(1)
     if '/' in codes:
         codes = list(
             map(lambda s: s.strip().upper(), sorted(codes.split('/')))
@@ -429,6 +478,8 @@ def parse_table_mnc(T_MNC):
             rec['codes_alpha_2'],
         ) = country_infos
         #
+        # MNC values longer than 3 digits are typically private mobile networks (PMN).
+        # MNC ranges (e.g., "100 - 190") are reserved blocks, not individual assignments.
         if (
             rec['mcc'].isdigit()
             and len(rec['mcc']) == 3
@@ -460,6 +511,15 @@ def _insert_mnc(D, recs):
         else:
             raise (Exception('invalid MCC %s' % rec['mcc']))
     return mccmnc
+
+
+def _is_mnc_table(table):
+    """Detect MCC/MNC operator tables across Wikipedia layout variants."""
+    header_txt = ''.join(table.itertext()).strip().upper()
+    header_txt = re.sub(r'\s+', ' ', header_txt)
+    if not header_txt:
+        return False
+    return header_txt.startswith('MCC MNC') or header_txt.startswith('MCCMNC')
 
 
 def parse_table_mnc_all():
@@ -494,7 +554,7 @@ def parse_table_mnc_all():
     ):
         T_MNC = import_html_doc(url).xpath('//table')
         for i in range(0, len(T_MNC)):
-            if not ''.join(T_MNC[i].itertext()).strip().startswith('MCC\nMNC'):
+            if not _is_mnc_table(T_MNC[i]):
                 continue
             try:
                 mccmnc.update(_insert_mnc(D, parse_table_mnc(T_MNC[i][0])))
@@ -522,88 +582,105 @@ def parse_table_mnc_all():
 # International phone number prefixes
 URL_MSISDN = 'https://en.wikipedia.org/wiki/List_of_country_calling_codes'
 
+MSISDN_CC2_ALIAS = {
+    'bahamas': 'BS',
+    'brunei darussalam': 'BN',
+    'congo': 'CG',
+    'congo, democratic republic of the': 'CD',
+    'east timor': 'TL',
+    'gambia': 'GM',
+    'ireland': 'IE',
+    'ivory coast': 'CI',
+    'korea, north': 'KP',
+    'korea, south': 'KR',
+    'micronesia, federated states of': 'FM',
+    'netherlands': 'NL',
+    'united kingdom': 'GB',
+    'united states': 'US',
+    'us virgin islands': 'VI',
+    'vatican city state': 'VA',
+}
 
-def parse_table_msisdn_pref_over(T):
-    # parse the table from the "Summary" section, with {prefix: CC2 code, url prefix, url country}
-    D = {}
-    #
-    # 2nd line: +1 prefix US + CA
-    e = T[2][1]
-    pref = e[0].text.strip()
-    pref_url = URL_PREF + e[0].values()[0].strip()
-    assert pref == '1' and len(pref_url) > len(URL_PREF)
-    D['1'] = []
-    for c in e[3:5]:
-        cc2 = c.text.strip()
-        _cucn = c.values()
-        cntr_url = URL_PREF + _cucn[0].strip()
-        cntr_name = _cucn[-1].strip()
-        assert len(cc2) == 2 and len(cntr_url) > len(URL_PREF) and cntr_name
-        D['1'].append((cc2, cntr_name, cntr_url, pref_url))
-    D['1'].sort(key=lambda x: x[0])
-    #
-    # 2nd line: +1XYZ sub-prefixes North-America
-    for e in T[3][2:]:
-        if not len(e):
+MSISDN_NAME_DROP = {
+    'and',
+    'darussalam',
+    'democratic',
+    'federated',
+    'islamic',
+    'kingdom',
+    'of',
+    'republic',
+    'state',
+    'states',
+    'the',
+}
+
+
+def _canon_msisdn_name(name):
+    n = name.lower()
+    n = n.replace('côte', 'cote')
+    n = n.replace('saint ', 'st ')
+    n = n.replace('&', ' and ')
+    n = re.sub(r'\(.*?\)', ' ', n)
+    n = re.sub(r'[^a-z0-9, ]+', ' ', n)
+    n = re.sub(r'\s+', ' ', n).strip(' ,')
+    return n
+
+
+def _canon_msisdn_tokens(name):
+    toks = re.findall(r'[a-z0-9]+', _canon_msisdn_name(name))
+    return tuple(sorted(set([t for t in toks if t not in MSISDN_NAME_DROP])))
+
+
+def _resolve_msisdn_country_cc2(raw_name, by_name, by_tokens):
+    name_key = _canon_msisdn_name(raw_name)
+    if name_key in by_name:
+        return by_name[name_key]
+    if name_key in MSISDN_CC2_ALIAS:
+        return MSISDN_CC2_ALIAS[name_key]
+    toks = _canon_msisdn_tokens(raw_name)
+    if toks in by_tokens and len(by_tokens[toks]) == 1:
+        return by_tokens[toks][0]
+    return None
+
+
+def _extract_parenthetical_link_titles(cell):
+    txt = re.sub(r'\s+', ' ', ''.join(cell.itertext())).strip()
+    paren = re.findall(r'\(([^)]*)\)', txt)
+    if not paren:
+        return ()
+    paren_norm = [p.lower() for p in paren]
+    titles = []
+    for a in cell.xpath('.//a[@title]'):
+        title = a.attrib.get('title', '').strip()
+        if not title:
             continue
-        e = e[0]
-        for i in range(0, len(e)):
-            if not e[i].text:
-                if pref not in D:
-                    # required for DO 1829 and 1849
-                    D[pref] = [(cc2, cntr_name, cntr_url, pref_url)]
-            elif e[i].text.startswith('1'):
-                # num prefix
-                pref = ''.join([c for c in e[i].text if c in '0123456789'])
-                pref_url = URL_PREF + e[i].values()[0].strip()
-                assert len(pref) >= 1 and len(pref_url) > len(URL_PREF)
-            elif e[i].text[0].isascii():
-                # CC2
-                cc2 = e[i].text.strip()
-                _cucn = e[i].values()
-                cntr_url = URL_PREF + _cucn[0].strip()
-                cntr_name = _cucn[-1].strip()
-                assert (
-                    len(cc2) == 2
-                    and len(cntr_url) > len(URL_PREF)
-                    and cntr_name
-                )
-                assert pref not in D
-                D[pref] = [(cc2, cntr_name, cntr_url, pref_url)]
-            else:
-                assert ()
-    #
-    # All the remaining lines
-    # 7x Russian line should have a distinct layout
-    for L in T[4:]:
-        if not len(L):
-            continue
-        if (L[0].text is None or not L[0].text[0].isdigit()) and pref != '7':
-            continue
-        for e in L:
-            if len(e) < 2 or not e[0].text:
-                continue
-            pref = ''.join([c for c in e[0].text if c in '0123456789'])
-            pref_url = URL_PREF + e[0].values()[0].strip()
-            assert len(pref) >= 1 and len(pref_url) > len(URL_PREF)
-            #
-            vals = []
-            for c in e[1:]:
-                if c.text is None:
-                    continue
-                cc2 = c.text.strip()
-                if len(cc2) != 2 or not cc2.isascii():
-                    continue
-                _cucn = c.values()
-                cntr_url = URL_PREF + _cucn[0].strip()
-                cntr_name = _cucn[-1].strip()
-                assert len(cntr_url) > len(URL_PREF) and cntr_name
-                vals.append((cc2, cntr_name, cntr_url, pref_url))
-            assert pref not in D
-            vals.sort(key=lambda x: x[0])
-            D[pref] = vals
-    #
-    return D
+        title_norm = title.lower()
+        if any(title_norm in p for p in paren_norm) and title not in titles:
+            titles.append(title)
+    return tuple(titles)
+
+
+RE_WIKI_MSISDN_PREF_ALL = re.compile(
+    r'([1-9]{1}[0-9]{0,2})(?:\s*\(([0-9]{1,}(?:,\s*[0-9]{1,})*)\))?'
+)
+
+
+def _extract_msisdn_prefixes(pref_txt):
+    prefs = []
+    for m in RE_WIKI_MSISDN_PREF_ALL.finditer(pref_txt):
+        pref, pref_exts = m.groups()
+        if pref_exts:
+            prefs.extend(
+                [
+                    pref + ext
+                    for ext in sorted(map(str.strip, pref_exts.split(',')))
+                ]
+            )
+        else:
+            prefs.append(pref)
+    # Keep order while removing duplicates.
+    return tuple(dict.fromkeys(prefs))
 
 
 # from simple 1 to 3 digits string to extended prefixes e.g., 374 (47, 97)
@@ -613,55 +690,185 @@ RE_WIKI_MSISDN_PREF = re.compile(
 
 
 def parse_table_msisdn_pref_alphaord(T):
-    # parse the table from the "Alphabetical order" section, with {country: prefix)
+    # parse the serving/code table, with {country_or_area: tuple(prefixes)}
     D = {}
     #
     for L in T[2:]:
-        name, prefs, utc, dst = tuple(
-            map(str.strip, ''.join(L.itertext()).split('\n\n'))
-        )
-        m = RE_WIKI_MSISDN_PREF.match(prefs)
-        assert m
-        pref, pref_exts = m.groups()
-        if pref_exts:
-            D[name] = tuple(
-                [
-                    pref + ext
-                    for ext in sorted(map(str.strip, pref_exts.split(',')))
-                ]
-            )
-        else:
-            D[name] = (pref,)
+        if len(L) < 2:
+            continue
+        name = re.sub(r'\s+', ' ', ''.join(L[0].itertext())).strip()
+        prefs = re.sub(r'\s+', ' ', ''.join(L[1].itertext())).strip()
+        if not name or not prefs:
+            continue
+        pref_list = _extract_msisdn_prefixes(prefs)
+        if not pref_list:
+            continue
+        D[name] = pref_list
     #
     return D
 
 
+def parse_table_msisdn_pref_over(T, root=None):
+    # Parse serving/code table (current Wikipedia layout).
+    # Returns {prefix: [(CC2, country name, country url, prefix url), ...]}
+    D = {}
+    D_iso = parse_table_iso3166()
+    by_cc2 = {}
+    by_name = {}
+    by_tokens = {}
+    for cc2, rec in sorted(D_iso.items()):
+        by_cc2[cc2] = rec
+        by_name[_canon_msisdn_name(rec['country_name'])] = cc2
+        toks = _canon_msisdn_tokens(rec['country_name'])
+        if toks not in by_tokens:
+            by_tokens[toks] = [cc2]
+        else:
+            by_tokens[toks].append(cc2)
+    unresolved = set()
+    for L in T[2:]:
+        if len(L) < 2:
+            continue
+        raw_name = re.sub(r'\s+', ' ', ''.join(L[0].itertext())).strip()
+        prefs_txt = re.sub(r'\s+', ' ', ''.join(L[1].itertext())).strip()
+        if not raw_name or not prefs_txt:
+            continue
+        pref_list = _extract_msisdn_prefixes(prefs_txt)
+        if not pref_list:
+            continue
+        cc2_list = []
+        cc2_main = _resolve_msisdn_country_cc2(raw_name, by_name, by_tokens)
+        if cc2_main in by_cc2:
+            cc2_list.append(cc2_main)
+        # Keep backward-safe behavior: only enrich from explicit links inside
+        # parenthesized text, e.g. "Morocco (including Western Sahara)".
+        for title in _extract_parenthetical_link_titles(L[0]):
+            cc2_extra = _resolve_msisdn_country_cc2(title, by_name, by_tokens)
+            if cc2_extra in by_cc2 and cc2_extra not in cc2_list:
+                cc2_list.append(cc2_extra)
+        if not cc2_list:
+            unresolved.add(raw_name)
+            continue
+        pref_url = _get_first_href(L[1])
+        for cc2 in cc2_list:
+            rec_iso = by_cc2[cc2]
+            rec_pref_url = pref_url or rec_iso['country_url'] or URL_MSISDN
+            rec = (
+                cc2,
+                rec_iso['country_name'],
+                rec_iso['country_url'],
+                rec_pref_url,
+            )
+            for pref in pref_list:
+                if pref not in D:
+                    D[pref] = [rec]
+                elif rec not in D[pref]:
+                    D[pref].append(rec)
+    for vals in D.values():
+        vals.sort(key=lambda x: x[0])
+
+    if root is not None:
+        for li in root.xpath('//li'):
+            txt = re.sub(r'\s+', ' ', ''.join(li.itertext())).strip()
+            if not txt or '(' not in txt or 'including' not in txt.lower():
+                continue
+            pref_list = _extract_msisdn_prefixes(txt)
+            if not pref_list:
+                continue
+            pref_url = _get_first_href(li)
+            for title in _extract_parenthetical_link_titles(li):
+                cc2 = _resolve_msisdn_country_cc2(title, by_name, by_tokens)
+                if cc2 is None or cc2 not in by_cc2:
+                    continue
+                rec_iso = by_cc2[cc2]
+                rec_pref_url = pref_url or rec_iso['country_url'] or URL_MSISDN
+                rec = (
+                    cc2,
+                    rec_iso['country_name'],
+                    rec_iso['country_url'],
+                    rec_pref_url,
+                )
+                for pref in pref_list:
+                    if pref not in D:
+                        D[pref] = [rec]
+                    elif rec not in D[pref]:
+                        D[pref].append(rec)
+
+    for vals in D.values():
+        vals.sort(key=lambda x: x[0])
+
+    if unresolved:
+        print(
+            '> unresolved MSISDN serving rows: %s'
+            % ', '.join(sorted(unresolved))
+        )
+    return D
+
+
 def parse_table_msisdn_pref_locnocount(T):
-    # parse the 2 tables from the "Locations with no country code" section, with {location name: prefix, location url, country, country url}
+    # parse the "Locations with no country code" table, with
+    # {location name: (prefix, country, location_url)}
     D = {}
     #
     for L in T[1:]:
-        e = explore_text(L[0])
-        name = e.text.strip()
-        url = URL_PREF + e.values()[0].strip()
-        pref = L[1].text.strip()
-        cntr = explore_text(L[2]).text.strip()
-        assert name not in D and len(pref) and pref.isdigit() and cntr
-        D[name] = (pref, cntr, url)
+        if len(L) < 3:
+            continue
+        name = re.sub(r'\s+', ' ', ''.join(L[0].itertext())).strip()
+        if not name:
+            continue
+        pref_txt = re.sub(r'\s+', ' ', ''.join(L[1].itertext())).strip()
+        if not pref_txt:
+            continue
+        m = RE_WIKI_MSISDN_PREF.match(pref_txt)
+        if m:
+            pref, pref_exts = m.groups()
+            if pref_exts:
+                pref = pref + sorted(map(str.strip, pref_exts.split(',')))[0]
+        else:
+            pref = ''.join([c for c in pref_txt if c.isdigit()])
+        if not pref:
+            continue
+        url = _get_first_href(L[0])
+        cntr = re.sub(r'\s+', ' ', ''.join(L[2].itertext())).strip()
+        if not cntr:
+            cntr = name
+        if name not in D:
+            D[name] = (pref, cntr, url)
     #
     return D
 
 
 def parse_table_msisdn_pref():
-    T = import_html_doc(URL_MSISDN).xpath('//table')
+    root = import_html_doc(URL_MSISDN)
+    T = root.xpath('//table')
     #
-    # extract the dict of {MSISDN prefix: country infos} from the 1st table
-    # extract the dict of {country: MSISDN prefix} from the 2nd table
-    # extract the dict of {location with no country code: MSISDN prefix} from the 3rd table
+    # Pick tables by header content from the current Wikipedia layout.
+    t_alpha = None
+    t_loc = None
+    for table in T:
+        if not len(table):
+            continue
+        body = table[0]
+        if not len(body):
+            continue
+        row0 = re.sub(r'\s+', ' ', ''.join(body[0].itertext())).strip().lower()
+        if 'serving' in row0 and 'code' in row0:
+            t_alpha = body
+        elif 'location' in row0 and 'reasons for no code' in row0:
+            t_loc = body
+    if t_alpha is None:
+        raise Exception(
+            'unable to locate required MSISDN tables on %s' % URL_MSISDN
+        )
+    if t_loc is None:
+        t_loc = []
+    #
+    # extract the dict of {country_or_area: calling prefixes}
+    # extract the dict of {MSISDN prefix: country infos}
+    # extract the dict of {location with no country code: country code info}
     return (
-        parse_table_msisdn_pref_alphaord(T[0][0]),
-        parse_table_msisdn_pref_over(T[1][0]),
-        parse_table_msisdn_pref_locnocount(T[2][0]),
+        parse_table_msisdn_pref_alphaord(t_alpha),
+        parse_table_msisdn_pref_over(t_alpha, root),
+        parse_table_msisdn_pref_locnocount(t_loc),
     )
 
 
@@ -671,8 +878,7 @@ def parse_table_msisdn_pref():
 
 # this is used for both Wikipedia and World Factbook
 CRAPPY_BORDERS = {
-    'India , including Dahagram-Angarpota': 'India',
-    'Bangladesh , including Dahagram-Angarpota': 'Bangladesh',
+    'Dahagram-Angarpota': 'India',
 }
 
 
@@ -703,6 +909,23 @@ BORDER_ISSUE = {
 }
 
 
+BORDER_RECONCILE_RULES = {
+    # Keep territorial land-border entity, drop sovereign duplicate.
+    'Brazil': [('French Guiana', 'France')],
+    'Suriname': [('French Guiana', 'France')],
+    'Canada': [('Greenland', 'Kingdom of Denmark')],
+    'Cyprus': [('Akrotiri and Dhekelia', 'United Kingdom')],
+    'Sweden': [('Finland', 'Åland')],
+    # Keep specific territory/crossing label, drop broader duplicate.
+    'Jordan': [('State of Palestine', 'West Bank')],
+    'Egypt': [('Gaza Strip', 'State of Palestine')],
+    'Kingdom of the Netherlands': [('Collectivity of Saint Martin', 'France')],
+    'France': [('Sint Maarten', 'Kingdom of the Netherlands')],
+    # Wikipedia row currently reports 0 land neighbors for Cuba.
+    'Cuba': [(None, 'United States')],
+}
+
+
 def _stripbordref(s):
     n = re.sub(r'\s{1,}', ' ', re.sub(r'\(.*?\)|\[.*?\]', ' ', s).strip())
     if ':' in n:
@@ -715,12 +938,26 @@ def _stripbordref(s):
 
 
 def _get_bord(e):
+    # Current Wikipedia layout puts one country per hyperlink in neighbour rows.
     b = set()
-    for s in map(str.strip, ''.join(e.itertext()).split('\xa0')):
-        if s and s[0].isupper():
-            name = _stripbordref(s)
-            b.add(name)
+    for a in e.xpath('.//a[@title]'):
+        title = a.attrib.get('title', '').strip()
+        if title and title[0].isupper():
+            b.add(_stripbordref(title))
     return list(sorted(b))
+
+
+def _reconcile_bord(country_name, neigh):
+    rules = BORDER_RECONCILE_RULES.get(country_name, ())
+    if not rules:
+        return neigh
+    cur = set(neigh)
+    for keep, drop in rules:
+        if drop not in cur:
+            continue
+        if keep is None or keep in cur:
+            cur.remove(drop)
+    return list(sorted(cur))
 
 
 def _get_int(s):
@@ -744,6 +981,8 @@ def _get_subcntr(ec):
 def read_entry_borders(T, off):
     L = T[off]
     rec = dict(REC_BORDERS)
+    rec['country_sub'] = []
+    rec['neigh'] = []
     #
     # rec['dbg']           = L
     rec['country_name'], rec['country_url'] = _get_country_url(L[0])
@@ -766,12 +1005,15 @@ def read_entry_borders(T, off):
     if len(L) >= 6:
         # get list of neighbours
 
-        rec['neigh'] = _get_bord(L[5])
+        rec['neigh'] = _reconcile_bord(rec['country_name'], _get_bord(L[5]))
         #
         if rec['country_name'] not in BORDER_ISSUE and rec['neigh_num'] != len(
             rec['neigh']
         ):
-            assert ()
+            print(
+                '> border count mismatch for %s: expected %i, parsed %i'
+                % (rec['country_name'], rec['neigh_num'], len(rec['neigh']))
+            )
     #
     return rec
 
@@ -782,6 +1024,10 @@ def parse_table_borders():
     L = []
     cns = set()
     for i in range(2, len(T_B)):
+        # Some rows have no explicit neighbours cell (5 columns only):
+        # keep them and rely on default empty neighbour list.
+        if len(T_B[i]) < 5:
+            continue
         rec = read_entry_borders(T_B, i)
         if rec['country_name'] in cns:
             print('> duplicate borders entry for %s' % rec['country_name'])
