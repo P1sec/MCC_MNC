@@ -1,0 +1,845 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1309              1.II.2025                  (Information received by 15 January 2025) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                3
+Approval of ITU-T Recommendations.............................................................................................................                      4
+Telephone Service:
+     Denmark (Agency for Digital Government, Copenhagen).........................................................................                                   5
+     Myanmar (Ministry of Transport and Communications, Nay Pyi Taw) .....................................................                                          7
+     Oman (Oman Telecommunications Regulatory Authority (TRA), Ruwi) ...................................................                                            8
+     United Kingdom (Office of Communications (Ofcom), London)................................................................                                      9
+     Zambia (Zambia Information & Communications Technology Authority (ZICTA), Lusaka) .......................                                                     11
+Service Restrictions .........................................................................................................................................     13
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                13
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V)...........................................                                         14
+List of Issuer Identifier Numbers ....................................................................................................................             14
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................         16
+List of ITU Carrier Codes ................................................................................................................................         18
+List of International Signalling Point Codes (ISPC) ..........................................................................................                     19
+National Numbering Plan ...............................................................................................................................            20
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1310             15.II.2025             31.I.2025
+               1311              1.III.2025            14.II.2025
+               1312             15.III.2025            28.II.2025
+               1313              1.IV.2025             15.III.2025
+               1314             15.IV.2025             31.III.2025
+               1315              1.V.2025              11.IV.2025
+               1316             15.V.2025              30.IV.2025
+               1317              1.VI.2025             15.V.2025
+               1318             15.VI.2025             31.V.2025
+               1319             1.VII.2025             13.VI.2025
+               1320             15.VII.2025            30.VI.2025
+               1321             1.VIII.2025            8.VII.2025
+               1322            15.VIII.2025           25.VII.2025
+               1323              1.IX.2025            15.VIII.2025
+               1324             15.IX.2025            29.VIII.2025
+               1325              1.X.2025              12.IX.2025
+               1326             15.X.2025              30.IX.2025
+               1327              1.XI.2025             15.X.2025
+               1328             15.XI.2025             31.X.2025
+               1329             1.XII.2025             14.XI.2025
+               1330             15.XII.2025            28.XI.2025
+               1331              1.I.2026              5.XII.2025
+               1332              15.I.2026             17.XII.2025
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                               Approval of ITU-T Recommendations
+By AAP-05, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.971 (12/2024): General features of optical fibre submarine cable systems
+
+
+
+
+                                            Telephone Service
+                                       (Recommendation ITU-T E.164)
+                                               url: www.itu.int/itu-t/inr/nnp
+
+Denmark (country code +45)
+Communication of 10.I.2025:
+The Agency for Digital Government, Copenhagen, announces the following updates to the national numbering plan of
+Denmark:
+•     Withdrawals
+
+
+    Type                       Numbering resource                Provider                         Date of withdrawal
+                               96673fgh, 96792fgh, 59129fgh,     TDC Net A/S                      30 September 2024
+                               65152fgh, 65653fgh, 73579fgh,
+                               44214fgh, 44583fgh, 32652fgh,
+                               32655fgh, 32657fgh, 32659fgh,
+    Fixed communication        86758fgh, 73867fgh, 73940fgh,
+                               55938fgh, 54987fgh, 76886fgh,
+                               76931fgh, 76932fgh, 76935fgh,
+                               76936fgh, 76937fgh, 76938fgh,
+                               89462fgh, 36857fgh, 43946fgh
+
+
+    Type                       Numbering resource                Provider                         Date of withdrawal
+    NSPC                       NSPC4-11-32, NSPC4-11-33,         Syniverse Techn. Messaging ApS   31 December 2024
+                               NSPC4-11-34, NSPC4-11-35,
+                               NSPC4-11-36, NSPC4-11-37
+
+
+    Type                       Numbering resource                Provider                         Date of withdrawal
+                               54363fgh, 54364fgh, 54365fgh,     Firstcom Europe A/S              30 September 2024
+                               54366fgh, 54367fgh, 54368fgh,
+                               54369fgh
+                               6930efgh                          Alka Fordele A/S                 31 October 2024
+                               81379fgh, 3576efgh, 49817fgh,     Greenwave Mobile IoT ApS         6 November 2024
+    Mobile communication
+                               49819fgh, 66334fgh, 66335fgh,
+                               66337fgh, 92290fgh, 92291fgh,
+                               92293fgh
+                               93310fgh, 93311fgh                ACN Danmark A/S                  19 December 2024
+                               6099efgh, 5061efgh                Syniverse Techn. Messaging ApS   31 December 2024
+
+
+    Type                       Numbering resource                Provider                         Date of withdrawal
+    MNC                        MNC03                             Syniverse Techn. Messaging ApS   31 December 2024
+
+
+
+
+•     Assignments
+
+
+    Type                       Numbering resource              Provider                        Date of assignment
+                               34340fgh, 34341fgh. 34342fgh,   Maxtel.dk ApS                   1 July 2024
+                               34344fgh, 34345fgh, 34346fgh,
+    Fixed communication        34347fgh, 34348fgh, 34349fgh
+                               6918efgh                        Flexfone A/S                    15 October 2024
+
+
+    Type                       Numbering resource              Provider                        Date of assignment
+                               3621efgh                        Hi3G Denmark ApS                26 July 2024
+                               6646efgh                        IPNORDIC A/S                    26 July 2024
+                               4884efgh                        Flexfone A/S                    15 October 2024
+    Mobile communication       6930efgh                        Telia Mobil Danmark A/S         1 November 2024
+                               4315efgh                        Telenabler ApS                  6 December 2024
+                               29758fgh, 29964fgh, 51696fgh,   Telco Tribe                     6 December 2024
+                               61219fgh, 61529fgh
+
+
+    Type                       Numbering resource              Provider                         Date of
+                                                                                                assignment
+    MNC for testing purposes   MNC95                           DANSK                            1 October 2024
+                                                               BEREDSKABSKOMMUNIKATION
+
+
+    Type                       Numbering resource              Provider                        Date of assignment
+                               37100676ijkl, 37100679ijkl      FASTSPEED A/S                   1 July 2024
+                               37100628ijkl; 37100629ijkl;     Nexcon.io ApS                   1 October 2024
+                               37100635ijkl; 37100636ijkl;
+                               37100637ijkl; 37100638ijkl;
+                               37100639ijkl; 37100640ijkl;
+                               37100641ijkl; 37100642ijkl;
+    12-digit M2M numbers       37100643ijkl; 37100644ijkl;
+                               37100645ijkl; 37100646ijkl;
+                               37100647ijkl; 37100648ijkl;
+                               37100649ijkl; 37100650ijkl;
+                               37100651ijkl; 37100652ijkl;
+                               37100653ijkl; 37100656ijkl;
+                               37100657ijkl; 37100710ijkl;
+                               37100711ijkl
+
+
+Contact:
+      Agency for Digital Government
+      Landgreven 4
+      1301 Copenhagen K
+      Denmark
+      URL: www.digst.dk
+
+
+
+
+Myanmar (country code +95)
+Communication of 8.I.2025:
+The Ministry of Transport and Communications, Nay Pyi Taw, announces the withdrawal of the following auto exchange
+numbering scheme in the national numbering plan of Myanmar:
+
+Auto Exchange Numbering (Geographic)
+
+
+                                           Digit Length                                   Date of         Date of
+ Sr    Area
+                Number Series     Area      (including              Licensee              Number          Number
+ No.   Code
+                                           area code)                                    Allocation      Withdrawal
+  1        1      462 xxxx       Yangon         8          Golden TMH Telecom Co.,Ltd     2.5.2017       17.12.2024
+
+  2        2      462 xxxx      Mandalay        8          Golden TMH Telecom Co.,Ltd     2.5.2017       17.12.2024
+
+
+
+Contact:
+           Ministry of Transport and Communications
+           Posts and Telecommunications Department (PTD)
+           Building No. 2,
+           NAY PYI TAW
+           Myanmar
+           Tel: +95 67 3407 225
+           Fax: +95 67 3407 216
+           E-mail: dg@ptd.gov.mm
+
+
+
+
+Oman (country code +968)
+Communication of 1.I.2025:
+The Oman Telecommunications Regulatory Authority (TRA), Ruwi, announces the following update to the National
+Numbering Plan (NNP) of Oman:
+
+           NDC               N(S)N number length
+  (National Destination
+                                                              Usage of
+  Code) or leading digits                                                              Additional information
+                             Maximum    Minimum          ITU-T E.164 number
+    of N(S)N (National
+  (Significant) Number)
+       901X XXXX to             8           8      Mobile service                   Omantel Mobile
+        909X XXXX
+        91XXXXXX                 8         8       Mobile service                   Omantel Mobile
+        92XXXXXX                 8         8       Mobile service                   Omantel Mobile
+        93XXXXXX                 8         8       Mobile service                   Omantel Mobile
+        94XXXXXX                 8         8       Mobile service                   Ooredoo
+        95XXXXXX                 8         8       Mobile service                   Ooredoo
+        96XXXXXX                 8         8       Mobile service                   Ooredoo
+        97XXXXXX                 8         8       Mobile service                   Ooredoo
+        98XXXXXX                 8         8       Mobile service                   Omantel Mobile
+        99XXXXXX                 8         8       Mobile service                   Omantel Mobile
+        71XXXXXX                 8         8       Mobile service                   Omantel Mobile
+        72XXXXXX                 8         8       Mobile service                   Omantel Mobile
+        76XXXXXX                 8         8       Mobile service                   Vodafone
+        770XXXXX                 8         8       Mobile service                   Vodafone
+        771XXXXX                 8         8       Mobile service                   Vodafone
+        772XXXXX                 8         8       Mobile service                   Vodafone
+        773XXXXX                 8         8       Mobile service                   Vodafone
+        774XXXXX                 8         8       Mobile service                   Vodafone
+        775XXXXX                 8         8       Mobile service                   Vodafone
+        777XXXXX                 8         8       Mobile service                   Vodafone
+        78XXXXXX                 8         8       Mobile service                   Ooredoo
+        79XXXXXX                 8         8       Mobile service                   Ooredoo
+     4XXXXXXXXXXX               12         12      IoT Service                      Ooredoo/Omantel/Vodafone
+        21XXXXXX                 8         8       Fixed service                    Ooredoo/Omantel/Awasr
+        22XXXXXX                 8         8       Fixed service                    Ooredoo/Omantel/Awasr
+        23XXXXXX                 8         8       Fixed service – currently only   Dhofar & Al Wusta
+                                                   one fixed operator (Omantel)
+        24XXXXXX                8           8      Fixed service – currently only   Muscat
+                                                   one fixed operator (Omantel)
+        25XXXXXX                8           8      Fixed service – currently only   A’Dakhliyah, Al Sharqiya &
+                                                   one fixed operator (Omantel)     A’Dhahira
+        26XXXXXX                8           8      Fixed service – currently only   Al Batinah & Musandam
+                                                   one fixed operator (Omantel)
+Contact:
+           Mr Omar ALQatabi
+           Vice President – Telecom Sector
+           Oman Telecommunications Regulatory Authority (TRA)
+           P.O. Box 579
+           RUWI, 112
+           Sultanate of Oman
+           Tel:    +968 24222163
+           Fax:    +968 24222081
+           E-mail: ir@tra.gov.om
+           URL:    www.tra.gov.om
+
+
+
+United Kingdom (country code +44)
+Communication of 13.I.2025:
+The Office of Communications (Ofcom), London, announces that the following UK Paging and Mobile numbers have
+been allocated to communications providers in the United Kingdom (country code +44).
+
+
+a. Overview
+The minimum mobile number length (excluding the country code) is    10 digits
+The maximum mobile number length (excluding the country code) is    10 digits
+
+International dialling format for mobile numbers:
++44 71 XXXX XXXX
++44 72 XXXX XXXX
++44 73 XXXX XXXX
++44 74 XXXX XXXX
++44 75 XXXX XXXX
++44 77 XXXX XXXX
++44 78 XXXX XXXX
++44 79 XXXX XXXX
+
+b. Details of additional number ranges
+
+
+       NMS
+                                         CP Name               Number Block Type     Allocation Date
+    Number Block
+
+        7356 2                Mass Response Service GmbH       071-075 and 077-079     03/09/2024
+        7356 3              Gamma Telecom Holdings Limited     071-075 and 077-079     21/10/2024
+        7356 8              Tata Communications (UK) Limited   071-075 and 077-079     12/08/2024
+        7358 8                  WIRELESS LOGIC LIMITED         071-075 and 077-079     21/08/2024
+        7344 0                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7344 1                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7344 2                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7344 3                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7344 4                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7344 5                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7344 6                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7344 7                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7344 8                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7344 9                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7345 0                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7345 1                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7345 2                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7345 3                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7345 4                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7345 5                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7345 6                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7345 7                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7345 8                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7345 9                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7346 0                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7346 1                     Vodafone Limited            071-075 and 077-079     14/10/2024
+        7346 2                     Vodafone Limited            071-075 and 077-079     14/10/2024
+       NMS
+                                      CP Name        Number Block Type      Allocation Date
+    Number Block
+
+       7346 3                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7346 4                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7346 5                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7346 6                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7346 7                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7346 8                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7346 9                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7347 0                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7347 1                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7347 2                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7347 3                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7347 4                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7347 5                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7347 6                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7347 7                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7347 8                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7347 9                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7348 0                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7348 1                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7348 2                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7348 3                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7348 4                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7348 5                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7348 6                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7348 7                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7348 8                     Vodafone Limited   071-075 and 077-079      14/10/2024
+       7348 9                     Vodafone Limited   071-075 and 077-079      14/10/2024
+Contact:
+           Office of Communications - Ofcom
+           Riverside House
+           2a Southwark Bridge Road
+           LONDON SE1 9HA
+           United Kingdom
+           Tel: +44 2079813000
+           Fax: +44 2079813990
+           E-mail: numbering@ofcom.org.uk
+           URL www.ofcom.org.uk
+
+
+
+
+Zambia (country code +260)
+Communication of 24.XII.2024:
+The Zambia Information & Communications Technology Authority (ZICTA), Lusaka, announces the following update to
+the national numbering plan of Zambia:
+                                          Description of introduction of new resource for
+                                       national E.164 numbering plan for country code +260
+
+
+     NDC (national              N(S)N number length
+  destination code) or
+                                                                  Usage of               Time and date          Additional
+leading digits of N(S)N         Maximum       Minimum        ITU-T E.164 number          of introduction       information
+ (national (significant)         length        length
+        number)
+            57                     9              9        Non-geographic number        15:00 pm CAT        Assigned to Airtel
+                                                           for mobile services          23/12/2024          Zambia Limited
+
+                         Presentation of national ITU-T E.164 numbering plan for country code +260
+
+a)       Overview:
+         The minimum number length (excluding the country code) is nine (9) digits.
+         The maximum number length (excluding the country code) is nine (9) digits.
+
+b)       Detail of numbering plan
+
+          NDC (national           N(S)N number length
+       destination code) or
+                                                                       Usage of
+     leading digits of N(S)N     Maximum        Minimum                                          Additional information
+                                                                  ITU-T E.164 number
+      (national (significant)     length         length
+             number)
+                 1                     9              9      Future services                    Reserved
+                 20                    9              9      Geographic number for fixed        Reserved
+                                                             telephony services
+               210                     9              9      Geographic number for fixed        Reserved
+                                                             telephony services (area code)
+               211                     9              9      Geographic number for fixed        Area code for Lusaka
+                                                             telephony services (area code)     Province (assigned to Zamtel)
+               212                     9              9      Geographic number for fixed        Area code for Copperbelt
+                                                             telephony services (area code)     (assigned to Zamtel)
+               213                     9              9      Geographic number for fixed        Area code for Livingstone
+                                                             telephony services (area code)     (assigned to Zamtel)
+               214                     9              9      Geographic number for fixed        Area code for Kasama
+                                                             telephony services (area code)     (assigned to Zamtel)
+               215                     9              9      Geographic number for fixed        Area code for Kabwe
+                                                             telephony services (area code)     (assigned to Zamtel)
+               216                     9              9      Geographic number for fixed        Area code for Chipata
+                                                             telephony services (area code)     (assigned to Zamtel)
+               217                     9              9      Geographic number for fixed        Area code for Solwezi
+                                                             telephony services (area code)     (assigned to Zamtel)
+               218                     9              9      Geographic number for fixed        Area code for Mongu
+                                                             telephony services (area code)     (assigned to Zamtel)
+               219                     9              9      Geographic number for fixed        Free
+                                                             telephony services
+              22-29                    9              9      Geographic number for fixed        Free
+                                                             telephony services (area code)
+                 3                     9              9      Non-geographic number for          Reserved
+                                                             future services
+                 4                     9              9      Non-geographic number for          Reserved
+                                                             future services
+
+       NDC (national         N(S)N number length
+    destination code) or
+                                                             Usage of
+  leading digits of N(S)N    Maximum    Minimum                                          Additional information
+                                                        ITU-T E.164 number
+   (national (significant)    length     length
+          number)
+           50-54                9           9      Non-geographic number for           Free
+                                                   mobile services
+            55                  9           9      Non-geographic number for           Reserved for Zamtel
+                                                   mobile services
+            56                  9           9      Non-geographic number for           Reserved for MTN
+                                                   mobile services
+            57                  9           9      Non-geographic number for           Assigned to Airtel
+                                                   mobile services
+            58                  9           9      Non-geographic number for           Reserved for Beeline
+                                                   mobile services
+            59                  9           9      Non-geographic number for           Free
+                                                   mobile services
+           60-62                9           9      Non-geographic number for VoIP      Free
+                                                   services
+            63                  9           9      Non-geographic number for VoIP      Assigned to Liquid Telecom
+                                                   services                            Zambia
+           64-69                9           9      Non-geographic number for VoIP      Free
+                                                   services
+           70-74                9           9      Non-geographic number for           Free
+                                                   mobile Services
+            75                  9           9      Non-geographic number for           Assigned to Zamtel
+                                                   mobile services
+            76                  9           9      Non-geographic number for           Assigned to MTN
+                                                   mobile services
+            77                  9           9      Non-geographic number for           Assigned to Airtel
+                                                   mobile services
+            78                  9           9      Non-geographic number for           Reserved for Beeline
+                                                   mobile services
+            79                  9           9      Non-geographic number for           Free
+                                                   mobile services
+             8                  9           9      Non-geographic number for           Free
+                                                   special services (e.g. free-phone
+                                                   numbers, local rate numbers)
+            90                  9           9      Non-geographic number for           Free
+                                                   premium rate services
+           91-94                9           9      Non-geographic number for           Free
+                                                   mobile services
+            95                  9           9      Non-geographic number for           Assigned to Zamtel
+                                                   mobile services
+            96                  9           9      Non-geographic number for           Assigned to MTN
+                                                   mobile services
+            97                  9           9      Non-geographic number for           Assigned to Airtel
+                                                   mobile services
+            98                  9           9      Non-geographic number for           Assigned to Beeline
+                                                   mobile services
+            99                  9           9      Non-geographic number for           Free
+                                                   mobile services
+Contact:
+      Mr Elliot Kabalo
+      Zambia Information & Communications Technology Authority (ZICTA)
+      Corner of United Nations and Independence Avenues
+      LUSAKA
+      Zambia
+      Tel:     +260 211 378200
+      Fax:     +260 211 246701
+      E-mail: ekabalo@zicta.zm; numbering@zicta.zm
+      URL:     www.zicta.zm
+
+                                          Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                          Call-Back
+                  and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                                Abbreviations used
+                              ADD    Insert                   PAR    Paragraph
+                              COL    Column                   REP    Replace
+                              LIR    Read                     SUP    Delete
+                              P      Page(s)
+
+
+
+
+                             List of Ship Stations and Maritime Mobile
+                                     Service Identity Assignments
+                                                (List V)
+                                            Edition of 2024
+
+                                                  Section VI
+
+ADD
+
+      DP10      IABG TELEPORT GMBH, Einsteinstraße 20, 85521 Ottobrunn, Germany.
+                E-mail: Bauner@iabgteleport.de, Mob: +49 175 2277169, Tel: +49 89 6088 4345,
+                URL: www.iabgteleport.com, Contact person: Frank Bauner.
+
+
+
+
+                             List of Issuer Identifier Numbers
+               (in accordance with Recommendation ITU-T E.118 (05/2006))
+                             (Position on 31 December 2023)
+                              (Annex to ITU Operational Bulletin No. 1283 – 1.I.2024)
+                                              (Amendment No. 14)
+
+Switzerland    ADD
+
+  Country/       Company Name/Address           Issuer      Contact                       Effective
+Geographical                                  Identifier                                date of usage
+    area                                       Number
+Switzerland      iWay AG                      89 41 35      Matthias Cramer               1.I.2025
+                 Badenerstrasse 569                         Badenerstrasse 569
+                 CH-8048 ZURICH                             CH-8048 ZURICH
+                                                            Tel: +41 43 500 1111
+                                                            E-mail: iin@ispmobile.ch
+
+
+
+
+       Mobile Network Codes (MNC) for the international identification plan
+                      for public networks and subscriptions
+              (According to Recommendation ITU-T E.212 (09/2016))
+                         (Position on 15 November 2023)
+                            (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                             (Amendment No. 26)
+
+
+Country/Geographical area         MCC+MNC        Operator/Network
+Canada ADD
+                                   302 060       Karrier One Inc.
+Denmark SUP
+                                    238 03       Syniverse Technologies
+Denmark ADD
+                                    238 95       DANSK BEREDSKABSKOMMUNIKATION
+Hong Kong, China SUP
+                                    454 29       Hong Kong Telecommunications (HKT) Limited
+                                    454 32       Hong Kong Broadband Network Ltd
+                                    454 36       Easco Telecommunications Limited
+Hong Kong, China ADD
+                                   454 290       Government use
+                                   454 291       Government use
+                                   454 292       Government use
+                                   454 293       Government use
+                                   454 294       Government use
+                                   454 295       Government use
+                                   454 296       Government use
+                                   454 297       Government use
+                                   454 298       Government use
+                                   454 299       Government use
+                                   454 380       Government use
+                                   454 382       South China Telecommunications (H.K.) Limited
+                                   454 383       China Mobile Hong Kong Company Limited
+                                   454 390       Government use
+                                   454 391       Government use
+                                   454 392       Government use
+                                   454 393       Government use
+                                   454 394       Government use
+                                   454 395       Government use
+                                   454 396       Government use
+                                   454 397       Government use
+                                   454 398       Government use
+                                   454 399       Government use
+
+
+Country/Geographical area               MCC+MNC          Operator/Network
+Hong Kong, China LIR
+                                           454 08        TP Hong Kong Operations Limited
+                                           454 21        VNET Group Limited
+                                           454 22        HuiYinBi Telecom (Hong Kong) Limited
+Israel SUP
+                                           425 04        Globalsim Ltd
+                                           425 07        Mirs Ltd
+                                           425 09        Marathon 018 Xphone Ltd.
+                                           425 11        365 Telecom (MVNO)
+                                           425 12        Free Telecom (MVNO)
+                                           425 13        Ituran Cellular Communications
+                                           425 14        Alon Cellular Ltd.
+                                           425 15        Home Cellular (MVNO)
+                                           425 16        Rami Levi (MVNO)
+                                           425 17        Gale Phone (MVNO)
+                                           425 19        Azi Communications Ltd
+                                           425 21        B.I.P Communications Ltd.
+                                           425 24        012 Telecom Ltd.
+                                           425 27        BITIT Ltd.
+                                           425 29        CG Networks
+Israel ADD
+                                           425 07        Hot Mobile Ltd
+                                           425 09        Wecom Mobile Ltd.
+                                           425 11        Merkaziya Ltd
+                                           425 12        Widly Mobile Ltd
+                                           425 14        Pelephone Communications Ltd
+                                           425 15        Cellcom Israel Ltd
+                                           425 16        Rami Levi Ltd
+                                           425 19        Telzar 019 Ltd
+                                           425 21        Xphone 018 Ltd.
+                                           425 24        Partner Communications Co. Ltd.
+                                           425 27        Paycall Ltd.
+                                           425 29        C.M.G Networks
+Slovakia ADD
+                                           231 51        CETIN/CETIN Networks, s. r. o.
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                               (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                               (Amendment No. 182)
+
+
+ Country or area/ISO code                              Company Code              Contact
+  Company Name/Address                                  (carrier code)
+
+Germany (Federal Republic of) / DEU          ADD
+
+ BITConEx GmbH                                               BTCEX               Mr Halid Zehic
+ Landsberger Strasse 396                                                         Tel.: +49 160 7839658
+ D-81241 MUNICH                                                                  Fax: +49 89 1225 2623
+                                                                                 Email: halid.zehic@bitconex.de
+
+ Core-Backbone GmbH                                         COREBA               Mr Andreas Goetz
+ Deutschherrnstrasse 15 - 19                                                     Tel.: +49 911 310432 70
+ D-90429 NUREMBERG                                                               Email: andreas.goetz@core-backbone.com
+
+ corespine GmbH                                              CORE                Tel.: +49 2333 66031 0
+ Kolkstrasse 22                                                                  Fax: +49 2333 66031 99
+ D-58256 ENNEPETAL                                                               Email: mail@corespine.de
+
+ Energie Ziegler GmbH                                       EZ90DE               Mr Johannes Ziegler
+ Neuselingsbach 6                                                                Tel.: +49 151 19434507
+ D-90616 NEUHOF A.D. ZENN                                                        Email: info@energie-ziegler.de
+
+ GTF Technology GmbH                                          GTFT               Mr Andreas Herling
+ Bahnhofstrasse 76a                                                              Tel.: +49 7251 3266300
+ D-76689 KARLSDORF-NEUTHARD                                                      Fax: +49 7251 3266309
+                                                                                 Email: mail@gtf.gmbh
+
+ kamikom GmbH                                                KAMI                Tel.: +49 431 5880 9500
+ Schauenburgerstrasse 116                                                        Fax: +49 431 5880 9509
+ D-24118 KIEL                                                                    Email: info@kamikom.de
+
+ Landkreis Harburg                                          LKHGNA               Mr Alexander Stark
+ - Glasfasernetzausbau - BgA                                                     Tel.: +49 4171 693 328
+ Schlossplatz 6                                                                  Email: a.strak@lkharburg.de
+ D-21423 WINSEN/LUHE
+
+ The Sound of Data B.V.                                      TSOD                Mr Thomas Hazelaar
+ Waalhaven OZ 83L                                                                Tel.: +31 1042 9141 1
+ NL-3087BM ROTTERDAM                                                             Email: thomas.hazelaar@soundofdata.nl
+ Netherlands
+
+ Wipak Walsrode GmbH                                         WIPAK               Mr Jan Augustin
+ Bahnhofstrasse 13                                                               Tel.: +49 5161 4880 0
+ D-29699 WALSRODE                                                                Fax: +49 5161 4880 151
+                                                                                 Email: info.germany@wipak.com
+
+
+
+
+                          List of International Signalling Point Codes (ISPC)
+                       (According to Recommendation ITU-T Q.708 (03/1999))
+                                        (Position on 1 July 2024)
+                                     (Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024)
+                                                      (Amendment No. 13)
+
+ Country/ Geographical Area
+ ISPC          DEC                 Unique name of the signalling point   Name of the signalling point operator
+
+
+ Cyprus SUP
+ 2-160-3       5379                Callsat NIC1, Nicosia                 CALLSAT INTERNATIONAL TELECOMMUNICATIONS
+
+ Cyprus ADD
+ 5-219-2       11994               ScarpelteleMGW1lim                    Scarpel Limited
+ 5-219-3       11995               ScarpelteleMGW2lim                    Scarpel Limited
+ 5-219-4       11996               intergoMGWnet                         Intergo Telecom Ltd
+ 5-219-5       11997               intergoMGWger                         Intergo Telecom Ltd
+
+ Cyprus LIR
+ 2-160-5       5381                ONT/NIC 1, Nicosia                    Epic LTD
+ 3-248-1       8129                WLD-CY                                Cablenet Communication Systems Ltd
+
+ Hong Kong, China SUP
+ 4-111-4       9084                HK1                                   TNZI Singapore Pte Limited
+ 4-177-7       9615                IDD1628                               IDD1628 Limited
+ 4-178-1       9617                CMTEL                                 ComNet Telecom (HK) Limited
+ 4-180-6       9638                NTTCA-ISC-HKG01                       NTT Com Asia Ltd
+
+ Hong Kong, China ADD
+ 4-111-0       9080                CMIS07                                China Mobile International Ltd
+ 4-111-4       9084                CMIS08                                China Mobile International Ltd
+
+ Ireland ADD
+ 5-212-0       11936               STPVM101                              Virgin Media Ireland Limited
+ 5-212-1       11937               STPVM102                              Virgin Media Ireland Limited
+ 5-212-2       11938               STPVM201                              Virgin Media Ireland Limited
+ 5-212-3       11939               STPVM202                              Virgin Media Ireland Limited
+ 5-214-6       11958               IE1SGW1                               Virgin Media Ireland Limited
+
+ Spain SUP
+ 2-240-6       6022                Barcelona                             Cable & Wireless, S.L.U.
+
+ United Kingdom ADD
+ 7-224-4       16132               THN-STP1                              GIESECKE+DEVRIENT MOBILE SECURITY TCD UK LIMITED
+ 7-224-5       16133               THN-STP2                              GIESECKE+DEVRIENT MOBILE SECURITY TCD UK LIMITED
+ 7-224-6       16134               LD5-STP3                              GIESECKE+DEVRIENT MOBILE SECURITY TCD UK LIMITED
+ 7-224-7       16135               LD5-STP4                              GIESECKE+DEVRIENT MOBILE SECURITY TCD UK LIMITED
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                      Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 1.I.2025, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                            Country/ Geographical area                  Country Code (CC)
+                  Malta                                                        +356
+                  Morocco                                                      +212
+                  Somalia                                                      +252
+                  Sudan                                                        +249
+
+
+
+

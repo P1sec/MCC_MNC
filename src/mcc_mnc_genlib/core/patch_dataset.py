@@ -45,8 +45,8 @@ __all__ = [
     'ITUT_MNC_1111',
     'ITUT_MNC_1162',
     'ITUT_MNC_INCR',
-    'ITUT_SPC_1199',
-    'ITUT_SANC_1125',
+    'ITUT_SPC_1295',
+    'ITUT_SANC_1293',
     # Custom structures
     'WFB_UNINHABITED',
     'COUNTRY_SPEC',
@@ -98,8 +98,8 @@ try:
     from mcc_mnc_genlib.raw.itut_mnc_1111 import ITUT_MNC_1111
     from mcc_mnc_genlib.raw.itut_mnc_1162 import ITUT_MNC_1162
     from mcc_mnc_genlib.raw.itut_mnc_incr import ITUT_MNC_INCR
-    from mcc_mnc_genlib.raw.itut_sanc_1125 import ITUT_SANC_1125
-    from mcc_mnc_genlib.raw.itut_spc_1199 import ITUT_SPC_1199
+    from mcc_mnc_genlib.raw.itut_sanc_1293 import ITUT_SANC_1293
+    from mcc_mnc_genlib.raw.itut_spc_1295 import ITUT_SPC_1295
 except ImportError:
     raise (Exception('error: please run first mcc-mnc-parse-itut-bulletins'))
 
@@ -1161,6 +1161,13 @@ def _patch_country_name(name):
 # instead of Réunion and / or Mayotte
 # So this needs to be handled explicitely when looking up for the country
 
+# ITU-T MNC patching strategy:
+# ITUT_MNC_1162 is the baseline (full MNC list from bulletin 1162, 2018).
+# ITUT_MNC_INCR contains ADD/LIR/SUP deltas from bulletins 1163 onward.
+# patch_itut_mnc_incr() merges ITUT_MNC_INCR into ITUT_MNC_1162 in-place,
+# so that ITUT_MNC_1162 represents the latest known ITU-T state by the time
+# gen_dataset.py reads it. ITUT_MNC_INCR is not used directly by gen_dataset.py.
+#
 # We 1st patch lists from bulletins 1111 and 1162 for aligning country names
 # Then we patch list from bulletin 1162 with the ITUT_MNC_INCR dict
 # And ultimately add intl MNO from ITUT_MNC_INCR into it
@@ -1275,7 +1282,7 @@ def patch_itut_spc(spclist):
                 spclist[newname] = spcs
 
 
-patch_itut_spc(ITUT_SPC_1199)
+patch_itut_spc(ITUT_SPC_1295)
 
 
 def patch_itut_sanc(sanclist):
@@ -1289,4 +1296,4 @@ def patch_itut_sanc(sanclist):
                 sanclist[sanc] = newname
 
 
-patch_itut_sanc(ITUT_SANC_1125)
+patch_itut_sanc(ITUT_SANC_1293)

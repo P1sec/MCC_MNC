@@ -1,0 +1,575 @@
+                             ITU Operational Bulletin
+                                                               www.itu.int/itu-t/bulletin
+
+            No. 1341               1.VI.2026                   (Information received by 15 May 2026) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                       Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                      3
+Approval and deletion of ITU-T Recommendations……………………………………………………………………………………                                                                                            4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164):
+   Notes from TSB ..........................................................................................................................................              5
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212):
+    Note from TSB ...........................................................................................................................................             5
+Telephone Service:
+     Malta (Malta Communications Authority (MCA), Floriana) ......................................................................                                        6
+     Kazakhstan (Ministry of Artificial Intelligence and Digital Development, Astana) ...................................                                                 7
+     Russian Federation (Ministry of Digital Development, Communications and Mass Media of the Russian
+        Federation, Moscow) ...........................................................................................................................                   7
+Testing Laboratories recognized by ITU..........................................................................................................                          9
+Other communications:
+     Serbia ........................................................................................................................................................     10
+     Austria .......................................................................................................................................................     10
+Service Restrictions .........................................................................................................................................           11
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                      11
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Recommendation ITU-T E.164 assigned Country Codes ......................................................................                                         12
+Mobile Network Codes (MNC) for the international identification plan for public
+  networks and subscriptions ......................................................................................................................                      13
+List of ITU Carrier Codes ................................................................................................................................               14
+List of International Signalling Point Codes (ISPC) ..........................................................................................                           15
+National Numbering Plan ...............................................................................................................................                  16
+
+
+
+
+                                                                                                                                           www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1342             15.VI.2026             29.V.2026
+               1343             1.VII.2026             15.VI.2026
+               1344             15.VII.2026            30.VI.2026
+               1345             1.VIII.2026           15.VII.2026
+               1346            15.VIII.2026           31.VII.2026
+               1347              1.IX.2026            14.VIII.2026
+               1348             15.IX.2026            31.VIII.2026
+               1349              1.X.2026              15.IX.2026
+               1350             15.X.2026              30.IX.2026
+               1351              1.XI.2026             15.X.2026
+               1352             15.XI.2026             31.X.2026
+               1353             1.XII.2026             13.XI.2026
+               1354             15.XII.2026            30.XI.2026
+               1355              1.I.2027             11.XII.2026
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1317 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 June 2025)
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                       Approval and deletion of ITU-T Recommendations
+Approved Recommendations:
+By TSB Circular CIR-107 of 01 May 2026, it was announced that the following ITU-T Recommendations were approved
+in accordance with the procedures outlined in Resolution 1:
+–       ITU-T X.1901 (04/2026): Information security, cybersecurity and privacy protection — Age assurance systems —
+        Part 1: Framework
+By TSB Circular CIR-134 of 11 May 2026, it was announced that the following ITU-T Recommendations were approved
+in accordance with the procedures outlined in Resolution 1:
+–       ITU-T E.118 (09/2025): Numbering resources for Cards to identify accounts for charging telecommunication
+        services
+Deleted Recommendations:
+None.
+
+
+
+
+                The International Public Telecommunication Numbering Plan
+                              (Recommendation ITU-T E.164)
+Note from TSB
+On the conclusion of the agreement on the joint use of the international E.164 numbering resource of the numbering
+zone “7”, the previously reserved country code “997” for Kazakhstan (Republic of), is returned to spare.
+
+Note from TSB
+
+                                         Identification codes for IoT/M2M
+Associated with shared country code 883 for IoT/M2M, with some exceptions made for other uses due to historical
+reasons, the following three-digit identification codes have been assigned:
+
+
+                                                                        Country Code and           Date of
+            Applicant                        Network
+                                                                       Identification Code       assignment
+
+  Bondio Limited                 Bondio Limited                             +883 180              8.V.2026
+
+  Onomondo ApS                   Onomondo ApS                               +883 270              8.V.2026
+
+
+
+
+        International Identification Plan for Public Networks and Subscriptions
+                            (Recommendation ITU-T E.212)
+
+Note from TSB
+                               Identification codes for International Mobile Networks
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) have been
+assigned.
+
+                                                  Mobile Country Code (MCC) and                 Date of
+                   Network
+                                                   Mobile Network Code (MNC)                  assignment
+
+ Onomondo ApS                                                 901 33                           8.V.2026
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                             url: www.itu.int/itu-t/nnp
+Malta (country code +356)
+Communication of 15.V.2026:
+The Malta Communications Authority (MCA), Floriana, announces an update of the National Numbering Plan (NNP) of
+Malta. The main numbering ranges are:
+
+                       Service                                 Operator            Numbering Ranges
+                                                                                   2100 ‒ 2399 XXXX
+                                                                  GO
+                                                                                   2500 ‒ 2599 XXXX
+                                                                                   2600 ‒ 2609 XXXX
+                                                                                   2700 ‒ 2799 XXXX
+                                                                Melita             2010 ‒ 2018 XXXX
+                        Fixed
+                                                                                   2060 XXXX
+                                                                                   2065 XXXX
+                                                                Vanilla            2031 ‒ 2034 XXXX
+                                                                                   2069 XXXX
+                                                                  Epic             2090 ‒ 2099 XXXX
+                                                                                   7900 ‒ 7999 XXXX
+                                                              GO Mobile            9889 XXXX
+                                                                                   7210 XXXX
+                                                                                   9900 ‒ 9999 XXXX
+                                                                                   9696 XXXX
+                        Mobile
+                                                                  Epic             9897 XXXX
+                                                                                   9210 ‒ 9211 XXXX
+                                                                                   9231 XXXX
+                                                                                   7700 ‒ 7799 XXXX
+                                                            Melita Mobile
+                                                                                   9811 ‒ 9813 XXXX
+                                                                                   40001 – 40051 XXXXX
+                                                                                   40060 – 40069 XXXXX
+                                                                Melita
+       M2M/IoT Connectivity Services and other                                     40080 – 40089 XXXXX
+      Non-Interpersonal Communications Services                                    40100 – 40109 XXXXX
+                                                                  GO               40079 XXXXX
+                                                                  Epic             40099 XXXXX
+
+All Administrations and Recognized Operating Agencies (ROAs) are requested to urgently programme their switches to
+enable immediate access to these numbering ranges. Furthermore, the National Numbering Plan is updated in real-
+time and is made available on the MCA website at the following link:
+https://www.mca.org.mt/regulatory/numbering/numbering-plans.
+Contact:
+     Alistair Farrugia / Deborah Pisani
+     Malta Communications Authority (MCA)
+     Valletta Waterfront
+     Pinto Wharf
+     Floriana FRN1913
+     Malta
+     Tel:        +356 2133 6840
+     E-mail: numbering@mca.org.mt
+     URL:        www.mca.org.mt
+
+Kazakhstan (country code +7)
+Russian Federation (country code +7)
+Communication of 4.V.2026:
+The Government of the Republic of Kazakhstan and the Government of the Russian Federation have concluded an
+agreement on the joint use of the international E.164 numbering resource of the numbering zone “7”. This Agreement
+is concluded for an indefinite period and has been entered into force on 3 December 2025.
+Previously, the Agreement was concluded between the communications authorities of the two countries. The new
+Agreement has been signed between the Governments, granting the parties an intergovernmental status.
+The previous Agreement stipulated a 6-month notification period for either Party to terminate the Agreement. Under
+the new Agreement, this notification period has been extended to 24 months.
+This update emphasizes that the Republic of Kazakhstan acts as an equal partner and is allocated the following codes:
++7 0, +7 6, +7 7.
+The authorized bodies for the implementation of this Agreement are:
+      for the Republic of Kazakhstan - the Ministry of Digital Development, Innovations and Aerospace Industry of the
+Republic of Kazakhstan;
+      for the Russian Federation - the Ministry of Digital Development, Communications and Mass Media of the Russian
+Federation.
+Under the Agreement, the Russian Federation and the Republic of Kazakhstan retain the numbering zone “7”, pursuant
+to the Table of assigned codes of the numbering zone “7”.
+
+
+                            Table assignment of the codes under the numbering zone “7” of
+                                      the international E.164 numbering resource
+                               to the Republic of Kazakhstan and the Russian Federation
+
+              Code ranges for                     Code ranges for             Code ranges shared between the
+            exclusive use of the                exclusive use of the           Republic of Kazakhstan and the
+            Russian Federation                 Republic of Kazakhstan               Russian Federation*
+                                                      000-099
+                                                                                            100-199
+                 200-299
+                 300-399
+                 400-499
+                 500-599
+                                                      600-699
+                                                      700-799
+             810-818, 820-821,                                                              800-809
+                   831,                                                                     881-899
+             833-836, 840-848,
+             850-851, 855-857,
+             860-863, 865-867,
+                   869,
+            871-873, 877-880**
+                 900-999
+
+
+
+
+* When sharing numbering code ranges the Parties shall:
+1)    independently assign codes within the shared numbering code ranges in accordance with the national legislation
+      of the Parties;
+2)    make use of numbering in the specified numbering code ranges exclusively in their respective national telephone
+      networks.
+** Unassigned code resources (26 codes: 819, 822-829, 830, 832, 837-839, 849, 852-854, 858-859, 864, 868, 870, 874-
+876) are retained in the common reserve. Withdrawal from the reserve and the subsequent reassignment of the
+unassigned code resources shall be conducted by mutual consent of the Parties and formalized by separate protocols
+to the Agreement between the Government of the Republic of Kazakhstan and the Government of the Russian
+Federation on the joint use of numbering for world numbering zone 7, which shall become integral parts of this
+Agreement.
+
+
+Contact:
+     Ministry of Artificial Intelligence and Digital Development
+     8, Mangilik El Street,
+     ASTANA 010000,
+     Kazakhstan
+     Tel:       +7 7172 61 3323
+     E-mail: moap@mdai.gov.kz
+
+
+     Ministry of Digital Development, Communications and Mass Media of the Russian Federation
+     7, Tverskaya Street,
+     MOSCOW 125375,
+     Russian Federation
+     Tel:      +7 495 771 8100
+     E-mail: office@digital.gov.ru
+
+
+
+
+                                Testing Laboratories recognized by ITU
+According to the ITU-T Guideline on “Testing Laboratories recognition procedure” (2022) and based on the application
+and scope of accreditation received on 7 April 2026, the following Testing Laboratory, which fulfils the criteria defined
+in the clause 9 of the above-mentioned ITU-T Guideline, was registered in the ITU Testing Laboratory Database
+(https://itu.int/go/tldb):
+
+
+
+                                                                                Scope of Accreditation
+         Testing Laboratory                   Country
+                                                                              (ITU-T Recommendations)
+
+ Testing Center of State Enterprise     Ukraine                К.21; К.20; К.44; K.50
+ “The Ukrainian State Centre of                                G.168; G.661; G.664; G.671; G.691; G.693; G.695;
+ Radio Frequencies” (TC “UCRF”)                                G.703; G.704; G.707/Y.1322; G.708; G.711; G.712;
+                                                               G.723.1; G.726; G.727; G.729; G.775; G.781; G.783;
+                                                               G.784; G.785; G.797; G.811; G.812; G.813; G.821;
+                                                               G.823; G.825; G.826; G.832; G.841; G.861; G.957;
+                                                               G.959.1; G.961; G.983.1; G.991.1; G.991.2; G.992.1;
+                                                               G.992.3; G.992.5; G.993.1; G.993.2; G.993.5; G.1020;
+                                                               G.1030; G.1040; G.8251; G.8261; G.8262
+                                                               Y.1540; Y.1541; Y.1542; Y.2617
+                                                               Q.490; Q.511; Q.512; Q.541; Q.542; Q.543; Q.544;
+                                                               Q.551; Q.552; Q.553; Q.554; Q.699.1; Q.751.4; Q.752;
+                                                               Q.765; Q.765.1; Q.765.4; Q.765.5; Q.780; Q.781; Q.782;
+                                                               Q.784; Q.784.1; Q.784.2; Q.785; Q.785.2; Q.786; Q.787;
+                                                               Q.788; Q.1600; Q.1601; Q.1901; Q.1902.1; Q.1902.2;
+                                                               Q.1902.3; Q.1902.4; Q.1902.5; Q.1902.6; Q.1922.2;
+                                                               Q.1922.4; Q.1930; Q.1950; Q.1970; Q.1990; Q.2610
+Any queries can be addressed to conformity@itu.int. More details are available on ITU C&I Portal at:
+https://itu.int/go/citest.
+
+
+
+
+                                           Other communications
+
+Serbia
+Communication of 24.IV.2026:
+On the occasion of the International Sava River Day (1 June), the Serbian Administration authorizes radio stations of the
+Amateur Radio Club "Nikol Tesla" Sabac to use the special call sign YT1SAVA from 1 to 7 June 2026.
+
+
+Austria
+Communication of 8.V.2026:
+On the occasion of the "Internationales IARU-Jugendcamp in Wagrain", the Austrian Administration authorizes an
+Austrian amateur station to use the special call sign OE2YOTA from 25 to 31 July 2026.
+
+
+
+
+                                         Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                          Call-Back
+                  and alternative calling procedures (Res. 21 Rev. PP-06)
+                            See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                            AMENDMENTS TO SERVICE PUBLICATIONS
+                                                       Abbreviations used
+                                    ADD     Insert                      PAR   Paragraph
+                                    COL     Column                      REP   Replace
+                                    LIR     Read                        SUP   Delete
+                                    P       Page(s)
+
+
+
+
+                   List of Recommendation ITU-T E.164 assigned Country Codes
+                     (Complement to Recommendation ITU-T E.164 (11/2010))
+                                (Position on 15 December 2016)
+                                    Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016
+                                                     Amendment No. 48
+
+country code      997       LIR
+
+
+      Country code          Country, Geographical area or Global service                                    Note
+          997               Spare code
+
+
+
+
+      Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+p        Associated with shared country code 883, the following three-digit identification code reservations or
+         assignments have been made for IoT/M2M of, with some exceptions made for other uses due to historical
+         reasons:
+
+Note p)      +883 180, +883 270 ADD
+
+                                                                                  Country Code and
+                Applicant                              Network                                              Status
+                                                                                 Identification Code
+    Bondio Limited                        Bondio Limited                             +883 180             Assigned
+    Onomondo ApS                          Onomondo ApS                               +883 270             Assigned
+
+__________
+
+See page 5 of the present Operational Bulletin No. 1341 of 1.VI.2026.
+
+
+
+
+          Mobile Network Codes (MNC) for the international identification plan
+                         for public networks and subscriptions
+                 (According to Recommendation ITU-T E.212 (09/2016))
+                           - Position on 15 November 2023 -
+                               Annex to ITU Operational Bulletin No. 1280 – 15.XI.2023
+                                                Amendment No. 57
+
+
+ Country / Geographical area
+ MCC + MNC                         Operator / Network
+ Australia ADD
+ 505 64                            Roam Aussie Pty Ltd
+ Estonia SUP
+ 248 34                            Nettora Systems OÜ
+ Spain ADD
+ 214 12                            CHADEVA SUR 2001, S.L. UNIPERSONAL
+ International Mobile, shared code ADD
+ 901 33                            Onomondo ApS
+
+
+
+____________
+MCC: Mobile Country Code
+MNC: Mobile Network Code
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                             Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014
+                                             Amendment No. 206
+
+
+ Country or area/ISO code                             Company Code           Contact
+ Company Name/Address                                  (carrier code)
+
+
+Germany (Federal Republic of) / DEU       LIR
+
+ CarrierWerke GmbH                                       CWERKE              Ms Nadine Neska
+ Hauptstraße 71                                                              Tel.: +49 152 03431532
+ 73540 HEUBACH                                                               E-mail: nn@carrierwerke.de
+
+
+
+Germany (Federal Republic of) / DEU       ADD
+
+ blueants Süd GmbH                                       DEBLUE              Mr Matthias Vilsmayer
+ Von-Linde-Straße 4                                                          Tel.: +49 8105 7727510
+ 82205 GILCHING                                                              Fax:    +49 8105 772719
+                                                                             E-mail: reseller@blueants.de
+
+
+ CarrierWerke GmbH                                        FLCW               Ms Nadine Neska
+ Hauptstraße 71                                                              Tel.: +49 152 03431532
+ 73540 HEUBACH                                                               E-mail: nn@carrierwerke.de
+
+
+ Stadtwerke Osnabrück AG                                 SWO12               Mr Oliver Fischer
+ Alte Poststraße 9                                                           Tel.: +49 54120020
+ 49074 OSNABRÜCK                                                             Fax:    +49 54120023100
+                                                                             E-mail: telekommunikation@swo.de
+
+
+
+
+                         List of International Signalling Point Codes (ISPC)
+                      (According to Recommendation ITU-T Q.708 (03/1999))
+                                      - Position on 01 July 2024 -
+                                    Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024
+                                                     Amendment No. 37
+
+    Country / Geographical area               Unique name of the signalling point      Name of the signalling point operator
+       ISPC                 DEC
+ Armenia SUP
+ 2-200-4             5700               PMPSI                                       PMF-SAL
+ 5-234-0             12112              iCON                                        ICON
+ 5-234-4             12116              Dzoraxbyur                                  Dzoraxbyur Hamalir
+ 5-234-6             12118              Calline                                     GLOBAL CALLINE
+ Armenia ADD
+ 2-200-7             5703               KTPSI                                       Viva Armenia (Viva)
+ 4-233-4             10060              Yerevan                                     Telecom Armenia (Team)
+ 4-233-5             10061              KTPSI                                       Viva Armenia (Viva)
+ 4-233-6             10062              Yerevan                                     Telecom Armenia (Team)
+ 4-233-7             10063              Yerevan                                     Telecom Armenia (Team)
+ 6-224-0             14080              Yerevan                                     Telecom Armenia (Team)
+ 6-224-1             14081              Arpinet                                     Arpinet
+ 6-224-2             14082              KTPSI                                       Viva Armenia (Viva)
+ 6-224-3             14083              KTPSI                                       Viva Armenia (Viva)
+ Armenia LIR
+ 2-200-0             5696               Arminco                                     Arpinet
+ 2-200-1             5697               Yerevan                                     Telecom Armenia (Team)
+ 2-200-2             5698               ARMGSM                                      Telecom Armenia (Team)
+ 2-200-3             5699               Ucom                                        Ucom
+ 2-200-5             5701               KTPSI                                       Viva Armenia (Viva)
+ 2-200-6             5702               KTPSI                                       Viva Armenia (Viva)
+ 4-233-0             10056              Ucom                                        Ucom
+ 4-233-1             10057              Griar                                       Gtel
+ 4-233-2             10058              GNC Alfa                                    GNC-Alfa (Ovio)
+ 5-234-1             12113              Ucom                                        Ucom
+ 5-234-3             12115              Crossnet                                    Crossnet
+ 5-234-7             12119              Ucom                                        Ucom
+ Estonia SUP
+ 6-227-0             14104              NETSYS1                                     Nettora Systems OÜ
+ 6-227-1             14105              NETSYS2                                     Nettora Systems OÜ
+ Seychelles ADD
+ 6-155-0             13528              SS7 Gateway                                 Intelvision Ltd
+ Seychelles LIR
+ 6-066-6             12822              Trans-Local Switch 1                        Airtel (Seychelles) Ltd
+ 6-066-7             12823              Mobile Switching Centre1                    Airtel (Seychelles) Ltd
+____________
+ISPC: International Signalling Point Codes.
+
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                            See URL: www.itu.int/itu-t/nnp
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 1.V.2026, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                          Country/Geographical area                          Country Code (CC)
+                  Ascension                                                        +247
+                  Malta                                                            +356
+                  Saint Helena and Tristan da Cunha                                +290
+
+
+
+
