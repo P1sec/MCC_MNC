@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# source: data aggregated from Wikipedia, The World Factbook, ITU-T, Egallic blog and txtNation
+# source: https://github.com/P1sec/mcc_mnc
 # license: produced by P1 Security, based on openly available data
 
 P1_MSISDN = {

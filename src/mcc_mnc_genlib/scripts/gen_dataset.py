@@ -782,11 +782,6 @@ def generate_init(path_pre):
 
 def main():
 
-
-
-
-
-
     URL_SRC = 'https://github.com/P1sec/mcc_mnc'
     URL_LIC = 'produced by P1 Security, based on openly available data'
 

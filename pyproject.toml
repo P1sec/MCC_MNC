@@ -33,6 +33,9 @@ classifiers = [
 ]
 dependencies = ["lxml"]
 
+[dependency-groups]
+dev = ["ruff==0.16.4; python_version >= '3.7'"]
+
 [tool.uv.build-backend]
 module-name = ["mcc_mnc_genlib", "mcc_mnc_lut"]
 
