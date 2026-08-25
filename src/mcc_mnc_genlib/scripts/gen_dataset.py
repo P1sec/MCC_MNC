@@ -39,16 +39,15 @@ __all__ = [
 ]
 
 
-from os.path import dirname, realpath, join
-import sys
 import re
+import sys
+from os.path import dirname, join, realpath
 
 from mcc_mnc_genlib.core.patch_dataset import *
 from mcc_mnc_genlib.scripts.parse_wikipedia_tables import (
     generate_json,
     generate_python,
 )
-
 
 SCRIPT_DIR = dirname(realpath(__file__))
 MODULE_DIR = dirname(realpath(SCRIPT_DIR))
@@ -165,48 +164,6 @@ def gen_dict_mnc():
 MNC = gen_dict_mnc()
 
 
-def mnc_txtn(mccmnc, inf):
-    mno = {
-        'country': inf[0],
-        'bands': '',  # no info on bands
-        'ope': False,  # consider the MNO as operational (?)
-        'src': 'txtNation',
-    }
-    #
-    # add set of CC2
-    mcc = mccmnc[:3]
-    cc2s = set()
-    for r in WIKIP_MCC:
-        if r['mcc'] == mcc:
-            cc2s.add(r['code_alpha_2'])
-    if not cc2s:
-        print('> no country info found for %s, %s' % (mccmnc, inf[0]))
-    mno['cc2s'] = list(sorted(cc2s))
-    #
-    # handle operator / brand info
-    for mccmnc_ex, mno_ex in MNC.items():
-        if mccmnc_ex[:3] != mccmnc[:3]:
-            continue
-        #
-        if isinstance(mno_ex, list):
-            # this is dirty
-            mno_ex = mno_ex[0]
-        if mno_ex['brand'].lower() == inf[1].lower():
-            mno['brand'] = mno_ex['brand']
-            mno['operator'] = mno_ex['operator']
-            break
-        elif mno_ex['operator'].lower() == inf[1].lower():
-            mno['brand'] = mno_ex['brand']
-            mno['operator'] = mno_ex['operator']
-            break
-    if 'brand' not in mno:
-        # print('> no existing brand / operator found for %s (%s), %s' % (mccmnc, inf[1], inf[0]))
-        mno['brand'] = inf[1]
-        mno['operator'] = ''
-    #
-    return mno
-
-
 def mnc_itut(cntr, mno, mccmnc):
     # get the CC2 code for the country
     found = False
@@ -275,20 +232,6 @@ def gen_dict_mnc_compl():
                             MNC[mccmnc]['cc2s'] = list(
                                 sorted(MNC[mccmnc]['cc2s'])
                             )
-    #
-    # 2) complete MNC dict with new MNC from txtNation
-    for mccmnc, inf in sorted(CSV_TXTN_MCCMNC.items()):
-        if mccmnc not in MNC and mccmnc not in R:
-            if isinstance(inf, list):
-                infs = inf
-                mno = []
-                for inf in infs:
-                    mno.append(mnc_txtn(mccmnc, inf))
-            else:
-                mno = mnc_txtn(mccmnc, inf)
-            #
-            print('> adding MNO from txtNation with MCC-MNC %s' % mccmnc)
-            R[mccmnc] = mno
     #
     return R
 
@@ -820,7 +763,11 @@ def generate_init(path_pre):
 
 def main():
 
-    URL_SRC = 'data aggregated from Wikipedia, The World Factbook (frozen), ITU-T and Egallic blog'
+
+
+
+
+
     URL_LIC = 'produced by P1 Security, based on openly available data'
 
     generate_json(MNC, PATH_PRE + 'p1_mnc.json', [URL_SRC], URL_LIC)
