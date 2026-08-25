@@ -630,10 +630,8 @@ def patch_wikip_borders():
     ]
     for r in WIKIP_BORDERS:
         if not any(
-            [
-                name in isonames
+            name in isonames
                 for name in country_name_canon(r['country_name'])
-            ]
         ):
             if country_present(r['country_name'], SUBTERR_TO_COUNTRY):
                 # warning: SUBTERR_TO_COUNTRY lookup could fail here
@@ -658,7 +656,7 @@ def patch_wikip_borders():
                         '>>> missing border {}, country {}'.format(b, r['country_name'])
                     )
         for n in r['neigh']:
-            if not any([name in isonames for name in country_name_canon(n)]):
+            if not any(name in isonames for name in country_name_canon(n)):
                 if country_present(n, SUBTERR_TO_COUNTRY):
                     # warning: SUBTERR_TO_COUNTRY lookup could fail here
                     print(
@@ -854,7 +852,7 @@ def patch_wikip_country():
     print('[+] patch Wikipedia list of country prefixes: WIKIP_COUNTRY')
     isonameset = {r['country_name'] for r in WIKIP_ISO3166.values()}
     for country, preflist in sorted(WIKIP_COUNTRY.items()):
-        assert all([pref.isdigit() for pref in preflist])
+        assert all(pref.isdigit() for pref in preflist)
         found = False
         if country in COUNTRY_RENAME:
             newname = COUNTRY_RENAME[country]
@@ -884,7 +882,7 @@ def patch_wikip_country():
                     found = True
                     break
         if not found and not all(
-            [pref not in MSISDN_INTL for pref in preflist]
+            pref not in MSISDN_INTL for pref in preflist
         ):
             # satellite / international operators
             print(
