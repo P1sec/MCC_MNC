@@ -1,0 +1,312 @@
+                             ITU Operational Bulletin
+                                                               www.itu.int/itu-t/bulletin
+
+            No. 1300               15.IX.2024                  (Information received by 30 August 2024) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                       Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                      3
+Approval of ITU-T Recommendations.............................................................................................................                            4
+Other communication:
+     Austria .......................................................................................................................................................      6
+Service Restrictions .........................................................................................................................................            7
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                       7
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V)...........................................                                                8
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions .....................................................................................................................................                 9
+List of ITU Carrier Codes .................................................................................................................................               9
+List of International Signalling Point Codes (ISPC) ..........................................................................................                           10
+
+
+
+
+                                                                                                                                           www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1301              1.X.2024              13.IX.2024
+               1302             15.X.2024              30.IX.2024
+               1303              1.XI.2024             15.X.2024
+               1304             15.XI.2024             31.X.2024
+               1305             1.XII.2024             15.XI.2024
+               1306             15.XII.2024            29.XI.2024
+               1307              1.I.2025              6.XII.2024
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                Approval of ITU-T Recommendations
+By AAP-58, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.652 (08/2024): Characteristics of a single-mode optical fibre and cable
+–     ITU-T G.654 (08/2024): Characteristics of a cut-off shifted single-mode optical fibre and cable
+–     ITU-T G.657 (08/2024): Characteristics of a bending-loss insensitive single-mode optical fibre and cable
+–     ITU-T G.709.1 (2024) Amd. 1 (08/2024)
+–     ITU-T G.709.5 (2024) Amd. 1 (08/2024)
+–     ITU-T G.781 (2024) Amd. 1 (08/2024)
+–     ITU-T G.808.4 (08/2024): Linear protection for fine grain Metro Transport Network (fgMTN) and fine grain
+      Optical Transport Network (fgOTN)
+–     ITU-T G.959.1 (2024) Amd. 1 (08/2024)
+–     ITU-T G.972 (08/2024): Definition of terms relevant to optical fibre submarine cable systems
+–     ITU-T G.7701 (2022) Amd. 1 (08/2024)
+–     ITU-T G.7702 (2022) Amd. 1 (08/2024)
+–     ITU-T G.7703 (2021) Amd. 2 (08/2024)
+–     ITU-T G.7718/Y.1709 (2020) Amd. 2 (08/2024)
+–     ITU-T G.8051 (08/2024): Management aspects of the Ethernet transport (ET) capable network element
+–     ITU-T G.8121/Y.1381 (2018) Cor. 1 (08/2024)
+–     ITU-T G.8121.1/Y.1381.1 (2018) Cor. 2 (08/2024)
+–     ITU-T G.8151 (08/2024): Management aspects of the MPLS-TP network element
+–     ITU-T G.8152.1/Y.1375.1 (2021) Amd. 2 (08/2024)
+–     ITU-T G.8152.2/Y.1375.2 (2021) Amd. 2 (08/2024)
+–     ITU-T G.8251 (2022) Amd. 1 (08/2024)
+–     ITU-T G.8265.1/Y.1365.1 (2022) Amd. 1 (08/2024)
+–     ITU-T G.8271/Y.1366 (2020) Amd. 1 (08/2024)
+–     ITU-T G.8273.2/Y.1368.2 (2023) Amd. 1 (08/2024)
+–     ITU-T G.8273.3/Y.1368.3 (2020) Amd. 1 (08/2024)
+–     ITU-T G.8273.4 (08/2024): Timing characteristics of telecom boundary clocks and telecom time synchronous
+      clocks for use with partial timing support from the network
+–     ITU-T G.8275 (2024) Amd. 1 (08/2024)
+–     ITU-T G.8275.1/Y.1369.1 (2022) Amd. 2 (08/2024)
+–     ITU-T G.8275.2/Y.1369.2 (2022) Amd. 2 (08/2024)
+–     ITU-T G.8312 (2020) Amd. 3 (08/2024)
+–     ITU-T G.8312.20 (2024) Amd. 1 (08/2024)
+–     ITU-T G.8321 (2022) Amd. 1 (08/2024)
+–     ITU-T G.9730.1 (08/2024): Dedicated scientific sensing submarine cable system
+–     ITU-T G.9730.2 (08/2024): Scientific monitoring and reliable telecommunications submarine cable systems
+–     ITU-T G.9802 (2015) Amd. 2 (08/2024)
+–     ITU-T G.9804.2 (2021) Amd. 2 (08/2024)
+
+–   ITU-T L.101 (08/2024): Optical fibre cables for directly buried application
+–   ITU-T L.103 (08/2024): Optical fibre cables for indoor applications
+–   ITU-T L.1017 (08/2024): Environmental performance scoring of smartphones
+–   ITU-T L.1260 (08/2024): Reference Model of a Factory Energy Management System
+–   ITU-T L.1327 (08/2024): Guidelines on the selection of cooling technologies for data centres in multiple
+    scenarios
+–   ITU-T L.1384 (08/2024): Implementation of a virtual micro power station at base station sites
+–   ITU-T L.1490 (08/2024): Framework and Functional Requirements of Greenhouse Gas Emissions Management
+    System using Digital Technology for Public Sector
+–   ITU-T L.1632 (08/2024): Identification method for building infrastructure equipment in a sustainable city
+–   ITU-T Y.4226 (08/2024): Functional framework and requirements for disaster monitoring system
+–   ITU-T Y.4227 (08/2024): IoT requirements and capabilities for support of blockchain
+–   ITU-T Y.4228 (08/2024): Requirements and framework of Industrial IoT (IIoT) infrastructure for smart
+    manufacturing
+–   ITU-T Y.4463 (08/2024): Framework of delegation service for Internet of things devices
+–   ITU-T Y.4501 (08/2024): Functional architecture for smart door lock service framework
+–   ITU-T Y.4502 (08/2024): Requirements and functional architecture of IoT sensing quality management service
+–   ITU-T Y.4503 (08/2024): Framework of common rule enablement for intelligent IoT services in heterogeneous
+    IoT platform environments
+–   ITU-T Y.4504 (08/2024): Service framework of prediction for intelligent IoT
+–   ITU-T Y.4505 (08/2024): Minimal Interoperability Mechanisms for smart and sustainable cities and
+    communities
+–   ITU-T Y.4705 (08/2024): Metadata model of sensing capability for disaster monitoring system
+
+
+
+
+                                         Other communication
+
+Austria
+Communication of 19.VIII.2024:
+On the occasion of the 700th anniversary of the city of Frauenkirchen, the Austrian Administration authorizes an
+Austrian amateur station to use the special call sign OE700F from 1 october to 31 December 2024.
+
+
+
+
+                                               Service Restrictions
+                                      See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area        OB
+ Seychelles                      1006 (p.13)
+ Slovakia                        1007 (p.12)
+ Malaysia                        1013 (p.5)
+ Thailand                        1034 (p.5)
+ São Tomé and Principe           1039 (p.14)
+ Uruguay                         1039 (p.14)
+ Hong Kong, China                1068 (p.4)
+ Ukraine                         1148 (p.5)
+ Türkiye                         1286 (p.17)
+ Bangladesh                      1287 (p.16)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                                   See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                                Abbreviations used
+                               ADD    Insert                   PAR    Paragraph
+                               COL    Column                   REP    Replace
+                               LIR    Read                     SUP    Delete
+                               P      Page(s)
+
+
+
+
+                             List of Ship Stations and Maritime Mobile
+                                     Service Identity Assignments
+                                                (List V)
+                                            Edition of 2024
+
+                                                   Section VI
+
+ADD
+
+
+        UN07    Marcomtrade Co. Compound East Towers, El-Ryadah St., Smouha, Alex 21615,
+                Alexandria, Egypt.
+                E-mail: aaic@marcomtrade.com, Tel : +20 12 22 314 876, +20 15 56 41 49 42,
+                Fax: +20 3 42 399 82, URL: www.marcomtrade.com,
+                Contact Person: Karim Mohamed Abo El-Dahab, Senior Specialist ,Navigation Services,
+                E-mail: kmohamed@tra.gov.eg, Tel: (202) 3534-4181, Fax: (202) 3534-4155.
+
+
+
+
+           Mobile Network Codes (MNC) for the international identification plan
+                          for public networks and subscriptions
+                  (According to Recommendation ITU-T E.212 (09/2016))
+                             (Position on 15 November 2023)
+                                     (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                      (Amendment No. 17)
+
+
+   Country/Geographical area                 MCC+MNC                                      Operator/Network
+
+Kazakhstan        ADD
+                                               401 10          Freedom Telecom Operations LLP
+
+Spain      ADD
+                                               214 02          OLAMO MOBILE, S.L. UNIPERSONAL
+
+
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+
+
+
+                                      List of ITU Carrier Codes
+                      (According to Recommendation ITU-T M.1400 (03/2013))
+                                  (Position on 15 September 2014)
+                                     (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                                     (Amendment No. 177)
+
+
+ Country or area/ISO code                                   Company Code                    Contact
+  Company Name/Address                                       (carrier code)
+
+
+Austria / AUT       ADD
+ FiberEins TK GmbH                                               FIBER                     Mr Herbert Flatscher
+ Castelligasse 1/15                                                                        Tel:    +43 1 2810281
+ 1050 WIEN                                                                                 Fax: +43 1 2810281-99
+                                                                                           E-mail: flatscher@fibereins.at
+
+
+
+
+                            List of International Signalling Point Codes (ISPC)
+                         (According to Recommendation ITU-T Q.708 (03/1999))
+                                          (Position on 1 July 2024)
+
+                                       (Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024)
+                                                        (Amendment No. 5)
+
+ Country/
+ Geographical Area
+ ISPC           DEC           Unique name of the signalling point         Name of the signalling point operator
+
+
+ Kazakhstan ADD
+ 4-076-7        8807          ...                                         Freedom Telecom Operations LLP
+
+ Kyrgyzstan ADD
+ 4-167-1        9529          ST STP DE                                   City Soft
+
+ Spain ADD
+ 2-028-2        4322          Madrid                                      OLAMO MOBILE, S.L. UNIPERSONAL
+
+
+____________
+ISPC:     International Signalling Point Codes.
+          Codes de points sémaphores internationaux (CPSI).
+          Códigos de puntos de señalización internacional (CPSI).
+
+
+
+

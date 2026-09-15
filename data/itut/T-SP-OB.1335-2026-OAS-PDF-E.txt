@@ -1,0 +1,953 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1335              1.III.2026                 (Information received by 13 February 2026) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                3
+Approval and deletion of ITU-T Recommendations……………………………………………………………………………………                                                                                      4
+Telephone Service:
+     Democratic People’s Republic of Korea (Ministry of Information and Communications Technology
+       Industry, Democratic People’s Republic of Korea) ...............................................................................                             5
+List of International Monitoring Stations (List VIII) .........................................................................................                     6
+Service Restrictions .........................................................................................................................................     15
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                15
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................         16
+List of ITU Carrier Codes .................................................................................................................................        17
+List of International Signalling Point Codes (ISPC) ..........................................................................................                     17
+National Numbering Plan ...............................................................................................................................            18
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1336             15.III.2026            27.II.2026
+               1337              1.IV.2026             13.III.2026
+               1338             15.IV.2026             27.III.2026
+               1339              1.V.2026              15.IV.2026
+               1340             15.V.2026              30.IV.2026
+               1341              1.VI.2026             15.V.2026
+               1342             15.VI.2026             29.V.2026
+               1343             1.VII.2026             15.VI.2026
+               1344             15.VII.2026            30.VI.2026
+               1345             1.VIII.2026           15.VII.2026
+               1346            15.VIII.2026           31.VII.2026
+               1347              1.IX.2026            14.VIII.2026
+               1348             15.IX.2026            31.VIII.2026
+               1349              1.X.2026              15.IX.2026
+               1350             15.X.2026              30.IX.2026
+               1351              1.XI.2026             15.X.2026
+               1352             15.XI.2026             31.X.2026
+               1353             1.XII.2026             13.XI.2026
+               1354             15.XII.2026            30.XI.2026
+               1355              1.I.2027             11.XII.2026
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1317 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 June 2025)
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                         Approval and deletion of ITU-T Recommendations
+Approved Recommendations:
+By AAP-30, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+-        ITU-T G.798 (02/2026): Characteristics of optical transport network hierarchy equipment functional blocks -
+         Overview
+-        ITU-T G.798.2 (02/2026): Characteristics of optical transport network hierarchy equipment functional blocks -
+         Media
+-        ITU-T G.798.3 (02/2026): Characteristics of optical transport network hierarchy equipment functional blocks -
+         OTU and ODU
+-        ITU-T G.798.4 (02/2026): Characteristics of optical transport network hierarchy equipment functional blocks -
+         FlexO
+-        ITU-T G.8275.2 (02/2026): Precision time protocol telecom profile for phase/time synchronization with partial
+         timing support from the network
+-        ITU-T G.9804.3 (2021) Amd. 3 (02/2026): 50-Gigabit-capable passive optical networks (50G-PON): Physical media
+         dependent (PMD) layer specification - Amendment 3
+-        ITU-T L.1801 (02/2026): Guidelines for assessing the environmental impact of artificial intelligence systems
+
+
+By TSB Circular CIR-115 of 16 February 2026, it was announced that the following ITU-T Recommendations were
+approved in accordance with the procedures outlined in Resolution 1:
+-        ITU-T D.502R (02/2026): International Mobile Roaming in Asia and Oceania
+
+
+Deleted Recommendations:
+None
+
+
+
+
+                                           Telephone Service
+                                      (Recommendation ITU-T E.164)
+                                              See URL: www.itu.int/itu-t/nnp
+
+
+Democratic People’s Republic of Korea (country code +850)
+Communication of 27.II.2026:
+The Ministry of Information and Communications Technology Industry, Democratic People’s Republic of Korea,
+announces the following number change for numbering plan for Democratic People’s Republic of Korea:
+
+
+                         Description of number change for national ITU-T E.164 numbering plan
+                                                for country code +850:
+
+                       N(S)N (national (significant)
+  Communicated                                           Usage            Parallel running
+                                number)
+  time and date                                         of E.164                                     Operator
+    of change              Old             New          number         Begins          Ends
+                        number           number
+   20:00,             195 XXX XXXX     195 XXX XXXX     Cellular                N/A             Korea Posts and
+   2025‑12‑20                                           Mobile                                  Telecommunications
+                                                        Service                                 Corporation (KPTC)
+Note: Change code 195 from a fixed-network area code to a mobile-network code.
+
+
+Contact:
+           Mr. Kim Mun Song
+           Official, Department of Foreign Affairs
+           Ministry of Information and Communications Technology Industry
+           Oesong-Dong, Central District
+           PYONGYANG
+           Democratic People’s Republic of Korea
+           Tel: +850 2 381 3180
+           Fax: +850 2 381 4418
+           Email: mptird@star-co.net.kp
+
+
+
+
+                                 List of International Monitoring Stations
+                                                  (List VIII)
+                                                      Edition of 2025
+                                                       (Amendment No. 1)
+
+
+                                                              PART I
+                           STATIONS IN THE TERRESTRIAL RADIOCOMMUNICATION SERVICES
+
+AUT – Austria
+           REP    (Centralizing office)
+
+         Centralizing office                 Postal address             Telephone, Telefax, Electronic-mail       Remarks
+
+ Federal Ministry for Housing, Arts,                               PHONE: +43 1 71606666413
+                                          Radetzkystrasse 2
+ Culture, Media and Sport                                          EMAIL: thomas.weber@bmwkms.gv.at
+                                          1030 Wien
+ Centralizing Office for Monitoring                                EMAIL: siii-technik@bmwkms.gv.at
+
+P1         REP    by alphabetical order
+                  Station: Wien (IMS)
+
+     Name of the station                          Postal address                        Telephone, Telefax, Electronic-mail
+
+                               Fernmeldebüro, Telecommunications Authority
+                               Republic Austria
+                                                                                       PHONE: +43 1 71100 654488
+ Wien (IMS)                    17 Krapfenwaldgasse
+                                                                                       EMAIL: funkmonitoring@fb.gv.at
+                               1190 Wien
+                               Austria
+
+
+
+ Geographical         Types of                   Ranges of         Hours of service                     Remarks
+ coordinates        measurements              frequencies for          (UTC)
+                                            each measurement
+ 48°19'41"N      Direction-finding         (100) 500 kHz -                               Correlative interferometer.
+                                                                   HX
+ 016°28'42"E     measurements              30 MHz
+
+                                                                                         If necessary, direction-finding
+                                                                                         measurements are carried out by
+ 48°15'45"N      Direction-finding                                                       mobile monitoring stations (van).
+                                           30 MHz - 6 GHz          H24
+ 016°20'08"E     measurements
+
+                                                                                         Correlation.
+ 48°15'45"N      Frequency
+                                           9 kHz - 90 GHz          H24
+ 016°20'08"E     measurements
+                 Field strength or                                                       If necessary, measurements are
+ 48°15'45"N                                                                              carried out by mobile monitoring
+                 power flux-density        9 kHz - 90 GHz          H24
+ 016°20'08"E                                                                             stations (van).
+                 measurements
+                                                                                         If necessary, measurements are
+ 48°15'45"N      Bandwidth                                                               carried out by mobile monitoring
+                                           9 kHz - 90 GHz          H24
+ 016°20'08"E     measurements                                                            stations (van).
+ 48°15'45"N      Automatic spectrum
+                                           9 kHz - 90 GHz          H24
+ 016°20'08"E     occupancy surveys
+ 46°38'07"N      Frequency
+                                           9 kHz - 30 MHz          HX
+ 014°29'43"E     measurements
+
+
+
+ Geographical         Types of                  Ranges of          Hours of service                   Remarks
+ coordinates        measurements             frequencies for           (UTC)
+                                           each measurement
+                 Field strength or
+ 46°38'07"N
+                 power flux-density        9 kHz - 30 MHz          HX
+ 014°29'43"E
+                 measurements
+ 46°38'07"N      Direction-finding         (100) 300 kHz - 30                            Correlative interferometer.
+                                                                   HX
+ 014°29'43"E     measurements              MHz
+ 43°38'08"N      Automatic spectrum
+                                           9 kHz - 30 MHz          HX
+ 014°29'43"E     occupancy surveys
+
+
+BLR – Belarus
+           REP    (Centralizing office)
+
+           Centralizing office                  Postal address          Telephone, Telefax, Electronic-mail     Remarks
+
+ State Supervisory                                                      PHONE : +375 17 208-99-99
+ Department for Telecommunications          33-2n, Kirov Street         TELEFAX: +375 17 321-20-66
+ Ministry of Communications and             220030 Minsk                EMAIL : international@belgie.by
+ Informatization
+                                                                        EMAIL : belgie@belgie.by
+
+           REP    by alphabetical order
+                  Station: Minsk (IMS)
+
+     Name of the station                          Postal address                        Telephone, Telefax, Electronic-mail
+
+                                 State Supervisory
+                                 Department for Telecommunications
+                                                                                       PHONE : +375 17 208-99-99
+                                 Ministry of Communications and
+                                                                                       TELEFAX : +375 17 321-20-66
+ Minsk (IMS)                     Informatization
+                                                                                       EMAIL : belgie@belgie.by
+                                 33-2n,Kirov Street
+                                                                                       EMAIL : international@belgie.by
+                                 220030 Minsk
+                                 Belarus
+
+
+
+ Geographical    Types of measurements         Ranges of frequencies        Hours of service              Remarks
+ coordinates                                   for each measurement             (UTC)
+ 53°48'04"N      Frequency
+                                              10 kHz - 6 GHz               0500-1400
+ 027°27'38"E     measurements
+                 Field strength or power
+ 53°48'04"N
+                 flux-density                 10 kHz - 6 GHz               0500-1400
+ 027°27'38"E
+                 measurements
+ 53°48'04"N      Direction-finding                                                              Correlative interferometer.
+                                              20 MHz - 3 GHz               0500-1400
+ 027°27'38"E     measurements
+ 53°48'04"N      Bandwidth
+                                              10 kHz - 6 GHz               0500-1400
+ 027°27'38"E     measurements
+ 53°48'04"N      Automatic spectrum
+                                              10 kHz - 6 GHz               0500-1400
+ 027°27'38"E     occupancy surveys
+
+
+
+
+         ADD    by alphabetical order
+                Station: Brest (IMS)
+
+   Name of the station                      Postal address                    Telephone, Telefax, Electronic-mail
+
+                             State Supervisory
+                             Department for Telecommunications
+                                                                             PHONE: +375 17 2089999
+                             Ministry of Communications and
+                                                                             TELEFAX: +375 17 3212066
+Brest (IMS)                  Informatization
+                                                                             EMAIL: belgie@belgie.by
+                             33-2n, Kirov Street
+                                                                             EMAIL: international@belgie.by
+                             220030 Minsk
+                             Belarus
+
+
+
+Geographical   Types of measurements     Ranges of frequencies   Hours of service               Remarks
+coordinates                              for each measurement        (UTC)
+52°05'23"N     Frequency
+                                         10 kHz - 3 GHz          0500-1400
+023°42'36"E    measurements
+               Field strength or power
+52°05'23"N
+               flux-density              10 kHz - 3 GHz          0500-1400
+023°42'36"E
+               measurements
+52°05'23"N     Direction-finding                                                      Correlative
+                                         20 MHz - 3 GHz          0500-1400            interferometer.
+023°42'36"E    measurements
+52°05'23"N     Bandwidth
+                                         10 kHz - 3 GHz          0500-1400
+023°42'36"E    measurements
+52°05'23"N     Automatic spectrum
+                                         10 kHz - 3 GHz          0500-1400
+023°42'36"E    occupancy surveys
+
+                Station: Gomel (IMS)
+
+   Name of the station                      Postal address                    Telephone, Telefax, Electronic-mail
+
+                             State Supervisory
+                             Department for Telecommunications
+                                                                             PHONE: +375 17 2089999
+                             Ministry of Communications and
+                                                                             TELEFAX: +375 17 3212066
+Gomel (IMS)                  Informatization
+                                                                             EMAIL: belgie@belgie.by
+                             33-2n, Kirov Street
+                                                                             EMAIL: international@belgie.by
+                             220030 Minsk
+                             Belarus
+
+
+
+Geographical   Types of measurements     Ranges of frequencies   Hours of service               Remarks
+coordinates                              for each measurement        (UTC)
+52°28'47"N     Frequency
+                                         10 kHz - 3 GHz          0500-1400
+030°59'22"E    measurements
+               Field strength or power
+52°28'47"N
+               flux-density              10 kHz - 3 GHz          0500-1400
+030°59'22"E
+               measurements
+52°28'47"N     Direction-finding                                                      Correlative interferometer.
+                                         20 kHz - 3 GHz          0500-1400
+030°59'22"E    measurements
+52°28'47"N     Bandwidth
+                                         10 kHz - 3 GHz          0500-1400
+030°59'22"E    measurements
+52°28'47"N     Automatic spectrum
+                                         10 kHz - 3 GHz          0500-1400
+030°59'22"E    occupancy surveys
+
+
+
+
+                 Station: Grodno (IMS)
+
+   Name of the station                       Postal address                    Telephone, Telefax, Electronic-mail
+
+                              State Supervisory
+                              Department for Telecommunications
+                                                                              PHONE: +375 17 2089999
+                              Ministry of Communications and
+                                                                              TELEFAX: +375 17 3212066
+Grodno (IMS)                  Informatization
+                                                                              EMAIL: belgie@belgie.by
+                              33-2n, Kirov Street
+                                                                              EMAIL: international@belgie.by
+                              220030 Minsk
+                              Belarus
+
+
+
+Geographical    Types of measurements     Ranges of frequencies   Hours of service               Remarks
+coordinates                               for each measurement        (UTC)
+53°41'31"N      Frequency
+                                          10 kHz - 3 GHz          0500-1400
+023°49'30"E     measurements
+                Field strength or power
+53°41'31"N
+                flux-density              10 kHz - 3 GHz          0500-1400
+023°49'30"E
+                measurements
+53°41'31"N      Direction-finding                                                      Correlative interferometer.
+                                          20 kHz - 3 GHz          0500-1400
+023°49'30"E     measurements
+53°41'31"N      Bandwidth
+                                          10 kHz - 3 GHz          0500-1400
+023°49'30"E     measurements
+53°41'31"N      Automatic spectrum
+                                          10 kHz - 3 GHz          0500-1400
+023°49'30"E     occupancy surveys
+
+                 Station: Mogilev (IMS)
+
+   Name of the station                       Postal address                    Telephone, Telefax, Electronic-mail
+
+                              State Supervisory
+                              Department for Telecommunications
+                                                                              PHONE: +375 17 2089999
+                              Ministry of Communications and
+                                                                              TELEFAX: +375 17 3212066
+Mogilev (IMS)                 Informatization
+                                                                              EMAIL: belgie@belgie.by
+                              33-2n, Kirov Street
+                                                                              EMAIL: international@belgie.by
+                              220030 Minsk
+                              Belarus
+
+
+
+Geographical    Types of measurements     Ranges of frequencies   Hours of service               Remarks
+coordinates                               for each measurement        (UTC)
+53°54'34"N      Frequency
+                                          10 kHz - 3 GHz          0500-1400
+030°19'28"E     measurements
+                Field strength or power
+53°54'34"N
+                flux-density              10 kHz - 3 GHz          0500-1400
+030°19'28"E
+                measurements
+53°54'34"N      Direction-finding                                                      Correlative interferometer.
+                                          20 kHz - 3 GHz          0500-1400
+030°19'28"E     measurements
+53°54'34"N      Bandwidth
+                                          10 kHz - 3 GHz          0500-1400
+030°19'28"E     measurements
+53°54'34"N      Automatic spectrum
+                                          10 kHz - 3 GHz          0500-1400
+030°19'28"E     occupancy surveys
+
+
+
+
+                  Station: Vitebsk (IMS)
+
+    Name of the station                           Postal address                          Telephone, Telefax, Electronic-mail
+
+                               State Supervisory
+                               Department for Telecommunications
+                                                                                         PHONE: +375 17 2089999
+                               Ministry of Communications and
+                                                                                         TELEFAX: +375 17 3212066
+ Vitebsk (IMS)                 Informatization
+                                                                                         EMAIL: belgie@belgie.by
+                               33-2n, Kirov Street
+                                                                                         EMAIL: international@belgie.by
+                               220030 Minsk
+                               Belarus
+
+
+
+ Geographical    Types of measurements          Ranges of frequencies        Hours of service               Remarks
+ coordinates                                    for each measurement             (UTC)
+ 52°10'21"N            Frequency
+                                                    10 kHz - 3 GHz              0500-1400
+ 030°13'11"E          measurements
+                 Field strength or power
+ 53°10'21"N
+                        flux-density                10 kHz - 3 GHz              0500-1400
+ 030°13'11"E
+                      measurements
+ 55°10'21"N          Direction-finding                                                             Correlative interferometer.
+                                                    20 kHz - 3 GHz              0500-1400
+ 030°13'11"E          measurements
+ 55°10'21"N            Bandwidth
+                                                    10 kHz - 3 GHz              0500-1400
+ 030°13'11"E          measurements
+ 55°10'21"N        Automatic spectrum
+                                                    10 kHz - 3 GHz              0500-1400
+ 030°13'11"E        occupancy surveys
+
+
+MLT – Malta
+           ADD    (Centralizing office)
+
+         Centralizing office                Postal address           Telephone, Telefax, Electronic-mail        Remarks
+
+                                          Valletta Waterfront
+                                          Pinto Wharf
+ Malta Communications Authority           Floriana              PHONE: +356 2133 6840
+                                          FRN 1913              EMAIL: interference.mca@mca.org.mt
+                                          Malta
+
+
+           ADD    by alphabetical order
+                  Station: Fawwara
+
+       Name of the station                         Postal address                      Telephone, Telefax, Electronic-mail
+
+                                      MATS Radar site                               PHONE: +356 2133 6840
+ Fawwara
+                                      Fawwara                                       EMAIL: interference.mca@mca.org.mt
+
+
+
+ Geographical         Types of                   Ranges of            Hours of service                  Remarks
+ coordinates        measurements              frequencies for             (UTC)
+                                            each measurement
+ 35°50'32"N      Frequency
+                                           100 kHz - 18 GHz          24 X 7 BASIS
+ 014°24'56"E     measurements
+                                                                                           Field strength measurements are
+                 Field strength or                                                         carried out using omnidirectional
+ 35°50'32"N                                                                                antennas situated at rooftop level,
+                 power flux-density        100 kHz - 18 GHz          24 X 7 BASIS
+ 014°24'56"E                                                                               hence any reflections may impact
+                 measurements
+                                                                                           the accuracy of measurements.
+
+Geographical        Types of                Ranges of           Hours of service                    Remarks
+coordinates       measurements           frequencies for            (UTC)
+                                       each measurement
+                                                                                      The monitoring system is capable
+                                                                                      to geolocate signals using the Time
+                                                                                      Difference of Arrival (TDOA)
+                                                                                      technique, provided that the same
+               Direction-finding                                                      signal is received at the 3
+               measurements                                                           monitoring locations. The
+                                                                                      frequency range of this capability is
+                                                                                      between 100 kHz and 18 GHz, with
+                                                                                      varying levels of accuracy.
+35°50'32"N     Bandwidth                                        MON - THURS:
+                                       100 kHz - 18 GHz
+014°24'56"E    measurements                                     07:30-15:30 CET F
+35°50'32"N     Automatic spectrum
+                                       100 kHz - 18 GHz         24 X 7 BASIS
+014°24'56"E    occupancy surveys
+
+                Station: Naxxar
+
+   Name of the station                         Postal address                     Telephone, Telefax, Electronic-mail
+
+                             Marija Regina College                             PHONE: +356 2133 6840
+Naxxar
+                             Naxxar                                            EMAIL: interference.mca@mca.org.mt
+
+
+
+Geographical        Types of                Ranges of           Hours of service                    Remarks
+coordinates       measurements           frequencies for            (UTC)
+                                       each measurement
+35°54'38"N     Frequency
+                                       100 kHz - 18 GHz         24 X 7 BASIS
+014°26'51"E    measurements
+                                                                                      Field strength measurements are
+               Field strength or                                                      carried out using omnidirectional
+35°54'38"N                                                                            antennas situated at rooftop level,
+               power flux-density      100 kHz - 18 GHz         24 X 7 BASIS
+014°26'51"E                                                                           hence any reflections may impact
+               measurements
+                                                                                      the accuracy of measurements.
+                                                                                      The monitoring system is capable
+                                                                                      to geolocate signals using the Time
+                                                                                      Difference of Arrival (TDOA)
+                                                                                      technique, provided that the same
+               Direction-finding                                                      signal is received at the 3
+               measurements                                                           monitoring locations. The
+                                                                                      frequency range of this capability is
+                                                                                      between 100 kHz and 18 GHz, with
+                                                                                      varying levels of accuracy.
+35°54'38"N     Bandwidth                                        MON - THURS:
+                                       100 kHz - 18 GHz
+014°26'51"E    measurements                                     07:30-15:30 CET F
+35°54'38"N     Automatic spectrum
+                                       100 kHz - 18 GHz         24 X 7 BASIS
+014°26'51"E    occupancy surveys
+
+                Station: Valletta
+
+   Name of the station                         Postal address                       Telephone, Telefax, Electronic-mail
+
+                             Pjazza Kastilja                                    PHONE: +356 2133 6840
+Valletta
+                             Valletta                                           EMAIL: interference.mca@mca.org.mt
+
+
+
+
+ Geographical          Types of                    Ranges of         Hours of service                   Remarks
+ coordinates         measurements               frequencies for          (UTC)
+                                              each measurement
+ 35°53'43"N      Frequency
+                                             100 kHz - 18 GHz        24 X 7 BASIS
+ 014°30'36"E     measurements
+                                                                                           Field strength measurements are
+                 Field strength or                                                         carried out using omnidirectional
+ 35°53'43"N                                                                                antennas situated at rooftop level,
+                 power flux-density          100 kHz - 18 GHz        24 X 7 BASIS
+ 014°30'36"E                                                                               hence any reflections may impact
+                 measurements
+                                                                                           the accuracy of measurements.
+                                                                                           The monitoring system is capable
+                                                                                           to geolocate signals using the Time
+                                                                                           Difference of Arrival (TDOA)
+                                                                                           technique, provided that the same
+                 Direction-finding                                                         signal is received at the 3
+                 measurements                                                              monitoring locations. The
+                                                                                           frequency range of this capability is
+                                                                                           between 100 kHz and 18 GHz, with
+                                                                                           varying levels of accuracy.
+ 35°53'43"N      Bandwidth                                           MON - THURS:
+                                             100 kHz - 18 GHz
+ 014°30'36"E     measurements                                        07:30-15:30 CET F
+ 35°53'43"N      Automatic spectrum
+                                             100 kHz - 18 GHz        24 X 7 BASIS
+ 014°30'36"E     occupancy surveys
+
+
+HOL – Netherlands
+           REP      (Centralizing office)
+
+         Centralizing office                   Postal address          Telephone, Telefax, Electronic-mail         Remarks
+
+
+ Dutch Authority for Digital                P.O. Box 450             PHONE: +31 88 041 60 00
+ Infrastructure                             9700 Al Groningen        TELEFAX: +31 50 5877400
+                                                                     EMAIL: info@rdi.nl
+
+           REP      by alphabetical order
+                    Station: Amersfoort (AT_EZ-Nera) (IMS)
+
+    Name of the station                             Postal address                        Telephone, Telefax, Electronic-mail
+
+                                 P.O. Box 1671
+ Amersfoort (AT_EZ-Nera)                                                                 PHONE: +31 6 4605 8641
+                                 3800 BR Amersfoort
+ (IMS)                                                                                   EMAIL: monitoring@rdi.nl
+                                 Netherlands
+
+
+
+ Geographical       Types of measurements          Ranges of frequencies      Hours of service               Remarks
+ coordinates                                       for each measurement           (UTC)
+                 Field strength or power
+ 52°17'21"N                                                                                        Located in Axel.
+                 flux-density                      20 MHz - 3000 MHz          H24
+ 004°52'06"E
+                 measurements
+                 Field strength or power
+ 51°35'26"N                                                                                        Located in Breda.
+                 flux-density                      20 MHz - 3000 MHz          H24
+ 004°48'41"E
+                 measurements
+                 Field strength or power
+ 51°27'13"N                                                                                        Located in Eindhoven.
+                 flux-density                      20 MHz - 3000 MHz          H24
+ 005°28'44"E
+                 measurements
+
+
+
+
+Geographical    Types of measurements    Ranges of frequencies   Hours of service            Remarks
+coordinates                              for each measurement        (UTC)
+               Field strength or power
+53°13'28"N                                                                          Located in Groningen.
+               flux-density              20 MHz - 3000 MHz       H24
+006°31'40"E
+               measurements
+               Field strength or power
+52°23'14"N                                                                          Located in 't Harde.
+               flux-density              20 MHz - 3000 MHz       H24
+005°54'58"E
+               measurements
+               Field strength or power
+52°40'05"N                                                                          Located in Heerhugowaard.
+               flux-density              20 MHz - 3000 MHz       H24
+004°49'28"E
+               measurements
+               Field strength or power
+52°16'41"N                                                                          Located in Hengelo.
+               flux-density              20 MHz - 3000 MHz       H24
+006°47'50"E
+               measurements
+               Field strength or power                                              Located in Hoek van
+51°59'03"N
+               flux-density              20 MHz - 3000 MHz       H24                Holland.
+004°06'58"E
+               measurements
+               Field strength or power
+52°42'50"N                                                                          Located in Hoogeveen.
+               flux-density              20 MHz - 3000 MHz       H24
+006°29'47"E
+               measurements
+               Field strength or power
+53°13'06"N                                                                          Located in Leeuwarden.
+               flux-density              20 MHz - 3000 MHz       H24
+005°44'58"E
+               measurements
+               Field strength or power
+51°50'00"N                                                                          Located in Nijmegen.
+               flux-density              20 MHz - 3000 MHz       H24
+005°48'32"E
+               measurements
+               Field strength or power
+51°00'30"N                                                                          Located in Sittard.
+               flux-density              20 MHz - 3000 MHz       H24
+005°51'20"E
+               measurements
+               Field strength or power
+52°14'37"N                                                                          Located in Wijdemeren.
+               flux-density              8 kHz – 32 MHz          H24
+005°04'37"E
+               measurements
+               Field strength or power
+52°14'32"N                                                                          Located in Wijdemeren.
+               flux-density              20 MHz - 3000 MHz       H24
+005°04'35"E
+               measurements
+52°14'41"N     Direction-finding                                                    Located in Wijdemeren.
+                                         300 kHz - 30 MHz        H24
+005°14'20"E    measurements
+52°14'32"N     Direction-finding                                                    Located in Wijdemeren.
+                                         20 MHz - 3000 MHz       H24
+005°04'35"E    measurements
+               Field strength or power
+51°56'17"N                                                                          Located in Schiedam.
+               flux-density              20 MHz - 3000 MHz       H24
+004°22'13"E
+               measurements
+51°56'17"N     Direction-finding                                                    Located in Schiedam.
+                                         20 MHz - 3000 MHz       H24
+004°22'13"E    measurements
+               Field strength or power
+52°17'21"N                                                                          Located in Amstelveen.
+               flux-density              20 MHz - 3000 MHz       H24
+004°52'06"E
+               measurements
+52°17'21"N     Direction-finding                                                    Located in Amstelveen.
+                                         20 MHz - 3000 MHz       H24
+004°52'06"E    measurements
+
+
+
+
+THA – Thailand
+           REP    by alphabetical order
+                  Station: District Office of NBTC 43 (Nakhon Sri Thammarat)
+
+    Name of the station                       Postal address                    Telephone, Telefax, Electronic-mail
+
+                               15, Benchama-Sanambin Road                      PHONE: +66 7576 4191
+ District Office of NBTC 43    Thangiew Subdistrict                            TELEFAX: +66 7576 4190
+ (Nakhon Sri Thammarat)        Mueang District                                 EMAIL: mtr_43@nbtc.go.th
+                               80280 Nakhon Sri Thammarat                      URL: http://nakhonsri.nbtc.go.th
+
+
+
+ Geographical     Types of measurements      Ranges of frequencies     Hours of service           Remarks
+ coordinates                                 for each measurement          (UTC)
+ 08°29'36"N
+                 Frequency measurements      10 kHz - 8 GHz            0130-0930
+ 099°55'39"E
+                 Field strength or power
+ 08°29'36"N
+                 flux-density                10 kHz - 8 GHz            0130-0930
+ 099°55'39"E
+                 measurements
+ 08°29'36"N      Direction-finding
+                                             20 kHz - 8 GHz            0130-0930
+ 099°55'39"E     measurements
+ 08°29'36"N
+                 Bandwidth measurements      10 kHz - 8 GHz            0130-0930
+ 099°55'39"E
+ 08°29'36"N      Automatic spectrum                                                       H24 for scheduled
+                                             10 kHz - 8 GHz            0130-0930          measurements.
+ 099°55'39"E     occupancy surveys
+
+
+
+
+                                          Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                          Call-Back
+                  and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                        AMENDMENTS TO SERVICE PUBLICATIONS
+                                                  Abbreviations used
+                               ADD    Insert                    PAR    Paragraph
+                               COL    Column                    REP    Replace
+                               LIR    Read                      SUP    Delete
+                               P      Page(s)
+
+
+
+
+          Mobile Network Codes (MNC) for the international identification plan
+                         for public networks and subscriptions
+                 (According to Recommendation ITU-T E.212 (09/2016))
+                           - Position on 15 November 2023 -
+                               Annex to ITU Operational Bulletin No. 1280 – 15.XI.2023
+                                                Amendment No. 51
+
+
+ Country / Geographical area
+ MCC + MNC                         Operator / Network
+ Australia ADD
+ 505 54                            SimCorner Pty Ltd
+ Costa Rica ADD
+ 712 07                            RING CENTRALES DE COSTA RICA S.A.
+ Germany ADD
+ 262 26                            Simsalasim Germany GmbH
+ Germany LIR
+ 262 21                            spusu Deutschland GmbH
+
+
+
+____________
+MCC: Mobile Country Code
+MNC: Mobile Network Code
+
+
+
+
+                                   List of ITU Carrier Codes
+                   (According to Recommendation ITU-T M.1400 (03/2013))
+                               (Position on 15 September 2014)
+                                Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014
+                                                Amendment No. 201
+
+
+ Country or area/ISO code                                  Company Code          Contact
+  Company Name/Address                                      (carrier code)
+
+
+Germany (Federal Republic of) / DEU             ADD
+
+ SWS TeldaNet GmbH & Co. KG                                    TN4373            Mr. Sven Lülfing
+ Robert-Bosch-Straße 9                                                           Tel: +49 7181 977981 0
+ D- 73614 Schorndorf                                                             Fax: +49 7181 977981 9
+                                                                                 Email: sven.luelfing@swsteldanet.de
+
+
+
+
+                       List of International Signalling Point Codes (ISPC)
+                    (According to Recommendation ITU-T Q.708 (03/1999))
+                                    - Position on 01 July 2024 -
+                                Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024
+                                                 Amendment No. 32
+
+
+ Country / Geographical area        Unique name of the signalling point      Name of the signalling point operator
+ ISPC             DEC
+ Spain ADD
+ 2-027-4          4316              Málaga                                   CHADEVA SUR 2001, S.L. UNIPERSONAL
+ Sweden DEL
+ 2-080-2          4738              STP-1                                    Tele2 Sverige AB
+ 2-080-3          4739              STP-2                                    Tele2 Sverige AB
+ 2-081-6          4750              SNKT1-INT                                Tele2 Sverige AB
+
+
+
+____________
+ISPC: International Signalling Point Codes.
+
+
+
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                            See URL: www.itu.int/itu-t/nnp
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 1.II.2026, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                           Country/Geographical area                         Country Code (CC)
+                  Cayman Islands                                                  +1 345
+                  Guyana                                                           +592
+
+
+
+

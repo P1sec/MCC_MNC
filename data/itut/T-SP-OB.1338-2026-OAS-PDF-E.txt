@@ -1,0 +1,2045 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1338              15.IV.2026                 (Information received by 27 March 2026) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                3
+Approval and deletion of ITU-T Recommendations……………………………………………………………………………………                                                                                      4
+Telephone Service:
+     Australia (Australian Communications and Media Authority (ACMA), Melbourne) .................................                                                  6
+Service Restrictions .........................................................................................................................................     35
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                35
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers ....................................................................................................................             36
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................         37
+List of ITU Carrier Codes .................................................................................................................................        37
+List of International Signalling Point Codes (ISPC) ..........................................................................................                     38
+National Numbering Plan ...............................................................................................................................            38
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1339              1.V.2026              15.IV.2026
+               1340             15.V.2026              30.IV.2026
+               1341              1.VI.2026             15.V.2026
+               1342             15.VI.2026             29.V.2026
+               1343             1.VII.2026             15.VI.2026
+               1344             15.VII.2026            30.VI.2026
+               1345             1.VIII.2026           15.VII.2026
+               1346            15.VIII.2026           31.VII.2026
+               1347              1.IX.2026            14.VIII.2026
+               1348             15.IX.2026            31.VIII.2026
+               1349              1.X.2026              15.IX.2026
+               1350             15.X.2026              30.IX.2026
+               1351              1.XI.2026             15.X.2026
+               1352             15.XI.2026             31.X.2026
+               1353             1.XII.2026             13.XI.2026
+               1354             15.XII.2026            30.XI.2026
+               1355              1.I.2027             11.XII.2026
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1317 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 June 2025)
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                      Approval and deletion of ITU-T Recommendations
+Approved Recommendations:
+By AAP-33, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T G.875 (2024) Amd. 1 (03/2026): Optical transport network: Protocol-neutral management information
+      model for the network element view - Amendment 1
+–     ITU-T G.876 (2021) Amd. 3 (03/2026): Management requirements and information model for the optical media
+      network - Amendment 3
+–     ITU-T G.7719 (2021) Amd. 1 (03/2026): Management information model for management-control components
+      and functions - Amendment 1
+–     ITU-T G.8052 (2024) Amd. 1 (03/2026): Protocol-neutral management information model for the Ethernet
+      transport capable network element - Amendment 1
+–     ITU-T G.8152 (2024) Amd. 1 (03/2026): Protocol-neutral management information model for MPLS-TP network
+      elements - Amendment 1
+–     ITU-T M.3080 (2021) Amd. 2 (03/2026): Framework of artificial intelligence enhanced telecom operation and
+      management (AITOM) - Amendment 2
+–     ITU-T M.3110.1 (2025) Amd. 1 (03/2026): X-interface for the management of shared network resources –
+      Protocol neutral requirements - Amendment 1
+–     ITU-T M.3111.1 (2025) Amd. 1 (03/2026): X-interface between telecom operation system and Internet e-
+      commerce platform – Protocol neutral requirements - Amendment 1
+–     ITU-T M.3173.2 (03/2026): Interface for synergy management of cloud and SDN-based networks - Protocol
+      neutral analysis
+–     ITU-T M.3183.1 (03/2026): Interface for log analysis in telecommunication management with artificial
+      intelligence - Protocol neutral requirements
+–     ITU-T M.3370 (2025) Amd. 1 (03/2026): Telecommunication preventive maintenance task – Overview -
+      Amendment 1
+–     ITU-T M.3375 (03/2026): Framework for management of cross-domain network slices in IMT-2020 networks and
+      beyond
+–     ITU-T M.3383 (2023) Amd. 1 (03/2026): Requirements for log analysis in telecom management with artificial
+      intelligence - Amendment 1
+–     ITU-T M.3392 (2025) Amd. 1 (03/2026): Requirements for telecommunication service design within smart
+      operation, management and maintenance (SOMM) - Amendment 1
+–     ITU-T X.1060 (03/2026): Framework for the creation and operation of a Cyber Defence Centre/Cyber Security
+      Centre
+–     ITU-T X.1096 (03/2026): Requirements for biometric variability management
+–     ITU-T X.1097 (03/2026): Telebiometric authentication using speaker recognition
+–     ITU-T X.1098 (03/2026): Telebiometric authentication based on information splitting
+–     ITU-T X.1268 (03/2026): Framework for out-of-band physical access control systems using beacon-initiated
+      mutual authentication
+–     ITU-T X.1400 (03/2026): Terms and definitions for distributed ledger technology
+–     ITU-T X.1415 (03/2026): Security requirements of distributed ledger technology (DLT) gateway for
+      interoperability
+–     ITU-T X.1416 (03/2026): Security requirements and framework of collaboration service for multiple blockchain
+      as a service platforms
+–     ITU-T X.1560 (03/2026): Security framework for network storage protection against malware attacks
+–     ITU-T X.1711 (03/2026): Framework of quantum key distribution (QKD) protocols in QKD network
+
+–        ITU-T X.1718 (03/2026): Security requirements and measures for quantum key distribution Network interworking
+–        ITU-T X.2014 (03/2026): Guidelines of using digital twin of network for network security
+–        ITU-T X.2310 (03/2026): Security requirements for decentralized identity management systems using distributed
+         ledger technology
+By TSB Circular CIR-124 of 01 April 2026, it was announced that the following ITU-T Recommendations were approved
+in accordance with the procedures outlined in Resolution 1:
+–        ITU-T Q.5015 (03/2026): Signalling requirements for orchestration supporting confidential computing in multi-
+         access edge computing
+–        ITU-T Q.5036 (03/2026): Data management interfaces for a public decision-making framework on intelligent
+         edge computing
+–        ITU-T Q.5055 (03/2026): Technical requirements, interfaces and generic functions of a central equipment identity
+         register (CEIR)
+Deleted Recommendations:
+None.
+
+
+
+
+                                          Telephone Service
+                                     (Recommendation ITU-T E.164)
+                                             See URL: www.itu.int/itu-t/nnp
+
+Australia (country code +61)
+Communication of 18.III.2026:
+The Australian Communications and Media Authority (ACMA), Melbourne, announces the following updated National
+Numbering Plan of Australia and notification of a new numbering plan resource.
+
+
+         Description of introduction of new resource for national E.164 numbering plan for country code +61
+       National                N(S)N number length
+  destination code
+  (NDC) or leading                                                                                Time and date of
+                        Maximum            Minimum             Usage of ITU-T E.164 number
+  digits of national                                                                                introduction
+                         length             length
+     (significant)
+   number (N(S)N)
+         0900                  10             10                Internet of things service            24.III.2025
+         0910                  10             10                Internet of things service            24.III.2025
+         0920                  10             10                Internet of things service            24.III.2025
+         0930                  10             10                Internet of things service            24.III.2025
+         0940                  10             10                Internet of things service            24.III.2025
+         1900                  10             10           Internet of things data-only service       24.III.2025
+         1910                  10             10           Internet of things data-only service       24.III.2025
+         1920                  10             10           Internet of things data-only service       24.III.2025
+        01510                  9               9                  Public safety number                24.III.2025
+        01513                  9               9                  Public safety number                24.III.2025
+         1262                  10             10                  Public safety number                24.III.2025
+
+
+
+
+                       Presentation of national ITU-T E.164 numbering plan for country code +61
+
+
+a)   Overview:
+     The minimum number length (excluding the country code) is           4 digits.
+     The maximum number length (excluding the country code) is           15 digits.
+
+b)   Link to the national database (or any applicable list) with assigned ITU-T E.164 numbers
+     within the national numbering plan (if any):
+     https://www.thenumberingsystem.com.au/#!/number-register/search
+
+c)   Link to the real-time database reflecting ported ITU-T E.164 numbers (if any):
+     N/A – managed by industry
+
+d)   Detail of numbering plan: https://www.legislation.gov.au/F2025L00409/latest/text
+
+       National         N(S)N number length
+  destination code
+  (NDC) or leading
+                       Maximum       Minimum       Usage of ITU-T E.164 number             Additional Information
+  digits of national
+                        length        length
+     (significant)
+   number (N(S)N)
+ (02) 30               10           10            Geographic number                   Newcastle charging district
+ (02) 31               10           10            Geographic number                   The following charging districts:
+                                                                                      Bathurst
+                                                                                      Cowra
+                                                                                      Lithgow
+                                                                                      Mudgee
+                                                                                      Orange
+                                                                                      Rylstone
+                                                                                      Young
+ (02) 32               10           10            Geographic number                   Wollongong charging district and
+                                                                                      Helensburgh standard zone unit
+                                                                                      in the Campbelltown charging
+                                                                                      district
+ (02) 33               10           10            Geographic number                   Gosford charging district
+ (02) 34               10           10            Geographic number                   The following charging districts:
+                                                                                      Bourke
+                                                                                      Condobolin
+                                                                                      Coonamble
+                                                                                      Dubbo
+                                                                                      Forbes
+                                                                                      Nyngan
+                                                                                      Parkes
+                                                                                      Wellington
+                                                                                      The following standard zone
+                                                                                      units in Moree charging district:
+                                                                                      Berkley Downs, Bonnay,
+                                                                                      Boorooma, Borah Tank,
+                                                                                      Cumborah, Goodooga, Grawin,
+                                                                                      Lightning Ridge, Walgett
+ (02) 35               10           10            Geographic number                   The following charging districts:
+                                                                                      Kempsey
+                                                                                      Lord Howe Island
+                                                                                      Muswellbrook
+                                                                                      Singleton
+                                                                                      Taree
+                                                                                      Wauchope
+
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(02) 36               10         10          Geographic number             The following charging districts:
+                                                                           Casino
+                                                                           Coffs Harbour
+                                                                           Grafton
+                                                                           Kyogle
+                                                                           Lismore
+                                                                           Murwillumbah
+(02) 37               10         10          Geographic number             The following charging districts:
+                                                                           Armidale
+                                                                           Barraba
+                                                                           Glen Innes
+                                                                           Gunnedah
+                                                                           Inverell
+                                                                           Narrabri
+                                                                           Tamworth
+                                                                           The following standard zone
+                                                                           units in Moree charging district:
+                                                                           Boomi, Bunnor, Careunga,
+                                                                           Collarenebri, Croppa Creek,
+                                                                           Garah, Gundabloui, Gurley,
+                                                                           Mirriadool, Moree, Mungindi,
+                                                                           Pallamallawa, Weemelah,
+                                                                           Wenna
+(02) 38               10         10          Geographic number             The following charging districts:
+                                                                           Bowral
+                                                                           Crookwell
+                                                                           Goulburn
+                                                                           Marulan
+(02) 39               10         10          Geographic number             The following charging districts:
+                                                                           Adelong
+                                                                           Griffith
+                                                                           Hay
+                                                                           Narrandera
+                                                                           Temora
+                                                                           Wagga Wagga
+                                                                           West Wyalong
+(02) 40               10         10          Geographic number             Newcastle charging district
+(02) 41               10         10          Geographic number             Newcastle charging district
+(02) 42               10         10          Geographic number             Wollongong charging district and
+                                                                           Helensburgh standard zone unit
+                                                                           in the Campbelltown charging
+                                                                           district
+(02) 43               10         10          Geographic number             Gosford charging district
+(02) 44               10         10          Geographic number             Moruya and Nowra charging
+                                                                           districts
+(02) 45               10         10          Geographic number             Windsor charging district
+(02) 46               10         10          Geographic number             Camden, Campbelltown and
+                                                                           Picton standard zone units in the
+                                                                           Campbelltown charging district
+(02) 47               10         10          Geographic number             Penrith charging district
+(02) 48               10         10          Geographic number             The following charging districts:
+                                                                           Bowral
+                                                                           Crookwell
+     National         N(S)N number length
+destination code
+(NDC) or leading
+                     Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+digits of national
+                      length      length
+   (significant)
+ number (N(S)N)
+                                                                          Goulburn
+                                                                          Marulan
+(02) 49              10         10          Geographic number             Newcastle charging district
+(02) 50              10         10          Geographic number             Albury and Corryong charging
+                                                                          districts
+(02) 51              10         10          Geographic number             Canberra charging district
+(02) 52              10         10          Geographic number             Canberra charging district
+(02) 53              10         10          Geographic number             The following charging districts:
+                                                                          Bathurst
+                                                                          Cowra
+                                                                          Lithgow
+                                                                          Mudgee
+                                                                          Orange
+                                                                          Rylstone
+                                                                          Young
+(02) 54              10         10          Geographic number             Bega and Cooma charging
+                                                                          districts
+(02) 55              10         10          Geographic number             The following charging districts:
+(except (02) 5550)                                                        Kempsey
+                                                                          Lord Howe Island
+                                                                          Muswellbrook
+                                                                          Singleton
+                                                                          Taree
+                                                                          Wauchope
+(02) 56              10         10          Geographic number             The following charging districts:
+                                                                          Casino
+                                                                          Coffs Harbour
+                                                                          Grafton
+                                                                          Kyogle
+                                                                          Lismore
+                                                                          Murwillumbah
+(02) 57              10         10          Geographic number             The following charging districts:
+                                                                          Armidale
+                                                                          Barraba
+                                                                          Glen Innes
+                                                                          Gunnedah
+                                                                          Inverell
+                                                                          Narrabri
+                                                                          Tamworth
+                                                                          The following standard zone
+                                                                          units in Moree charging district:
+                                                                          Boomi, Bunnor, Careunga,
+                                                                          Collarenebri, Croppa Creek,
+                                                                          Garah, Gundabloui, Gurley,
+                                                                          Mirriadool, Moree, Mungindi,
+                                                                          Pallamallawa, Weemelah,
+                                                                          Wenna
+(02) 58              10         10          Geographic number             The following charging districts:
+                                                                          Bourke
+                                                                          Condoblin
+                                                                          Coonamble
+                                                                          Dubbo
+                                                                          Forbes
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+                                                                           Nyngan
+                                                                           Parkes
+                                                                           Wellington
+                                                                           The following standard zone
+                                                                           units in Moree charging district:
+                                                                           Berkley Downs, Bonnay,
+                                                                           Boorooma, Borah Tank,
+                                                                           Cumborah, Goodooga, Grawin,
+                                                                           Lightning Ridge, Walgett
+(02) 59               10         10          Geographic number             The following charging districts:
+                                                                           Adelong
+                                                                           Griffith
+                                                                           Hay
+                                                                           Narrandera
+                                                                           Temora
+                                                                           Wagga Wagga
+                                                                           West Wyalong
+(02) 60               10         10          Geographic number             Albury and Corryong charging
+                                                                           districts
+(02) 61               10         10          Geographic number             Canberra charging district
+(02) 62               10         10          Geographic number             Canberra charging district
+(02) 63               10         10          Geographic number             The following charging districts:
+                                                                           Bathurst
+                                                                           Cowra
+                                                                           Lithgow
+                                                                           Mudgee
+                                                                           Orange
+                                                                           Rylstone
+                                                                           Young
+(02) 64               10         10          Geographic number             Bega and Cooma charging
+                                                                           districts
+(02) 65               10         10          Geographic number             The following charging districts:
+                                                                           Kempsey
+                                                                           Lord Howe Island
+                                                                           Muswellbrook
+                                                                           Singleton
+                                                                           Taree
+                                                                           Wauchope
+(02) 66               10         10          Geographic number             The following charging districts:
+                                                                           Casino
+                                                                           Coffs Harbour
+                                                                           Grafton
+                                                                           Kyogle
+                                                                           Lismore
+                                                                           Murwillumbah
+(02) 67               10         10          Geographic number             The following charging districts:
+                                                                           Armidale
+                                                                           Barraba
+                                                                           Glen Innes
+                                                                           Gunnedah
+                                                                           Inverell
+                                                                           Narrabri
+                                                                           Tamworth
+     National         N(S)N number length
+destination code
+(NDC) or leading
+                     Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+digits of national
+                      length      length
+   (significant)
+ number (N(S)N)
+                                                                          The following standard zone
+                                                                          units in Moree charging district:
+                                                                          Boomi, Bunnor, Careunga,
+                                                                          Collarenebri, Croppa Creek,
+                                                                          Garah, Gundabloui, Gurley,
+                                                                          Mirriadool, Moree, Mungindi,
+                                                                          Pallamallawa, Weemelah,
+                                                                          Wenna
+(02) 68              10         10          Geographic number             The following charging districts:
+                                                                          Bourke
+                                                                          Condoblin
+                                                                          Coonamble
+                                                                          Dubbo
+                                                                          Forbes
+                                                                          Nyngan
+                                                                          Parkes
+                                                                          Wellington
+                                                                          The following standard zone
+                                                                          units in Moree charging district:
+                                                                          Berkley Downs, Bonnay,
+                                                                          Boorooma, Borah Tank,
+                                                                          Cumborah, Goodooga, Grawin,
+                                                                          Lightning Ridge, Walgett
+(02) 69              10         10          Geographic number             The following charging districts:
+                                                                          Adelong
+                                                                          Griffith
+                                                                          Hay
+                                                                          Narrandera
+                                                                          Temora
+                                                                          Wagga Wagga
+                                                                          West Wyalong
+(02) 70              10         10          Geographic number             Sydney charging district
+(02) 71              10         10          Geographic number             Sydney charging district
+(02) 72              10         10          Geographic number             Sydney standard zone unit
+(02) 73              10         10          Geographic number             Sydney standard zone unit
+(02) 74              10         10          Geographic number             Sydney standard zone unit
+(02) 75              10         10          Geographic number             Engadine and Sutherland
+                                                                          standard zone units
+(02) 76              10         10          Geographic number             Sydney standard zone unit
+(02) 77              10         10          Geographic number             Sydney standard zone unit
+(02) 78              10         10          Geographic number             Parramatta standard zone unit
+(02) 79              10         10          Geographic number             Sydney charging district
+(02) 80              10         10          Geographic number             Sydney standard zone unit
+(02) 81              10         10          Geographic number             Bankstown and Liverpool
+                                                                          standard zone units
+(02) 82              10         10          Geographic number             Sydney standard zone unit
+(02) 83              10         10          Geographic number             Sydney standard zone unit
+(02) 84              10         10          Geographic number             Avalon Beach, Dural and Terrey
+                                                                          Hills standard zone units
+(02) 85              10         10          Geographic number             Engadine, Sutherland and
+                                                                          Sydney standard zone units
+(02) 86              10         10          Geographic number             Blacktown standard zone unit
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(02) 87               10         10          Geographic number             Bankstown and Liverpool
+                                                                           standard zone units
+(02) 88               10         10          Geographic number             Blacktown, Parramatta and
+                                                                           Sydney standard zone units
+(02) 89               10         10          Geographic number             Avalon Beach, Dural and Terrey
+                                                                           Hills standard zone units
+(02) 90               10         10          Geographic number             Sydney standard zone unit
+(02) 91               10         10          Geographic number             Sydney standard zone unit
+(02) 92               10         10          Geographic number             Sydney standard zone unit
+(02) 93               10         10          Geographic number             Sydney standard zone unit
+(02) 94               10         10          Geographic number             Avalon Beach, Dural, Sydney and
+                                                                           Terrey Hills standard zone units
+(02) 95               10         10          Geographic number             Engadine, Sutherland and
+                                                                           Sydney standard zone units
+(02) 96               10         10          Geographic number             Sydney standard zone unit
+(02) 97               10         10          Geographic number             Bankstown, Liverpool and
+                                                                           Sydney standard zone units
+(02) 98               10         10          Geographic number             Blacktown, Parramatta and
+                                                                           Sydney standard zone units
+(02) 99               10         10          Geographic number             Avalon Beach, Dural, Sydney and
+                                                                           Terrey Hills standard zone units
+(03) 30               10         10          Geographic number             The following charging districts:
+                                                                           Balranald
+                                                                           Hopetoun
+                                                                           Mildura
+                                                                           Ouyen
+                                                                           Swan Hill
+(03) 31               10         10          Geographic number             Bairnsdale, Morwell and Sale
+                                                                           charging districts
+(03) 32               10         10          Geographic number             Colac and Geelong charging
+                                                                           districts
+(03) 33               10         10          Geographic number             The following charging districts:
+                                                                           Ararat
+                                                                           Ballarat
+                                                                           Horsham
+                                                                           Nhill
+                                                                           The following standard zone
+                                                                           units in Kyneton charging
+                                                                           district:
+                                                                           Bacchus Marsh, Ballan, Balliang,
+                                                                           Mount Wallace
+(03) 34               10         10          Geographic number             The following charging districts:
+                                                                           Bendigo
+                                                                           Charlton
+                                                                           Echuca
+                                                                           Kerang
+                                                                           Maryborough
+                                                                           The following standard zone
+                                                                           units in Kyneton charging
+                                                                           district:
+                                                                           Gisborne, Kyneton, Redesdale,
+                                                                           Romsey, Trentham, Woodend
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(03) 40               10         10          Geographic number             The following charging districts:
+                                                                           Balranald
+                                                                           Hopetoun
+                                                                           Mildura
+                                                                           Ouyen
+                                                                           Swan Hill
+(03) 41               10         10          Geographic number             Bairnsdale, Morwell and Sale
+                                                                           charging districts
+(03) 42               10         10          Geographic number             Colac and Geelong charging
+                                                                           districts
+(03) 43               10         10          Geographic number             The following charging districts:
+                                                                           Ararat
+                                                                           Ballarat
+                                                                           Horsham
+                                                                           Nhill
+                                                                           The following standard zone
+                                                                           units in Kyneton charging
+                                                                           district:
+                                                                           Bacchus Marsh, Ballan, Balliang,
+                                                                           Mount Wallace
+(03) 44               10         10          Geographic number             The following charging districts:
+                                                                           Bendigo
+                                                                           Charlton
+                                                                           Echuca
+                                                                           Kerang
+                                                                           Maryborough
+                                                                           The following standard zone
+                                                                           units in Kyneton charging
+                                                                           district:
+                                                                           Gisborne, Kyneton, Redesdale,
+                                                                           Romsey, Trentham, Woodend
+(03) 45               10         10          Geographic number             The following charging districts:
+                                                                           Camperdown
+                                                                           Casterton
+                                                                           Edenhope
+                                                                           Hamilton
+                                                                           Portland
+                                                                           Warrnambool
+(03) 46               10         10          Geographic number             The following charging districts:
+                                                                           Foster and Korumburra
+                                                                           The following standard zone
+                                                                           units in Warragul charging
+                                                                           district:
+                                                                           Bunyip, Hill End (Victoria), Icy
+                                                                           Creek, Neerim South, Trafalgar,
+                                                                           Warragul
+(03) 47               10         10          Geographic number             The following charging districts:
+                                                                           Alexandra
+                                                                           Myrtleford
+                                                                           Seymour
+                                                                           Wangaratta
+(03) 48               10         10          Geographic number             Deniliquin, Numurkah and
+                                                                           Shepparton charging districts
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(03) 49               10         10          Geographic number             Mornington charging district and
+                                                                           the following standard zone
+                                                                           units in Warragul charging
+                                                                           district:
+                                                                           Cranbourne, Emerald (Victoria),
+                                                                           Healesville, Koo Wee Rup,
+                                                                           Marysville, Pakenham,
+                                                                           Warburton
+(03) 50               10         10          Geographic number             The following charging districts:
+                                                                           Balranald
+                                                                           Hopetoun
+                                                                           Mildura
+                                                                           Ouyen
+                                                                           Swan Hill
+(03) 51               10         10          Geographic number             Bairnsdale, Morwell and Sale
+                                                                           charging districts
+(03) 52               10         10          Geographic number             Colac and Geelong charging
+                                                                           districts
+(03) 53               10         10          Geographic number             The following charging districts:
+                                                                           Ararat
+                                                                           Ballarat
+                                                                           Horsham
+                                                                           Nhill
+                                                                           The following standard zone
+                                                                           units in Kyneton charging
+                                                                           district:
+                                                                           Bacchus Marsh, Ballan, Balliang,
+                                                                           Mount Wallace
+(03) 54               10         10          Geographic number             The following charging districts:
+                                                                           Bendigo
+                                                                           Charlton
+                                                                           Echuca
+                                                                           Kerang
+                                                                           Maryborough
+                                                                           The following standard zone
+                                                                           units in Kyneton charging
+                                                                           district:
+                                                                           Gisborne, Kyneton, Redesdale,
+                                                                           Romsey, Trentham, Woodend
+(03) 55 (except       10         10          Geographic number             The following charging districts:
+(03) 5550)                                                                 Camperdown
+                                                                           Casterton
+                                                                           Edenhope
+                                                                           Hamilton
+                                                                           Portland
+                                                                           Warrnambool
+(03) 56               10         10          Geographic number             Foster and Korumburra charging
+                                                                           districts, and the following
+                                                                           standard zone units in Warragul
+                                                                           charging district:
+                                                                           Bunyip, Hill End (Victoria), Icy
+                                                                           Creek, Neerim South, Trafalgar,
+                                                                           Warragul
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(03) 57               10         10          Geographic number             The following charging districts:
+                                                                           Alexandra
+                                                                           Myrtleford
+                                                                           Seymour
+                                                                           Wangaratta
+(03) 58               10         10          Geographic number             Deniliquin, Numurkah and
+                                                                           Shepparton charging districts
+(03) 59               10         10          Geographic number             Mornington charging district and
+                                                                           the following standard zone
+                                                                           units in Warragul charging
+                                                                           district:
+                                                                           Cranbourne, Emerald (Victoria),
+                                                                           Healesville, Koo Wee Rup,
+                                                                           Marysville, Pakenham,
+                                                                           Warburton
+(03) 60               10         10          Geographic number             The following charging districts:
+                                                                           Geeveston
+                                                                           Hobart
+                                                                           Oatlands
+                                                                           Ouse
+(03) 61               10         10          Geographic number             The following charging districts:
+                                                                           Geeveston
+                                                                           Hobart
+                                                                           Oatlands
+                                                                           Ouse
+(03) 62               10         10          Geographic number             The following charging districts:
+                                                                           Geeveston
+                                                                           Hobart
+                                                                           Oatlands
+                                                                           Ouse
+(03) 63               10         10          Geographic number             The following charging districts:
+                                                                           Deloraine
+                                                                           Flinders Island
+                                                                           Launceston
+                                                                           Scottsdale
+                                                                           St Mary’s
+(03) 64               10         10          Geographic number             The following charging districts:
+                                                                           Burnie
+                                                                           Devonport
+                                                                           King Island
+                                                                           Queenstown
+                                                                           Smithton
+(03) 65               10         10          Geographic number             The following charging districts:
+                                                                           Burnie
+                                                                           Devonport
+                                                                           King Island
+                                                                           Queenstown
+                                                                           Smithton
+(03) 67               10         10          Geographic number             The following charging districts:
+                                                                           Deloraine
+                                                                           Flinders Island
+                                                                           Launceston
+                                                                           Scottsdale
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+                                                                           St Mary’s
+(03) 68               10         10          Geographic number             The following charging districts:
+                                                                           Deloraine
+                                                                           Flinders Island
+                                                                           Launceston
+                                                                           Scottsdale
+                                                                           St Mary’s
+(03) 70 (except       10         10          Geographic number             Melbourne standard zone unit
+(03) 7010)
+(03) 71               10         10          Geographic number             Melbourne standard zone unit
+(03) 72               10         10          Geographic number             Melbourne charging district
+(03) 73               10         10          Geographic number             Craigieburn, Point Cook and
+                                                                           Sydenham standard zone units
+(03) 74               10         10          Geographic number             Melbourne charging district
+(03) 75               10         10          Geographic number             Clayton standard zone unit
+(03) 76               10         10          Geographic number             Melbourne charging district
+(03) 77               10         10          Geographic number             Melbourne standard zone unit
+(03) 78               10         10          Geographic number             Melbourne standard zone unit
+(03) 79               10         10          Geographic number             Melbourne standard zone unit
+(03) 80               10         10          Geographic number             Sunbury and Werribee standard
+                                                                           zone units
+(03) 81               10         10          Geographic number             Kalkallo and Whittlesea standard
+                                                                           zone units
+(03) 82               10         10          Geographic number             Croydon standard zone unit
+(03) 83               10         10          Geographic number             Craigieburn, Melbourne, Point
+                                                                           Cook and Sydenham standard
+                                                                           zone units
+(03) 84               10         10          Geographic number             Eltham standard zone unit
+(03) 85               10         10          Geographic number             Clayton and Melbourne standard
+                                                                           zone units
+(03) 86               10         10          Geographic number             Melbourne standard zone unit
+(03) 87               10         10          Geographic number             The following standard zone
+                                                                           units in Melbourne charging
+                                                                           district:
+                                                                           Clayton, Cragieburn, Dandenong,
+                                                                           Eltham, Point Cook, Ringwood
+(03) 88               10         10          Geographic number             Ringwood standard zone unit
+(03) 89               10         10          Geographic number             Dandenong standard zone unit
+(03) 90               10         10          Geographic number             Melbourne standard zone unit
+(03) 91               10         10          Geographic number             Melbourne standard zone unit
+(03) 92               10         10          Geographic number             Melbourne charging district
+(03) 93               10         10          Geographic number             Craigieburn, Melbourne, Point
+                                                                           Cook and Sydenham standard
+                                                                           zone units
+(03) 94               10         10          Geographic number             Eltham and Melbourne standard
+                                                                           zone units
+(03) 95               10         10          Geographic number             Clayton and Melbourne standard
+                                                                           zone units
+(03) 96               10         10          Geographic number             Melbourne standard zone unit
+(03) 97               10         10          Geographic number             The following standard zone
+                                                                           units in Melbourne charging
+                                                                           district:
+
+     National         N(S)N number length
+destination code
+(NDC) or leading
+                     Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+digits of national
+                      length      length
+   (significant)
+ number (N(S)N)
+                                                                          Croydon, Dandenong, Kalkallo,
+                                                                          Sunbury, Werribee, Whittlesea
+(03) 98              10         10          Geographic number             Melbourne and Ringwood
+                                                                          standard zone units
+(03) 99              10         10          Geographic number             Melbourne charging district
+(07) 20              10         10          Geographic number             Redcliffe and Samford standard
+                                                                          zone units
+(07) 21              10         10          Geographic number             Brisbane standard zone unit
+(07) 22              10         10          Geographic number             Bribie Island and Brisbane
+                                                                          charging districts and Dayboro
+                                                                          standard zone unit
+(07) 23              10         10          Geographic number             Bribie Island and Brisbane
+                                                                          charging districts and Dayboro
+                                                                          and Esk standard zone units
+(07) 24              10         10          Geographic number             Bribie Island and Brisbane
+                                                                          charging districts and Dayboro
+                                                                          and Esk standard zone units
+(07) 25              10         10          Geographic number             Bribie Island and Brisbane
+                                                                          charging districts and Dayboro
+                                                                          and Esk standard zone units
+(07) 26              10         10          Geographic number             Bribie Island and Brisbane
+                                                                          charging districts and Dayboro
+                                                                          and Esk standard zone units
+(07) 27              10         10          Geographic number             Bribie Island and Brisbane
+                                                                          charging districts and Dayboro
+                                                                          and Esk standard zone units
+(07) 28              10         10          Geographic number             Beenleigh, Cleveland and
+                                                                          Ipswich standard zone units
+(07) 29              10         10          Geographic number             Bribie Island and Brisbane
+                                                                          charging districts and Dayboro
+                                                                          and Esk standard zone units
+(07) 30              10         10          Geographic number             The following standard zone
+                                                                          units in Brisbane charging
+                                                                          district:
+                                                                          Beenleigh, Brisbane, Cleveland,
+                                                                          Ipswich, Redcliffe, Samford
+(07) 31              10         10          Geographic number             Brisbane charging district
+(07) 320             10         10          Geographic number             The following standard zone
+                                                                          units in Brisbane charging
+                                                                          district:
+                                                                          Beenleigh, Cleveland, Ipswich,
+                                                                          Redcliffe, Samford
+(07) 321             10         10          Geographic number             Brisbane standard zone unit
+(07) 322             10         10          Geographic number             Brisbane standard zone unit
+(07) 323             10         10          Geographic number             Brisbane standard zone unit
+(07) 324             10         10          Geographic number             Brisbane standard zone unit
+(07) 325             10         10          Geographic number             Brisbane standard zone unit
+(07) 326             10         10          Geographic number             Brisbane and Sandgate standard
+                                                                          zone units
+(07) 327             10         10          Geographic number             Brisbane standard zone unit
+
+
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(07) 328              10         10          Geographic number             The following standard zone
+                                                                           units in Brisbane charging
+                                                                           district:
+                                                                           Beenleigh, Cleveland, Ipswich,
+                                                                           Redcliffe, Samford
+(07) 329              10         10          Geographic number             Brisbane standard zone unit
+(07) 330              10         10          Geographic number             Brisbane standard zone unit
+(07) 331              10         10          Geographic number             Brisbane standard zone unit
+(07) 332              10         10          Geographic number             Brisbane standard zone unit
+(07) 333              10         10          Geographic number             Brisbane standard zone unit
+(07) 334              10         10          Geographic number             Brisbane standard zone unit
+(07) 335              10         10          Geographic number             Brisbane standard zone unit
+(07) 336              10         10          Geographic number             Brisbane standard zone unit
+(07) 337              10         10          Geographic number             Brisbane standard zone unit
+(07) 338              10         10          Geographic number             The following standard zone
+                                                                           units in Brisbane charging
+                                                                           district:
+                                                                           Beenleigh, Cleveland, Ipswich,
+                                                                           Redcliffe, Samford
+(07) 339              10         10          Geographic number             Brisbane standard zone unit
+(07) 34               10         10          Geographic number             The following standard zone
+                                                                           units in Brisbane charging
+                                                                           district:
+                                                                           Beenleigh, Brisbane, Cleveland,
+                                                                           Ipswich, Redcliffe, Samford
+(07) 35               10         10          Geographic number             Brisbane standard zone unit
+(07) 36               10         10          Geographic number             Sandgate standard zone unit
+(07) 37               10         10          Geographic number             Brisbane standard zone unit
+(07) 380              10         10          Geographic number             Beenleigh standard zone unit
+(07) 381              10         10          Geographic number             Brisbane charging district
+(07) 382              10         10          Geographic number             Brisbane standard zone unit
+(07) 383              10         10          Geographic number             Brisbane standard zone unit
+(07) 384              10         10          Geographic number             Brisbane standard zone unit
+(07) 385              10         10          Geographic number             Brisbane standard zone unit
+(07) 386              10         10          Geographic number             Brisbane and Sandgate standard
+                                                                           zone units
+(07) 387              10         10          Geographic number             Brisbane standard zone unit
+(07) 388              10         10          Geographic number             The following standard zone
+                                                                           units in Brisbane charging
+                                                                           district:
+                                                                           Beenleigh, Cleveland, Ipswich,
+                                                                           Redcliffe, Samford
+(07) 389              10         10          Geographic number             Brisbane standard zone unit
+(07) 39               10         10          Geographic number             Brisbane standard zone unit
+(07) 40               10         10          Geographic number             Cairns charging district
+(07) 41               10         10          Geographic number             The following charging districts:
+                                                                           Bundaberg
+                                                                           Gayndah
+                                                                           Kingaroy
+                                                                           Maryborough
+                                                                           Murgon
+
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(07) 42               10         10          Geographic number             Cairns charging district
+(07) 43               10         10          Geographic number             The following charging districts:
+                                                                           Bundaberg
+                                                                           Gayndah
+                                                                           Kingaroy
+                                                                           Maryborough
+                                                                           Murgon
+(07) 44               10         10          Geographic number             Cloncurry, Hughenden and
+                                                                           Townsville charging districts
+(07) 45               10         10          Geographic number             The following charging districts:
+                                                                           Charleville
+                                                                           Dalby
+                                                                           Dirranbandi
+                                                                           Goondiwindi
+                                                                           Inglewood
+                                                                           Longreach
+                                                                           Miles
+                                                                           Roma
+                                                                           Stanthorpe
+                                                                           Toowoomba
+                                                                           Warwick
+(07) 46               10         10          Geographic number             The following charging districts:
+                                                                           Charleville
+                                                                           Dalby
+                                                                           Dirranbandi
+                                                                           Goondiwindi
+                                                                           Inglewood
+                                                                           Longreach
+                                                                           Miles
+                                                                           Roma
+                                                                           Stanthorpe
+                                                                           Toowoomba
+                                                                           Warwick
+(07) 47               10         10          Geographic number             Cloncurry, Hughenden and
+                                                                           Townsville charging districts
+(07) 48               10         10          Geographic number             The following charging districts:
+                                                                           Biloela
+                                                                           Emerald
+                                                                           Gladstone
+                                                                           Mackay
+                                                                           Rockhampton
+(07) 49               10         10          Geographic number             The following charging districts:
+                                                                           Biloela
+                                                                           Emerald
+                                                                           Gladstone
+                                                                           Mackay
+                                                                           Rockhampton
+
+
+
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(07) 51               10         10          Geographic number             The following charging districts:
+                                                                           Caboolture
+                                                                           Gatton
+                                                                           Gympie
+                                                                           Nambour
+                                                                           The following standard zone
+                                                                           units in Esk charging district:
+                                                                           Coominya, Crossdale, Esk,
+                                                                           Lowood, Moore, Toogoolawah
+(07) 52               10         10          Geographic number             The following charging districts:
+                                                                           Caboolture
+                                                                           Gatton
+                                                                           Gympie
+                                                                           Nambour
+                                                                           The following standard zone
+                                                                           units in Esk charging district:
+                                                                           Coominya, Crossdale, Esk,
+                                                                           Lowood, Moore, Toogoolawah
+(07) 53               10         10          Geographic number             The following charging districts:
+                                                                           Caboolture
+                                                                           Gatton
+                                                                           Gympie
+                                                                           Nambour
+                                                                           The following standard zone
+                                                                           units in Esk charging district:
+                                                                           Coominya, Crossdale, Esk,
+                                                                           Lowood, Moore, Toogoolawah
+(07) 54               10         10          Geographic number             The following charging districts:
+                                                                           Caboolture
+                                                                           Gatton
+                                                                           Gympie
+                                                                           Nambour
+                                                                           The following standard zone
+                                                                           units in Esk charging district:
+                                                                           Coominya, Crossdale, Esk,
+                                                                           Lowood, Moore, Toogoolawah
+(07) 55 (except       10         10          Geographic number             Beaudesert charging district
+(07) 5550)
+(07) 56               10         10          Geographic number             Beaudesert charging district
+(07) 57               10         10          Geographic number             Beaudesert charging district
+(07) 58               10         10          Geographic number             Beaudesert charging district
+(07) 70 (except       10         10          Geographic number             Cairns charging district
+(07) 7010)
+(07) 72               10         10          Geographic number             Cairns charging district
+(07) 73               10         10          Geographic number             The following charging districts:
+                                                                           Bundaberg
+                                                                           Gayndah
+                                                                           Kingaroy
+                                                                           Maryborough
+                                                                           Murgon
+
+
+
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(07) 75               10         10          Geographic number             The following charging districts:
+                                                                           Charleville
+                                                                           Dalby
+                                                                           Dirranbandi
+                                                                           Goondiwindi
+                                                                           Inglewood
+                                                                           Longreach
+                                                                           Miles
+                                                                           Roma
+                                                                           Stanthorpe
+                                                                           Toowoomba
+                                                                           Warwick
+(07) 76               10         10          Geographic number             The following charging districts:
+                                                                           Charleville
+                                                                           Dalby
+                                                                           Dirranbandi
+                                                                           Goondiwindi
+                                                                           Inglewood
+                                                                           Longreach
+                                                                           Miles
+                                                                           Roma
+                                                                           Stanthorpe
+                                                                           Toowoomba
+                                                                           Warwick
+(07) 77               10         10          Geographic number             Cloncurry, Hughenden and
+                                                                           Townsville charging districts
+(07) 78               10         10          Geographic number             The following charging districts:
+                                                                           Biloela
+                                                                           Emerald
+                                                                           Gladstone
+                                                                           Mackay
+                                                                           Rockhampton
+(07) 79               10         10          Geographic number             The following charging districts:
+                                                                           Biloela
+                                                                           Emerald
+                                                                           Gladstone
+                                                                           Mackay
+                                                                           Rockhampton
+(08) 20               10         10          Geographic number             Adelaide charging district
+(08) 21               10         10          Geographic number             Adelaide charging district
+(08) 25               10         10          Geographic number             The following charging districts:
+                                                                           Berri
+                                                                           Gawler
+                                                                           Kangaroo Island
+                                                                           Malalla
+                                                                           Murray Bridge
+                                                                           Nurioopta
+                                                                           Tailem Bend
+                                                                           Victor Harbour
+                                                                           Waikerie
+(08) 26               10         10          Geographic number             The following charging districts:
+                                                                           Ceduna
+                                                                           Cook
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+                                                                           Gladstone
+                                                                           Peterborough
+                                                                           Port Augusta
+                                                                           Port Pirie
+                                                                           Woomera
+                                                                           The following standard zone
+                                                                           units in Port Lincoln charging
+                                                                           district:
+                                                                           Arno Bay, Bayley Plains, Cleve,
+                                                                           Coffin Bay, Coulta, Cowell,
+                                                                           Cummins, Darke Peak, Elliston,
+                                                                           Kapinnie, Koongawa, Koppio,
+                                                                           Kyancutta, Lock, Miltalie,
+                                                                           Minnipa, Mount Hope, Port
+                                                                           Lincoln, Port Neill, Rudall,
+                                                                           Sheringa, Sleaford Mere, Spilsby,
+                                                                           Tooligie Hill, Tumby Bay,
+                                                                           Ungarra, Wanilla, Wharminda,
+                                                                           Wudinna, Yabmana, Yeelanna
+(08) 27               10         10          Geographic number             Bordertown, Mount Gambier
+                                                                           and Naracoorte charging
+                                                                           districts
+(08) 28               10         10          Geographic number             The following charging districts:
+                                                                           Balaklava
+                                                                           Burra
+                                                                           Clare
+                                                                           Gawler
+                                                                           Kadina
+                                                                           Maitland
+                                                                           Yorketown
+                                                                           The following standard zone
+                                                                           units in Port Lincoln charging
+                                                                           district:
+                                                                           Thistle
+                                                                           Wedge
+(08) 29               10         10          Geographic number             Alice Springs and Darwin
+                                                                           charging districts
+(08) 41               10         10          Geographic number             The following charging districts:
+                                                                           Christmas Island
+                                                                           Cocos (Keeling) Islands
+                                                                           Derby
+                                                                           Great Sandy
+                                                                           Port Hedland
+(08) 51               10         10          Geographic number             The following charging districts:
+                                                                           Christmas Island
+                                                                           Cocos (Keeling) Islands
+                                                                           Derby
+                                                                           Great Sandy
+                                                                           Port Hedland
+(08) 52               10         10          Geographic number             Perth standard zone unit
+(08) 53               10         10          Geographic number             Perth charging district
+(08) 54               10         10          Geographic number             Perth charging district
+
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(08) 55 (except       10         10          Geographic number             Bullsbrook East and Pinjarra
+(08) 5550)                                                                 charging districts, and Bakers Hill
+                                                                           and Toodyay standard zone units
+                                                                           in Northam charging district
+(08) 57               10         10          Geographic number             The following charging districts:
+                                                                           Bridgetown
+                                                                           Bunbury
+                                                                           Busselton
+                                                                           The following standard zone
+                                                                           units in Pinjarra charging district:
+                                                                           Lake Clifton
+                                                                           Waroona
+(08) 58               10         10          Geographic number             The following charging districts:
+                                                                           Albany
+                                                                           Katanning
+                                                                           Kondinin
+                                                                           Narrogin
+                                                                           Wagin
+(08) 60               10         10          Geographic number             The following charging districts:
+                                                                           Bruce Rock
+                                                                           Great Victoria
+                                                                           Kalgoorlie
+                                                                           Merredin
+(08) 610              10         10          Geographic number             Perth charging district
+(08) 611              10         10          Geographic number             Perth charging district
+(08) 612              10         10          Geographic number             Perth charging district
+(08) 613              10         10          Geographic number             Rottnest Island and Spearwood
+                                                                           standard zone units
+(08) 614              10         10          Geographic number             Perth standard zone unit
+(08) 615              10         10          Geographic number             Perth standard zone unit
+(08) 616              10         10          Geographic number             Perth standard zone unit
+(08) 617              10         10          Geographic number             Rottnest and Spearwood
+                                                                           standard zone units
+(08) 618              10         10          Geographic number             Perth standard zone unit
+(08) 619              10         10          Geographic number             The following standard zone
+                                                                           units in Perth charging district:
+                                                                           Armadale, Herne Hill,
+                                                                           Kalamunda, Rottnest,
+                                                                           Spearwood
+(08) 620              10         10          Geographic number             Wanneroo standard zone unit
+(08) 621              10         10          Geographic number             Fremantle and Perth standard
+                                                                           zone units
+(08) 622              10         10          Geographic number             Fremantle and Perth standard
+                                                                           zone units
+(08) 623              10         10          Geographic number             Fremantle and Perth standard
+                                                                           zone units
+(08) 624              10         10          Geographic number             Perth standard zone unit
+(08) 625              10         10          Geographic number             Perth standard zone unit
+(08) 626              10         10          Geographic number             Perth standard zone unit
+(08) 627              10         10          Geographic number             Perth standard zone unit
+(08) 628              10         10          Geographic number             Perth standard zone unit
+
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(08) 629              10         10          Geographic number             The following standard zone
+                                                                           units in Perth charging district:
+                                                                           Armadale, Herne Hill,
+                                                                           Kalamunda, Rottnest,
+                                                                           Spearwood
+(08) 630              10         10          Geographic number             Wanneroo standard zone unit
+(08) 631              10         10          Geographic number             Fremantle and Perth standard
+                                                                           zone units
+(08) 632              10         10          Geographic number             Perth standard zone unit
+(08) 633              10         10          Geographic number             Fremantle and Perth standard
+                                                                           zone units
+(08) 634              10         10          Geographic number             Wanneroo standard zone unit
+(08) 635              10         10          Geographic number             Perth standard zone unit
+(08) 636              10         10          Geographic number             Perth charging district
+(08) 637              10         10          Geographic number             Perth standard zone unit
+(08) 638              10         10          Geographic number             Perth standard zone unit
+(08) 639              10         10          Geographic number             The following standard zone
+                                                                           units in Perth charging district:
+                                                                           Armadale, Herne Hill,
+                                                                           Kalamunda, Rottnest,
+                                                                           Spearwood
+(08) 640              10         10          Geographic number             Perth and Wanneroo standard
+                                                                           zone units
+(08) 641              10         10          Geographic number             Fremantle standard zone units
+(08) 642              10         10          Geographic number             Fremantle and Perth standard
+                                                                           zone units
+(08) 643              10         10          Geographic number             Perth standard zone unit
+(08) 644              10         10          Geographic number             Perth standard zone unit
+(08) 645              10         10          Geographic number             Perth standard zone unit
+(08) 646              10         10          Geographic number             Perth charging district
+(08) 647              10         10          Geographic number             Perth standard zone unit
+(08) 648              10         10          Geographic number             Perth standard zone unit
+(08) 649              10         10          Geographic number             The following standard zone
+                                                                           units in Perth charging district:
+                                                                           Armadale, Herne Hill,
+                                                                           Kalamunda, Rottnest,
+                                                                           Spearwood
+(08) 650              10         10          Geographic number             Perth standard zone unit
+(08) 651              10         10          Geographic number             Fremantle standard zone unit
+(08) 652              10         10          Geographic number             Herne Hill standard zone unit
+(08) 653              10         10          Geographic number             Herne Hill standard zone unit
+(08) 654              10         10          Geographic number             Perth standard zone unit
+(08) 655              10         10          Geographic number             Perth standard zone unit
+(08) 656              10         10          Geographic number             Kalamunda standard zone unit
+(08) 657              10         10          Geographic number             Kalamunda standard zone unit
+(08) 658              10         10          Geographic number             Armadale standard zone unit
+(08) 659              10         10          Geographic number             Armadale standard zone unit
+(08) 66               10         10          Geographic number             The following charging districts:
+                                                                           Moora
+                                                                           Wongan Hills
+                                                                           Wyalkatchem
+                                                                           York
+     National         N(S)N number length
+destination code
+(NDC) or leading
+                     Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+digits of national
+                      length      length
+   (significant)
+ number (N(S)N)
+                                                                          The following standard zone
+                                                                          units in Northam charging
+                                                                          district:
+                                                                          Bolgart, Calingiri, Cunderdin,
+                                                                          Cunderdin North, Dowerin,
+                                                                          Ejanding, Goomalling,
+                                                                          Jennacubbine, Konnongorring,
+                                                                          Meckering, Northam, Studleigh,
+                                                                          Tammin, Yorkrakine
+(08) 67              10         10          Geographic number             The following charging districts:
+                                                                          Bridgetown
+                                                                          Bunbury
+                                                                          Busselton
+                                                                          Lake Clifton and Waroona
+                                                                          standard zone units in Pinjarra
+                                                                          charging district
+(08) 68              10         10          Geographic number             The following charging districts:
+                                                                          Albany
+                                                                          Katanning
+                                                                          Kondinin
+                                                                          Narrogin
+                                                                          Wagin
+(08) 69              10         10          Geographic number             The following charging districts:
+                                                                          Carnamah
+                                                                          Carnarvon
+                                                                          Geraldton
+                                                                          Meekatharra
+                                                                          Morawa
+                                                                          Mullewa
+                                                                          Paynes Find (Extended) standard
+                                                                          zone unit in Wongan Hills
+                                                                          charging district
+(08) 700             10         10          Geographic number             Adelaide standard zone unit
+(08) 701 (except     10         10          Geographic number             Adelaide charging district
+(08) 7010)
+(08) 702             10         10          Geographic number             Adelaide charging district
+(08) 703             10         10          Geographic number             Adelaide charging district
+(08) 704             10         10          Geographic number             Adelaide charging district
+(08) 705             10         10          Geographic number             Adelaide charging district
+(08) 706             10         10          Geographic number             Adelaide charging district
+(08) 707             10         10          Geographic number             Adelaide standard zone unit
+(08) 708             10         10          Geographic number             Adelaide standard zone unit
+(08) 709             10         10          Geographic number             Adelaide charging district
+(08) 710             10         10          Geographic number             Adelaide standard zone unit
+(08) 711             10         10          Geographic number             Adelaide standard zone unit
+(08) 712             10         10          Geographic number             Adelaide charging district
+(08) 713             10         10          Geographic number             Adelaide standard zone unit
+(08) 714             10         10          Geographic number             Adelaide standard zone unit
+(08) 715             10         10          Geographic number             Adelaide standard zone unit
+(08) 716             10         10          Geographic number             Adelaide standard zone unit
+(08) 717             10         10          Geographic number             Adelaide standard zone unit
+
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(08) 718              10         10          Geographic number             McLaren Vale, Mount Barker
+                                                                           (South Australia), Salisbury and
+                                                                           Woodside (South Australia)
+                                                                           standard zone units
+(08) 719              10         10          Geographic number             Mount Barker (South Australia)
+                                                                           standard zone unit
+(08) 720              10         10          Geographic number             Adelaide standard zone unit
+(08) 721              10         10          Geographic number             Adelaide standard zone unit
+(08) 722              10         10          Geographic number             Adelaide charging district
+(08) 723              10         10          Geographic number             Adelaide charging district
+(08) 724              10         10          Geographic number             Adelaide charging district
+(08) 725              10         10          Geographic number             Adelaide charging district
+(08) 726              10         10          Geographic number             McLaren Vale standard zone unit
+(08) 727              10         10          Geographic number             McLaren Vale standard zone unit
+(08) 728              10         10          Geographic number             McLaren Vale, Mount Barker
+                                                                           (South Australia), Salisbury and
+                                                                           Woodside (South Australia)
+                                                                           standard zone units
+(08) 729              10         10          Geographic number             Mount Barker (South Australia)
+                                                                           standard zone unit
+(08) 730              10         10          Geographic number             Adelaide charging district
+(08) 731              10         10          Geographic number             Adelaide charging district
+(08) 732              10         10          Geographic number             Adelaide charging district
+(08) 733              10         10          Geographic number             Adelaide standard zone unit
+(08) 734              10         10          Geographic number             Adelaide charging district
+(08) 735              10         10          Geographic number             Adelaide charging district
+(08) 736              10         10          Geographic number             Adelaide charging district
+(08) 737              10         10          Geographic number             Salisbury standard zone unit
+(08) 738              10         10          Geographic number             Salisbury standard zone unit
+(08) 739              10         10          Geographic number             Salisbury standard zone unit
+(08) 740              10         10          Geographic number             Adelaide charging district
+(08) 741              10         10          Geographic number             Adelaide charging district
+(08) 742              10         10          Geographic number             Adelaide standard zone unit
+(08) 743              10         10          Geographic number             Adelaide charging district
+(08) 744              10         10          Geographic number             Adelaide standard zone unit
+(08) 745              10         10          Geographic number             Adelaide charging district
+(08) 746              10         10          Geographic number             Adelaide charging district
+(08) 747              10         10          Geographic number             Adelaide standard zone unit
+(08) 748              10         10          Geographic number             Woodside (South Australia)
+                                                                           standard zone unit
+(08) 749              10         10          Geographic number             Woodside (South Australia)
+                                                                           standard zone unit
+(08) 75               10         10          Geographic number             The following charging districts:
+                                                                           Berri
+                                                                           Gawler
+                                                                           Kangaroo Island
+                                                                           Malalla
+                                                                           Murray Bridge
+                                                                           Nurioopta
+                                                                           Tailem Bend
+                                                                           Victor Harbour
+                                                                           Waikerie
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(08) 76               10         10          Geographic number             The following charging districts:
+                                                                           Ceduna
+                                                                           Cook
+                                                                           Gladstone
+                                                                           Peterborough
+                                                                           Port Augusta
+                                                                           Port Pirie
+                                                                           Woomera
+                                                                           The following standard zone
+                                                                           units in Port Lincoln charging
+                                                                           district:
+                                                                           Arno Bay, Bayley Plains, Cleve,
+                                                                           Coffin Bay, Coulta, Cowell,
+                                                                           Cummins, Darke Peak, Elliston,
+                                                                           Kapinnie, Koongawa, Koppio,
+                                                                           Kyancutta, Lock, Miltalie,
+                                                                           Minnipa, Mount Hope, Port
+                                                                           Lincoln, Port Neill, Rudall,
+                                                                           Sheringa, Sleaford Mere, Spilsby,
+                                                                           Tooligie Hill, Tumby Bay,
+                                                                           Ungarra, Wanilla, Wharminda,
+                                                                           Wudinna, Yabmana, Yeelanna
+(08) 77               10         10          Geographic number             Bordertown, Mount Gambier
+                                                                           and Naracoorte charging districts
+(08) 78               10         10          Geographic number             The following charging districts:
+                                                                           Balaklava
+                                                                           Burra
+                                                                           Clare
+                                                                           Gawler
+                                                                           Kadina
+                                                                           Maitland
+                                                                           Yorketown
+                                                                           Thistle and Wedge standard
+                                                                           zone units in Port Lincoln
+                                                                           charging district
+(08) 79               10         10          Geographic number             Alice Springs and Darwin
+                                                                           charging districts
+(08) 80               10         10          Geographic number             Broken Hill charging district
+(08) 810              10         10          Geographic number             Adelaide standard zone unit
+(08) 811              10         10          Geographic number             Adelaide standard zone unit
+(08) 812              10         10          Geographic number             Adelaide standard zone unit
+(08) 813              10         10          Geographic number             Adelaide standard zone unit
+(08) 814              10         10          Geographic number             Adelaide standard zone unit
+(08) 815              10         10          Geographic number             Adelaide standard zone unit
+(08) 816              10         10          Geographic number             Adelaide standard zone unit
+(08) 817              10         10          Geographic number             Adelaide standard zone unit
+(08) 818              10         10          Geographic number             McLaren Vale, Mount Barker
+                                                                           (South Australia), Salisbury and
+                                                                           Woodside (South Australia)
+                                                                           standard zone units
+(08) 819              10         10          Geographic number             Adelaide standard zone unit
+(08) 820              10         10          Geographic number             Adelaide standard zone unit
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(08) 821              10         10          Geographic number             Adelaide standard zone unit
+(08) 822              10         10          Geographic number             Adelaide standard zone unit
+(08) 823              10         10          Geographic number             Adelaide standard zone unit
+(08) 824              10         10          Geographic number             Adelaide standard zone unit
+(08) 825              10         10          Geographic number             Adelaide standard zone unit
+(08) 826              10         10          Geographic number             Adelaide standard zone unit
+(08) 827              10         10          Geographic number             Adelaide standard zone unit
+(08) 828              10         10          Geographic number             Salisbury standard zone unit
+(08) 829              10         10          Geographic number             Adelaide standard zone unit
+(08) 830              10         10          Geographic number             Adelaide standard zone unit
+(08) 831              10         10          Geographic number             Adelaide standard zone unit
+(08) 832              10         10          Geographic number             Adelaide charging district
+(08) 833              10         10          Geographic number             Adelaide standard zone unit
+(08) 834              10         10          Geographic number             Adelaide standard zone unit
+(08) 835              10         10          Geographic number             Adelaide standard zone unit
+(08) 836              10         10          Geographic number             Adelaide standard zone unit
+(08) 837              10         10          Geographic number             Adelaide standard zone unit
+(08) 838              10         10          Geographic number             McLaren Vale, Mount Barker
+                                                                           (South Australia), Salisbury and
+                                                                           Woodside (South Australia)
+                                                                           standard zone units
+(08) 839              10         10          Geographic number             Adelaide standard zone unit
+(08) 840              10         10          Geographic number             Adelaide standard zone unit
+(08) 841              10         10          Geographic number             Adelaide standard zone unit
+(08) 842              10         10          Geographic number             Adelaide standard zone unit
+(08) 843              10         10          Geographic number             Adelaide standard zone unit
+(08) 844              10         10          Geographic number             Adelaide standard zone unit
+(08) 845              10         10          Geographic number             Adelaide standard zone unit
+(08) 846              10         10          Geographic number             Adelaide standard zone unit
+(08) 847              10         10          Geographic number             Adelaide standard zone unit
+(08) 848              10         10          Geographic number             McLaren Vale, Mount Barker
+                                                                           (South Australia), Salisbury and
+                                                                           Woodside (South Australia)
+                                                                           standard zone units
+(08) 849              10         10          Geographic number             Adelaide standard zone unit
+(08) 85               10         10          Geographic number             The following charging districts:
+                                                                           Berri
+                                                                           Gawler
+                                                                           Kangaroo Island
+                                                                           Malalla
+                                                                           Murray Bridge
+                                                                           Nurioopta
+                                                                           Tailem Bend
+                                                                           Victor Harbour
+                                                                           Waikerie
+(08) 86               10         10          Geographic number             The following charging districts:
+                                                                           Ceduna
+                                                                           Cook
+                                                                           Gladstone
+                                                                           Peterborough
+                                                                           Port Augusta
+                                                                           Port Pirie
+
+     National         N(S)N number length
+destination code
+(NDC) or leading
+                     Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+digits of national
+                      length      length
+   (significant)
+ number (N(S)N)
+                                                                          Woomera
+                                                                          The following standard zone
+                                                                          units in Port Lincoln charging
+                                                                          district:
+                                                                          Arno Bay, Bayley Plains, Cleve,
+                                                                          Coffin Bay, Coulta, Cowell,
+                                                                          Cummins, Darke Peak, Elliston,
+                                                                          Kapinnie, Koongawa, Koppio,
+                                                                          Kyancutta, Lock, Miltalie,
+                                                                          Minnipa, Mount Hope, Port
+                                                                          Lincoln, Port Neill, Rudall,
+                                                                          Sheringa, Sleaford Mere, Spilsby,
+                                                                          Tooligie Hill, Tumby Bay,
+                                                                          Ungarra, Wanilla, Wharminda,
+                                                                          Wudinna, Yabmana, Yeelanna
+(08) 87              10         10          Geographic number             Bordertown, Mount Gambier
+                                                                          and Naracoorte charging districts
+(08) 88              10         10          Geographic number             The following charging districts:
+                                                                          Balaklava
+                                                                          Burra
+                                                                          Clare
+                                                                          Gawler
+                                                                          Kadina
+                                                                          Maitland
+                                                                          Yorketown
+                                                                          Thistle and Wedge standard
+                                                                          zone units in Port Lincoln
+                                                                          charging district
+(08) 89              10         10          Geographic number             Alice Springs and Darwin
+                                                                          charging districts
+(08) 90              10         10          Geographic number             The following charging districts:
+                                                                          Bruce Rock
+                                                                          Great Victoria
+                                                                          Kalgoorlie
+                                                                          Merredin
+(08) 91              10         10          Geographic number             The following charging districts:
+                                                                          Christmas Island
+                                                                          Cocos (Keeling) Islands
+                                                                          Derby
+                                                                          Great Sandy
+                                                                          Port Hedland
+(08) 920             10         10          Geographic number             Perth and Wanneroo standard
+                                                                          zone units
+(08) 921             10         10          Geographic number             Perth standard zone unit
+(08) 922             10         10          Geographic number             Perth standard zone unit
+(08) 923             10         10          Geographic number             Fremantle and Perth standard
+                                                                          zone units
+(08) 924             10         10          Geographic number             Perth standard zone unit
+(08) 925             10         10          Geographic number             Perth standard zone unit
+(08) 926             10         10          Geographic number             Perth standard zone unit
+(08) 927             10         10          Geographic number             Perth standard zone unit
+(08) 928             10         10          Geographic number             Perth standard zone unit
+
+      National         N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum     Minimum    Usage of ITU-T E.164 number        Additional Information
+ digits of national
+                       length      length
+    (significant)
+  number (N(S)N)
+(08) 929              10         10          Geographic number             The following standard zone
+                                                                           units in Perth charging district:
+                                                                           Armadale, Herne Hill,
+                                                                           Kalamunda, Rottnest,
+                                                                           Spearwood
+(08) 930              10         10          Geographic number             Wanneroo standard zone unit
+(08) 931              10         10          Geographic number             Perth standard zone unit
+(08) 932              10         10          Geographic number             Perth standard zone unit
+(08) 933              10         10          Geographic number             Fremantle and Perth standard
+                                                                           zone units
+(08) 934              10         10          Geographic number             Perth standard zone unit
+(08) 935              10         10          Geographic number             Perth standard zone unit
+(08) 936              10         10          Geographic number             Perth standard zone unit
+(08) 937              10         10          Geographic number             Perth standard zone unit
+(08) 938              10         10          Geographic number             Perth standard zone unit
+(08) 939              10         10          Geographic number             The following standard zone
+                                                                           units in Perth charging district:
+                                                                           Armadale, Herne Hill,
+                                                                           Kalamunda, Rottnest,
+                                                                           Spearwood
+(08) 940              10         10          Geographic number             Wanneroo standard zone unit
+(08) 941              10         10          Geographic number             Perth standard zone unit
+(08) 942              10         10          Geographic number             Perth standard zone unit
+(08) 943              10         10          Geographic number             Fremantle and Perth standard
+                                                                           zone units
+(08) 944              10         10          Geographic number             Perth standard zone unit
+(08) 945              10         10          Geographic number             Perth standard zone unit
+(08) 946              10         10          Geographic number             Perth standard zone unit
+(08) 947              10         10          Geographic number             Perth standard zone unit
+(08) 948              10         10          Geographic number             Perth standard zone unit
+(08) 949              10         10          Geographic number             The following standard zone
+                                                                           units in Perth charging district:
+                                                                           Armadale, Herne Hill,
+                                                                           Kalamunda, Rottnest,
+                                                                           Spearwood
+(08) 95               10         10          Geographic number             Bullsbrook East and Pinjarra
+                                                                           charging districts, and Bakers Hill
+                                                                           and Toodyay standard zone units
+                                                                           in Northam charging district
+(08) 96               10         10          Geographic number             The following charging districts:
+                                                                           Moora
+                                                                           Wongan Hills
+                                                                           Wyalkatchem
+                                                                           York
+                                                                           The following standard zone
+                                                                           units in Northam charging
+                                                                           district:
+                                                                           Bolgart, Calingiri, Cunderdin,
+                                                                           Cunderdin North, Dowerin,
+                                                                           Ejanding, Goomalling,
+                                                                           Jennacubbine, Konnongorring,
+
+
+     National         N(S)N number length
+destination code
+(NDC) or leading
+                     Maximum     Minimum     Usage of ITU-T E.164 number        Additional Information
+digits of national
+                      length      length
+   (significant)
+ number (N(S)N)
+                                                                           Meckering, Northam, Studleigh,
+                                                                           Tammin, Yorkrakine
+(08) 97              10         10          Geographic number              The following charging districts:
+                                                                           Bridgetown
+                                                                           Bunbury
+                                                                           Busselton
+                                                                           Lake Clifton and Waroona
+                                                                           standard zone units in Pinjarra
+                                                                           charging district
+(08) 98              10         10          Geographic number              The following charging districts:
+                                                                           Albany
+                                                                           Katanning
+                                                                           Kondinin
+                                                                           Narrogin
+                                                                           Wagin
+(08) 99              10         10          Geographic number              The following charging districts:
+                                                                           Carnamah
+                                                                           Carnarvon
+                                                                           Geraldton
+                                                                           Meekatharra
+                                                                           Morawa
+                                                                           Mullewa
+                                                                           Paynes Find (Extended) standard
+                                                                           zone unit in Wongan Hills
+                                                                           charging district
+18 00                10         10          Freephone number
+18 01                10         10          Freephone number
+18 02                7          7           Freephone number
+18 03                7          7           Freephone number
+18 04                7          7           Freephone number
+18 05                7          7           Freephone number
+18 06                7          7           Freephone number
+18 07                7          7           Freephone number
+18 08                7          7           Freephone number
+18 09                7          7           Freephone number
+13 0                 10         10          Local rate number
+13 1                 6          6           Local rate number
+13 2                 6          6           Local rate number
+13 3                 6          6           Local rate number
+13 40                6          6           Local rate number
+13 41                6          6           Local rate number
+13 42                6          6           Local rate number
+13 43                6          6           Local rate number
+13 44                6          6           Local rate number
+13 45                8          8           Local rate number
+13 46                6          6           Local rate number
+13 47                6          6           Local rate number
+13 48                6          6           Local rate number
+13 49                6          6           Local rate number
+13 5                 6          6           Local rate number
+13 6                 6          6           Local rate number
+13 7                 6          6           Local rate number
+      National            N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum        Minimum     Usage of ITU-T E.164 number          Additional Information
+ digits of national
+                       length         length
+    (significant)
+  number (N(S)N)
+13 8                  6             6           Local rate number
+13 9                  6             6           Local rate number
+04                    10            10          Mobile number
+05                    10            10          Mobile number
+014 1                 10            10          Satellite telephone service
+014 2                 10            10          Satellite telephone service
+014 3                 10            10          Satellite telephone service
+014 5                 10            10          Satellite telephone service
+014 7                 10            10          Satellite telephone service
+015 10                9             9           Public safety service
+01513                 9             9           Public safety service
+019 2                 5             5           Data network access service
+019 80                10            10          Data network access service
+019 82                10            10          Data network access service
+019 83                10            10          Data network access service
+019 89                10            10          Data network access service
+0900                  10            10          Internet of things service
+
+0910                  10            10          Internet of things service
+0920                  10            10          Internet of things service
+0930                  10            10          Internet of things service
+0940                  10            10          Internet of things service
+11 00                 4             4           Community service
+11 9                  4             4           Community service
+12 4                  7             5           Operator service
+12 5                  7             5           Operator service
+12 61                 10            4           Internal network service
+12 62                 10            10          Public safety service
+12 63                 10            4           Internal network service
+12 64                 10            4           Internal network service
+12 65                 10            4           Internal network service
+12 66                 10            4           Internal network service
+12 67                 10            4           Internal network service
+12 68                 10            4           Internal network service
+12 72                 10            6           Testing service
+12 21                 4             4           International faults and         Shared special service number
+                                                difficulties service
+12 22                 4             4           Call costs and enquiries         Shared special service number
+                                                (national and international)
+                                                service
+12 23                 4             4           Directory assistance services    Shared special service number
+                                                within the meaning of the Act,
+                                                or other operator service
+12 25                 4             4           International directory          Shared special service number
+                                                assistance service
+12 34                 4             4           National and international       Shared special service number
+                                                operator call connection
+                                                service
+12 36                 4             4           Directory assistance services    Shared special service number
+                                                within the meaning of the Act
+
+
+
+      National            N(S)N number length
+ destination code
+ (NDC) or leading
+                      Maximum        Minimum     Usage of ITU-T E.164 number             Additional Information
+ digits of national
+                       length         length
+    (significant)
+  number (N(S)N)
+1900                  10            10          Internet of things data-only        Shared special service number
+                                                service
+1910                  10            10          Internet of things data-only        Shared special service number
+                                                service
+1920                  10            10          Internet of things data-only        Shared special service number
+                                                service
+2001                  4             4           Incoming international              Shared special service number
+                                                assistance operator service
+2002                  4             4           Incoming international delay        Shared special service number
+                                                operator service
+2003                  4             4           Incoming international              Shared special service number
+                                                directory enquiries service
+7226                  4             4           Community service                   Shared special service number
+0010                  4             4           International service               Access codes (not shared)
+0013                  5             5           International service               Access codes (not shared)
+0014                  4             4           International service               Access codes (not shared)
+0015                  4             4           International service               Access codes (not shared)
+0016                  4             4           International service               Access codes (not shared)
+0017                  5             5           International service               Access codes (not shared)
+0018                  4             4           International service               Access codes (not shared)
+0019                  4             4           International service               Access codes (not shared)
+009                   5             5           International service               Access codes (not shared)
+10                    15            4           Incoming only international         Access codes (not shared)
+                                                service
+11                    15            4           Incoming only international         Access codes (not shared)
+                                                service
+12                    15            4           Incoming only international         Access codes (not shared)
+                                                service
+141                   4             4           Interconnect and routing            Access codes (not shared)
+                                                service
+142                   4             4           Interconnect and routing            Access codes (not shared)
+                                                service
+143                   4             4           Interconnect and routing            Access codes (not shared)
+                                                service
+144                   4             4           Interconnect and routing            Access codes (not shared)
+                                                service
+145                   4             4           Interconnect and routing            Access codes (not shared)
+                                                service
+146                   4             4           Interconnect and routing            Access codes (not shared)
+                                                service
+147                   4             4           Interconnect and routing            Access codes (not shared)
+                                                service
+148                   4             4           Interconnect and routing            Access codes (not shared)
+                                                service
+149                   4             4           Interconnect and routing            Access codes (not shared)
+                                                service
+188                   5             5           Virtual private network service     Access codes (not shared)
+0011                  4             4           International direct dial service   Access codes (shared)
+0012                  4             4           International ring back price       Access codes (shared)
+                                                service
+1831                  4             4           Calling number display              Access codes (shared)
+                                                override service (block display)
+       National             N(S)N number length
+  destination code
+  (NDC) or leading
+                         Maximum       Minimum      Usage of ITU-T E.164 number            Additional Information
+  digits of national
+                          length        length
+     (significant)
+   number (N(S)N)
+ 1832                   4             4            Calling number display             Access codes (shared)
+                                                   override service (unblock
+                                                   display)
+ *31#                   4             4            Calling number display             Access codes (shared)
+                                                   override service (unblock
+                                                   display)
+ #31#                   4             4            Calling number display             Access codes (shared)
+                                                   override service (block display)
+
+Contact:
+           Australian Communications and Media Authority (ACMA)
+           Level 32, 360 Elizabeth St, Melbourne VIC 3000 Australia
+           Tel: +61 1300 850 115
+           E-mail: numbering@acma.gov.au
+           URL: www.acma.gov.au
+
+
+
+
+                                         Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                          Call-Back
+                  and alternative calling procedures (Res. 21 Rev. PP-06)
+                            See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                         AMENDMENTS TO SERVICE PUBLICATIONS
+                                                  Abbreviations used
+                               ADD    Insert                      PAR   Paragraph
+                               COL    Column                      REP   Replace
+                               LIR    Read                        SUP   Delete
+                               P      Page(s)
+
+
+
+
+                               List of Issuer Identifier Numbers for
+                       the International Telecommunication Charge Card
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                 (Position on 31 December 2023)
+                                Annex to ITU Operational Bulletin No. 1283 – 1.I.2024
+                                                Amendment No. 29
+
+United States      ADD
+
+    Country/       Company Name/Address                Issuer     Contact                                Effective
+  Geographical                                       Identifier                                        date of usage
+      area                                            Number
+ United States     Space Exploration                 89 1 085     Marianne Lu / Sharon Zhang             23.III.2026
+                   Technologies Corp. (SpaceX)                    1155 F St. NW, Suite 475
+                   1 Rocket Road, Starbase                        WASHINGTON, DC 20004
+                   TEXAS, 78521                                   Tel:     +1 737 396 2340
+                                                                  E-mail: Marianne.Lu@spacex.com;
+                                                                           Sharon.Zhang@spacex.com
+ United States     Barr Tell USA Inc.                89 1 083     Harold Barr / Tuli Deutsch             1.IV.2026
+                   218 East Park Ave., Ste. 522                   218 East Park Ave., Ste. 522
+                   LONG BEACH, NY 11561-3521                      LONG BEACH, NY 11561-3521
+                                                                  Tel:     +1 516 708 0111
+                                                                  Fax:     +1 212 812 6405
+                                                                  Email: hb@barrtell.com;
+                                                                           td@barrtell.com
+
+
+United States      LIR
+
+    Country/       Company Name/Address                Issuer     Contact
+  Geographical                                       Identifier
+      area                                            Number
+ United States     DataXoom                          89 1 082     Jen Davis / Kate Gleason
+                   25 Sundial Ave, Suite 316                      25 Sundial Ave, Suite 316
+                   MANCHESTER                                     MANCHESTER
+                   NH 03103                                       NH 03103
+                                                                  Tel:     +1 510 474 0044
+                                                                  E-mail: Jen.davis@dataxoom.com;
+                                                                           kate.gleason@dataxoom.com
+
+
+
+
+          Mobile Network Codes (MNC) for the international identification plan
+                         for public networks and subscriptions
+                 (According to Recommendation ITU-T E.212 (09/2016))
+                           - Position on 15 November 2023 -
+                               Annex to ITU Operational Bulletin No. 1280 – 15.XI.2023
+                                                Amendment No. 54
+
+
+ Country / Geographical area
+ MCC + MNC                         Operator / Network
+ South Africa ADD
+ 655 20                            Vodacom Pty Ltd
+
+
+____________
+MCC: Mobile Country Code
+MNC: Mobile Network Code
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                               Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014
+                                               Amendment No. 204
+
+
+ Country or area/ISO code                               Company Code           Contact
+ Company Name/Address                                    (carrier code)
+
+
+Germany (Federal Republic of) / DEU         LIR
+
+ weissblau-breitband UG (haftungsbeschränkt)              WBBAND               Mr Wolfgang Schlichtner
+ Marktler Straße 63                                                            Tel: +49 8677 7664660
+ 84489 BURGHAUSEN                                                              E-mail: techrole@hellmannsberger.de
+
+
+
+
+                         List of International Signalling Point Codes (ISPC)
+                      (According to Recommendation ITU-T Q.708 (03/1999))
+                                      - Position on 01 July 2024 -
+                                    Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024
+                                                     Amendment No. 35
+
+
+ Country / Geographical area          Unique name of the signalling    Name of the signalling point operator
+ ISPC              DEC                point
+
+ Gibraltar ADD
+ 7-201-1           15945              5161                             Melmasti Global (Gibraltar) Ltd “MCOM”
+ 7-201-2           15946              5162                             Melmasti Global (Gibraltar) Ltd “MCOM”
+
+
+____________
+ISPC: International Signalling Point Codes.
+
+
+
+
+                                      National Numbering Plan
+                       (According to Recommendation ITU-T E.129 (01/2013))
+                                                See URL: www.itu.int/itu-t/nnp
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 15.III.2026, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                               Country/Geographical area                     Country Code (CC)
+                     Azerbaijan                                                     +994
+                     Guyana                                                         +592
+
+
+
+

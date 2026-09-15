@@ -28,45 +28,42 @@
 # */
 
 
-import sys
 import argparse
+import sys
 
-#
-from mcc_mnc_lut.p1_mnc import P1_MNC
-from mcc_mnc_lut.p1_mcc import P1_MCC
-from mcc_mnc_lut.p1_cc2 import P1_CC2
-
-#
 from mcc_mnc_genlib.scripts.chk_cntr import print_cntr
+from mcc_mnc_lut.p1_cc2 import P1_CC2
+from mcc_mnc_lut.p1_mcc import P1_MCC
+from mcc_mnc_lut.p1_mnc import P1_MNC
 
 
 def print_mcc(mcc, cc2s, indent=''):
-    print('%s> MCC %s' % (indent, mcc))
+    print('{}> MCC {}'.format(indent, mcc))
     mcc = P1_MCC[mcc]
     if isinstance(mcc, list):
         mccs = mcc
         for mcc in mccs:
             if mcc['cc2'] in cc2s:
-                print('%s  country       : %s' % (indent, mcc['cc2']))
-                print('%s  url Wikipedia : %s' % (indent, mcc['url']))
-                print('%s  regulator     : %s' % (indent, mcc['reg']))
+                print('{}  country       : {}'.format(indent, mcc['cc2']))
+                print('{}  url Wikipedia : {}'.format(indent, mcc['url']))
+                print('{}  regulator     : {}'.format(indent, mcc['reg']))
                 if mcc['notes']:
-                    print('%s  notes         : %s' % (indent, mcc['notes']))
+                    print('{}  notes         : {}'.format(indent, mcc['notes']))
     else:
-        print('%s  country       : %s' % (indent, mcc['cc2']))
-        print('%s  url Wikipedia : %s' % (indent, mcc['url']))
-        print('%s  regulator     : %s' % (indent, mcc['reg']))
+        print('{}  country       : {}'.format(indent, mcc['cc2']))
+        print('{}  url Wikipedia : {}'.format(indent, mcc['url']))
+        print('{}  regulator     : {}'.format(indent, mcc['reg']))
         if mcc['notes']:
-            print('%s  notes         : %s' % (indent, mcc['notes']))
+            print('{}  notes         : {}'.format(indent, mcc['notes']))
 
 
 def print_mno(mccmnc, mno, ext, indent=''):
-    print('%s  operational   : %s' % (indent, repr(mno['ope']).lower()))
-    print('%s  brand         : %s' % (indent, mno['brand']))
-    print('%s  operator      : %s' % (indent, mno['operator']))
-    print('%s  country       : %s' % (indent, mno['country']))
-    print('%s  bands         : %s' % (indent, ', '.join(mno['bands'])))
-    print('%s  src           : %s' % (indent, mno['src']))
+    print('{}  operational   : {}'.format(indent, repr(mno['ope']).lower()))
+    print('{}  brand         : {}'.format(indent, mno['brand']))
+    print('{}  operator      : {}'.format(indent, mno['operator']))
+    print('{}  country       : {}'.format(indent, mno['country']))
+    print('{}  bands         : {}'.format(indent, ', '.join(mno['bands'])))
+    print('{}  src           : {}'.format(indent, mno['src']))
     if ext:
         if mccmnc[:3] in P1_MCC:
             print_mcc(mccmnc[:3], mno['cc2s'], indent='  ')
@@ -77,12 +74,12 @@ def print_mno(mccmnc, mno, ext, indent=''):
 def print_mnos(mccmnc, ext=0):
     mnos = P1_MNC[mccmnc]
     if isinstance(mnos, list):
-        print('> %s: multiple MNOs' % mccmnc)
+        print('> {}: multiple MNOs'.format(mccmnc))
         for mno in mnos:
             print('>')
             print_mno(mccmnc, mno, ext)
     else:
-        print('> %s: MNO' % mccmnc)
+        print('> {}: MNO'.format(mccmnc))
         print_mno(mccmnc, mnos, ext)
 
 
@@ -110,7 +107,7 @@ def main():
         for mccmnc in args.MCCMNC:
             mcc, mnc = mccmnc[:3], mccmnc[3:]
             if len(mcc) != 3 or mcc not in P1_MCC:
-                print('> unknown MCC: %s\n' % mcc)
+                print('> unknown MCC: {}\n'.format(mcc))
                 continue
             elif not mnc:
                 # country code only, print all MCCMNC for the given MCC
@@ -120,17 +117,16 @@ def main():
                     mncs = set()
                     for mcc_cntr_sin in mcc_cntr:
                         mncs.update(mcc_cntr_sin['mncs'])
-                    mncs = list(sorted(mncs))
+                    mncs = sorted(mncs)
                 else:
                     mncs = mcc_cntr['mncs']
                 for _mccmnc in mncs:
                     print_mnos(_mccmnc, args.x)
             elif mccmnc not in P1_MNC:
-                print('> unknown MCC-MNC: %s\n' % mccmnc)
+                print('> unknown MCC-MNC: {}\n'.format(mccmnc))
             else:
                 print_mnos(mccmnc, args.x)
-            print('')
-    #
+            print()
     return 0
 
 

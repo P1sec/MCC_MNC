@@ -1,0 +1,1338 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1340              15.V.2026                  (Information received by 30 April 2026) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                3
+Approval and deletion of ITU-T Recommendations……………………………………………………………………………………                                                                                      4
+Telephone Service:
+     Armenia (Ministry of High-Tech Industry, Yerevan) ..................................................................................                           5
+     Burundi (Agence de Régulation et de Contrôle des Télécommunications du Burundi
+        (ARCT), Bujumbura) .............................................................................................................................           17
+     France (Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution
+        de la Presse (Arcep), Paris) ..................................................................................................................            18
+     Iran (Islamic Republic of) (Communications Regulatory Authority (CRA), Tehran) ...................................                                            20
+     Mozambique (Instituto Nacional das Comunicações de Moçambique (INCM), Maputo) .........................                                                       24
+     Turkmenistan (Turkmenaragatnashyk Agency, Ashgabat) .......................................................................                                   25
+Service Restrictions .........................................................................................................................................     26
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                26
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers ....................................................................................................................             27
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................         28
+National Numbering Plan ...............................................................................................................................            29
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1341              1.VI.2026             15.V.2026
+               1342             15.VI.2026             29.V.2026
+               1343             1.VII.2026             15.VI.2026
+               1344             15.VII.2026            30.VI.2026
+               1345             1.VIII.2026           15.VII.2026
+               1346            15.VIII.2026           31.VII.2026
+               1347              1.IX.2026            14.VIII.2026
+               1348             15.IX.2026            31.VIII.2026
+               1349              1.X.2026              15.IX.2026
+               1350             15.X.2026              30.IX.2026
+               1351              1.XI.2026             15.X.2026
+               1352             15.XI.2026             31.X.2026
+               1353             1.XII.2026             13.XI.2026
+               1354             15.XII.2026            30.XI.2026
+               1355              1.I.2027             11.XII.2026
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1317 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 June 2025)
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                        Approval and deletion of ITU-T Recommendations
+Approved Recommendations:
+By AAP-35, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T F.740.13 (04/2026): Architectural framework and requirements of non-realtime cloud rendering system
+–       ITU-T F.740.14 (04/2026): Requirements and reference framework for cloud performing arts system
+–       ITU-T F.740.15 (04/2026): Requirements and framework for cultural data sharing system
+–       ITU-T F.743.39 (04/2026): Framework and functional requirements for data matrix for multimedia services
+–       ITU-T F.746.25 (04/2026): Framework and functional requirements for voice interaction of in-vehicle multimodal
+        system
+–       ITU-T F.748.54 (04/2026): Framework and requirements for digital human customization
+–       ITU-T F.748.80 (04/2026): Framework and requirements for 3D collaborative design services
+–       ITU-T F.749.20 (04/2026): Requirements for Head-up Display Interface for Intelligent Vehicle
+–       ITU-T F.749.21 (04/2026): Requirements and framework for generative AI enabled vehicle-cloud collaboration
+        system for vehicular multimedia
+–       ITU-T F.780.9 (04/2026): Requirements and framework for the digital health portrait platform
+–       ITU-T G.874 (04/2026): Management aspects of optical transport network elements
+–       ITU-T H.430.9 (04/2026): An architectural framework for first-person transfer immersive live experience
+–       ITU-T J.154 (04/2026): Functional requirements for IP broadcast services in cable television by using multiple-
+        input-multiple-output (MIMO) in IMT-2020 system
+–       ITU-T M.3020 (04/2026): Management interface specification methodology
+–       ITU-T Q.3723 (04/2026): Signalling requirements of virtualized broadband network gateway for service function
+        chain
+–       ITU-T Q.4048 (04/2026): Monitoring parameters for cloud-edge-device collaboration system
+–       ITU-T Q.4145 (04/2026): Set of parameters for monitoring computing power network
+–       ITU-T Q.4180 (04/2026): Signalling requirements and architecture for artificial intelligence data centre
+–       ITU-T Q.5038 (04/2026): Signalling and protocol for intent-based management and orchestration of network
+        slicing in IMT-2020 networks and beyond
+Deleted Recommendations:
+None.
+
+
+
+
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                           See URL: www.itu.int/itu-t/nnp
+Armenia (country code +374)
+Communication of 30.IV.2026:
+The Ministry of High-Tech Industry, Yerevan, announces the updated version of National Numbering Plan of Armenia.
+
+                                                                    Existing N(S)N
+  Marz name     Destination
+                                             Additional
+  (Province)    name               NDC                               Inter-regional destination code + SN
+                                               digits
+                                                                            Geographic numbers for
+                                                                            fixed telephony services
+                                                             Telecom
+                                                                                          GNC-Alfa
+                                                             Armenia         Ucom                           Crossnet
+                                                                                           (Ovio)
+                                                              (Team)
+
+                                                          2xxxxx,
+                                                          3xxxxx,
+                                                          4xxxxx,
+                                                          5xxxxx,
+                                    10           -
+                                                          6xxxxx,
+                                                          7xxxxx,
+                                                          8xxxxx,
+                                                          9xxxxx
+                                                                            2xxxxx,
+                                                                            3xxxxx,
+                                                                            4xxxxx,
+                                                                            5xxxxx,
+                                    11           -
+                                                                            6xxxxx,
+                                                                            7xxxxx,
+                                                                            8xxxxx,
+                Telephone                                                   9xxxxx
+   Yerevan
+                Exchanges                                                               2xxxxx,
+                                                                                        3xxxxx,
+                                                                                        4xxxxx,
+                                                                                        5xxxxx,
+                                    12           -
+                                                                                        6xxxxx,
+                                                                                        7xxxxx,
+                                                                                        8xxxxx,
+                                                                                        9xxxxx
+                                                                                                       2xxxxx,
+                                                                                                       3xxxxx,
+                                                                                                       4xxxxx,
+                                                                                                       5xxxxx,
+                                    15           -
+                                                                                                       6xxxxx,
+                                                                                                       7xxxxx,
+                                                                                                       8xxxxx,
+                                                                                                       9xxxxx
+
+
+
+
+                                                          Existing N(S)N
+ Marz name     Destination
+                                    Additional
+ (Province)    name           NDC                           Inter-regional destination code + SN
+                                      digits
+                                                                 Geographic numbers for
+                                                                 fixed telephony services
+                                                   Telecom
+                                                                                GNC-Alfa
+                                                   Armenia         Ucom                            Crossnet
+                                                                                 (Ovio)
+                                                    (Team)
+
+                                                 2xxxx, 3xxxx,
+               Abovyan                           4xxxx, 7xxxx,
+                                                 9xxxx
+               Arzni                             94xxx           5xxxx        81xxx
+                              222       -
+               Arinj                             98xxx
+               Geghashen                         97xxx
+               Abovyan
+               CDMA                              6xxxx
+                                                                 70xxx,       810xx,
+                                                                 71xxx,       811xx,
+                                                 2xxxx, 3xxxx,
+               Hrazdan                                           72xxx,       812xx,
+                                                 4xxxx, 9xxxx
+                                                                 73xxx,       813xx,
+                                                                 74xxx        814xx
+                                                                 75xxx,       815xx,
+                              223       -
+                                                                 76xxx,       816xx,
+               Tsaghkadzor                       5xxxx           77xxx,       817xx,
+                                                                 78xxx,       818xx,
+   Kotayk                                                        79xxx        819xx
+               Hrazdan
+               CDMA                              6xxxx
+                                                 2xxxx, 4xxxx,
+               Charentsavan                                      3xxxx        81xxx
+                                                 7xxxx
+                              226       -
+               Charentsavan
+                                                 6xxxx
+               CDMA
+                                                                              810xx,
+                                                                              811xx,
+                                                 2xxxx, 3xxxx,
+               Eghvard                                                        812xx,
+                                                 5xxxx, 9xxxx
+                                                                              813xx,
+                                                                              814xx
+                                                                 7xxxx
+                                                                              815xx,
+                              224       -
+                                                                              816xx,
+               Nor-Hachn                         4xxxx                        817xx,
+                                                                              818xx,
+                                                                              819xx
+               Eghvard
+               CDMA                              6xxxx
+
+
+
+
+                                                         Existing N(S)N
+Marz name      Destination
+                                   Additional
+(Province)     name          NDC                           Inter-regional destination code + SN
+                                     digits
+                                                                Geographic numbers for
+                                                                fixed telephony services
+                                                  Telecom
+                                                                               GNC-Alfa
+                                                  Armenia         Ucom                            Crossnet
+                                                                                (Ovio)
+                                                   (Team)
+
+                                                                             810xx,
+                                                                             811xx,
+                                                                             812xx,
+                                                4xxxx, 5xxxx,
+               Echmiadzin                                       2xxxx        813xx,
+                                                9xxxx
+                                                                             814xx,
+                                                                             815xx,
+                             231       -
+                                                                             816xx
+                                                                             817xx,
+               Zvartnots                        7xxxx           3xxxx        818xx,
+                                                                             819xx
+               Echmiadzin
+               CDMA                             6xxxx
+                                                                40xxx,       810xx,
+                                                                41xxx,       811xx,
+                                                                42xxx,       812xx,
+                                                2xxxx, 5xxxx,
+               Armavir                                          43xxx,       813xx,
+                                                7xxxx, 9xxxx
+  Armavir                                                       44xxx,       814xx,
+                                                                45xxx,       815xx,
+                                                                46xxx        816xx
+               Metsamor                         3xxxx
+                             237       -
+               v. Armavir                       71xxx
+               Bambakashat                      79xxx           47xxx,       817xx,
+                                                                48xxx,       818xx,
+               Mrgashat                         72xxx           49xxx        819xx
+               Nalbandyan                       92xxx
+               Tandzyt                          96xxx
+               Armavir
+                                                6xxxx
+               CDMA
+                                                2xxxx, 7xxxx,
+               Baghramian
+                                                9xxxx           3xxxx        81xxx
+               Myasnikian    233       -        74xxx
+               Baghramian
+                                                6xxxx
+               CDMA
+
+
+
+
+                                                         Existing N(S)N
+ Marz name     Destination
+                                   Additional
+ (Province)    name          NDC                           Inter-regional destination code + SN
+                                     digits
+                                                                Geographic numbers for
+                                                                fixed telephony services
+                                                  Telecom
+                                                                               GNC-Alfa
+                                                  Armenia         Ucom                            Crossnet
+                                                                                (Ovio)
+                                                   (Team)
+
+                                                                70xxx,       510xx,
+                                                                71xxx,       511xx,
+               Vedi                             2xxxx, 3xxxx,   72xxx,       512xx,
+                                                4xxxx, 8xxxx,   73xxx,       513xx,
+                                                9xxxx           74xxx        514xx
+               Ararat                                           75xxx,       515xx,
+                             234       -                        76xxx,       516xx,
+                                                                77xxx,       517xx,
+               Urtsadzor                        86xxx           78xxx,       518xx,
+                                                                79xxx        519xx
+   Ararat      Vedi CDMA
+                                                6xxxx
+               Ararat CDMA
+                                                2xxxx, 5xxxx,
+               Artashat
+                                                7xxxx, 9xxxx    3xxxx        81xxx
+               Norashen      235       -        92xxx, 93xxx
+               Artashat
+                                                6xxxx
+               CDMA
+                                                2xxxx, 3xxxx,
+               Masis                                            5xxxx        81xxx
+                             236       -        4xxxx, 9xxxx
+               Masis CDMA                       6xxxx
+
+
+
+
+                                                          Existing N(S)N
+Marz name      Destination
+                                    Additional
+(Province)     name           NDC                           Inter-regional destination code + SN
+                                      digits
+                                                                 Geographic numbers for
+                                                                 fixed telephony services
+                                                   Telecom
+                                                                                GNC-Alfa
+                                                   Armenia         Ucom                            Crossnet
+                                                                                 (Ovio)
+                                                    (Team)
+
+                                                 2xxxx, 3xxxx,
+               Ashtarak
+                                                 9xxxx
+                                                                 4xxxx        81xxx
+               Byurakan                          94xxx
+                              232       -
+               Ohanavan                          90xxx
+               Ashtarak
+                                                 6xxxx
+               CDMA
+                                                 2xxxx, 3xxxx,
+               Talin                             7xxxx,
+                                                 9xxxx
+               Aragats                           95xxx           4xxxx        81xxx
+                              249       -
+               Katnaghbyur                       73xxx
+Aragatsotn     Mastara                           97xxx
+               Talin CDMA                        6xxxx
+                                                 2xxxx, 3xxxx,
+               Aparan
+                                                 9xxxx
+                                                                 4xxxx        81xxx
+               Artavan        252       -        95xxx
+               Quchak                            91xxx
+               Aparan CDMA                       6xxxx
+               Tsaghkahovit             0        2xxx
+               Tsaghkahovit
+                                                 2xxxx           3xxxx        81xxx
+               region         257
+                                        -
+               Tsaghkahovit
+                                                 6xxxx
+               CDMA
+
+
+
+
+                                                          Existing N(S)N
+Marz name       Destination
+                                    Additional
+(Province)      name          NDC                           Inter-regional destination code + SN
+                                      digits
+                                                                 Geographic numbers for
+                                                                 fixed telephony services
+                                                   Telecom
+                                                                                GNC-Alfa
+                                                   Armenia         Ucom                            Crossnet
+                                                                                 (Ovio)
+                                                    (Team)
+
+                                                                              850xx,
+                                                                              851xx,
+                                                                              852xx,
+                                                                              853xx,
+                                                 2xxxx, 3xxxx,
+                Gyumri                                           9xxxx        854xx,
+                                                 4xxxx, 5xxxx
+                                                                              855xx,
+                                                                              856xx,
+                              312       -                                     857xx,
+                                                                              858xx
+                                                                 80xxx,
+                                                                 81xxx,
+                Akhurian
+                                                 7xxxx           82xxx,       859xx
+                region
+                                                                 83xxx,
+                                                                 84xxx
+                Gyumri CDMA                      6xxxx
+                Ashotsk
+                                                                 4xxxx        81xxx
+   Shirak       region                           2xxxx, 3xxxx
+                              245       -
+                Ashotsk
+                CDMA                             6xxxx
+                Amasia
+                                                 2xxxx, 3xxxx    4xxxx        81xxx
+                region        246       -
+                Amasia CDMA                      6xxxx
+                                                 2xxxx, 3xxxx,
+                Maralik
+                                                 4xxxx, 9xxxx    5xxxx        81xxx
+                Sarnaghbyur   242       -        31xxx
+                Maralik
+                                                 6xxxx
+                CDMA
+                                                 2xxxx, 3xxxx,
+                Artik
+                                                 5xxxx, 9xxxx    4xxxx        81xxx
+                              244       -
+                Panik                            92xxx
+                Artik CDMA                       6xxxx
+                Arapi         243      00        5xx, 6xx
+
+
+
+
+                                                           Existing N(S)N
+Marz name      Destination
+                                     Additional
+(Province)     name            NDC                           Inter-regional destination code + SN
+                                       digits
+                                                                  Geographic numbers for
+                                                                  fixed telephony services
+                                                    Telecom
+                                                                                 GNC-Alfa
+                                                    Armenia         Ucom                            Crossnet
+                                                                                  (Ovio)
+                                                     (Team)
+
+                                                  2xxxx, 3xxxx,
+                                                  4xxxx, 5xxxx,
+                                                  60xxx, 61xxx,
+               Vanadzor                                           7xxxx        81xxx
+                                                  62xxx, 63xxx,
+                               322       -
+                                                  64xxx, 65xxx,
+                                                  66xxx, 9xxxx
+               Vanadzor
+                                                  6xxxx
+               CDMA
+               Spitak region                      2xxxx, 3xxxx    4xxxx        81xxx
+                               255       -
+               Spitak CDMA                        6xxxx
+                                                  2xxxx, 3xxxx,
+               Alaverdi
+                                                  4xxxx, 5xxxx
+    Lori                                                          7xxxx        81xxx
+               Akhtala                            52xxx
+                               253       -
+               Tumanyan                           57xxx
+               Alaverdi
+                                                  6xxxx
+               CDMA
+                                                  2xxxx, 7xxxx,
+               Tashir
+                                                  9xxxx           3xxxx        81xxx
+                               254       -
+               Metsavan                           94xxx
+               Tashir CDMA                        6xxxx
+                                                  2xxxx, 3xxxx,
+               Stepanavan                                         4xxxx        81xxx
+                                                  9xxxx
+                               256       -
+               Stepanavan
+                                                  6xxxx
+               CDMA
+
+
+
+
+                                                          Existing N(S)N
+Marz name       Destination
+                                    Additional
+(Province)      name          NDC                           Inter-regional destination code + SN
+                                      digits
+                                                                 Geographic numbers for
+                                                                 fixed telephony services
+                                                   Telecom
+                                                                                GNC-Alfa
+                                                   Armenia         Ucom                            Crossnet
+                                                                                 (Ovio)
+                                                    (Team)
+
+                                                 2xxxx, 3xxxx,
+                Sevan                                            4xxxx        81xxx
+                              261       -        9xxxx
+                Sevan CDMA                       6xxxx
+                                                 2xxxx, 4xxxx,
+                Martuni                          5xxxx, 7xxxx,
+                                                 9xxxx           3xxxx        81xxx
+                              262       -
+                Vardenik                         52xxx, 53xxx
+                Martuni
+                                                 6xxxx
+                CDMA
+                                                 2xxxx, 3xxxx,
+                Gavar                                            5xxxx        81xxx
+Gegharkunik                   264       -        4xxxx, 9xxxx
+                Gavar CDMA                       6xxxx
+                                                 2xxxx, 3xxxx,
+                Vardenis                                         4xxxx        81xxx
+                                                 7xxxx, 9xxxx
+                              269       -
+                Vardenis
+                CDMA                             6xxxx
+                                                 2xxxx, 3xxxx,
+                Chambarak
+                                                 9xxxx           4xxxx        81xxx
+                Vahan         265       -        96xxx
+                Chambarak
+                                                 6xxxx
+                CDMA
+
+
+
+
+                                                          Existing N(S)N
+Marz name      Destination
+                                    Additional
+(Province)     name           NDC                           Inter-regional destination code + SN
+                                      digits
+                                                                 Geographic numbers for
+                                                                 fixed telephony services
+                                                   Telecom
+                                                                                GNC-Alfa
+                                                   Armenia         Ucom                            Crossnet
+                                                                                 (Ovio)
+                                                    (Team)
+
+                                                 3xxxx, 4xxxx,
+               Ijevan
+                                                 7xxxx, 9xxxx
+                                                                 2xxxx        81xxx
+               Aygehovit      263       -        74xxx
+               Achajur                           92xxx
+               Ijevan CDMA                       6xxxx
+                                                 2xxxx, 5xxxx,
+               Berd
+                                                 7xxxx, 9xxxx
+               Mosesgegh                         96xxx           3xxxx        81xxx
+                              267       -
+               Navur                             91xxx
+               Norashen                          97xxx
+               Berd CDMA                         6xxxx
+                                                 2xxxx, 5xxxx,
+               Noyemberian
+  Tavush                                         7xxxx, 9xxxx
+               Voskepar                          96xxx           3xxxx        81xxx
+               Koti           266       -        99xxx
+               Koghb                             52xxx, 53xxx
+               Noyemberian
+                                                 6xxxx
+               CDMA
+                                                 2xxxx, 3xxxx,
+               Dilijan
+                                        -        9xxxx
+                                                                 4xxxx        81xxx
+               Haghartsin                        95xxx
+               Teghut         268                97xxx
+               Dilijan (4
+               digits)                  0        xxxx
+               Dilijan CDMA             -        6xxxx
+
+
+
+
+                                                           Existing N(S)N
+Marz name       Destination
+                                     Additional
+(Province)      name           NDC                           Inter-regional destination code + SN
+                                       digits
+                                                                  Geographic numbers for
+                                                                  fixed telephony services
+                                                    Telecom
+                                                                                 GNC-Alfa
+                                                    Armenia         Ucom                            Crossnet
+                                                                                  (Ovio)
+                                                     (Team)
+
+                                                  2xxxx, 5xxxx,
+                Yeghegnadzor
+                                                  9xxxx
+                                                                  3xxxx        81xxx
+                Malishka                          95xxx
+                               281       -
+                Shatin                            99xxx
+                Yeghegnadzor
+                                                  6xxxx
+                CDMA
+Vayots dzor                                       2xxxx, 928xx,
+                Vaik
+                                                  929xx           3xxxx        81xxx
+                               282       -
+                Vaik region                       9xxxx
+                Vaik CDMA                         6xxxx
+                Jermuk                            2xxxx, 9xxxx
+                                                                  3xxxx        81xxx
+                Gndevaz        287       -        94xxx
+                Jermuk CDMA                       6xxxx
+
+
+
+
+                                                           Existing N(S)N
+Marz name      Destination
+                                     Additional
+(Province)     name            NDC                           Inter-regional destination code + SN
+                                       digits
+                                                                  Geographic numbers for
+                                                                  fixed telephony services
+                                                    Telecom
+                                                                                 GNC-Alfa
+                                                    Armenia         Ucom                            Crossnet
+                                                                                  (Ovio)
+                                                     (Team)
+
+                                                  2xxxx, 7xxxx,
+               Sisian region             -                        3xxxx        51xxx
+                                                  8xxxx, 9xxxx
+               Sisian          283
+                                         0        xxxx
+               (4 digits)
+               Sisian CDMA               -        6xxxx
+                                                  2xxxx, 3xxxx,
+               Goris region                                       5xxxx        81xxx
+                               284       -        4xxxx, 9xxxx
+               Goris CDMA                         6xxxx
+                                                                  40xxx,       810xx,
+                                                                  41xxx,       811xx,
+                                                  2xxxx, 5xxxx,
+               Kapan                                              42xxx,       812xx,
+                                                  9xxxx
+                                                                  43xxx,       813xx,
+                                                                  44xxx        814xx
+                               285       -                        45xxx,       815xx,
+                                                                  46xxx,       816xx,
+  Syunik
+               Kajaran                            3xxxx           47xxx,       817xx,
+                                                                  48xxx,       818xx,
+                                                                  49xxx        819xx
+               Kapan CDMA                         6xxxx
+                                                                               810xx,
+                                                                               811xx,
+               Meghri                             4xxxx, 9xxxx    3xxxx        812xx,
+                                                                               813xx,
+                                                                               814xx
+               Agarak          286       -        2xxxx                        815xx,
+                                                                               816xx,
+                                                                  5xxxx        817xx,
+               Shvanidzor                         95xxx                        818xx,
+                                                                               819xx
+               Meghri CDMA                        6xxxx
+
+
+
+
+                                                                   Existing N(S)N
+                                          NDC                             SN
+                      Telecom Armenia
+  Non-geographic                          91, 96, 97, 99, 43, 33        xxxxxx
+                      (Team)
+  codes/numbers
+                      Viva Armenia
+    for mobile                            77, 88, 93, 94, 98            xxxxxx
+                      (Viva)
+  services (GSM)
+                      Ucom (Ucom)         41, 44, 55, 95                xxxxxx
+
+                                                                   Existing N(S)N
+                                                           Additional
+                                              NDC                       SN
+                                                             digits
+                      Hi-Tech Gateway                                   351xxx
+                      Web                                               36xxxx
+                                                                        37xxxx, 40xxxx, 43xxxx, 47xxxx, 48xxxx,
+                      CrossNet
+                                                                        49xxxx
+                      Netsys                                            39xxxx, 63xxxx
+                                                                        38xxxx, 42xxxx, 44xxxx, 50xxxx, 51xxxx,
+                      Ucom
+                                                                        52xxxx, 53xxxx, 54xxxx, 65xxxx
+                                                                        45xxxx, 56xxxx, 57xxxx, 58xxxx, 59xxxx,
+                      Gtel
+                                                                        60xxxx
+                                                                        46xxxx, 71xxxx, 72xxxx, 73xxxx, 74xxxx,
+                      GNC-Alfa (Ovio)
+  Non-geographical                                                      75xxxx
+   codes/numbers                                                        61xxxx, 67xxxx, 68xxxx,
+                                                60             -        69/0000-0169, 0270-0303, 0604-
+      for fixed
+ telephony services                                                     9999/, 70xxxx,
+                      Viva Armenia                                      77/0000-1200, 2200-2299, 3300-3400,
+                      (Viva)                                            6600-6700, 7000-9200,9900-9999/,
+                                                                        78/0000-0800, 7700-8900/, 80/0000-
+                                                                        0100, 0700-2499, 7770-8990, 9900-
+                                                                        9999/, 81/0000-1200, 8800-8999/
+                      Hnet                                              82xxxx
+                      Telecom Armenia
+                      (Team)                                            83xxxx, 84xxxx, 85xxxx
+                                                                        27xxxx, 62xxxx, 66xxxx, 86xxxx, 87xxxx,
+                      Arpinet
+                                                                        88xxxx, 89xxxx, 90xxxx
+                      Arm Telecom                                       92/0000-1999/
+
+
+Contact:
+      Ministry of High-Tech Industry
+      3/3 Vazgen Sargsyan Street
+      YEREVAN 0010
+      Armenia
+      Tel:     +374 10590021
+      E-mail: info@hti.am; secretary@hti.am
+      URL:     www.hti.am
+
+
+
+
+Burundi (country code +257)
+Communication of 17.IV.2026:
+The Agence de Régulation et de Contrôle des Télécommunications du Burundi (ARCT), Bujumbura, announces updates
+to the national numbering plan of Burundi.
+
+
+•     General information:
+           Country Code:              +257
+           International prefix:      00
+           National prefix:           --
+
+            Length of national (significant) number (excluding national prefix):
+            minimum               8 digits
+            maximum               8 digits
+
+            Universal Time Coordinated/Summer Time: + 2 GMT
+
+•     New number blocks assigned:
+
+            Number blocks                        Service                    Operator
+    (According to Rec. ITU-T E.164)
+    64 6XXXXX
+                                        Mobile                      VIETTEL BURUNDI S.A.
+    64 7XXXXX
+
+
+Contact:
+           Msc. Eng. Eliane IRIBUKA
+           Agence de Régulation et de Contrôle des Télécommunications (ARCT)
+           Avenue de France, 14
+           B.P. 6702
+           BUJUMBURA
+           Burundi
+           Tel: +257 7939 1097
+           Fax: +257 2224 2832
+           E-mail: elianeiribuka@gmail.com; eliane@arct.gov.bi; info@arct.gov.bi
+
+
+
+
+France (country code +33)
+Communication of 16.IV.2026:
+The Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep),
+Paris, presents information for National-only numbers linked with emergency services and other services of social
+value.
+
+
+            Description of important numbers related to emergency services and other services of social value
+
+
+ Country: France
+  Important                                     Allocated or        E.164 number or
+                           Service                                                                    Note
+   number                                        assigned         national-only number
+                                                                                            https://www.arcep.fr/la-
+                                               Allocated in the                                regulation/grands-
+                       Pan-European
+      112                                      French national    National-only number       dossiers-thematiques-
+                     emergency number
+                                               numbering plan                                    transverses/la-
+                                                                                               numerotation.html
+                                                                                            https://www.arcep.fr/la-
+                                               Allocated in the                                regulation/grands-
+      15             Medical emergency         French national    National-only number       dossiers-thematiques-
+                                               numbering plan                                    transverses/la-
+                                                                                               numerotation.html
+                                                                                            https://www.arcep.fr/la-
+                                               Allocated in the                                regulation/grands-
+      17              Police emergency         French national    National-only number       dossiers-thematiques-
+                                               numbering plan                                    transverses/la-
+                                                                                               numerotation.html
+                                                                                            https://www.arcep.fr/la-
+                                               Allocated in the                                regulation/grands-
+      18               Fire department         French national    National-only number       dossiers-thematiques-
+                                               numbering plan                                    transverses/la-
+                                                                                               numerotation.html
+                                                                                            https://www.arcep.fr/la-
+                                               Allocated in the                                regulation/grands-
+                      Social emergency
+      115                                      French national    National-only number       dossiers-thematiques-
+                           services
+                                               numbering plan                                    transverses/la-
+                                                                                               numerotation.html
+                                                                                            https://www.arcep.fr/la-
+                                               Allocated in the                                regulation/grands-
+      119          Child protection services   French national    National-only number       dossiers-thematiques-
+                                               numbering plan                                    transverses/la-
+                                                                                               numerotation.html
+                                                                                            https://www.arcep.fr/la-
+                                               Allocated in the                                regulation/grands-
+   116 000             Missing children        French national    National-only number       dossiers-thematiques-
+                                               numbering plan                                    transverses/la-
+                                                                                               numerotation.html
+                                                                                            https://www.arcep.fr/la-
+                                               Allocated in the                                regulation/grands-
+                   Emergency number for
+      114                                      French national    National-only number       dossiers-thematiques-
+                    the hearing impaired
+                                               numbering plan                                    transverses/la-
+                                                                                               numerotation.html
+                                                                                            https://www.arcep.fr/la-
+                                               Allocated in the                                regulation/grands-
+      191            Aviation emergency        French national    National-only number       dossiers-thematiques-
+                                               numbering plan                                    transverses/la-
+                                                                                               numerotation.html
+
+ Country: France
+  Important                                     Allocated or        E.164 number or
+                            Service                                                                 Note
+   number                                        assigned         national-only number
+                                                                                          https://www.arcep.fr/la-
+                                               Allocated in the                              regulation/grands-
+     196            Maritime emergency         French national    National-only number     dossiers-thematiques-
+                                               numbering plan                                  transverses/la-
+                                                                                             numerotation.html
+                                                                                          https://www.arcep.fr/la-
+                                               Allocated in the                              regulation/grands-
+                    Terrorist attack alert /
+     197                                       French national    National-only number     dossiers-thematiques-
+                       Kidnapping alert
+                                               numbering plan                                  transverses/la-
+                                                                                             numerotation.html
+                                                                                          https://www.arcep.fr/la-
+                                               Allocated in the                              regulation/grands-
+   116 117         Outpatient care hotline     French national    National-only number     dossiers-thematiques-
+                                               numbering plan                                  transverses/la-
+                                                                                             numerotation.html
+                                                                                          https://www.arcep.fr/la-
+                                                                                             regulation/grands-
+   116 006         Victim support services     Assigned to SFR    National-only number     dossiers-thematiques-
+                                                                                               transverses/la-
+                                                                                             numerotation.html
+                                                                                          https://www.arcep.fr/la-
+                                                                                             regulation/grands-
+                                                 Assigned to
+   116 111         Child protection services                      National-only number     dossiers-thematiques-
+                                                   Orange
+                                                                                               transverses/la-
+                                                                                             numerotation.html
+
+
+
+Contact:
+     Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (Arcep)
+     Numérotation
+     14 rue Gerty Archimède,
+     75613 Paris Cedex 12,
+     France
+     Tel:      +33 1 40 47 72 83
+     E-mail: numerotation@arcep.fr
+     URL:      https://extranet.arcep.fr/communications-electroniques/numerotation
+
+
+
+
+Iran (Islamic Republic of) (country code +98)
+Communication of 22.IV.2026:
+The Communications Regulatory Authority (CRA), Tehran, announces the following updated National Numbering Plan
+of the Islamic Republic of Iran.
+
+
+                                      Presentation of the Iran E.164 numbering plan
+1- General Information
+The E.164 numbering Plan of Iran:
+      •     Country Code: +98
+      •     International Prefix: "00"
+      •     National Prefix: "0"
+            For national calls, it must be dialled before all telephone numbers except short numbers.
+            It must not be dialled from abroad.
+      •     National destination Code: 2 digits.
+2- Detail of Numbering Scheme
+      •     NDC: National Destination Code
+      •     NSN: National Significant Number (NDC + SN)
+The minimum number length (excluding the country code) is             5 digits
+The maximum number length (excluding the country code) is            10 digits
+
+                                                    Numbering Scheme
+
+                           NSN Number length                Usage of E.164
+          NDC                                                                            Additional Information
+                       Minimum         Maximum
+ 11                        5               10             Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers- Mazandaran)
+ 13                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers- Gilan)
+ 17                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers- Golestan)
+ 21                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers- Tehran)
+ 23                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers- Semnan)
+ 24                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers- Zanjan)
+ 25                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers-Qom)
+ 26                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers-Alborz)
+ 28                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers-Ghazvin )
+ 31                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers- Isfahan)
+ 34                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers- Kerman)
+ 35                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers-Yazd)
+ 38                        5                  10          Fixed Phone            Area Code (Geographic Number for
+                                                                                 Fixed telephony Numbers- Chahar
+                                                                                 Mahal vaBakhtiari)
+
+
+                      NSN Number length      Usage of E.164
+      NDC                                                             Additional Information
+                  Minimum         Maximum
+41                    5               10    Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers- East
+                                                              Azarbayjan)
+44                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers- West
+                                                              Azarbayjan)
+45                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers- Ardabil)
+51                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers – Razavi
+                                                              Khorasan)
+54                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers –
+                                                              SistanvaBalochestan)
+56                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers – South
+                                                              Khorasan)
+58                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers - North
+                                                              Khorasan)
+61                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers -Khuzestan)
+66                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers - Lorestan)
+71                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers - Fars)
+74                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers –Kohgiluoyeva
+                                                              Boyer Ahmad)
+76                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers - Hormozgan)
+77                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers - Bushehr)
+81                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers – Hamadan)
+83                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers –
+                                                              Kermanshahan)
+84                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers- Ilam)
+86                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers-Markazi)
+87                    5             10      Fixed Phone       Area Code (Geographic Number for
+                                                              Fixed telephony Numbers-Kurdestan)
+900                   10            10      Mobile services
+901                   10            10      Mobile services
+902                   10            10      Mobile services
+903                   10            10      Mobile services
+904                   10            10      Mobile services
+905                   10            10      Mobile services
+91                    10            10      Mobile services
+920                   10            10      Mobile services
+921                   10            10      Mobile services
+
+                    NSN Number length      Usage of E.164
+    NDC                                                              Additional Information
+                Minimum         Maximum
+922                10               10    Mobile services
+923                10               10    Mobile services
+93                 10               10    Mobile services
+942121             10               10    Fixed Phone       Non geographical
+94200              10               10    Fixed Phone       Non geographical
+94220              10               10    Fixed Phone       Non geographical
+94260               6               10    Fixed Phone       Non geographical
+942800             10               10    Fixed Phone       Non geographical
+942801             10               10    Fixed Phone       Non geographical
+942802             10               10    Fixed Phone       Non geographical
+942900             10               10    Fixed Phone       Non geographical
+942901             10               10    Fixed Phone       Non geographical
+942902             10               10    Fixed Phone       Non geographical
+942903             10               10    Fixed Phone       Non geographical
+942904             10               10    Fixed Phone       Non geographical
+9430130            10               10    Fixed Phone       Non geographical
+940000             10               10    Fixed Phone       Non geographical
+                                          (fiber)
+940009            10              10      Fixed Phone       Non geographical
+                                          (fiber)
+9412              10              10      Fixed Phone       Non geographical
+                                          (Fixed wireless
+                                          Access)
+94440             10              10      Fixed Phone       Just Originating from Iran
+                                          (Fixed wireless
+                                          Access)
+96                 4              10      Services Codes
+990               10              10      Mobile services
+991               10              10      Mobile services
+992               10              10      Mobile services
+993               10              10      Mobile services
+994               10              10      Mobile services
+9950               5              10      Public Trunk
+99510             10              10      Mobile services
+99550             10              10      Mobile services
+996               10              10      Mobile services
+9981              10              10      Mobile services
+9982              10              10      Mobile services
+99830             10              10      Mobile services
+99831             10              10      Mobile services
+99832             10              10      Mobile services
+99888             10              10      Mobile services
+99900             10              10      Mobile services
+99901             10              10      Mobile services
+99902             10              10      Mobile services
+99903             10              10      Mobile services
+9991              10              10      Mobile services
+99921             10              10      Mobile services
+99930             10              10      Mobile services
+99931             10              10      Mobile services
+99932             10              10      Mobile services
+
+                          NSN Number length                Usage of E.164
+     NDC                                                                       Additional Information
+                      Minimum         Maximum
+ 99933                   10               10             Mobile services
+ 99934                   10               10             Mobile services
+ 9995                    10               10             Mobile services
+ 99969                   10               10             Mobile services
+ 99977                   10               10             Mobile services
+ 9998                    10               10             Mobile services
+ 9999                    10               10             Mobile services
+
+Contact:
+           Mr Alireza Darvishi
+           Director General, International Specialized Organizations Bureau,
+           Communications Regulatory Authority (CRA)
+           Ministry of Information and Communication Technology
+           15598 TEHRAN
+           Iran (Islamic Republic of)
+           Tel:      +98 21 89662201
+           Fax:      +98 21 88468999
+           E-mail: darvishi@cra.ir
+           URL:      www.cra.ir
+
+
+
+
+Mozambique (country code +258)
+Communication of 23.IV.2026:
+The Instituto Nacional das Comunicações de Moçambique (INCM), Maputo, announces the introduction of additional
+National Destination Code (88) on the National Numbering Plan of Mozambique.
+
+
+           Description of introduction of new resource for national numbering plan for country code +258
+
+       National destination      N(S)N number length                 Usage of                     Date of
+      code (NDC) or leading                                     ITU-T E.164 number              assignment
+         digits of national
+                                Maximum       Minimum
+       (significant) number
+                                 length        length
+               (N(S)N)
+           88 0XXXXXX               9             9       Mobile service – Movitel, S.A.       16 April 2026
+
+
+Contact:
+            Instituto Nacional das Comunicações de Moçambique (INCM)
+            Praça 16 de Junho n° 340,
+            Bairro da Malanga
+            Caixa postal 848
+            MAPUTO
+            Mozambique
+            Tel:      +258 21 227 100
+            Fax:      +258 21 494 435
+            E-mail: info@incm.gov.mz
+            URL:      www.incm.gov.mz
+
+
+
+
+Turkmenistan (country code +993)
+Communication of 24.IV.2026:
+The Turkmenaragatnashyk Agency, Ashgabat, announces the following newly introduced telephone code
+"+993 72 XX XX XX" by the mobile operator JSC «Altyn Asyr» (TM CELL) in the national numbering plan of Turkmenistan.
+
+
+            Description of introduction of new resource for national numbering plan for country code +993
+
+       National destination       N(S)N number length                   Usage of                      Date of
+      code (NDC) or leading                                        ITU-T E.164 number               assignment
+         digits of national
+                                 Maximum       Minimum
+       (significant) number
+                                  length        length
+               (N(S)N)
+            72 XXXXXX                8             8        Mobile service – JSC «Altyn Asyr»      07 April 2026
+
+
+All Administrations, recognized operating agencies and service providers are kindly requested to initiate the necessary
+programming of mentioned range into their networks to enable subscribers to access related services.
+
+Contact:
+      Turkmenaragatnashyk Agency
+      88 Archabil ave.
+      744000 ASHGABAT
+      Turkmenistan
+      Tel:    +993 12 44 90 00
+      Fax:    +993 12 44 93 93
+      E-mail: mincom@telecom.tm
+      URL:    www.mincom.gov.tm
+
+
+
+
+                                         Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                            See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                         AMENDMENTS TO SERVICE PUBLICATIONS
+                                                      Abbreviations used
+                                 ADD    Insert                           PAR   Paragraph
+                                 COL    Column                           REP   Replace
+                                 LIR    Read                             SUP   Delete
+                                 P      Page(s)
+
+
+
+
+                                 List of Issuer Identifier Numbers for
+                         the International Telecommunication Charge Card
+                   (in accordance with Recommendation ITU-T E.118 (05/2006))
+                                   (Position on 31 December 2023)
+                                  Annex to ITU Operational Bulletin No. 1283 – 1.I.2024
+                                                  Amendment No. 30
+
+
+Estonia      SUP
+    Country/             Company Name/Address                 Issuer                       Contact                   Effective
+  Geographical                                              Identifier                                                date of
+      area                                                   Number                                                cancellation
+ Estonia             1oT OÜ                                89 372 06       Märt Kroodo                              23.IV.2026
+                     Järvevana tee 7b                                      Järvevana tee 7b
+                     10132 TALLINN                                         10132 TALLINN
+                                                                           E-mail: carrier@1ot.com
+
+
+Gibraltar     ADD
+    Country/            Company Name/Address                 Issuer                        Contact                   Effective
+  Geographical                                             Identifier                                              date of usage
+      area                                                  Number
+ Gibraltar          Melmasti Global (Gibraltar) Ltd        89 350 04       Colin Risso                               1.V.2026
+                    “MCOM”                                                 Suite 22 Victoria House, Main Street,
+                    8 Moorland House, Ordinance                            Gibraltar GX11 1AA
+                    Wharf, Gibraltar, GX11 1AA                             Tel: +350 56808000
+                                                                           E-mail:
+                                                                           corporate-secretary@melmasti.com
+
+
+Spain        ADD
+   Country/             Company Name/Address                 Issuer                        Contact                   Effective
+ Geographical                                              Identifier                                                 date of
+     area                                                   Number                                                    usage
+
+ Spain              1GLOBAL Ops (Spain) S.L.U.             89 34 14        Giulia Garofoli                           1.V.2026
+                    Calle Maria Tubau, 3, 1a Planta                        Beethovenstraat 505,
+                    28050 MADRID                                           1083HK, AMSTERDAM,
+                                                                           The Netherlands
+                                                                           Tel:    +31 689 911 122
+                                                                           E-mail: legal@1global.com
+
+
+
+
+          Mobile Network Codes (MNC) for the international identification plan
+                         for public networks and subscriptions
+                 (According to Recommendation ITU-T E.212 (09/2016))
+                           - Position on 15 November 2023 -
+                               Annex to ITU Operational Bulletin No. 1280 – 15.XI.2023
+                                                Amendment No. 56
+
+
+ Country / Geographical area
+ MCC + MNC                        Operator / Network
+ Canada SUP
+ 302 724                          Rogers Communications Canada Inc. (Wireless)
+ 302 725                          Rogers Communications Canada Inc. (Wireless)
+ 302 821                          Rogers Communications Canada Inc. (Wireless)
+ Canada ADD
+ 302 790                          Manitoba NetSet Ltd
+ Canada LIR
+ 302 790                          Xplore Inc.
+ Chile SUP
+ 730 19                           Sociedad Falabella Móvil SPA
+ 730 29                           Entel PCS Telecomunicaciones S.A.
+ Chile ADD
+ 730 28                           Airtime Chile S.p.A.
+ 730 29                           Telefonica Moviles Chile
+ 730 30                           Telefonica Moviles Chile
+ 730 31                           Entel PCS Telecomunicaciones S.A.
+ 730 32                           Entel PCS Telecomunicaciones S.A.
+
+
+____________
+MCC: Mobile Country Code
+MNC: Mobile Network Code
+
+
+
+
+                                  National Numbering Plan
+                   (According to Recommendation ITU-T E.129 (01/2013))
+                                            See URL: www.itu.int/itu-t/nnp
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 15.IV.2026, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                            Country/Geographical area                        Country Code (CC)
+                  Australia                                                        +61
+
+
+
+

@@ -59,7 +59,6 @@ def main():
     if len(sys.argv) < 2 or sys.argv[1] in ('-h', '--help'):
         help()
         return 0
-    #
     try:
         pcconv = conv_pc_383(sys.argv[1])
     except Exception:

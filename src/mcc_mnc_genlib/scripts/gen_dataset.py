@@ -29,26 +29,25 @@
 
 
 __all__ = [
-    'MNC',  # dict of MNC: operator infos
-    'MCC',  # dict of MCC: operators infos
-    'MSISDN',  # dict of MSISDN prefix: list of countries
-    'MSISDNEXT',  # dict of MSISDN prefix: list of countries and extra-territories
     'CC2',  # dict of CC2: country info
     'CNTR',  # dict of country: country info (values identical to CC2 dict, but different key)
+    'MCC',  # dict of MCC: operators infos
+    'MNC',  # dict of MNC: operator infos
+    'MSISDN',  # dict of MSISDN prefix: list of countries
+    'MSISDNEXT',  # dict of MSISDN prefix: list of countries and extra-territories
     'TERR',  # dict of territory (incl. country): neighbour info
 ]
 
 
-from os.path import dirname, realpath, join
-import sys
 import re
+import sys
+from os.path import dirname, join, realpath
 
 from mcc_mnc_genlib.core.patch_dataset import *
 from mcc_mnc_genlib.scripts.parse_wikipedia_tables import (
     generate_json,
     generate_python,
 )
-
 
 SCRIPT_DIR = dirname(realpath(__file__))
 MODULE_DIR = dirname(realpath(SCRIPT_DIR))
@@ -136,11 +135,10 @@ def gen_dict_mnc():
     """
     print('[+] generate MNC dict')
     R = {}
-    #
     # 1) flatten the lists of MNC
     MNC = []
-    [MNC.extend(mnc_list) for mnc_list in WIKIP_MNC.values()]
-    #
+    for mnc_list in WIKIP_MNC.values():
+        MNC.extend(mnc_list)
     for r in MNC:
         mno = {}
         mccmnc = r['mcc'] + r['mnc']
@@ -149,62 +147,18 @@ def gen_dict_mnc():
         mno['brand'] = name_norm(r['brand'])
         mno['operator'] = name_norm(r['operator'])
         mno['country'] = name_norm(r['country_name'])
-        mno['cc2s'] = list(sorted(r['codes_alpha_2']))
+        mno['cc2s'] = sorted(r['codes_alpha_2'])
         mno['src'] = 'Wikipedia'
-        #
         if mccmnc in R:
             # duplicate entry
-            print('> merging MNOs with same MCC-MNC %s' % mccmnc)
+            print('> merging MNOs with same MCC-MNC {}'.format(mccmnc))
             R[mccmnc] = mnc_merge(R[mccmnc], mno)
         else:
             R[mccmnc] = mno
-    #
     return R
 
 
 MNC = gen_dict_mnc()
-
-
-def mnc_txtn(mccmnc, inf):
-    mno = {
-        'country': inf[0],
-        'bands': '',  # no info on bands
-        'ope': False,  # consider the MNO as operational (?)
-        'src': 'txtNation',
-    }
-    #
-    # add set of CC2
-    mcc = mccmnc[:3]
-    cc2s = set()
-    for r in WIKIP_MCC:
-        if r['mcc'] == mcc:
-            cc2s.add(r['code_alpha_2'])
-    if not cc2s:
-        print('> no country info found for %s, %s' % (mccmnc, inf[0]))
-    mno['cc2s'] = list(sorted(cc2s))
-    #
-    # handle operator / brand info
-    for mccmnc_ex, mno_ex in MNC.items():
-        if mccmnc_ex[:3] != mccmnc[:3]:
-            continue
-        #
-        if isinstance(mno_ex, list):
-            # this is dirty
-            mno_ex = mno_ex[0]
-        if mno_ex['brand'].lower() == inf[1].lower():
-            mno['brand'] = mno_ex['brand']
-            mno['operator'] = mno_ex['operator']
-            break
-        elif mno_ex['operator'].lower() == inf[1].lower():
-            mno['brand'] = mno_ex['brand']
-            mno['operator'] = mno_ex['operator']
-            break
-    if 'brand' not in mno:
-        # print('> no existing brand / operator found for %s (%s), %s' % (mccmnc, inf[1], inf[0]))
-        mno['brand'] = inf[1]
-        mno['operator'] = ''
-    #
-    return mno
 
 
 def mnc_itut(cntr, mno, mccmnc):
@@ -221,11 +175,11 @@ def mnc_itut(cntr, mno, mccmnc):
         cc2s = [cc2]
     else:
         print(
-            '> MNO from ITU-T bulletin with MCC-MNC %s (%s), no CC2 found'
-            % (mccmnc, cntr)
+            '> MNO from ITU-T bulletin with MCC-MNC {} ({}), no CC2 found'.format(
+                mccmnc, cntr
+            )
         )
         cc2s = []
-    #
     return {
         'country': cntr,
         'bands': '',  # no info on bands
@@ -239,6 +193,25 @@ def mnc_itut(cntr, mno, mccmnc):
 
 def gen_dict_mnc_compl():
     #
+    # Data source priority and merge strategy:
+    #
+    # Wikipedia is the primary source: MNC is fully populated from Wikipedia
+    # first (see gen_dict_mnc above). Wikipedia provides broad coverage including
+    # commercial brand names, operational status, frequency bands and CC2 codes.
+    #
+    # ITU-T is a complementary source. By the time this function runs,
+    # ITUT_MNC_1162 has already been patched in-place by patch_dataset.py with
+    # all incremental updates from ITUT_MNC_INCR (bulletins 1163 onward), so it
+    # represents the latest known ITU-T state.
+    #
+    # For each ITU-T entry:
+    #   - If the MCC+MNC is NOT in Wikipedia -> add it (src='ITU-T').
+    #     These are typically private, government, or infrastructure operators
+    #     that Wikipedia does not cover.
+    #   - If the MCC+MNC IS in Wikipedia -> keep Wikipedia's data as-is.
+    #     Only the CC2 country code is enriched from ITU-T if missing.
+    #     Wikipedia operator names, brands and status are never overwritten.
+    #
     R = {}
     #
     # 1) complete MNC dict with new MNC from ITU-T 1162 bulletin (2018)
@@ -247,8 +220,9 @@ def gen_dict_mnc_compl():
         for mno, mccmnc in inf:
             if mccmnc not in MNC:
                 print(
-                    '> adding MNO from ITU-T bulletin with MCC-MNC %s (%s)'
-                    % (mccmnc, cntr)
+                    '> adding MNO from ITU-T bulletin with MCC-MNC {} ({})'.format(
+                        mccmnc, cntr
+                    )
                 )
                 R[mccmnc] = mnc_itut(cntr, mno, mccmnc)
             else:
@@ -268,28 +242,12 @@ def gen_dict_mnc_compl():
                     else:
                         if cc2 not in MNC[mccmnc]['cc2s']:
                             print(
-                                '> adding cc2 %s (%s) from ITU-T bulletin to MCC-MNC %s'
-                                % (cc2, cntr, mccmnc)
+                                '> adding cc2 {} ({}) from ITU-T bulletin to MCC-MNC {}'.format(
+                                    cc2, cntr, mccmnc
+                                )
                             )
                             MNC[mccmnc]['cc2s'].append(cc2)
-                            MNC[mccmnc]['cc2s'] = list(
-                                sorted(MNC[mccmnc]['cc2s'])
-                            )
-    #
-    # 2) complete MNC dict with new MNC from txtNation
-    for mccmnc, inf in sorted(CSV_TXTN_MCCMNC.items()):
-        if mccmnc not in MNC and mccmnc not in R:
-            if isinstance(inf, list):
-                infs = inf
-                mno = []
-                for inf in infs:
-                    mno.append(mnc_txtn(mccmnc, inf))
-            else:
-                mno = mnc_txtn(mccmnc, inf)
-            #
-            print('> adding MNO from txtNation with MCC-MNC %s' % mccmnc)
-            R[mccmnc] = mno
-    #
+                            MNC[mccmnc]['cc2s'] = sorted(MNC[mccmnc]['cc2s'])
     return R
 
 
@@ -315,7 +273,6 @@ def gen_dict_mcc():
     """
     print('[+] generate MCC dict')
     R = {}
-    #
     for r in WIKIP_MCC:
         mcc = r['mcc']
         assert len(mcc) == 3 and mcc.isdigit()
@@ -335,8 +292,7 @@ def gen_dict_mcc():
                 else:
                     if inf['cc2'] in mno['cc2s']:
                         inf['mncs'].add(mccmnc)
-        inf['mncs'] = list(sorted(inf['mncs']))
-        #
+        inf['mncs'] = sorted(inf['mncs'])
         if mcc in R:
             if isinstance(R[mcc], list):
                 R[mcc].append(inf)
@@ -370,14 +326,12 @@ def gen_dict_mcc():
         elif mcc[0] == '9':
             R[mcc]['notes'] = 'international networks'
         else:
-            print('> missing MCC %s' % mcc)
-        #
+            print('> missing MCC {}'.format(mcc))
         for mccmnc in MNC:
             if mccmnc[:3] == mcc:
                 assert len(MNC[mccmnc]['cc2s']) == 0
                 R[mcc]['mncs'].append(mccmnc)
                 R[mcc]['mncs'].sort()
-    #
     return R
 
 
@@ -396,13 +350,11 @@ def gen_dict_msisdn():
     """
     print('[+] generate MSISDN dict')
     R, Rext = {}, {}
-    #
     for pref, listinf in WIKIP_MSISDN.items():
         if pref not in R:
             R[pref] = set()
         for cc2, name, url, urlpref in listinf:
             R[pref].add(name)
-    #
     for name, listpref in WIKIP_COUNTRY.items():
         for pref in listpref:
             if pref not in R:
@@ -411,24 +363,24 @@ def gen_dict_msisdn():
     #
     # copy R into Rext
     Rext = {pref: set(names) for pref, names in R.items()}
-    #
     for name, (pref, country, url) in WIKIP_TERRITORY.items():
         if pref not in Rext:
-            print('> unknown prefix +%s for %s, %s' % (pref, name, country))
+            print(
+                '> unknown prefix +{} for {}, {}'.format(pref, name, country)
+            )
             Rext[pref] = set()
         elif country not in Rext[pref]:
             print(
-                '> special territory prefix +%s for %s, %s'
-                % (pref, name, country)
+                '> special territory prefix +{} for {}, {}'.format(
+                    pref, name, country
+                )
             )
         # do not append the country, but only the territory name
         Rext[pref].add(name)
-    #
     for pref, countries in list(R.items()):
-        R[pref] = list(sorted(countries))
+        R[pref] = sorted(countries)
     for pref, countries in list(Rext.items()):
-        Rext[pref] = list(sorted(countries))
-    #
+        Rext[pref] = sorted(countries)
     return R, Rext
 
 
@@ -441,7 +393,7 @@ MSISDN, MSISDNEXT = gen_dict_msisdn()
 
 # no transform is required for the SANC dict
 
-SANC = ITUT_SANC_1125
+SANC = ITUT_SANC_1293
 
 
 # ------------------------------------------------------------------------------#
@@ -452,12 +404,11 @@ SANC = ITUT_SANC_1125
 def gen_dict_ispc():
     """generates a dict of Internation Signaling Point Codes {SPC_383-num: SPC_infos}"""
     print('[+] generate ISPC dict')
-    R_383, R_dec = {}, {}
-    #
-    for cntr, spcs in sorted(ITUT_SPC_1199.items()):
+    R_383, _R_dec = {}, {}
+    for cntr, spcs in sorted(ITUT_SPC_1295.items()):
         for spc_info in spcs:
             if spc_info[0] in R_383:
-                print('> duplicated ISPC: %s' % spc_info[0])
+                print('> duplicated ISPC: {}'.format(spc_info[0]))
             else:
                 R_383[spc_info[0]] = [
                     cntr,
@@ -495,7 +446,6 @@ def gen_dict_cc2():
     """
     print('[+] generate CC2 dict')
     R = {}
-    #
     for cc2, infos in sorted(WIKIP_ISO3166.items()):
         D = {
             'cc2': cc2,
@@ -517,8 +467,7 @@ def gen_dict_cc2():
             else:
                 if mccinf['cc2'] == cc2:
                     mccset.add(mcc)
-        D['mcc'] = list(sorted(mccset))
-        #
+        D['mcc'] = sorted(mccset)
         for mccmnc, mno in MNC.items():
             if isinstance(mno, list):
                 for mno_s in mno:
@@ -531,15 +480,14 @@ def gen_dict_cc2():
                     D['mccmnc'].add(mccmnc)
                     if mccmnc[:3] in mccset:
                         mccset.remove(mccmnc[:3])
-        #
         if mccset:
             print(
-                '> CC2 %s, country %s, MCC %s unused'
-                % (cc2, D['name'], ', '.join(mccset))
+                '> CC2 {}, country {}, MCC {} unused'.format(
+                    cc2, D['name'], ', '.join(mccset)
+                )
             )
-        #
-        D['mcc'] = list(sorted(D['mcc']))
-        D['mccmnc'] = list(sorted(D['mccmnc']))
+        D['mcc'] = sorted(D['mcc'])
+        D['mccmnc'] = sorted(D['mccmnc'])
         #
         # 2) additional infos from Wikipedia
         # - nameset
@@ -567,52 +515,50 @@ def gen_dict_cc2():
                 codes['stan'] = wfb['stan']
             if wfb['cmt']:
                 geo['cmt'] = name_norm(wfb['cmt'])
-            if 'infos' in wfb and wfb['infos']:
+            if wfb.get('infos'):
                 geo['url_wfb'] = wfb['url']
                 if 'country_name' in wfb['infos']:
                     for v in wfb['infos']['country_name'].values():
                         nameset.update(country_name_canon(v))
-                #
                 wfbinf = wfb['infos']
                 # more info from WFB
-                if 'airports' in wfbinf and wfbinf['airports']:
+                if wfbinf.get('airports'):
                     geo['airports'] = wfbinf['airports']
-                if 'boundaries' in wfbinf and wfbinf['boundaries']:
+                if wfbinf.get('boundaries'):
                     geo['bound'] = wfbinf['boundaries']
-                if 'capital' in wfbinf and wfbinf['capital']:
+                if wfbinf.get('capital'):
                     geo['capital'] = wfbinf['capital']
-                if 'coastline' in wfbinf and wfbinf['coastline']:
+                if wfbinf.get('coastline'):
                     geo['coast'] = wfbinf['coastline']
-                if 'coord' in wfbinf and wfbinf['coord']:
+                if wfbinf.get('coord'):
                     geo['coord'] = wfbinf['coord']
-                if 'population' in wfbinf and wfbinf['population']:
+                if wfbinf.get('population'):
                     geo['popul'] = wfbinf['population']
-                if 'ports' in wfbinf and wfbinf['ports']:
+                if wfbinf.get('ports'):
                     geo['ports'] = wfbinf['ports']
-                if 'region' in wfbinf and wfbinf['region']:
+                if wfbinf.get('region'):
                     if len(wfbinf['region']) > 1:
                         geo['region'] = wfbinf['region'][0][1]
                     else:
                         geo['region'] = wfbinf['region'][0]
-                if 'subs_broadband' in wfbinf and wfbinf['subs_broadband']:
+                if wfbinf.get('subs_broadband'):
                     subs['bb'] = wfbinf['subs_broadband']
-                if 'subs_fixed' in wfbinf and wfbinf['subs_fixed']:
+                if wfbinf.get('subs_fixed'):
                     subs['fix'] = wfbinf['subs_fixed']
-                if 'subs_mobile' in wfbinf and wfbinf['subs_mobile']:
+                if wfbinf.get('subs_mobile'):
                     subs['mob'] = wfbinf['subs_mobile']
-                if 'users_internet' in wfbinf and wfbinf['users_internet']:
+                if wfbinf.get('users_internet'):
                     subs['internet'] = wfbinf['users_internet']
                 if subs:
                     tel['subs'] = subs
-                if 'telecom' in wfbinf and wfbinf['telecom']:
+                if wfbinf.get('telecom'):
                     tel.update(wfbinf['telecom'])
-        #
         if 'none' in nameset:
             nameset.remove('none')
         if '' in nameset:
             nameset.remove('')
         D['infos'] = {
-            'nameset': list(sorted(nameset)),
+            'nameset': sorted(nameset),
             'codes': codes,
             'geo': geo,
             'tel': tel,
@@ -635,15 +581,13 @@ def gen_dict_cc2():
                             D['msisdn'].append(pref)
         if not D['msisdn'] and cc2 not in CC2_ALIAS:
             print(
-                '> MSISDN prefix: prefix not found for %s, %s'
-                % (cc2, D['name'])
+                '> MSISDN prefix: prefix not found for {}, {}'.format(
+                    cc2, D['name']
+                )
             )
-        #
         R[cc2] = D
-    #
     for k, v in CC2_ALIAS.items():
         R[k] = R[v]
-    #
     return R
 
 
@@ -703,7 +647,6 @@ def gen_dict_terr():
     #
     # 2) add borders and neighbours
     WBORD = wikip_borders_todict(WIKIP_BORDERS)
-    #
     for name, inf in sorted(R.items()):
         bord, less30, less100 = set(), set(), set()
         #
@@ -725,8 +668,9 @@ def gen_dict_terr():
             if bnew:
                 bord.update(bnew)
                 print(
-                    '> %s, wfb has additional borders: %s'
-                    % (name, ', '.join(sorted(bnew)))
+                    '> {}, wfb has additional borders: {}'.format(
+                        name, ', '.join(sorted(bnew))
+                    )
                 )
         #
         # 2.3) COUNTRY_SPEC
@@ -737,8 +681,9 @@ def gen_dict_terr():
                 if bnew:
                     bord.update(bnew)
                     print(
-                        '> %s, cs has additional borders: %s'
-                        % (name, ', '.join(sorted(bnew)))
+                        '> {}, cs has additional borders: {}'.format(
+                            name, ', '.join(sorted(bnew))
+                        )
                     )
                 break
         #
@@ -753,25 +698,22 @@ def gen_dict_terr():
                     less30.add(n)
                 elif dist <= 100.0:
                     less100.add(n)
-            #
             bnew = mdb.difference(bord)
             if bnew:
                 bord.update(bnew)
                 print(
-                    '> %s, emd has additional borders: %s'
-                    % (name, ', '.join(sorted(bnew)))
+                    '> {}, emd has additional borders: {}'.format(
+                        name, ', '.join(sorted(bnew))
+                    )
                 )
-        #
         less30.difference_update(bord)
         less100.difference_update(less30)
         less100.difference_update(bord)
-        #
         inf['neigh'] = {
-            'bord': list(sorted(bord)),
-            'less30': list(sorted(less30)),
-            'less100': list(sorted(less100)),
+            'bord': sorted(bord),
+            'less30': sorted(less30),
+            'less100': sorted(less100),
         }
-    #
     return R
 
 
@@ -783,13 +725,12 @@ TERR = gen_dict_terr()
 
 
 def complete_cc2():
-    for cc2, inf in CC2.items():
+    for inf in CC2.values():
         if inf['name'] in TERR and 'dep' in TERR[inf['name']]:
             inf['dep'] = TERR[inf['name']]['dep']
         else:
             inf['dep'] = None
-    #
-    for cc2, inf in CC2.items():
+    for inf in CC2.values():
         if not inf['mcc'] and inf['dep']:
             # go check sovereign country for MCC
             inf['mcc'].extend(CC2[inf['dep']]['mcc'])
@@ -819,8 +760,7 @@ def generate_init(path_pre):
 
 
 def main():
-
-    URL_SRC = 'data aggregated from Wikipedia, The World Factbook, ITU-T, Egallic blog and txtNation'
+    URL_SRC = 'data aggregated from Wikipedia, The World Factbook, ITU-T and Egallic blog'
     URL_LIC = 'produced by P1 Security, based on openly available data'
 
     generate_json(MNC, PATH_PRE + 'p1_mnc.json', [URL_SRC], URL_LIC)

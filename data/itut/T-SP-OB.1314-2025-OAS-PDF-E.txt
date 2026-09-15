@@ -1,0 +1,2270 @@
+                             ITU Operational Bulletin
+                                                               www.itu.int/itu-t/bulletin
+
+            No. 1314               15.IV.2025                  (Information received by 31 March 2025) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                                Standardization Bureau (TSB)                                      Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                  Tel:     +41 22 730 5211                                          Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                                Fax:     +41 22 730 5853                                          Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                  E-mail: tsbmail@itu.int / tsbtson@itu.int                         E-mail: brmail@itu.int
+
+
+
+
+                                                                       Table of Contents
+                                                                                                                                                                       Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                      3
+Approval of ITU-T Recommendations.............................................................................................................                            4
+The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164):
+   Notes from TSB..........................................................................................................................................               6
+International Identification Plan for Public Networks and Subscriptions (Recommendation ITU-T E.212):
+    Note from TSB ...........................................................................................................................................             6
+The international telecommunication charge card (Recommendation ITU-T E.118): Note from TSB............                                                                   7
+Data Transmission Service:
+     Spain (Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, Madrid) .....................                                                        8
+Telephone Service:
+     Botswana (Botswana Communications Regulatory Authority (BOCRA), Gaborone) ................................                                                           9
+     Morocco (Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat) .....................                                                             16
+     Myanmar (Ministry of Transport and Communications, Nay Pyi Taw) .....................................................                                               16
+Other communication:
+     Austria .......................................................................................................................................................     17
+Service Restrictions .........................................................................................................................................           18
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                      18
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of International Monitoring Stations (List VIII).........................................................................................                           19
+List of Issuer Identifier Numbers ....................................................................................................................                   37
+List of Recommendation ITU-T E.164 assigned Country Codes ......................................................................                                         38
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................               39
+List of ITU Carrier Codes .................................................................................................................................              40
+List of International Signalling Point Codes (ISPC) ..........................................................................................                           41
+List of Data Network Identification Codes (DNIC) ..........................................................................................                              42
+National Numbering Plan ...............................................................................................................................                  42
+
+
+
+
+                                                                                                                                           www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1315              1.V.2025              11.IV.2025
+               1316             15.V.2025              30.IV.2025
+               1317              1.VI.2025             15.V.2025
+               1318             15.VI.2025             31.V.2025
+               1319             1.VII.2025             13.VI.2025
+               1320             15.VII.2025            30.VI.2025
+               1321             1.VIII.2025            8.VII.2025
+               1322            15.VIII.2025           25.VII.2025
+               1323              1.IX.2025            15.VIII.2025
+               1324             15.IX.2025            29.VIII.2025
+               1325              1.X.2025              12.IX.2025
+               1326             15.X.2025              30.IX.2025
+               1327              1.XI.2025             15.X.2025
+               1328             15.XI.2025             31.X.2025
+               1329             1.XII.2025             14.XI.2025
+               1330             15.XII.2025            28.XI.2025
+               1331              1.I.2026              5.XII.2025
+               1332              15.I.2026             17.XII.2025
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+977 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                                Approval of ITU-T Recommendations
+By AAP-10, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+−     ITU-T F.740.9 (03/2025): Requirements for enabling VR services based on IPTV architecture
+−     ITU-T F.740.10 (03/2025): Requirements and procedure for cultural data annotation
+−     ITU-T F.740.11 (03/2025): Requirements and framework of cloud-based augmented reality systems
+−     ITU-T F.742 (V2) (03/2025): Service description and requirements for distance learning services
+−     ITU-T F.743.29 (03/2025): Requirements and framework of model generalization system in intelligent video
+      surveillance
+−     ITU-T F.743.30 (03/2025): Architecture for cloud computing platform supporting a video surveillance system
+−     ITU-T F.743.31 (03/2025): Requirements for multimedia data asset development and operations
+−     ITU-T F.743.32 (03/2025): Framework for multimedia data asset valuation
+−     ITU-T F.747.16 (03/2025): Requirements for 3D machine vision-based surface defect detection service of
+      industrial products
+−     ITU-T F.748.6 (03/2025): Requirements and framework for interactive multimedia communication system of
+      Internet of thing (IoT) devices
+−     ITU-T F.748.41 (03/2025): Technical requirements and evaluation methods of AI-based driver behaviour
+      detection application
+−     ITU-T F.748.42 (03/2025): Requirements and framework for virtual tactile interaction systems
+−     ITU-T F.748.43 (03/2025): Framework and requirements for the foundation model platform
+−     ITU-T F.748.44 (03/2025): Assessment criteria for foundation models: Benchmark
+−     ITU-T F.748.45 (03/2025): Technical requirements and evaluation methods of AI based code generation in
+      multimedia applications
+−     ITU-T F.748.46 (03/2025): Requirements and evaluation methods of artificial intelligence agents based on large
+      scale pre-trained model
+−     ITU-T F.748.47 (03/2025): Functional requirements for artificial intelligence development within the Al cloud
+      platform: Automated machine learning
+−     ITU-T F.748.48 (03/2025): Technical specification for artificial intelligence cloud platform: AI model deployment
+−     ITU-T F.748.49 (03/2025): Architecture and protocols of multi-algorithm scheduling systems
+−     ITU-T F.748.50 (03/2025): Framework and requirements of digital human access interfaces
+−     ITU-T F.748.51 (03/2025): Requirements for artificial intelligence based tactile rendering system in multimedia
+      terminals
+−     ITU-T F.748.52 (03/2025): Requirements and evaluation methods for retrieval augmented generation of large
+      scale pre-trained model
+−     ITU-T F.748.53 (03/2025): Representation and compression methods of artificial intelligence models
+−     ITU-T F.748.55 (03/2025): Technical requirements and evaluation methods of robotic process automation system
+−     ITU-T F.751.23 (03/2025): Framework and requirements for distributed ledger technology interoperability
+−     ITU-T F.751.24 (03/2025): Framework and requirements for authorization services based on distributed ledger
+      technology
+−     ITU-T F.751.25 (03/2025): Framework and requirements for distributed ledger technology-based demand
+      response in smart grid
+−     ITU-T F.751.26 (03/2025): Framework and requirements for distributed ledger technology-based energy storage
+      sharing
+−     ITU-T F.751.27 (03/2025): Framework for distributed ledger technology-based multimedia data asset service
+−        ITU-T F.760.3 (03/2025): Metadata for disaster information presentation with human factors
+−        ITU-T F.780.6 (03/2025): Requirements on colorimetry for telemedicine systems using ultra-high definition
+         imaging
+−        ITU-T F.792 (03/2025): Requirements on accessible moveable communication systems in rural and out-of-home
+         environments
+−        ITU-T G.9960 (2023) Amd. 2
+−        ITU-T H.626.8 (03/2025): Protocols for feature-based distributed intelligent systems
+−        ITU-T H.862.8 (03/2025): Requirements and framework of occupational health service platform
+−        ITU-T J.1041 (03/2025): Digital rights management for video and audio content distribution - System Architecture
+−        ITU-T J.1042 (03/2025): Digital rights management for video and audio content distribution - Client
+−        ITU-T J.1305 (2023) Cor. 2 (03/2025)
+−        ITU-T J.1306 (2023) Cor. 2 (03/2025)
+−        ITU-T J.1312 (03/2025): Infrastructure architecture requirements for cloud gaming service
+−        ITU-T M.3042 (03/2025): Framework of communication network health evaluation
+−        ITU-T M.3110.1 (03/2025): X-interface for management of shared network resources - Protocol neutral
+         requirements
+−        ITU-T M.3111.1 (03/2025): X interface between telecom operation system and internet e-commerce platform -
+         Protocol neutral requirements
+−        ITU-T M.3167.1 (03/2025): Interface for robot-based on-site smart patrol of telecommunication networks -
+         Protocol neutral requirements
+−        ITU-T M.3370 (03/2025): Telecommunication preventive maintenance task - Overview
+−        ITU-T M.3389 (03/2025): Requirements for artificial intelligence-based customer experience management of
+         telecom services
+−        ITU-T M.3390 (03/2025): Requirements for smart comprehensive analysis within artificial intelligence enhanced
+         telecom operation and management (AITOM)
+−        ITU-T M.3391 (03/2025): Requirements for smart maintenance of telecommunications infrastructure based on
+         unmanned aerial vehicles
+−        ITU-T M.3392 (03/2025): Requirement for telecommunications service design within smart operation,
+         management and maintenance (SOMM)
+−        ITU-T M.3411 (03/2025): User identity and access management requirements for telecommunications
+         management network
+−        ITU-T T.815 (V3) (03/2025): Information technology - JPEG 2000 image coding system: Enhanced encapsulation
+         of JPEG 2000 images into ISO/IEC 14496-12
+−        ITU-T T.840.1 (03/2025): Information technology - JPEG AI learning-based image coding system: Core coding
+         system
+By TSB Circular 34 of 25 March 2025, it was announced that the following ITU-T Recommendation was approved in
+accordance with the procedures outlined in Resolution 1:
+−        ITU-T Q.5054 (02/2025): Consumer centric framework for combating counterfeit and stolen ICT mobile devices
+By TSB Circular 38 of 27 March 2025, it was announced that the following ITU-T Recommendations were approved in
+accordance with the procedures outlined in Resolution 1:
+−        ITU-T Y.2348 (03/2025): Functional architecture of network resource sharing based on distributed ledger
+         technology
+−        ITU-T Y.3211 (03/2025): Fixed, mobile and satellite convergence - Requirements of supporting airborne
+         broadband communication for IMT-2020 networks and beyond
+
+
+
+                The International Public Telecommunication Numbering Plan
+                              (Recommendation ITU-T E.164)
+Note from TSB
+Following the decisions reached at ITU-T Study Group 2 meeting in February 2025, Geneva, the Director of the TSB has
+redesignated the Country Code (CC) (Recommendation ITU-T E.164) 883 as a shared CC for IoT/M2M. This amendment
+does not impact any current assignment of numbering resources from this range.
+
+
+
+Note from TSB
+
+                                         Identification codes for IoT/M2M
+
+
+Associated with shared country code 883 for IoT/M2M, the following three-digit identification code has been
+transferred:
+
+                                                                         Country Code and                Date of
+            Applicant                         Network
+                                                                        Identification Code      transfer of assignment
+
+
+ KORE Wireless                   KORE Wireless                              +883 260                  24.III.2025
+ (Formerly Twilio Inc.)          (Formerly Twilio Inc.)
+
+
+
+
+        International Identification Plan for Public Networks and Subscriptions
+                            (Recommendation ITU-T E.212)
+
+Note from TSB
+                               Identification codes for International Mobile Networks
+
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been
+transferred.
+
+                                                  Mobile Country Code (MCC) and                       Date of
+                  Network
+                                                   Mobile Network Code (MNC)                  transfer of assignment
+
+
+ KORE Wireless                                                901 62                               24.III.2025
+ (Formerly Twilio Inc.)
+
+
+
+
+                         The international telecommunication charge card
+                                  (Recommendation ITU-T E.118)
+
+Note from TSB
+                                           Global Issuer Identifier Number
+
+
+The following global Issuer Identifier Number has been transferred.
+
+
+   Company Name/Address               Issuer                          Contact                    Date of
+                                    Identifier                                           transfer of assignment
+                                     Number
+KORE Wireless                       89 883 07       KORE Headquarters                         24.III.2025
+(Formerly Twilio Inc.)                              3 Ravinia Drive, Floor 5,
+3 Ravinia DR Suite 300                              ATLANTA, GA
+ATLANTA, GA 30346                                   (United States)
+(United States)                                     Tel: +1 877 710 5673
+                                                    E-mail: peberling@korewireless.com
+
+
+
+
+                                   Data Transmission Service
+                             (Recommendation ITU-T X.121 (10/2000))
+                                International numbering plan for public data networks
+
+Spain
+Communication of 14.III.2025:
+The Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, Madrid, announces the withdrawal, on
+28 February 2025, of Data Network Identification Code (DNIC) 214 1 to the network “Telefónica de España, S.A.U.
+(formerly Nodo internacional de datos)“.
+Accordingly, the following Data Network Identification Codes (DNIC) and network names are in use in Spain:
+
+
+           Country/Area          DNIC No.                      Name of network to which a DNIC is allocated
+
+                1                    2                                              3
+
+
+ ESPAGNE                           214 0      Administración Pública
+ SPAIN                             214 2      RETEVISIÓN
+ ESPAÑA                            214 5      Red IBERPAC
+                                   214 7      France Telecom Redes y Servicios
+                                   214 9      MegaRed
+
+
+
+
+For further information, please contact:
+         Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales
+         C/ Poeta Joan Maragall, 41
+         28071 MADRID
+         Spain
+         URL: https://avance.digital.gob.es
+
+
+
+
+                                             Telephone Service
+                                        (Recommendation ITU-T E.164)
+                                                url: www.itu.int/itu-t/inr/nnp
+
+Botswana (country code +267)
+Communication of 27.III.2025:
+The Botswana Communications Regulatory Authority (BOCRA), Gaborone, announces the updated national numbering
+plan of Botswana.
+                                            NATIONAL NUMBERING PLAN
+                                                      AND
+                            LIST OF NUMBERING RESOURCE ALLOCATIONS AND ASSIGNMENTS
+
+
+1. NATIONAL NUMBERING PLAN (NNP)
+
+
+   1.1. The National Numbering Plan is pictorially illustrated in Table 1.
+        Table 1 is the matrix for allocation of all numbers i.e., Fixed, Mobile, Short Codes, and other unique numbering
+        resources. These are described in detail in the following sections.
+
+
+                                          Table 1: The National Numbering Plan
+
+     First digit   Second digit
+                      0           1        2        3          4          5       6       7         8         9
+         0          Int’l     Short international dialling in region                             0800 &
+                                                                                                 08XX
+         1         Short codes
+         2           NG       Geographic numbering (Francistown region)
+         3           NG       Geographic numbering (Gaborone)
+         4           NG       Geographic numbering (Palapye region)
+         5           NG       Geographic numbering (south-east region)
+         6           NG       Geographic numbering (north and west regions)
+         7         Mobile numbering
+         8         Non-geographic numbering (M2M and Mobile)
+         9          PRS           91X                                  Reserved                              99X
+
+    Int’l: international access code
+    NG: non-geographic numbering
+    PRS: premium rate services (non-geographic)
+
+
+      1.2. Unique Numbers and Short Code numbers
+
+             1.2.1. Level 0 - International Access and Freephone Numbers
+                    Levels 0 is used for international access (00), the freephone numbers commencing with 0800 and
+                    shared calls were allocated the 08XX numbering range.
+
+             1.2.2. Levels 1 - Short Codes
+                    Level 1 is used for the Short Codes. Short codes are short telephone numbers classified into three
+                    categories being Types A, B and C. The numbers occupy the 1XX, 1XXX and 1XXXX number blocks i.e.,
+                    three or four- and five-digits long numbers. Refer to Table 2.
+
+
+
+
+                                         Table 2: Summary of Types of Short Codes
+
+        Short Code Types                   Services and attributes                  Length of number digits
+    Type A                        Nationally important services           3 digits long emergency services
+                                  including emergency numbers
+    Type B                        Across net services i.e., accessed      5 digits long: 16XXX, 17XXX, 18XX(X) and
+                                  through all public MNOs                 19XXX number blocks.
+    Type C                        On-Net services and can have same       10X(X), 11XX, 12X(X).
+                                  number for different services within
+                                  the network.
+
+
+             1.2.3. Level *1 and *2 - USSD codes.
+                    The levels *1 and *2 are used for the USSD codes which currently occupy the *1XX*XXX# and
+                    *2XX*XXX# numbering blocks.
+
+             1.2.4. Levels 1 and 9 - Emergency Numbers
+                    Level 1 and part of level 9 are used for the emergency services. The emergency numbers occupy the
+                    110-116, 99X and 91X numbering blocks. Reference is made to Table 3 below being a list of
+                    Emergency Service Providers.
+
+
+                                          Table 3: Assigned Emergency Numbers
+
+                                    Service Provider                         Emergency Number
+                    All Emergencies                                    112
+                    ChildLine Botswana                                 116
+                    Emergency Assist                                   991
+                    MedRescue International                            992
+                    Rescue One                                         993
+                    Boitekanelo Medical Services                       994
+                    Okavango Air Rescue                                995
+                    Fire                                               998
+                    Ambulance                                          997
+                    Police                                             999
+                    MedRescue International                            911
+                    Medflex                                            914
+                    Life Flight Rescue                                 929
+                    Assisted Living Solutions (Proprietary) Limited    990
+                    Angels Medical Rescue                              910
+
+
+
+
+             1.2.5. Premium Rate Services
+                    The Premium Rate Services (PRS) in level 09 remains unused and remains reserved for this service.
+
+
+
+
+     1.3. Fixed Numbers
+
+           1.3.1. Levels 2 to 6: Fixed numbers
+                  Level 2 to 6 are the seven (7) digits long geographical numbers occupying the numbering range from
+                  2XX XXXX to 6XX XXXX respectively providing services to fixed line services. Reference is made to
+                  Table 4 below.
+
+
+                               Table 4: Fixed numbers by the geographical location
+
+                  Geographical Area                            Number range                          Zone
+   Francistown Area                                   23X XXXX- 24X XXXX                              4
+   Selebi-Phikwe Area                                 25X XXXX- 26X XXXX                              4
+   Letlhakane/Orapa Area                              275 XXXX- 29X XXXX                              4
+   Gaborone Area                                      3XX XXXX                                        1
+   Serowe Area                                        45X XXXX- 46X XXXX                              3
+   Mahalapye Area                                     47X XXXX                                        3
+   Palapye Area                                       48X XXXX- 49X XXXX                              3
+   Ramotswa/Lobatse Area                              52X XXXX- 53X XXXX                              2
+   Barolong/Ngwaketse Area                            54X XXXX- 55X XXXX                              2
+   Mochudi Area                                       56X XXXX- 57X XXXX                              2
+   Jwaneng Area                                       58X XXXX                                        2
+   Molepolole Area                                    59X XXXX                                        2
+   Kasane Area                                        60X XXXX- 62X XXXX                              5
+   Ghanzi/Kgalagadi Area                              63X XXXX- 65X XXXX                              5
+   Maun Area                                          66X XXXX- 68X XXXX                              5
+
+
+
+
+ 1.4. MOBILE AND VOIP NUMBERS
+           1.4.1. Level 7 and 8
+                  Levels 7 and part of Level 8 are an eight digits long mobile number range from :
+                  71 XXX XXX to 85 XXX XXX respectively.
+
+
+ 1.5. MACHINE TO MACHINE COMMUNICATIONS (M2M)/IOT
+           1.5.1. Level 8
+                  The M2M communications is a 10 digit long numbering range that occupies numbering range from
+                  86 XXXX XXXX to 89 XXXX XXXX and supports the Internet of Things devices.
+
+
+
+
+2. OTHER NUMBERING RESOURCES
+
+  2.1    There are other numbering resources that enable seamless communications services, and these are the
+         known as Codes reference is made to table 5 below. These codes are listed as in the Recommendation ITU-T
+         E.164.
+                                               Table 5: Instrumental Codes
+                 Important Codes                                             Relevance and Use
+
+ Country Code (CC)                                   267
+ Mobile Country Code (MCC)                           652
+ National Signalling Point Codes                     network interconnection purposes
+ Data Network Interface Code (DNICs)                 X25 data networking
+ Network Colour Codes (NCC)                          GSM base station identifiers
+ Mobile Network Code (MNC)                           Public networks
+ International Signalling Point Code (ISPCs)         International signalling and it uses a 3-8-3 ITU format standard.
+
+
+  2.2    Mobile Network Code
+         There are three (03) Mobile Network Code (MNC) used in the networks of the Mobile Network Operators
+         (MNOs) and these are allocated in accordance with the Recommendation ITU-T E.212. Reference is made to
+         table 6 below.
+                                           Table 6: Mobile Network Codes
+                        Mobile Network Codes              Mobile Network Operator
+                                   01                     Mascom Wireless
+                                   02                     Orange Botswana
+                                   04                     Botswana Telecommunications
+                                                          Corporation Limited (BTCL)
+
+
+  2.3    The International Signalling Point Codes
+          These codes are used for the international signalling and are represented using a ITU 3-8-3 format. There are
+          currently 6 spare ISPCs for Botswana. The following are assigned codes to Botswana for use as tabulated
+          below.
+                              Table 7: International Signalling Point Codes for Botswana
+
+     International Signalling Point Code         MNO Assigned
+             (ITU 3-8-3 Format)
+                   6-104-0                       Botswana Telecommunications Corporation Limited (BTCL)
+                   6-104-1                       Botswana Telecommunications Corporation Limited (BTCL)
+                   6-104-2                       Mascom Wireless
+                   6-104-3                       Orange Botswana
+                   6-104-4                       Orange Botswana
+                   6-104-5                       Botswana Telecommunications Corporation Limited (BTCL)
+                   6-104-6                       Botswana Telecommunications Corporation Limited (BTCL)
+                   6-104-7                       Mascom Wireless
+                   6-105-0                       Mascom Wireless
+                   6-105-1                       Mascom Wireless
+                   6-105-2                       Spare
+                   6-105-3                       Spare
+                   6-105-4                       Spare
+                   6-105-5                       Spare
+                   6-105-6                       Spare
+                   6-105-7                       Spare
+
+3. NUMBERING ALLOCATIONS AND ASSIGNMENTS
+
+  3.1 National Number Allocations
+
+        3.1.1 The table 8 shows the eight (8) digits active mobile number allocations across all the three MNOs.
+
+
+                               Table 8: Mobile Number Allocations as of March 2025
+                    Service Provider                  Mobile Number Range              Quantity Allocated
+
+         Mascom Wireless                         71 000 000 – 71 999 999           1,000,000
+                                                 74 000 000 – 74 299 999           300,000
+                                                 74 500 000 – 74 799 999           300,000
+                                                 75 400 000 – 75 699 999           300,000
+                                                 75 900 000 – 75 999 999           100,000
+                                                 76 000 000 – 76 299 999           300,000
+                                                 76 600 000 – 76 799 999           200,000
+                                                 77 000 000 – 77 199 999           200,000
+                                                 77 600 000 – 77 799 999           200,000
+                                                 77 800 000 – 77 899 999           100,000
+                                                 79 230 000 – 79 279 999           50,000
+         Orange Botswana                         72 000 000 – 72 999 999           1,000,000
+                                                 74 300 000 – 74 499 999           200,000
+                                                 74 800 000 – 74 899 999           100,000
+                                                 75 000 000 – 75 399 999           400,000
+                                                 75 700 000 – 75 799 999           100,000
+                                                 76 300 000 – 76 599 999           300,000
+                                                 76 900 000 – 76 999 999           100,000
+                                                 77 300 000 – 77 599 999           300,000
+                                                 77 900 000 – 77 999 999           100,000
+                                                 78 000 000 – 78 199 999           200,000
+                                                 78 200 000 – 78 499 999           300,000
+                                                 78 500 000 – 78 799 999           300,000
+                                                 79 200 000 – 79 209 999           10,000
+                                                 79 220 000 – 79 229 999           10,000
+         Botswana Telecommunications             73 000 000 – 73 999 999           1,000,000
+         Corporation Limited (BTCL)              74 900 000 – 74 999 999           100,000
+                                                 75 800 000 – 75 899 999           100,000
+                                                 76 800 000 – 76 899 999           100,000
+                                                 77 200 000 – 77 299 999           100,000
+                                                 79 210 000 – 79 219 999           10,000
+         Virtual Business Network Services       79 100 000 – 79 100 999           1,000
+         AfriTel                                 79 101 000 – 79 101 999           1,000
+         Global Broadband Solutions              79 102 000 – 79 102 999           1,000
+         Business Solutions Consultants          79 103 000 – 79 103 999           1,000
+         Dimension Data                          79 104 000 – 79 104 999           1,000
+         OPQ Net                                 79 105 000 – 79 105 999           1,000
+         Mega Internet                           79 106 000 – 79 106 999           1,000
+         Stature (OpenVoice)                     79 107 000 – 79 107 999           2,000
+                                                 79 113 000 – 79 113 999
+         Tsagae Communications                   79 108 000 – 79 108 999           1,000
+         MicroTeck Enterprises                   79 109 000 – 79 109 999           1,000
+         Microla Botswana                        79 110 000 – 79 110 999           1,000
+         Internet Options Botswana               79 111 000 – 79 111 999           1,000
+         FDI Foneworx                            79 112 000 – 79 112 999           1,000
+         MTN Business Solutions                  79 114 000 – 79 114 999           1,000
+
+                      Service Provider                 Mobile Number Range            Quantity Allocated
+
+        Abari Communications                      79 115 000 – 79 115 999        1,000
+        Mission Communications                    79 116 000 – 79 116 999        1,000
+        Cene (Pty) Ltd t/a Cene Media             79 117 000 – 79 117 999        1,000
+        Paratus Africa                            79 118 000 – 79 118 999        1,000
+        Blue Pearl Communications T/A ROI         79 119 000 – 79 119 999        1,000
+        Dapit Ventures T/A GCSat Botswana         79 120 000 – 79 120 999        1,000
+        Bantu Telecom                             79 121 000 – 79 121 999        1,000
+        Paratus Africa                            79 122 000 – 79 123 999        2,000
+        Netway Pty Ltd                            79 124 000 – 79 125 999        2,000
+        Apicom Pty Ltd                            79 126 000 – 79 126 999        1,000
+        Devaki Botswana                           79 127 000 – 79 127 999        1,000
+                                                  79 134 000 – 79 138 999        5,000
+        Liquid Intelligent Technologies           79 128 000 – 79 128 999        1,000
+        Par Telecommunication (Pty) Ltd           79 129 000 – 79 133 999        5,000
+
+
+       3.1.2 The table 9 below shows the ten (10) number digits active Machine-to-Machine number allocations:
+
+
+                                   Table 9: M2M Number Allocations as of March 2025
+
+
+                Service Provider                  M2M Number range                    Quantity Allocated
+   Orange Botswana                         89 0000 0000 - 89 0000 9999       10,000
+                                           89 0001 0000 - 89 0001 9999       10,000
+                                           89 0002 0000 - 89 0002 9999       10,000
+                                           89 0003 0000 - 89 0003 9999       10,000
+                                           89 0004 0000 - 89 0004 9999       10,000
+                                           89 0018 0000 - 89 0018 9999       10,000
+                                           89 0019 0000 - 89 0019 9999       10,000
+                                           89 0020 0000 - 89 0020 9999       10,000
+                                           89 0021 0000 - 89 0021 9999       10,000
+                                           89 0022 0000 - 89 0022 9999       10,000
+                                           89 0023 0000 - 89 0023 9999       10,000
+                                           89 0024 0000 - 89 0024 9999       10,000
+                                           89 0025 0000 - 89 0025 9999       10,000
+                                           89 0026 0000 - 89 0026 9999       10,000
+                                           89 0027 0000 - 89 0027 9999       10,000
+                                           89 0028 0000 - 89 0028 9999       10,000
+   Botswana Telecommunications             89 0005 0000 - 89 0005 9999       10,000
+   Corporation Limited (BTCL)              89 0006 0000 - 89 0006 9999       10,000
+                                           89 0007 0000 - 89 0007 9999       10,000
+                                           89 0008 0000 - 89 0008 9999       10,000
+                                           89 0009 0000 - 89 0009 9999       10,000
+                                           89 0069 0000 - 89 0069 9999       10,000
+                                           89 0029 0000 - 89 0029 9999       10,000
+                                           89 0030 0000 - 89 0030 9999       10,000
+                                           89 0031 0000 - 89 0031 9999       10,000
+
+
+
+
+                  Service Provider                    M2M Number range                        Quantity Allocated
+     Mascom Wireless                          89 0010 0000 - 89 0010 9999            10,000
+                                              89 0011 0000 - 89 0011 9999            10,000
+                                              89 0012 0000 - 89 0012 9999            10,000
+                                              89 0013 0000 - 89 0013 9999            10,000
+                                              89 0014 0000 - 89 0014 9999            10,000
+                                              89 0015 0000 - 89 0015 9999            10,000
+                                              89 0016 0000 - 89 0016 9999            10,000
+                                              89 0017 0000 - 89 0017 9999            10,000
+
+
+Note ALL Allocations made in blocks of 10,000 numbers
+
+
+           3.1.3 The table 10 below shows the seven (7) number digits active Fixed number allocations:
+                                     Table 10: Fixed Number Allocations as of March 2025
+
+             Number Blocks                   Orange Botswana               Mascom Wireless          Botswana Telecommunications
+                                                                                                      Corporation Limited (BTCL)
+                2XX XXXX                              -                          60,000                        300,000
+
+                3XX XXXX                              -                          60,000                        500,000
+
+                4XX XXXX                              -                          30,000                        300,000
+
+                5XX XXXX                              -                          60,000                        500,000
+
+                6XX XXXX                              -                          30,000                        300,000
+
+                Sub-Total                             -                         240,000                       1,900,000
+
+
+
+4. CONCLUSION
+
+   4.1 The National Numbering Plan is a way of ensuring that:
+           4.1.1 The limited numbering resources are used prudently and efficiently and this allows for effective number
+                 management. This exercise enables customers to have access to services using numbers without undue
+                 expense and inconvenience, and to ensure that all service providers have the numbering resources they
+                 need to compete in the rapidly growing telecommunications marketplace with the associated
+                 proliferation of new telecommunications technologies and services; and
+
+
+
+           4.1.2 There is equity, efficiency, and transparency in the allocation of numbers as this is done objectively within
+                 the confines of the CRA Act of 2012.
+
+
+
+Contact:
+      Botswana Communications Regulatory Authority (BOCRA)
+      Plot 50671, Independence Avenue
+      Private Bag 00495
+      GABORONE
+      Botswana
+      Tel:     +267 395 7755
+      Fax:     +267 395 7976
+      E-mail: info@bocra.org.bw
+      URL:     www.bocra.org.bw
+
+Morocco (country code +212)
+Communication of 25.III.2025:
+The Agence Nationale de Réglementation des Télécommunications (ANRT), Rabat, announces the following updates to
+the national telephone-numbering plan of Morocco.
+
+                                             Description of introduction of new resource
+                                     for national E.164 numbering plan for country code +212:
+
+•        new NDCs below have recently been introduced as follows:
+
+          NDC (national             N(S)N number length
+       destination code) or
+     leading digits of N(S)N       Maximum     Minimum           Usage of E.164 number            Additional information
+      (national (significant)       length      length
+             number)
+                 786                  9            9           Mobile services 2G/3G/4G         Médi Telecom1
+                 787                  9            9           Mobile services 2G/3G/4G         Médi Telecom
+1
+    ORANGE
+Contact:
+             Agence Nationale de Réglementation des Télécommunications (ANRT)
+             Centre d'affaires
+             Boulevard Ar-Riad, Hay Riad
+             B.P. 2939
+             RABAT 10100
+             Morocco
+             Tel:      +212 5 37 71 85 64
+             E-mail: numerotation@anrt.ma
+             URL:      www.anrt.ma
+
+
+Myanmar (country code +95)
+Communication of 26.III.2025:
+The Ministry of Transport and Communications, Nay Pyi Taw, announces the withdrawal of the following auto exchange
+numbering scheme in the national numbering plan of Myanmar:
+
+Auto Exchange Numbering (Geographic)
+
+
+                                                Digit Length                                      Date of         Date of
+    Sr     Area
+                   Number Series      Area       (including              Licensee                 Number          Number
+    No.    Code
+                                                area code)                                       Allocation      Withdrawal
+
+     1       1         425 xxxx      Yangon            8       Campana Mythic Co.,Ltd             7.7.2020       22.3.2025
+
+
+Contact:
+             Ministry of Transport and Communications
+             Posts and Telecommunications Department (PTD)
+             Building No. 2,
+             NAY PYI TAW
+             Myanmar
+             Tel:     +95 67 3407 225
+             Fax:     +95 67 3407 216
+             E-mail: dg@ptd.gov.mm
+
+
+                                     Other communication
+
+Austria
+Communication of 13.III.2025:
+On the occasion of the "5th European Robotics Hackathon: EnRich 2025 (AKW Zwentendorf)" the Austrian
+Administration authorizes an Austrian amateur station to use the special call sign OE25ROBOT from 1 May
+to 15 July 2025.
+
+
+
+
+                                          Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                              See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                            AMENDMENTS TO SERVICE PUBLICATIONS
+                                                          Abbreviations used
+                                    ADD       Insert                         PAR    Paragraph
+                                    COL       Column                         REP    Replace
+                                    LIR       Read                           SUP    Delete
+                                    P         Page(s)
+
+
+
+
+                                   List of International Monitoring Stations
+                                                    (List VIII)
+                                                 Edition of 2022
+                                                          (Amendment No. 3)
+
+                                                                  PART I
+                              STATIONS IN THE TERRESTRIAL RADIOCOMMUNICATION SERVICES
+
+E – Spain
+             MOD (Centralizing office)
+
+            Centralizing office                  Postal address            Telephone, Telefax, Electronic-mail       Remarks
+
+ Subdirección General de
+ Inspección de las
+ Telecomunicaciones e                      C/ Poeta Joan Maragall 41
+                                                                         PHONE: +34 91 3462605
+ Infraestructuras Digitales                Planta 9.ª
+                                                                         TELEFAX: +34 91 3461567
+ Secretaria General de                     28071 Madrid
+                                                                         EMAIL: cter@economia.gob.es
+ Telecomunicaciones y Ordenación           Spain
+ de los Servicios de Comunicación
+ Audiovisual
+
+P1           MOD by alphabetical order
+                     Station: El Casar (IMS)
+
+       Name of the station                              Postal address                      Telephone, Telefax, Electronic-mail
+
+                                          Cno. Ribatejada, s/n                          PHONE: +34 91 3462553
+                                          19170 El Casar                                PHONE: +34 91 3462617
+ El Casar (IMS)
+                                          (Guadalajara)                                 EMAIL: SPascual@economia.gob.es
+                                          Spain                                         EMAIL: zaida.sierra@economia.gob.es
+
+
+  Geographical             Types of             Ranges of frequencies         Hours of                     Remarks
+  coordinates            measurements           for each measurement        service (UTC)
+ 40°41'40"N           Frequency                                                                GPS-referenced frequency
+                                               10 kHz - 30 MHz             HX
+ 003°25'00"W          measurements                                                             pattern.
+                      Field strength or
+ 40°41'40"N
+                      power flux-density       10 kHz - 30 MHz             HX
+ 003°25'00"W
+                      measurements
+                                                                                               Circular network of 9 double-
+ 40°41'40"N           Direction-finding
+                                               1 MHz - 30 MHz              HX                  square elements. Interferometric
+ 003°25'00"W          measurements
+                                                                                               system.
+ 40°41'40"N           Bandwidth
+                                               10 kHz - 30 MHz             HX
+ 003°25'00"W          measurements
+ 40°41'40"N           Automatic spectrum
+                                               10 kHz - 30 MHz             HX
+ 003°25'00"W          occupancy surveys
+
+                  Station: La Esperanza (IMS)
+
+        Name of the station                         Postal address                  Telephone, Telefax, Electronic-mail
+
+                                                                                   PHONE: +34 91 3462553
+                                       C/ La Marina, 20-5°
+                                                                                   PHONE: +34 91 3462617
+ La Esperanza (IMS)                    38071 Tenerife
+                                                                                   EMAIL: SPascual@economia.gob.es
+                                       Spain
+                                                                                   EMAIL: zaida.sierra@economia.gob.es
+
+
+
+  Geographical          Types of            Ranges of frequencies         Hours of                  Remarks
+  coordinates         measurements          for each measurement        service (UTC)
+ 28°27'23"N        Frequency                                                            GPS-referenced frequency
+                                            10 kHz - 30 MHz             HX
+ 016°22'45"W       measurements                                                         pattern.
+                   Field strength or
+ 28°27'23"N
+                   power flux-density       10 kHz - 30 MHz             HX
+ 016°22'45"W
+                   measurements
+                                                                                        Circular network of 9 double-
+ 28°27'23"N        Direction-finding
+                                            1 MHz - 30 MHz              HX              square elements.
+ 016°22'45"W       measurements
+                                                                                        Interferometric system.
+ 28°27'23"N        Bandwidth
+                                            10 kHz - 30 MHz             HX
+ 016°22'45"W       measurements
+ 28°27'23"N        Automatic spectrum
+                                            10 kHz - 30 MHz             HX
+ 016°22'45"W       occupancy surveys
+
+
+EGY – Egypt
+           MOD (Centralizing office)
+
+        Centralizing office                Postal address         Telephone, Telefax, Electronic-mail         Remarks
+
+                                       B4 Smart Village
+                                       Km 28 Alex - Cairo        PHONE: +202 35344666
+ National Telecommunication
+                                       Desert Road               TELEFAX: +202 35344155
+ Regulatory Authority
+                                       P.O. Box 40               EMAIL: melbashary@tra.gov.eg
+                                       Giza
+
+           MOD by alphabetical order
+                  Station: Giza
+
+        Name of the station                         Postal address                  Telephone, Telefax, Electronic-mail
+
+                                       B4 Smart Village
+                                       Km 28 Alex - Cairo Desert Road              PHONE: +202 35344630
+ Giza                                  P.O. Box 40                                 TELEFAX: +202 35344155
+                                       Giza                                        EMAIL: welkhalafawy@tra.gov.eg
+                                       Egypt
+
+
+
+
+ Geographical        Types of           Ranges of frequencies      Hours of service               Remarks
+ coordinates       measurements         for each measurement           (UTC)
+ 30°01'20"N     Frequency
+                                        10 kHz - 30 MHz            H24
+ 031°12'33"E    measurements
+ 30°01'20"N     Direction-finding
+                                        10 kHz - 30 MHz            H24                Adcock.
+ 031°12'33"E    measurements
+ 30°01'20"N     Bandwidth
+                                        10 kHz - 30 MHz            H24
+ 031°12'33"E    measurements
+ 30°01'20"N     Automatic spectrum
+                                        10 kHz - 30 MHz            H24
+ 031°12'33"E    occupancy surveys
+
+
+ROU – Romania
+          MOD (Centralizing office)
+
+        Centralizing office               Postal address         Telephone, Telefax, Electronic-mail        Remarks
+
+ National Authority for
+ Management and Regulation in
+                                      2, Delea Noua Street   PHONE: +40 372 845400
+ Communications of Romania -
+                                      030925 Bucharest 3     TELEFAX: +40 372 845402
+ ANCOM
+                                      Romania                EMAIL: ancom@ancom.ro
+ Executive Directorate for
+ Monitoring and Control
+
+          ADD by alphabetical order
+                 Station: SMG Constanta (IMS)
+
+      Name of the station                        Postal address                    Telephone, Telefax, Electronic-mail
+
+                                                                                  PHONE: +40 372 845318
+                                     Remote Monitoring Station
+                                                                                  PHONE: +40 372 845508
+ SMG Constanta (IMS)                 Cumpana
+                                                                                  EMAIL: iulian.mihalcea@ancom.ro
+                                     Romania
+                                                                                  EMAIL: liviu.birsan@ancom.ro
+
+
+
+ Geographical        Types of           Ranges of frequencies      Hours of service                    Remarks
+ coordinates       measurements         for each measurement           (UTC)
+
+                                                                                      Hours of service from Monday to
+                                                                                      Thursday: 0900-1700 h (local time).
+                                                                   0600-1400          Friday: 0900-1430 h (local time).
+ 44°08'01"N     Frequency
+                                        20 MHz - 6 GHz             (MON-THU)
+ 028°36'25"E    measurements
+                                                                   0600-1130
+                                                                                      Remotely controlled monitoring
+                                                                                      station. Height of antenna: 57 m.
+
+                                                                                      Remotely controlled monitoring
+                                                                                      station.
+                Field strength or                                  0600-1400
+ 44°08'01"N
+                power flux-density      20 MHz - 6 GHz             (MON-THU)
+ 028°36'25"E
+                measurements                                       0600-1130
+                                                                                      Hours of service from Monday to
+                                                                                      Friday (local time).
+
+                                                                                      Remotely controlled monitoring
+                                                                                      station. Hours of service from
+                                                                   0600-1400          Monday to Thursday: 0900-1700 h
+ 44°08'01"N     Direction-finding
+                                        20 MHz - 6 GHz             (MON-THU)          (local time).
+ 028°36'25"E    measurements
+                                                                   0600-1130
+                                                                                      Friday: 0900-1430 h (local time).
+
+
+
+Geographical        Types of         Ranges of frequencies   Hours of service                  Remarks
+coordinates       measurements       for each measurement        (UTC)
+
+                                                                                8-element circular antenna array for
+                                                                                reception and direction finding of
+                                                                                vertically polarized waves in the
+                                                                                frequency range 1300 MHz to 6000
+                                                                                MHz.
+
+
+
+                                                                                If necessary, measurements are
+                                                                                carried out by mobile monitoring
+                                                                                stations (van), on request, all over
+                                                                                Romanian territory. Hours of service
+                                                                                from Monday to Thursday: 0900-
+                                                                                1700 h (local time). Friday: 0900-
+                                                                                1430 h (local time).
+
+
+
+                                                                                9-element circular antenna array
+                                                                                with quadrature multiplexer for
+                                                                                signal processing with a single
+                                                                                receiver in the frequency range 20
+                                                                                MHz to 1300 MHz (horizontal and
+                                                                                vertical polarization).
+
+
+                                                                                Correlative.
+
+                                                                                Hours of service from Monday to
+                                                                                Thursday: 0900-1700 h (local time).
+                                                                                Friday: 0900-1430 h (local time).
+
+
+                                                             0600-1400          Remotely controlled monitoring
+44°08'01"N      Bandwidth
+                                     20 MHz - 6 GHz          (MON-THU)          station.
+028°36'25"E     measurements
+                                                             0600-1130
+
+                                                                                An electronic result (.jpg for
+                                                                                waterfall plots and .xls for field
+                                                                                strengths) is available upon
+                                                                                request.
+
+                                                                                On request.
+
+
+
+                                                                                All days of week.
+                                                             0600-1400
+44°08'01"N      Automatic spectrum
+                                     20 kHz - 6 GHz          (MON-THU)
+028°36'25"E     occupancy surveys
+                                                             0600-1130
+                                                                                An electronic result (.jpg for
+                                                                                waterfall plots and .xls for field
+                                                                                strengths) is available upon
+                                                                                request.
+
+
+
+
+         MOD by alphabetical order
+                 Station: HF Belciugatele (IMS)
+
+      Name of the station                       Postal address                  Telephone, Telefax, Electronic-mail
+
+                                                                               PHONE: +40 372 845020
+                                    Remote Monitoring Station
+                                                                               PHONE: +40 372 845508
+HF Belciugatele (IMS)               Calarasi Region
+                                                                               EMAIL: andrei.zancu@ancom.ro
+                                    Romania
+                                                                               EMAIL: iulian.mihalcea@ancom.ro
+
+
+
+Geographical        Types of           Ranges of frequencies     Hours of service                Remarks
+coordinates       measurements         for each measurement          (UTC)
+
+                                                                                    Hours of service from Monday to
+                                                                                    Thursday: 0900-1700 h (local time).
+                                                                 0600-1400          Friday: 0900-1430 h (local time).
+44°28'39"N     Frequency
+                                       9 kHz - 30 MHz            (MON-THU)
+026°24'16"E    measurements
+                                                                 0600-1130
+                                                                                    Remotely controlled monitoring
+                                                                                    station. Height of antenna: 12 m.
+
+                                                                                    Hours of service from Monday to
+                                                                                    Friday (local time).
+               Field strength or                                 0600-1400
+44°28'39"N
+               power flux-density      9 kHz - 30 MHz            (MON-THU)
+026°24'16"E
+               measurements                                      0600-1130
+                                                                                    Remotely controlled monitoring
+                                                                                    station.
+
+                                                                                    Remotely controlled monitoring
+                                                                                    station. Hours of service from
+                                                                                    Monday to Thursday: 0900-1700 h
+                                                                                    (local time).
+                                                                                    Friday: 0900-1430 h (local time).
+
+
+
+                                                                                    Hours of service from Monday to
+                                                                 0600-1400          Thursday: 0900-1700 h (local time).
+44°28'39"N     Direction-finding                                                    Friday: 0900-1430 h (local time).
+                                       2 MHz - 30 MHz            (MON-THU)
+026°24'16"E    measurements
+                                                                 0600-1130
+
+                                                                                    9-element DF antenna array with HF
+                                                                                    DF Switch / signal processing with a
+                                                                                    single receiver with two channels in
+                                                                                    the tuner (one is used for sample
+                                                                                    channel and one for the reference
+                                                                                    channel) in the frequency range 2
+                                                                                    MHz to 30 MHz (vertical
+                                                                                    polarization).
+
+
+
+
+Geographical          Types of          Ranges of frequencies     Hours of service                  Remarks
+coordinates         measurements        for each measurement          (UTC)
+
+                                                                                     Remotely      controlled   monitoring
+                                                                                     station.
+
+
+
+                                                                                     Hours of service from Monday to
+                                                                  0600-1400
+44°28'39"N      Bandwidth                                                            Thursday: 0900-1700 h (local time).
+                                        9 kHz - 30 MHz            (MON-THU)
+026°24'16"E     measurements                                                         Friday: 0900-1430 h (local time).
+                                                                  0600-1130
+
+
+                                                                                     An electronic result (.txt/.pdf for
+                                                                                     bandwidth measurements) is
+                                                                                     available upon request.
+
+                                                                                     On request.
+
+
+
+                                                                                     All days of week.
+44°28'39"N      Automatic spectrum
+                                        9 kHz - 30 MHz            H24
+026°24'16"E     occupancy surveys
+                                                                                     An electronic result (.txt/.pdf for
+                                                                                     field strengths/percentage of
+                                                                                     occupancy) is available upon
+                                                                                     request.
+
+                 Station: SMG Craiova (IMS)
+
+     Name of the station                         Postal address                  Telephone, Telefax, Electronic-mail
+
+                                                                                PHONE: +40 372 845318
+                                     Remote Monitoring Station
+                                                                                PHONE: +40 372 845508
+SMG Craiova (IMS)                    Carligei
+                                                                                EMAIL: iulian.mihalcea@ancom.ro
+                                     Romania
+                                                                                EMAIL: liviu.birsan@ancom.ro
+
+
+
+Geographical          Types of          Ranges of frequencies     Hours of service                  Remarks
+coordinates         measurements        for each measurement          (UTC)
+
+                                                                                     Hours of service from Monday to
+                                                                                     Thursday: 0900-1700 h (local time).
+                                                                  0600-1400          Friday: 0900-1430 h (local time).
+44°17'05"N      Frequency
+                                        20 MHz - 6 GHz            (MON-THU)
+023°44'58"E     measurements
+                                                                  0600-1130
+                                                                                     Remotely controlled monitoring
+                                                                                     station. Height of antenna: 27 m.
+
+                                                                                     Hours of service from Monday to
+                                                                                     Friday (local time).
+                Field strength or                                 0600-1400
+44°17'05"N
+                power flux-density      20 MHz - 6 GHz            (MON-THU)
+023°44'58"E
+                measurements                                      0600-1130
+                                                                                     Remotely controlled monitoring
+                                                                                     station.
+
+
+
+
+Geographical       Types of         Ranges of frequencies   Hours of service                  Remarks
+coordinates      measurements       for each measurement        (UTC)
+
+                                                                               Remotely controlled monitoring
+                                                                               station. Hours of service from
+                                                                               Monday to Thursday: 0900-1700 h
+                                                                               (local time).
+                                                                               Friday: 0900-1430 h (local time).
+
+
+
+                                                                               8-element circular antenna array for
+                                                                               reception and direction finding of
+                                                                               vertically polarized waves in the
+                                                                               frequency range 1300 MHz to 6000
+                                                                               MHz.
+
+
+
+                                                                               If necessary, measurements are
+                                                            0600-1400
+44°17'05"N     Direction-finding                                               carried out by mobile monitoring
+                                    20 MHz - 6 GHz          (MON-THU)
+023°44'58"E    measurements                                                    stations (van), on request, all over
+                                                            0600-1130
+                                                                               Romanian territory. Hours of service
+                                                                               from Monday to Thursday: 0900-
+                                                                               1700 h (local time). Friday: 0900-
+                                                                               1430 h (local time).
+
+
+
+                                                                               9-element circular antenna array
+                                                                               with quadrature multiplexer for
+                                                                               signal processing with a single
+                                                                               receiver in the frequency range 20
+                                                                               MHz to 1300 MHz (horizontal and
+                                                                               vertical polarization).
+
+
+                                                                               Correlative.
+
+                                                                               Remotely controlled monitoring
+                                                                               station.
+
+
+                                                                               Hours of service from Monday to
+                                                            0600-1400          Thursday: 0900-1700 h (local time).
+44°17'05"N     Bandwidth
+                                    20 MHz - 6 GHz          (MON-THU)          Friday: 0900-1430 h (local time).
+023°44'58"E    measurements
+                                                            0600-1130
+
+                                                                               An electronic result (.jpg for
+                                                                               waterfall plots and .xls for field
+                                                                               strengths) is available upon
+                                                                               request.
+
+                                                                               On request.
+
+
+
+                                                                               All days of week.
+44°17'05"N     Automatic spectrum
+                                    20 kHz - 6 GHz          H24
+023°44'58"E    occupancy surveys
+                                                                               An electronic result (.jpg for
+                                                                               waterfall plots and .xls for field
+                                                                               strengths) is available upon
+                                                                               request.
+
+
+
+                   Station: SMG Galati (IMS)
+
+      Name of the station                        Postal address                  Telephone, Telefax, Electronic-mail
+
+                                                                                PHONE: +40 372 845318
+                                     Remote Monitoring Station
+                                                                                PHONE: +40 372 845508
+SMG Galati (IMS)                     Odaia Conachi
+                                                                                EMAIL: iulian.mihalcea@ancom.ro
+                                     Romania
+                                                                                EMAIL: liviu.birsan@ancom.ro
+
+
+
+Geographical          Types of          Ranges of frequencies     Hours of service                  Remarks
+coordinates         measurements        for each measurement          (UTC)
+                                                                                     Hours of service from Monday to
+                                                                                     Thursday: 0900-1700 h (local time).
+                                                                  0600-1400          Friday: 0900-1430 h (local time).
+45°33'15"N      Frequency
+                                        20 MHz - 6 GHz            (MON-THU)
+027°59'05"E     measurements
+                                                                  0600-1130
+                                                                                     Remotely controlled monitoring
+                                                                                     station. Height of antenna: 37 m.
+                                                                                     Hours of service from Monday to
+                Field strength or                                 0600-1400          Friday (local time).
+45°33'15"N
+                power flux-density      20 MHz - 6 GHz            (MON-THU)
+027°59'05"E
+                measurements                                      0600-1130          Remotely controlled monitoring
+                                                                                     station.
+                                                                                     Remotely controlled monitoring
+                                                                                     station. Hours of service from
+                                                                                     Monday to Thursday: 0900-1700 h
+                                                                                     (local time).
+                                                                                     Friday: 0900-1430 h (local time).
+
+
+                                                                                     8-element circular antenna array for
+                                                                                     reception and direction finding of
+                                                                                     vertically polarized waves in the
+                                                                                     frequency range 1300 MHz to 6000
+                                                                                     MHz.
+
+
+                                                                                     If necessary, measurements are
+                                                                  0600-1400
+45°33'15"N      Direction-finding                                                    carried out by mobile monitoring
+                                        20 MHz - 6 GHz            (MON-THU)
+027°59'05"E     measurements                                                         stations (van), on request, all over
+                                                                  0600-1130
+                                                                                     Romanian territory. Hours of service
+                                                                                     from Monday to Thursday: 0900-
+                                                                                     1700 h (local time). Friday: 0900-
+                                                                                     1430 h (local time).
+
+
+                                                                                     9-element circular antenna array
+                                                                                     with quadrature multiplexer for
+                                                                                     signal processing with a single
+                                                                                     receiver in the frequency range 20
+                                                                                     MHz to 1300 MHz (horizontal and
+                                                                                     vertical polarization).
+
+
+                                                                                     Correlative.
+                                                                  0600-1400          Remotely controlled monitoring
+45°33'15"N      Bandwidth
+                                        20 MHz - 6 GHz            (MON-THU)          station.
+027°59'05"E     measurements
+                                                                  0600-1130
+
+
+
+
+Geographical       Types of            Ranges of frequencies     Hours of service                  Remarks
+coordinates      measurements          for each measurement          (UTC)
+                                                                                    Hours of service from Monday to
+                                                                                    Thursday: 0900-1700 h (local time).
+                                                                                    Friday: 0900-1430 h (local time).
+
+
+                                                                                    An electronic result (.jpg for
+                                                                                    waterfall plots and .xls for field
+                                                                                    strengths) is available upon
+                                                                                    request.
+                                                                                    On request.
+
+
+                                                                                    All days of week.
+45°33'15"N     Automatic spectrum
+                                       20 kHz - 6 GHz            H24
+027°59'05"E    occupancy surveys
+                                                                                    An electronic result (.jpg for
+                                                                                    waterfall plots and .xls for field
+                                                                                    strengths) is available upon
+                                                                                    request.
+
+                Station: SMG Ghencea (IMS)
+
+     Name of the station                        Postal address                  Telephone, Telefax, Electronic-mail
+
+                                                                               PHONE: +40 372 845318
+                                    Remote Monitoring Station
+                                                                               PHONE: +40 372 845508
+SMG Ghencea (IMS)                   Bragadiru
+                                                                               EMAIL: iulian.mihalcea@ancom.ro
+                                    Romania
+                                                                               EMAIL: liviu.birsan@ancom.ro
+
+
+
+Geographical       Types of            Ranges of frequencies     Hours of service                  Remarks
+coordinates      measurements          for each measurement          (UTC)
+
+                                                                                    Hours of service from Monday to
+                                                                                    Thursday: 0900-1700 h (local time).
+                                                                 0600-1400          Friday: 0900-1430 h (local time).
+44°24'04"N     Frequency
+                                       20 MHz - 6 GHz            (MON-THU)
+025°59'50"E    measurements
+                                                                 0600-1130
+                                                                                    Remotely controlled monitoring
+                                                                                    station. Height of antenna: 57 m.
+
+                                                                                    Hours of service from Monday to
+                                                                                    Friday (local time).
+               Field strength or                                 0600-1400
+44°24'04"N
+               power flux-density      20 MHz - 6 GHz            (MON-THU)
+025°59'50"E
+               measurements                                      0600-1130
+                                                                                    Remotely controlled monitoring
+                                                                                    station.
+
+
+
+
+Geographical        Types of         Ranges of frequencies   Hours of service                  Remarks
+coordinates       measurements       for each measurement        (UTC)
+
+                                                                                Remotely controlled monitoring
+                                                                                station. Hours of service from
+                                                                                Monday to Thursday: 0900-1700 h
+                                                                                (local time).
+                                                                                Friday: 0900-1430 h (local time).
+
+
+
+                                                                                8-element circular antenna array for
+                                                                                reception and direction finding of
+                                                                                vertically polarized waves in the
+                                                                                frequency range 1300 MHz to
+                                                                                6000 MHz.
+
+
+                                                             0600-1400
+44°24'04"N      Direction-finding                                               If necessary, measurements are
+                                     20 MHz - 6 GHz          (MON-THU)
+025°59'50"E     measurements                                                    carried out by mobile monitoring
+                                                             0600-1130
+                                                                                stations (van), on request, all over
+                                                                                Romanian territory. Hours of service
+                                                                                from Monday to Thursday: 0900-
+                                                                                1700 h (local time). Friday: 0900-
+                                                                                1430 h (local time).
+
+
+
+                                                                                Correlative.
+
+
+                                                                                9-element circular antenna array in
+                                                                                the frequency range 20 MHz to
+                                                                                1300 MHz (horizontal and vertical
+                                                                                polarization).
+
+                                                                                Remotely controlled monitoring
+                                                                                station.
+
+
+
+                                                                                Hours of service from Monday to
+                                                             0600-1400          Thursday: 0900-1700 h (local time).
+44°24'04"N      Bandwidth
+                                     20 MHz - 6 GHz          (MON-THU)          Friday: 0900-1430 h (local time).
+025°59'50"E     measurements
+                                                             0600-1130
+
+                                                                                An electronic result (.jpg for
+                                                                                waterfall plots and .xls for field
+                                                                                strengths) is available upon
+                                                                                request.
+
+                                                                                On request.
+
+
+
+                                                                                All days of week.
+44°24'04"N      Automatic spectrum
+                                     20 kHz - 6 GHz          H24
+025°59'50"E     occupancy surveys
+                                                                                An electronic result (.jpg for
+                                                                                waterfall plots and .xls for field
+                                                                                strengths) is available upon
+                                                                                request.
+
+
+
+
+                Station: SMG Oradea (IMS)
+
+     Name of the station                        Postal address                  Telephone, Telefax, Electronic-mail
+
+                                                                               PHONE: +40 372 845318
+                                    Remote Monitoring Station
+                                                                               PHONE: +40 372 845508
+SMG Oradea (IMS)                    Cordau
+                                                                               EMAIL: iulian.mihalcea@ancom.ro
+                                    Romania
+                                                                               EMAIL: liviu.birsan@ancom.ro
+
+
+
+Geographical         Types of          Ranges of frequencies     Hours of service                  Remarks
+coordinates        measurements        for each measurement          (UTC)
+                                                                                    Hours of service from Monday to
+                                                                                    Thursday: 0900-1700 h (local time).
+                                                                 0600-1400          Friday: 0900-1430 h (local time).
+46°57'51"N     Frequency
+                                       20 MHz - 6 GHz            (MON-THU)
+021°58'09"E    measurements
+                                                                 0600-1130
+                                                                                    Remotely controlled monitoring
+                                                                                    station. Height of antenna: 37 m.
+                                                                                    Hours of service from Monday to
+               Field strength or                                 0600-1400          Friday (local time).
+46°57'51"N
+               power flux-density      20 MHz - 6 GHz            (MON-THU)
+021°58'09"E
+               measurements                                      0600-1130
+                                                                                    Remotely controlled monitoring
+                                                                                    station.
+                                                                                    Remotely controlled monitoring
+                                                                                    station. Hours of service from
+                                                                                    Monday to Thursday: 0900-1700 h
+                                                                                    (local time).
+                                                                                    Friday: 0900-1430 h (local time).
+
+
+                                                                                    8-element circular antenna array for
+                                                                                    reception and direction finding of
+                                                                                    vertically polarized waves in the
+                                                                                    frequency range 1300 MHz to 6000
+                                                                                    MHz.
+
+
+                                                                                    If necessary, measurements are
+                                                                 0600-1400
+46°57'51"N     Direction-finding                                                    carried out by mobile monitoring
+                                       20 MHz - 6 GHz            (MON-THU)
+021°58'09"E    measurements                                                         stations (van), on request, all over
+                                                                 0600-1130
+                                                                                    Romanian territory. Hours of service
+                                                                                    from Monday to Thursday: 0900-
+                                                                                    1700 h (local time). Friday: 0900-
+                                                                                    1430 h (local time).
+
+
+                                                                                    9-element circular antenna array
+                                                                                    with quadrature multiplexer for
+                                                                                    signal processing with a single
+                                                                                    receiver in the frequency range
+                                                                                    20 MHz to 1300 MHz (horizontal
+                                                                                    and vertical polarization).
+
+
+                                                                                    Correlative.
+
+                                                                 0600-1400          Remotely controlled monitoring
+46°57'51"N     Bandwidth                                                            station.
+                                       20 MHz - 6 GHz            (MON-THU)
+021°58'09"E    measurements
+                                                                 0600-1130
+
+
+Geographical        Types of            Ranges of frequencies     Hours of service                  Remarks
+coordinates       measurements          for each measurement          (UTC)
+                                                                                     Hours of service from Monday to
+                                                                                     Thursday: 0900-1700 h (local time).
+                                                                                     Friday: 0900-1430 h (local time).
+
+
+                                                                                     An electronic result (.jpg for
+                                                                                     waterfall plots and .xls for field
+                                                                                     strengths) is available upon
+                                                                                     request.
+                                                                                     On request.
+
+
+                                                                                     All days of week.
+46°57'51"N      Automatic spectrum
+                                        20 kHz - 6 GHz            H24
+021°58'09"E     occupancy surveys
+                                                                                     An electronic result (.jpg for
+                                                                                     waterfall plots and .xls for field
+                                                                                     strengths) is available upon
+                                                                                     request.
+
+                 Station: SMG Satu Mare (IMS)
+
+     Name of the station                         Postal address                  Telephone, Telefax, Electronic-mail
+
+                                                                                PHONE: +40 372 845318
+                                     Remote Monitoring Station
+                                                                                PHONE: +40 372 845508
+SMG Satu Mare (IMS)                  Satu Mare
+                                                                                EMAIL: iulian.mihalcea@ancom.ro
+                                     Romania
+                                                                                EMAIL: liviu.birsan@ancom.ro
+
+
+
+Geographical        Types of            Ranges of frequencies     Hours of service                  Remarks
+coordinates       measurements          for each measurement          (UTC)
+
+                                                                                     Hours of service from Monday to
+                                                                                     Thursday: 0900-1700 h (local time).
+                                                                  0600-1400          Friday: 0900-1430 h (local time).
+47°48'52"N      Frequency
+                                        20 MHz - 6 GHz            (MON-THU)
+022°52'37"E     measurements
+                                                                  0600-1130
+                                                                                     Remotely controlled monitoring
+                                                                                     station. Height of antenna: 57 m.
+
+                                                                                     Hours of service from Monday to
+                                                                                     Friday (local time).
+                Field strength or                                 0600-1400
+47°48'52"N
+                power flux-density      20 MHz - 6 GHz            (MON-THU)
+022°52'37"E
+                measurements                                      0600-1130
+                                                                                     Remotely controlled monitoring
+                                                                                     station.
+
+
+
+
+Geographical       Types of         Ranges of frequencies   Hours of service                  Remarks
+coordinates      measurements       for each measurement        (UTC)
+
+                                                                               Remotely controlled monitoring
+                                                                               station. Hours of service from
+                                                                               Monday to Thursday: 0900-1700 h
+                                                                               (local time).
+                                                                               Friday: 0900-1430 h (local time).
+
+
+
+                                                                               8-element circular antenna array for
+                                                                               reception and direction finding of
+                                                                               vertically polarized waves in the
+                                                                               frequency range 1300 MHz to 6000
+                                                                               MHz.
+
+
+
+                                                                               If necessary, measurements are
+                                                            0600-1400
+47°48'52"N     Direction-finding                                               carried out by mobile monitoring
+                                    20 MHz - 6 GHz          (MON-THU)
+022°52'37"E    measurements                                                    stations (van), on request, all over
+                                                            0600-1130
+                                                                               Romanian territory. Hours of service
+                                                                               from Monday to Thursday: 0900-
+                                                                               1700 h (local time). Friday: 0900-
+                                                                               1430 h (local time).
+
+
+
+                                                                               9-element circular antenna array
+                                                                               with quadrature multiplexer for
+                                                                               signal processing with a single
+                                                                               receiver in the frequency range 20
+                                                                               MHz to 1300 MHz (horizontal and
+                                                                               vertical polarization).
+
+
+                                                                               Correlative.
+
+                                                                               Remotely controlled monitoring
+                                                                               station.
+
+
+                                                                               Hours of service from Monday to
+                                                            0600-1400          Thursday: 0900-1700 h (local time).
+47°48'52"N     Bandwidth
+                                    20 MHz - 6 GHz          (MON-THU)          Friday: 0900-1430 h (local time).
+022°52'37"E    measurements
+                                                            0600-1130
+
+                                                                               An electronic result (.jpg for
+                                                                               waterfall plots and .xls for field
+                                                                               strengths) is available upon
+                                                                               request.
+
+                                                                               On request.
+
+
+
+                                                                               All days of week.
+47°48'52"N     Automatic spectrum
+                                    20 kHz - 6 GHz          H24
+022°52'37"E    occupancy surveys
+                                                                               An electronic result (.jpg for
+                                                                               waterfall plots and .xls for field
+                                                                               strengths) is available upon
+                                                                               request.
+
+
+
+                 Station: SMG Suceava (IMS)
+
+     Name of the station                         Postal address                  Telephone, Telefax, Electronic-mail
+
+                                                                                PHONE: +40 372 845318
+                                     Remote Monitoring Station
+                                                                                PHONE: +40 372 845508
+SMG Suceava (IMS)                    Ipotesti
+                                                                                EMAIL: iulian.mihalcea@ancom.ro
+                                     Romania
+                                                                                EMAIL: liviu.birsan@ancom.ro
+
+
+
+Geographical        Types of            Ranges of frequencies     Hours of service                   Remarks
+coordinates       measurements          for each measurement          (UTC)
+                                                                                     Hours of service from Monday to
+                                                                                     Thursday: 0900-1700 h (local time).
+                                                                  0600-1400          Friday: 0900-1430 h (local time).
+47°36'57"N      Frequency
+                                        20 MHz - 6 GHz            (MON-THU)
+026°17'09"E     measurements
+                                                                  0600-1130
+                                                                                     Remotely controlled monitoring
+                                                                                     station. Height of antenna: 27 m.
+                                                                                     Hours of service from Monday to
+                Field strength or                                 0600-1400          Friday (local time).
+47°36'57"N
+                power flux-density      20 MHz - 6 GHz            (MON-THU)
+026°17'09"E
+                measurements                                      0600-1130
+                                                                                     Remotely controlled monitoring
+                                                                                     station.
+                                                                                     Remotely controlled monitoring
+                                                                                     station. Hours of service from
+                                                                                     Monday to Thursday: 0900-1700 h
+                                                                                     (local time). Friday: 0900-1430 h
+                                                                                     (local time).
+
+
+                                                                                     8-element circular antenna array for
+                                                                                     reception and direction finding of
+                                                                                     vertically polarized waves in the
+                                                                                     frequency range 1300 MHz to 6000
+                                                                                     MHz.
+
+
+                                                                                     If necessary, measurements are
+                                                                  0600-1400
+47°36'57"N      Direction-finding                                                    carried out by mobile monitoring
+                                        20 MHz - 6 GHz            (MON-THU)
+026°17'09"E     measurements                                                         stations (van), on request, all over
+                                                                  0600-1130
+                                                                                     Romanian territory. Hours of service
+                                                                                     from Monday to Thursday: 0900-
+                                                                                     1700 h (local time). Friday: 0900-
+                                                                                     1430 h (local time).
+
+
+                                                                                     9-element circular antenna array
+                                                                                     with quadrature multiplexer for
+                                                                                     signal processing with a single
+                                                                                     receiver in the frequency range
+                                                                                     20 MHz to 1300 MHz (horizontal and
+                                                                                     vertical polarization).
+
+
+                                                                                     Correlative.
+
+                                                                  0600-1400          Remotely       controlled   monitoring
+47°36'57"N      Bandwidth                                                            station.
+                                        20 MHz - 6 GHz            (MON-THU)
+026°17'09"E     measurements
+                                                                  0600-1130
+
+
+Geographical       Types of            Ranges of frequencies     Hours of service                  Remarks
+coordinates      measurements          for each measurement          (UTC)
+                                                                                    Hours of service from Monday to
+                                                                                    Thursday: 0900-1700 h (local time).
+                                                                                    Friday: 0900-1430 h (local time).
+
+
+                                                                                    An electronic result (.jpg for
+                                                                                    waterfall plots and .xls for field
+                                                                                    strengths) is available upon
+                                                                                    request.
+                                                                                    On request.
+
+
+                                                                                    All days of week.
+47°36'57"N     Automatic spectrum
+                                       20 kHz - 6 GHz            H24
+026°17'09"E    occupancy surveys
+                                                                                    An electronic result (.jpg for
+                                                                                    waterfall plots and .xls for field
+                                                                                    strengths) is available upon
+                                                                                    request.
+
+                Station: SMG Timisoara (IMS)
+
+     Name of the station                        Postal address                  Telephone, Telefax, Electronic-mail
+
+                                                                               PHONE: +40 372 845318
+                                    Remote Monitoring Station
+                                                                               PHONE: +40 372 845508
+SMG Timisoara (IMS)                 Ianova
+                                                                               EMAIL: iulian.mihalcea@ancom.ro
+                                    Romania
+                                                                               EMAIL: liviu.birsan@ancom.ro
+
+
+
+Geographical       Types of            Ranges of frequencies     Hours of service                  Remarks
+coordinates      measurements          for each measurement          (UTC)
+
+                                                                                    Hours of service from Monday to
+                                                                                    Thursday: 0900-1700 h (local time).
+                                                                 0600-1400          Friday: 0900-1430 h (local time).
+45°50'26"N     Frequency
+                                       20 MHz - 6 GHz            (MON-THU)
+021°24'45"E    measurements
+                                                                 0600-1130
+                                                                                    Remotely controlled monitoring
+                                                                                    station. Height of antenna: 37 m.
+
+                                                                                    Hours of service from Monday to
+                                                                                    Friday (local time).
+               Field strength or                                 0600-1400
+45°50'26"N
+               power flux-density      20 MHz - 6 GHz            (MON-THU)
+021°24'45"E
+               measurements                                      0600-1130
+                                                                                    Remotely controlled monitoring
+                                                                                    station.
+
+                                                                                    Remotely controlled monitoring
+                                                                                    station. Hours of service from
+                                                                                    Monday to Thursday: 0900-1700 h
+                                                                                    (local time). Friday: 0900-1430 h
+                                                                                    (local time).
+                                                                 0600-1400
+45°50'26"N     Direction-finding
+                                       20 MHz - 6 GHz            (MON-THU)
+021°24'45"E    measurements
+                                                                 0600-1130
+                                                                                    8-element circular antenna array for
+                                                                                    reception and direction finding of
+                                                                                    vertically polarized waves in the
+                                                                                    frequency range 1300 MHz to
+                                                                                    6000 MHz.
+
+
+Geographical        Types of         Ranges of frequencies   Hours of service                   Remarks
+coordinates       measurements       for each measurement        (UTC)
+
+
+
+                                                                                If necessary, measurements are
+                                                                                carried out by mobile monitoring
+                                                                                stations (van), on request, all over
+                                                                                Romanian territory. Hours of service
+                                                                                from Monday to Thursday: 0900-
+                                                                                1700 h (local time). Friday: 0900-
+                                                                                1430 h (local time).
+
+
+
+                                                                                9-element circular antenna array
+                                                                                with quadrature multiplexer for
+                                                                                signal processing with a single
+                                                                                receiver in the frequency range
+                                                                                20 MHz to 1300 MHz (horizontal and
+                                                                                vertical polarization).
+
+
+                                                                                Correlative.
+
+                                                                                Remotely       controlled   monitoring
+                                                                                station.
+
+
+
+                                                                                Hours of service from Monday to
+                                                             0600-1400          Thursday: 0900-1700 h (local time).
+45°50'26"N      Bandwidth
+                                     20 MHz - 6 GHz          (MON-THU)          Friday: 0900-1430 h (local time).
+021°24'45"E     measurements
+                                                             0600-1130
+
+                                                                                An electronic result (.jpg for
+                                                                                waterfall plots and .xls for field
+                                                                                strengths) is available upon
+                                                                                request.
+
+                                                                                On request.
+
+
+
+                                                                                All days of week.
+45°50'26"N      Automatic spectrum
+                                     20 kHz - 6 GHz          H24
+021°24'45"E     occupancy surveys
+                                                                                An electronic result (.jpg for
+                                                                                waterfall plots and .xls for field
+                                                                                strengths) is available upon
+                                                                                request.
+
+
+
+
+                Station: SMG Tulcea (IMS)
+
+     Name of the station                        Postal address                  Telephone, Telefax, Electronic-mail
+
+                                                                               PHONE: +40 372 845318
+                                    Remote Monitoring Station
+                                                                               PHONE: +40 372 845508
+SMG Tulcea (IMS)                    Nufaru
+                                                                               EMAIL: iulian.mihalcea@ancom.ro
+                                    Romania
+                                                                               EMAIL: liviu.birsan@ancom.ro
+
+
+
+Geographical       Types of            Ranges of frequencies     Hours of service                   Remarks
+coordinates      measurements          for each measurement          (UTC)
+                                                                                    Hours of service from Monday to
+                                                                                    Thursday: 0900-1700 h (local time).
+                                                                 0600-1400          Friday: 0900-1430 h (local time).
+45°07'02"N     Frequency
+                                       20 MHz - 6 GHz            (MON-THU)
+028°57'31"E    measurements
+                                                                 0600-1130
+                                                                                    Remotely controlled monitoring
+                                                                                    station. Height of antenna: 37 m.
+                                                                                    Hours of service from Monday to
+               Field strength or                                 0600-1400          Friday (local time).
+45°07'02"N
+               power flux-density      20 MHz - 6 GHz            (MON-THU)
+028°57'31"E
+               measurements                                      0600-1130
+                                                                                    Remotely controlled monitoring
+                                                                                    station.
+                                                                                    Remotely controlled monitoring
+                                                                                    station. Hours of service from
+                                                                                    Monday to Thursday: 0900-1700 h
+                                                                                    (local time). Friday: 0900-1430 h
+                                                                                    (local time).
+
+
+                                                                                    8-element circular antenna array for
+                                                                                    reception and direction finding of
+                                                                                    vertically polarized waves in the
+                                                                                    frequency range 1300 MHz to
+                                                                                    6000 MHz.
+
+
+                                                                                    If necessary, measurements are
+                                                                 0600-1400
+45°07'02"N     Direction-finding                                                    carried out by mobile monitoring
+                                       20 MHz - 6 GHz            (MON-THU)
+028°57'31"E    measurements                                                         stations (van), on request, all over
+                                                                 0600-1130
+                                                                                    Romanian territory. Hours of service
+                                                                                    from Monday to Thursday: 0900-
+                                                                                    1700 h (local time). Friday: 0900-
+                                                                                    1430 h (local time).
+
+
+                                                                                    9-element circular antenna array
+                                                                                    with quadrature multiplexer for
+                                                                                    signal processing with a single
+                                                                                    receiver in the frequency range
+                                                                                    20 MHz to 1300 MHz (horizontal and
+                                                                                    vertical polarization).
+
+
+                                                                                    Correlative.
+
+                                                                 0600-1400          Remotely       controlled   monitoring
+45°07'02"N     Bandwidth                                                            station.
+                                       20 MHz - 6 GHz            (MON-THU)
+028°57'31"E    measurements
+                                                                 0600-1130
+
+Geographical        Types of         Ranges of frequencies   Hours of service                  Remarks
+coordinates       measurements       for each measurement        (UTC)
+                                                                                Hours of service from Monday to
+                                                                                Thursday: 0900-1700 h (local time).
+                                                                                Friday: 0900-1430 h (local time).
+
+
+                                                                                An electronic result (.jpg for
+                                                                                waterfall plots and .xls for field
+                                                                                strengths) is available upon
+                                                                                request.
+                                                                                On request.
+
+
+                                                                                All days of week.
+45°07'02"N      Automatic spectrum
+                                     20 kHz - 6 GHz          H24
+028°57'31"E     occupancy surveys
+                                                                                An electronic result (.jpg for
+                                                                                waterfall plots and .xls for field
+                                                                                strengths) is available upon
+                                                                                request.
+
+
+
+
+                               List of Issuer Identifier Numbers
+                 (in accordance with Recommendation ITU-T E.118 (05/2006))
+                               (Position on 31 December 2023)
+                                   (Annex to ITU Operational Bulletin No. 1283 – 1.I.2024)
+                                                   (Amendment No. 18)
+
+Global Issuer Identifier Number        LIR
+
+
+
+       Country/                Company Name/Address                   Issuer                   Contact
+   geographical area                                                Identifier
+                                                                     Number
+  Global                    KORE Wireless                           89 883 07    KORE Headquarters
+                            (Formerly Twilio Inc.)                               3 Ravinia Drive, Floor 5,
+                            3 Ravinia DR Suite 300                               ATLANTA, GA
+                            ATLANTA, GA 30346                                    United States
+                            United States                                        Tel: +1 877 710 5673
+                                                                                 E-mail: peberling@korewireless.com
+
+
+__________
+
+See page 7 of the present Operational Bulletin No. 1314 of 15.IV.2025.
+
+
+
+
+                   List of Recommendation ITU-T E.164 assigned Country Codes
+                     (Complement to Recommendation ITU-T E.164 (11/2010))
+                                (Position on 15 December 2016)
+                                   (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
+                                                    (Amendment No. 43)
+
+
+
+country code      883        LIR
+
+
+      Country code       Country, Geographical area or Global service                                     Note
+           883           IoT/M2M, shared code                                                             p, q
+
+
+
+
+       Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+
+
+p        Associated with shared country code 883, the following three-digit identification code reservations or
+         assignments have been made for the IoT/M2M of:
+
+
+Note p)      +883 260    LIR
+
+                                                                                    Country Code and
+                 Applicant                                Network                                            Status
+                                                                                   Identification Code
+
+    KORE Wireless                         KORE Wireless                                +883 260            Assigned
+    (Formerly Twilio Inc.)                (Formerly Twilio Inc.)
+
+
+
+__________
+
+See page 6 of the present Operational Bulletin No. 1314 of 15.IV.2025.
+
+
+
+
+          Mobile Network Codes (MNC) for the international identification plan
+                         for public networks and subscriptions
+                 (According to Recommendation ITU-T E.212 (09/2016))
+                            (Position on 15 November 2023)
+                                 (Annex to ITU Operational Bulletin No. 1280 - 15.XI.2023)
+                                                     (Amendment No. 31)
+
+
+Country/Geographical area                               MCC+MNC            Operator/Network
+Estonia     SUP
+                                                          248 21           Tismi B.V.
+                                                          248 33           J-Mobile OÜ (formerly Crowdfaster OÜ)
+Estonia     ADD
+                                                          248 36           GLOBALCELL EU
+                                                          248 37           Revaltex Grooup OÜ
+Hungary        LIR
+                                                          216 70           One Hungary Ltd.
+                                                          216 71           One Hungary Ltd.
+Mexico      ADD
+                                                          334 230          VINOC, S.A.P.I. DE C.V.
+International Mobile,
+shared code LIR*
+                                                          901 62           KORE Wireless
+                                                                           (Formerly Twilio Inc.)
+
+
+____________
+MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+* See page 6 of the present Operational Bulletin No. 1314 of 15.IV.2025.
+
+
+
+
+                                    List of ITU Carrier Codes
+                    (According to Recommendation ITU-T M.1400 (03/2013))
+                                (Position on 15 September 2014)
+                             (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                                             (Amendment No. 186)
+
+
+ Country or area/ISO code                             Company Code             Contact
+  Company Name/Address                                 (carrier code)
+
+
+Germany (Federal Republic of) / DEU        ADD
+ Aetherus Inh. Maurice Daniel Klein                        AETH                Mr Maurice Klein
+ Fuerker Strasse 47A                                                           Tel.: +49 2127 846460
+ D-42697 SOLINGEN                                                              Fax: +49 2127 8464699
+                                                                               Email: klein@aetherus.de
+
+ telenovis UG (haftungsbeschränkt)                        100905               Mr Thomas Knick
+ Rudower Chausee 29                                                            Tel.: +49 30 52001402
+ D-12489 BERLIN                                                                Fax: +49 30 30015870
+                                                                               Email: thomas.knick@telenovis.net
+
+ Coolwave Communications Limited                         COOLWV                Mr David Williams
+ 6th Floor, 2 Grand Canal Square                                               Tel.: +44 333 240 3070
+ IRL-DUBLIN 2, D02 A342                                                        Email: regulatory@coolwavecom.com
+ Ireland
+
+Sweden / SWE          ADD
+ Bahnhof AB                                               BHOF01               Philip Göransson
+ Sveavägen 41                                                                  Tel.: +46 71110137
+ SE-111 34 STOCKHOLM                                                           E-mail: philip.goransson@bahnhof.net
+
+
+Sweden / SWE          LIR
+ Tele2 Sverige AB                                          TELE2               Carl-Johan Rydén
+ P.O. Box 62                                                                   Tel.: +46 8 562 000 60
+ SE-164 94 KISTA                                                               E-mail: carljohan.ryden@tele2.com
+
+ Telia Company AB                                          TELIA               Sofia Donner
+ Stjärntorget 1                                                                Tel.: +46 8 504 550 00
+ SE-169 94 SOLNA                                                               E-mail: sofia.donner@teliacompany.com
+
+
+Sweden / SWE          SUP
+ NETnet AB                                                NETNET
+ PO Box 6611
+ S-113 84 STOCKHOLM
+
+ RSL COM Sweden AB                                        RSLSWE
+ PO Box 1434
+ S-17128 SOLNA
+
+
+
+
+                          List of International Signalling Point Codes (ISPC)
+                       (According to Recommendation ITU-T Q.708 (03/1999))
+                                        (Position on 1 July 2024)
+                                      (Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024)
+                                                       (Amendment No. 16)
+
+ Country/
+ Geographical Area
+ ISPC          DEC          Unique name of the signalling point          Name of the signalling point operator
+
+
+ Estonia SUP
+ 2-092-0       4832         Tallinn                                      Telia Eesti AS (formerly AS Eesti Telekom)
+ 2-092-1       4833         Tallinn                                      Telia Eesti AS (formerly AS Eesti Telekom)
+ 3-244-4       8100         Tallinn                                      Telia Eesti AS (formerly GoNetwork OÜ)
+
+ Hungary LIR
+ 2-212-1       5793         Monor_INT1                                   One Hungary Ltd.
+ 4-243-0       10136        VFN-INT-ITP1                                 One Hungary Ltd.
+ 4-243-1       10137        VFN-INT-ITP4                                 One Hungary Ltd.
+ 4-243-7       10143        VFHU-INT-HWSTP1                              One Hungary Ltd.
+ 5-218-0       11984        VFHU-INT-HWSTP4                              One Hungary Ltd.
+ 6-251-2       14298        VHF-INT-GW1                                  One Hungary Ltd.
+ 6-251-3       14299        VHF-INT-GW4                                  One Hungary Ltd.
+
+ Japan ADD
+ 4-087-0       8888         sumida-sgw2-g                                NTT DOCOMO, INC.
+ 4-087-1       8889         kyoto-sgw2-g                                 NTT DOCOMO, INC.
+
+____________
+ISPC:   International Signalling Point Codes.
+        Codes de points sémaphores internationaux (CPSI).
+        Códigos de puntos de señalización internacional (CPSI).
+
+
+
+
+                         List of Data Network Identification Codes (DNIC)
+                      (According to Recommendation ITU-T X.121(10/2000))
+                                     (Position on 1 April 2011)
+                                   (Annex to ITU Operational Bulletin No. 977 – 1.IV.2011)
+                                                   (Amendment No. 13)
+
+Spain      SUP
+
+
+
+           Country/Area              DNIC No.                   Name of network to which a DNIC is allocated
+                 1                       2                                               3
+
+
+ ESPAGNE                                214 1      Telefónica de España, S.A.U. (formerly Nodo internacional de datos)
+ SPAIN
+ ESPAÑA
+
+
+
+
+__________
+
+See page 8 of the present Operational Bulletin No. 1314 of 15.IV.2025.
+
+
+
+
+                                     National Numbering Plan
+                      (According to Recommendation ITU-T E.129 (01/2013))
+                                         Web: www.itu.int/itu-t/inr/nnp/index.html
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 15.III.2025, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                               Country/Geographical area                            Country Code (CC)
+                     Andorra                                                                 +376
+                     Burundi                                                                 +257
+                     Mauritius                                                               +230
+
+
+
+

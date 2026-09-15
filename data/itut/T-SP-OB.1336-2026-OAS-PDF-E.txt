@@ -1,0 +1,883 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1336              15.III.2026                (Information received by 27 February 2026) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                     Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                                3
+Approval and deletion of ITU-T Recommendations……………………………………………………………………………………                                                                                      4
+The International Public Telecommunication Numbering Plan: Note from TSB.............................................                                               5
+International Identification Plan for Public Networks and Subscriptions: Note from TSB..............................                                                5
+Telephone Service:
+     Azerbaijan (Ministry of Digital Development and Transport, Baku) .........................................................                                     6
+     Guyana (Telecommunications Agency, Georgetown) ...............................................................................                                13
+Service Restrictions .........................................................................................................................................     18
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) .................................................................                                18
+
+
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Recommendation ITU-T E.164 assigned Country Codes ......................................................................                                   19
+Mobile Network Codes (MNC) for the international identification plan for public networks
+  and subscriptions ......................................................................................................................................         20
+List of ITU Carrier Codes .................................................................................................................................        21
+List of International Signalling Point Codes (ISPC) ..........................................................................................                     22
+National Numbering Plan ...............................................................................................................................            22
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1337              1.IV.2026             13.III.2026
+               1338             15.IV.2026             27.III.2026
+               1339              1.V.2026              15.IV.2026
+               1340             15.V.2026              30.IV.2026
+               1341              1.VI.2026             15.V.2026
+               1342             15.VI.2026             29.V.2026
+               1343             1.VII.2026             15.VI.2026
+               1344             15.VII.2026            30.VI.2026
+               1345             1.VIII.2026           15.VII.2026
+               1346            15.VIII.2026           31.VII.2026
+               1347              1.IX.2026            14.VIII.2026
+               1348             15.IX.2026            31.VIII.2026
+               1349              1.X.2026              15.IX.2026
+               1350             15.X.2026              30.IX.2026
+               1351              1.XI.2026             15.X.2026
+               1352             15.XI.2026             31.X.2026
+               1353             1.XII.2026             13.XI.2026
+               1354             15.XII.2026            30.XI.2026
+               1355              1.I.2027             11.XII.2026
+
+
+
+
+                                           GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1317 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 June 2025)
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its
+      Amateur and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+      (Position on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+                        Approval and deletion of ITU-T Recommendations
+Approved Recommendations:
+By AAP-31, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–       ITU-T G.8275.1 (02/2026): Precision time protocol telecom profile for phase/time synchronization with full timing
+        support from the network
+–       ITU-T G.9804.2 (2021) Amd. 3 (11/2025): Higher speed passive optical networks – Common transmission
+        convergence layer specification – Amendment 3
+By TSB Circular CIR-118 of 22 February 2026, it was announced that the following ITU-T Recommendations were
+approved in accordance with the procedures outlined in Resolution 1:
+–       ITU-T E.164 (02/2026): The international public telecommunication numbering plan
+–       ITU-T E.164.1 (02/2026): Criteria and procedures for the reservation, assignment and reclamation of E.164
+        country codes and associated identification codes
+–       ITU-T E.192 (02/2026): International telecommunications Numbering, Naming, Addressing and Identification
+        (NNAI) resources for IoT/M2M services/applications
+–       ITU-T E.371 (02/2026): Deemed impermissible traffic
+
+
+Deleted Recommendations:
+None.
+
+
+
+
+                The International Public Telecommunication Numbering Plan
+                              (Recommendation ITU-T E.164)
+Note from TSB
+
+                                   Identification codes for international networks
+
+
+Associated with shared country code 882 for international networks, the following two-digit identification code has
+been returned:
+
+                                                                           Country Code and
+           Applicant                           Network                                            Date of return
+                                                                          Identification Code
+
+ Monaco Telecom                  Monaco Telecom                                 +882 49             23.II.2026
+
+
+
+
+        International Identification Plan for Public Networks and Subscriptions
+                            (Recommendation ITU-T E.212)
+
+Note from TSB
+                               Identification codes for International Mobile Networks
+
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC) have
+been assigned.
+
+                                                  Mobile Country Code (MCC) and                   Date of
+                   Network
+                                                   Mobile Network Code (MNC)                    assignment
+
+ Bureau 1440 LLC                                               901 70                           23.II.2026
+
+ Myriota PTY                                                   901 29                           23.II.2026
+
+Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been
+returned.
+
+                                                  Mobile Country Code (MCC) and                  Date of
+                   Network
+                                                   Mobile Network Code (MNC)                     return
+
+ Monaco Telecom                                                901 27                           23.II.2026
+
+
+
+
+                                            Telephone Service
+                                       (Recommendation ITU-T E.164)
+                                            See URL: www.itu.int/itu-t/nnp
+
+Azerbaijan (country code +994)
+Communication of 25.II.2026:
+The Ministry of Digital Development and Transport, Baku, announces the following updated National Numbering Plan
+of the Republic of Azerbaijan:
+a)      Overview:
+            The minimum number length (excluding the country code) is 9 digits
+            The maximum number length (excluding the country code) is 9 digits
+b)      Detail of numbering scheme:
+
+
+         NDC (National         N(S)N number length
+      Destination Code) or                                                              Additional information
+     leading digits of N(S)N   Maximum Minimum              Usage of E.164 number        (regions and service
+     (National (Significant)    length  length                                                  types)
+            Number)
+ 12 (NDC)                          9          9       Geographic number for PSTN       Baku
+ 18 (NDC)                          9          9       Geographic number for PSTN       Sumgayit
+ 2020 (NDC)                        9          9       Geographic number for PSTN       Barda
+ 2021 (NDC)                        9          9       Geographic number for PSTN       Ujar
+ 2022 (NDC)                        9          9       Geographic number for PSTN       Aghsu
+ 2023 (NDC)                        9          9       Geographic number for PSTN       Aghdash
+ 2024 (NDC)                        9          9       Geographic number for PSTN       Gobustan
+ 2025 (NDC)                        9          9       Geographic number for PSTN       Kurdamir
+ 2026 (NDC)                        9          9       Geographic number for PSTN       Shamakhi
+ 2027 (NDC)                        9          9       Geographic number for PSTN       Goychay
+ 2028 (NDC)                        9          9       Geographic number for PSTN       Ismayilli
+ 2029 (NDC)                        9          9       Geographic number for PSTN       Zardab
+ 2120, 21428 (NDC)                 9          9       Geographic number for PSTN       Hajigabul
+ 2121 (NDC)                        9          9       Geographic number for PSTN       Shirvan
+ 2122 (NDC)                        9          9       Geographic number for PSTN       Beylagan
+ 2123 (NDC)                        9          9       Geographic number for PSTN       Sabirabad
+ 2124 (NDC)                        9          9       Geographic number for PSTN       Imishli
+ 2125 (NDC)                        9          9       Geographic number for PSTN       Salyan
+ 2126 (NDC)                        9          9       Geographic number for PSTN       Neftchala
+ 2127 (NDC)                        9          9       Geographic number for PSTN       Aghjabadi
+ 2128 (NDC)                        9          9       Geographic number for PSTN       Saatli
+ 2225, 2226, 22428 (NDC)           9          9       Geographic number for PSTN       Ganja
+ 2220 (NDC)                        9          9       Geographic number for PSTN       Goygol
+ 2221 (NDC)                        9          9       Geographic number for PSTN       Dashkasan
+
+      NDC (National         N(S)N number length
+   Destination Code) or                                                         Additional information
+  leading digits of N(S)N   Maximum Minimum           Usage of E.164 number      (regions and service
+  (National (Significant)    length  length                                             types)
+         Number)
+2222 (NDC)                     9          9       Geographic number for PSTN   Aghstafa
+2223 (NDC)                     9          9       Geographic number for PSTN   Tartar
+2224 (NDC)                     9          9       Geographic number for PSTN   Goranboy
+2227 (NDC)                     9          9       Geographic number for PSTN   Samukh
+2229 (NDC)                     9          9       Geographic number for PSTN   Gazakh
+2230 (NDC)                     9          9       Geographic number for PSTN   Shamkir
+2231 (NDC)                     9          9       Geographic number for PSTN   Tovuz
+2232 (NDC)                     9          9       Geographic number for PSTN   Gadabey
+2233, 22428 (NDC)              9          9       Geographic number for PSTN   Yevlakh
+2235 (NDC)                     9          9       Geographic number for PSTN   Naftalan
+2330 (NDC)                     9          9       Geographic number for PSTN   Siyazan
+2331 (NDC)                     9          9       Geographic number for PSTN   Khizi
+2332 (NDC)                     9          9       Geographic number for PSTN   Khachmaz
+2333 (NDC)                     9          9       Geographic number for PSTN   Guba
+2335 (NDC)                     9          9       Geographic number for PSTN   Shabran
+2338 (NDC)                     9          9       Geographic number for PSTN   Gusar
+2420 (NDC)                     9          9       Geographic number for PSTN   Gabala
+2421 (NDC)                     9          9       Geographic number for PSTN   Oghuz
+2422 (NDC)                     9          9       Geographic number for PSTN   Zagatala
+2424 (NDC)                     9          9       Geographic number for PSTN   Shaki
+2425 (NDC)                     9          9       Geographic number for PSTN   Gakh
+2427 (NDC)                     9          9       Geographic number for PSTN   Mingachevir
+2429 (NDC)                     9          9       Geographic number for PSTN   Balakan
+2520 (NDC)                     9          9       Geographic number for PSTN   Yardimli
+2521 (NDC)                     9          9       Geographic number for PSTN   Masalli
+2522 (NDC)                     9          9       Geographic number for PSTN   Astara
+2524 (NDC)                     9          9       Geographic number for PSTN   Jalilabad
+2525 (NDC)                     9          9       Geographic number for PSTN   Lankaran
+2527 (NDC)                     9          9       Geographic number for PSTN   Lerik
+2529 (NDC)                     9          9       Geographic number for PSTN   Bilasuvar
+2620 (NDC)                     9          9       Geographic number for PSTN   Khojali
+2621 (NDC)                     9          9       Geographic number for PSTN   Lachin
+2622 (NDC)                     9          9       Geographic number for PSTN   Khankendi
+2623 (NDC)                     9          9       Geographic number for PSTN   Gubadli
+2625 (NDC)                     9          9       Geographic number for PSTN   Zangilan
+
+      NDC (National         N(S)N number length
+   Destination Code) or                                                             Additional information
+  leading digits of N(S)N   Maximum Minimum           Usage of E.164 number          (regions and service
+  (National (Significant)    length  length                                                 types)
+         Number)
+2626 (NDC)                     9          9       Geographic number for PSTN       Shusha
+2627 (NDC)                     9          9       Geographic number for PSTN       Kalbajar
+2628 (NDC)                     9          9       Geographic number for PSTN       Aghdara
+2629 (NDC)                     9          9       Geographic number for PSTN       Khojavand
+2631(NDC)                      9          9       Geographic number for PSTN       Fuzuli
+2632 (NDC)                     9          9       Geographic number for PSTN       Aghdam
+2638 (NDC)                     9          9       Geographic number for PSTN       Jabrayil
+36544 (NDC)
+                               9          9       Geographic number for PSTN       Nakhchivan city
+36550 (NDC)
+36541 (NDC)                    9          9       Geographic number for PSTN       Babak
+36542, 36552 (NDC)             9          9       Geographic number for PSTN       Sharur
+36543 (NDC)                    9          9       Geographic number for PSTN       Shahbuz
+36546 (NDC)                    9          9       Geographic number for PSTN       Julfa
+36547 (NDC)                    9          9       Geographic number for PSTN       Ordubad
+36548 (NDC)                    9          9       Geographic number for PSTN       Kangarli
+36549 (NDC)                    9          9       Geographic number for PSTN       Sadarak
+                                                  Non-geographic number for
+50, 51, 10, 60 (NDC)           9          9                                        "Azercell Telecom" LLC
+                                                  mobile GSM
+                                                  Non-geographic number for
+55, 99 (NDC)                   9          9                                        "Bakcell" LLC
+                                                  mobile GSM
+                                                  Non-geographic number for
+70, 77 (NDC)                   9          9                                        "Azerfon" LLC
+                                                  mobile GSM
+
+
+88 (NDC)                       9          9       Non-geographic number for PSTN   "Avirtel" LLC
+46 (NDC)                       9          9       Non-geographic number for PSTN   "Delta Telecom Ltd" LLC
+12109 (NDC)                    9          9       Non-geographic number for PSTN   Information Operator
+                                                                                   Assistance
+
+
+
+
+                                            Test numbers:
+
+                    Name                        Test numbers
+
+
+                                           BAKU CITY – 12
+                                                +994 12 370 21 99
+                                                +994 12 440 21 99
+                                                +994 12 564 21 99
+1                   Baku                        +994 88 235 14 79
+                                                +994 12 404 12 12
+                                                +994 12 200 00 24
+                                                +994 12 342 21 99
+
+
+                                         SUMGAYIT CITY – 18
+1                   Sumgayit                    +994 18 644 21 99
+
+
+                                REGION CONNECTED TO BAKU SWITCH – 20
+1                   Barda                       +994 20 205 21 99
+2                   Ujar                        +994 20 213 21 99
+3                   Aghsu                       +994 20 226 21 99
+4                   Aghdash                     +994 20 235 21 99
+5                   Gobustan                    +994 20 245 21 99
+6                   Kurdamir                    +994 20 255 21 99
+7                   Shamakhi                    +994 20 265 21 99
+8                   Goychay                     +994 20 274 21 99
+9                   Ismayilli                   +994 20 285 10 00
+10                  Zardab                      +994 20 296 42 99
+
+
+
+                                        SHIRVAN REGION – 21
+                                                +994 21 204 21 99
+1                   Hajigabul
+                                                +994 21 428 00 20
+2                   Shirvan                     +994 21 215 21 99
+3                   Beylagan                    +994 21 225 21 99
+4                   Sabirabad                   +994 21 235 69 99
+5                   Imishli                     +994 21 246 60 01
+6                   Salyan                      +994 21 255 21 99
+7                   Neftchala                   +994 21 263 21 99
+8                   Aghjabedi                   +994 21 275 21 99
+9                   Saatli                      +994 21 285 21 99
+
+                              GANJA REGION – 22
+                                    +994 22 257 21 99
+ 1              Ganja
+                                    +994 22 428 70 99
+ 2              Goygol              +994 22 205 24 19
+ 3              Dashkasan           +994 22 215 55 99
+ 4              Aghstafa            +994 22 225 21 99
+ 5              Tartar              +994 22 236 21 99
+ 6              Goranboy            +994 22 245 21 99
+ 7              Samukh              +994 22 275 21 99
+ 8              Gazakh              +994 22 295 21 99
+ 9              Shamkir             +994 22 305 21 90
+ 10             Tovuz               +994 22 315 00 00
+ 11             Gadabey             +994 22 326 01 71
+                                    +994 22 336 21 99
+ 12             Yevlakh
+                                    +994 22 428 26 41
+ 13             Naftalan            +994 22 352 21 99
+                              GUBA REGION – 23
+ 1              Siyazan             +994 23 304 21 99
+ 2              Khizi               +994 23 315 00 00
+ 3              Khachmaz            +994 23 325 21 99
+ 4              Guba                +994 23 335 21 99
+ 5              Shabran             +994 23 353 21 99
+ 6              Gusar               +994 23 385 21 99
+                              SHAKI REGION – 24
+ 1              Gabala              +994 24 205 21 99
+ 2              Oghuz               +994 24 215 12 99
+ 3              Zagatala            +994 24 225 21 99
+ 4              Shaki               +994 24 244 21 99
+ 6              Gakh                +994 24 255 21 99
+ 5              Mingachevir         +994 24 274 21 99
+ 7              Balakan             +994 24 295 21 99
+
+
+
+
+                                         LANKARAN REGION – 25
+1                  Yardimli                      +994 25 206 21 99
+2                  Masalli                       +994 25 215 21 99
+3                  Astara                        +994 25 225 21 99
+4                  Jalilabad                     +994 25 245 21 99
+5                  Lankaran                      +994 25 255 21 99
+6                  Lerik                         +994 25 274 60 30
+7                  Bilasuvar                     +994 25 295 21 99
+
+
+                                KARABAKH AND EAST ZANGEZUR REGION – 26
+1                  Khojali                       +994 26 205 21 99
+2                  Lachin                        +994 26 215 21 99, +994 26 212 21 99
+3                  Khankendi                     +994 26 225 21 99
+4                  Gubadli                       +994 26 235 21 99
+5                  Zangilan                      +994 26 255 21 99
+6                  Shusha                        +994 26 266 21 99
+7                  Kalbajar                      +994 26 275 21 99
+8                  Aghdara                       +994 26 285 21 99
+9                  Khojavand                     +994 26 295 21 99
+10                 Fuzuli                        +994 26 315 50 00
+11                 Aghdam                        +994 26 325 06 32
+12                 Jabrayil                      +994 26 384 37 99
+
+
+                                       NAKHCHIVAN REGION – 36
+                                                 +994 36 544 63 00
+1                  Nakhchivan
+                                                 +994 36 550 99 19
+2                  Babak                         +994 36 541 30 99
+                                                 +994 36 542 25 99
+3                  Sharur
+                                                 +994 36 552 44 00
+4                  Shahbuz                       +994 36 543 00 99
+5                  Julfa                         +994 36 546 01 99
+6                  Ordubad                       +994 36 547 00 99
+7                  Kangarli                      +994 36 548 07 00
+8                  Sadarak                       +994 36 549 00 00
+
+
+
+
+                                           MOBILE operators:
+
+                 Mobile operator           Country code        Mobile code      Test number
+   1             AZERCELL_GSM              994                 50, 51, 10, 60   +994 50 225 11 11
+                                                                                +994 51 899 16 05
+                                                                                +994 10 239 16 20
+                                                                                +994 60 700 99 34
+   2             BAKCELL_GSM               994                 55, 99           +994 55 210 00 01
+                                                                                +994 99 595 52 68
+   3             AZERFON_GSM               994                 70, 77           +994 70 200 06 13
+                                                                                +994 70 201 16 93
+
+
+
+
+                                            REGION – PSTN
+
+   1             “Delta Telecom Ltd” LLC   994                  46              +994 46 450 00 03
+
+
+Contact:
+       Ministry of Digital Development and Transport
+       77, Zarifa Aliyeva str.,
+       AZ 1000 BAKU
+       Azerbaijan
+       Tel.:      +994 12 598 5858
+       E-mail: mincom@mincom.gov.az; office@mincom.gov.az
+       URL:       www.mincom.gov.az
+
+
+
+
+Guyana (country code +592)
+Communication of 26.II.2026:
+The Telecommunications Agency, Georgetown, announces that the following national destination codes (NDC) and
+subscriber number (SN) ranges are currently assigned to the listed public telecommunications operators for the
+Co‑operative Republic of Guyana. Numbers allocated to access emergency/social services are also listed below.
+
+                                    Presentation of national ITU-T E.164 numbering plan
+                                                    for country code 592
+a)      Overview:
+        The minimum fixed and mobile number length (excluding the country code) is seven (7) digits.
+        The maximum fixed and mobile number length (excluding the country code) is seven (7) digits.
+        International dialling format: +592 NXX XXXX
+b)      National Database (TBD)
+c)      Real-time Database (TBD)
+
+d)      Detail of numbering plan:
+
+Fixed Network
+
+
+         National            N(S)N number length
+                                                                                                 SN range
+     destination code                                      Operator/Block assignee
+                            Maximum          Minimum                                              (XXXX)
+           (NXX)
+                             length           length
+           216                 7                 7                                              0000 – 9999
+           217                 7                 7                                              0000 – 1999
+           218                 7                 7                                              0000 – 9999
+           219                 7                 7                                              0000 – 9999
+           220                 7                 7                                              0000 – 9999
+           221                 7                 7                                              2000 – 4999
+           222                 7                 7                                              0000 – 9999
+           223                 7                 7                                              0000 – 9999
+           225                 7                 7                                              0000 – 9999
+           226                 7                 7                                              0000 – 9999
+           227                 7                 7                                              0000 – 9999
+                                                            Guyana Telephone and
+           228                 7                 7                                              0000 – 6999
+                                                              Telegraph Co. Ltd.
+           229                 7                 7                                              1000 – 8999
+           231                 7                 7                                              0000 – 9999
+           232                 7                 7                                        0000 – 4999; 9000 – 9999
+           233                 7                 7                                              0000 – 7999
+           234                 7                 7                                              0000 – 0999
+           253                 7                 7                                              0000 – 5999
+           254                 7                 7                                              0000 – 2999
+           255                 7                 7                                              0000 – 4999
+           256                 7                 7                                              0000 – 5999
+           257                 7                 7                                              0000 – 4999
+           258                 7                 7                                              0000 – 4999
+
+
+      National        N(S)N number length
+                                                                         SN range
+  destination code                          Operator/Block assignee
+                     Maximum      Minimum                                 (XXXX)
+        (NXX)
+                      length       length
+        259             7             7                                0000 – 4999
+        260             7             7                                0000 – 6999
+        261             7             7                                0000 – 9999
+        262             7             7                                0000 – 2999
+        263             7             7                                0000 – 7999
+        264             7             7                                0000 – 4999
+        265             7             7                                0000 – 8999
+        266             7             7                                0000 – 7999
+        267             7             7                                0000 – 3999
+        268             7             7                                0000 – 5999
+        269             7             7                                0000 – 2999
+        270             7             7                                0000 – 9999
+        271             7             7                                0000 – 9999
+        272             7             7                                0000 – 2999
+        273             7             7                                1000 – 1999
+        274             7             7                                0000 – 2999
+        275             7             7                                0000 – 2999
+        276             7             7                                0000 – 5999
+        277             7             7                                0000 – 5999
+        279             7             7     Guyana Telephone and       0000 – 4999
+                                              Telegraph Co. Ltd.
+        289             7             7                                0000 – 9999
+        322             7             7                                0000 – 6999
+        325             7             7                                0000 – 6999
+        326             7             7                                0000 – 5999
+                                                                       0000 – 2999,
+        327             7             7
+                                                                       5000 – 7999
+        328             7             7                                0000 – 9999
+                                                                       0000 – 1999,
+        329             7             7
+                                                                       3000 – 6999
+        330             7             7                                0000 – 4999
+        331             7             7                                0000 – 4999
+        332             7             7                                0000 – 4999
+        333             7             7                                0000 – 9999
+        334             7             7                                0000 – 2999
+                                                                       0000 – 1999,
+        335             7             7
+                                                                       3000 – 4999
+        336             7             7                                5000 – 9999
+        337             7             7                                0000 – 6999
+        338             7             7                                1000 – 5999
+        339             7             7                                0000 – 6999
+
+      National               N(S)N number length
+                                                                                SN range
+  destination code                                 Operator/Block assignee
+                            Maximum      Minimum                                 (XXXX)
+        (NXX)
+                             length       length
+         440                   7             7                                 0000 – 3999
+         441                   7             7                                 0000 – 3999
+         442                   7             7                                 0000 – 4999
+                                                   Guyana Telephone and
+         444                   7             7       Telegraph Co. Ltd.        0000 – 9999
+         455                   7             7                                 0000 – 3999
+         456                   7             7                                 0000 – 2999
+      500 – 506                7             7                                 0000 – 9999
+         510                   7             7                                 0000 – 9999
+                                                   U-Mobile (Cellular) Inc.
+         511                   7             7                                 0000 – 9999
+         515                   7             7         E-Networks Inc.         0000 – 9999
+                                                                               0000 – 2999
+         771                   7             7
+                                                                               4000 – 5999
+         772                   7             7                                 0000 – 3999
+         773                   7             7     Guyana Telephone and        0000 – 2999
+                                                     Telegraph Co. Ltd.        0000 – 2999,
+         774                   7             7
+                                                                               4000 – 5999
+         775                   7             7                                 0000 – 3999
+         777                   7             7                                 0000 – 9999
+         800                   7             7     U-Mobile (Cellular) Inc.    0000 – 0009
+         862                   7             7                                 1000 – 1999
+         868                   7             7                                 0000 – 3999
+                                                   Guyana Telephone and
+         888                   7             7                                    8888
+                                                     Telegraph Co. Ltd.
+         899                   7             7                                 0000 – 9999
+         900                   7             7                                 8000 – 8999
+
+
+Mobile Network
+
+      National               N(S)N Number length
+                                                                                   SN range
+  destination code                                   Operator/Block assignee
+                            Maximum      Minimum                                    (XXXX)
+        (NXX)
+                             length       length
+      600 – 604                7             7     U-Mobile (Cellular) Inc.      0000 – 9999
+         605                   7             7     Quark Communications Inc.     0000 – 0999
+
+         605                   7             7     DNA Enterprise Inc.           1000 – 2999
+
+         606                   7             7     E-Government                  0000 – 0999
+
+         608                   7             7     U-Mobile (Cellular) Inc.      0000 – 0999
+
+                                                   Guyana Telephone and
+      609 – 629                7             7                                   0000 – 9999
+                                                   Telegraph Co. Ltd.
+
+      National           N(S)N Number length
+                                                                                SN range
+  destination code                               Operator/Block assignee
+                       Maximum       Minimum                                     (XXXX)
+        (NXX)
+                        length        length
+        630                7             7     U-Mobile (Cellular) Inc.        0000 – 9999
+        631                7             7     Green Gibraltar Inc.            0000 – 9999
+     632 – 633             7             7     U-Mobile (Cellular) Inc.        0000 – 9999
+                                               Guyana Telephone and
+        634                7             7                                     0000 – 9999
+                                               Telegraph Co. Ltd.
+        635                7             7     E-Networks Inc.                 0000 – 9999
+     636 – 637             7             7     U-Mobile (Cellular) Inc.        0000 – 9999
+                                               Guyana Telephone and
+     638 – 658             7             7                                     0000 – 9999
+                                               Telegraph Co. Ltd.
+     659 – 704             7             7     U-Mobile (Cellular) Inc.        0000 – 9999
+                                               Guyana Telephone and
+     705 – 709             7             7                                     0000 – 9999
+                                               Telegraph Co. Ltd.
+     710 – 720             7             7     E-Networks Inc.                 0000 – 9999
+     721 – 722             7             7     U-Mobile (Cellular) Inc.        0000 – 9999
+     723 – 724             7             7     U-Mobile (Cellular) Inc.        0000 – 9999
+                                               Guyana Telephone and
+     725 – 726             7             7                                     0000 – 9999
+                                               Telegraph Co. Ltd.
+                                               Guyana Telephone and
+     727 – 729             7             7                                     0000 – 9999
+                                               Telegraph Co. Ltd.
+     730 – 732             7             7     E-Networks Inc.                 0000 – 9999
+     733 – 742             7             7     E-Networks Inc.                 0000 – 9999
+     743 – 750             7             7     U-Mobile (Cellular) Inc.        0000 – 9999
+                                               Guyana Telephone and
+     751 – 759             7             7                                     0000 – 9999
+                                               Telegraph Co. Ltd.
+     760 – 761             7             7     E-Networks Inc.                 0000 – 9999
+     762 – 763             7             7     E-Networks Inc.                 0000 – 9999
+        764                7             7     E-Networks Inc.                 0000 – 9999
+        765                7             7     E-Networks Inc.                 0000 – 9999
+        766                7             7     E-Networks Inc.                 0000 – 9999
+        767                7             7     E-Networks Inc.                 0000 – 9999
+     769 – 770             7             7     U-Mobile (Cellular) Inc.        0000 – 9999
+
+        – Newly assigned ranges
+
+
+
+
+Emergency Services
+
+   Important                                                                         ITU-T E.164 number or
+                            Service                Allocated or Assigned
+    number                                                                            national only number
+
+                        Police
+      911                                 Allocated in the national numbering plan   National-only number
+                 (Emergency response)
+                   Fire / Ambulance
+      912                                 Allocated in the national numbering plan   National-only number
+                 (Emergency response)
+                     Ambulance
+      913                                 Allocated in the national numbering plan   National-only number
+                 (Emergency response)
+                     Domestic Violence
+      914                                 Allocated in the national numbering plan   National-only number
+                        (Hotline)
+
+Contact:
+      Telecommunications Agency
+      Director of Telecommunications
+      190 Charlotte Street, Bourda,
+      GEORGETOWN
+      Guyana
+      Tel.:      +592 225-3104/226-2233
+      E-mail: odir1@telecoms.gov.gy
+      URL:       www.telecoms.gov.gy
+
+
+
+
+                                         Service Restrictions
+                                 See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area   OB
+ Seychelles                 1006 (p.13)
+ Slovakia                   1007 (p.12)
+ Malaysia                   1013 (p.5)
+ Thailand                   1034 (p.5)
+ São Tomé and Principe      1039 (p.14)
+ Uruguay                    1039 (p.14)
+ Hong Kong, China           1068 (p.4)
+ Ukraine                    1148 (p.5)
+ Türkiye                    1286 (p.17)
+ Bangladesh                 1287 (p.16)
+
+
+
+
+                                         Call-Back
+                 and alternative calling procedures (Res. 21 Rev. PP-06)
+                            See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+                          AMENDMENTS TO SERVICE PUBLICATIONS
+                                                       Abbreviations used
+                                   ADD     Insert                         PAR   Paragraph
+                                   COL     Column                         REP   Replace
+                                   LIR     Read                           SUP   Delete
+                                   P       Page(s)
+
+
+
+
+                  List of Recommendation ITU-T E.164 assigned Country Codes
+                    (Complement to Recommendation ITU-T E.164 (11/2010))
+                               (Position on 15 December 2016)
+                                  Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016
+                                                   Amendment No. 47
+
+
+      Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
+
+
+o        Associated with shared country code 882, the following two-digit identification code reservations or assignments
+         have been made for the international networks of:
+
+Note o)      +882 49     SUP
+
+                                                                                    Country Code and
+             Applicant                                Network                                             Status
+                                                                                   Identification Code
+    Monaco Telecom                  Monaco Telecom                                      +882 49          Returned
+
+
+__________
+
+See page 5 of the present Operational Bulletin No. 1336 of 15.III.2026.
+
+
+
+
+          Mobile Network Codes (MNC) for the international identification plan
+                         for public networks and subscriptions
+                 (According to Recommendation ITU-T E.212 (09/2016))
+                            (Position on 15 November 2023)
+                               Annex to ITU Operational Bulletin No. 1280 – 15.XI.2023
+                                                Amendment No. 52
+
+
+ Country / Geographical area
+ MCC + MNC                         Operator / Network
+ Switzerland ADD
+ 228 76                            1GLOBAL Operations (Switzerland) GmbH
+ International Mobile, shared code SUP
+ 901 27                            Monaco Telecom
+ International Mobile, shared code ADD
+ 901 29                            Myriota PTY
+ 901 70                            Bureau 1440 LLC
+
+
+____________
+MCC: Mobile Country Code
+MNC: Mobile Network Code
+
+
+
+
+                                 List of ITU Carrier Codes
+                 (According to Recommendation ITU-T M.1400 (03/2013))
+                             (Position on 15 September 2014)
+                             Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014
+                                             Amendment No. 202
+
+
+ Country or area/ISO code                             Company Code           Contact
+ Company Name/Address                                 (carrier code)
+
+
+
+
+Germany (Federal Republic of) / DEU          ADD
+
+
+
+ Moderne Kommunikationstechnologie                        MKTH               Mr Andreas Nauroth
+ Hohentengen Gesellschaft mit beschränkter                                   Tel.:   +49 7742 853 85
+ Haftung                                                                     Fax:    +49 7742 853 15
+ Kirchstraße 4                                                               E-mail: a.nauroth@hohentengen-ah.de
+ 79801 HOHENTENGEN AM HOCHRHEIN
+
+
+
+ newsim GmbH                                            NEWSIM               Ms Martina Palmovski
+ Wehrdaer Straße 12                                                          Tel.:   +49 6421 620 36116
+ 35041 MARBURG                                                               Fax:    +49 6421 690 230
+                                                                             E-mail: palmovski@newsim.de
+
+
+
+
+                         List of International Signalling Point Codes (ISPC)
+                      (According to Recommendation ITU-T Q.708 (03/1999))
+                                      (Position on 01 July 2024)
+                                   Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024
+                                                    Amendment No. 33
+
+
+ Country / Geographical area            Unique name of the signalling point           Name of the signalling point operator
+ ISPC               DEC
+ Estonia ADD
+ 2-199-1            5689                HBMIT                                         HBM IT INFRASTRUCTURE
+
+
+____________
+ISPC:   International Signalling Point Codes.
+
+
+
+
+                                     National Numbering Plan
+                      (According to Recommendation ITU-T E.129 (01/2013))
+                                                  See URL: www.itu.int/itu-t/nnp
+
+
+Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on
+their webpage concerning the national numbering plan as well as their contact points, so that the information, which
+will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
+For their numbering website, or when sending their information to ITU/TSB (e-mail: tsbtson@itu.int), administrations
+are kindly requested to use the format as explained in Recommendation ITU-T E.129. They are reminded that they will
+be responsible for the timely update of this information.
+From 15.II.2026, the following countries/geographical areas have updated their national numbering plan on our site:
+
+
+                              Country/ Geographical area                           Country Code (CC)
+                     Mongolia                                                            +976
+                     Suriname                                                            +597
+
+
+
+
