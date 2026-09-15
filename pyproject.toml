@@ -5,7 +5,7 @@ build-backend = "uv_build"
 
 [project]
 name = "mcc-mnc-p1"
-version = "1.0.1"
+version = "1.1.0"
 description = "A set of lookup tables for identifiers related to mobile operators and accompanying command-line tools"
 readme = "README.md"
 license = "AGPL-3.0-or-later"
@@ -13,10 +13,11 @@ license-files = ["LICENSE"]
 keywords = ["MCC MNC", "MCC", "MNC", "MSISDN", "ISPC", "country code"]
 requires-python = ">=3.6"
 authors = [
-    {name = "Benoit Michau"},
+    {name = "Benoit Michau"}
 ]
 maintainers = [
-    {name = "Marin Moulinier"}
+    {name = "Marin Moulinier"},
+    {name = "Rémy Cheverry"}
 ]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
